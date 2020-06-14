@@ -1,0 +1,528 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700&display=swap');
+
+:root {
+  --color-red-back: #D63185;
+  --color-red-font: #CE0A6C;
+  --color-blue-back: #2ea8f4;
+  --color-blue-font: #6ac0fd;
+  --color-blue-link: #1598ea;
+  --color-yellow-back: #FCF119;
+  --color-yellow-font: #F2ED33;
+  --color-grey-back: #F2F2F2;
+}
+
+
+
+html, body, h1, h2, h3, h4, h5, p, ul, ol {
+  margin: 0;
+  padding: 0;
+  overscroll-behavior-x: none;
+}
+
+html {
+  background-color: var(--color-red-back);
+}
+
+body {
+  min-width: 350px;
+  min-height: 100vh;
+  font-size: 1.1em;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.4;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  font-size: 0.9em;
+}
+
+.small {
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-width: 380px;
+  height: 60px;
+  position: fixed;
+  z-index: 100;
+  background-color: var(--color-red-back);
+  border-bottom: 8px solid var(--color-blue-back);
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--color-blue-font);
+  font-size: 1.55em;
+  font-weight: 700;
+  letter-spacing: 1.02;
+}
+
+.small span {
+  color: #F2ED33;
+  margin-left: 6px;
+}
+
+.small a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 16px;
+  letter-spacing: 1;
+  font-weight: 600;
+  color: black;
+  padding-left: 20px;
+}
+
+.small img {
+  width: 31px;
+  height: auto;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+
+.small div:nth-child(1) {
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.small div:nth-child(2) {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px 0px 0px 20px;
+  max-height: 30px;
+}
+
+.sticky .small {
+  display: flex;
+}
+
+.result .small { 
+  border-bottom: 8px solid var(--color-yellow-back);
+}
+
+@media only screen and (max-width: 600px) {
+  .small {
+    font-size: 1.2em;
+    letter-spacing: 1;
+    justify-content: center;
+  }
+  .small div:nth-child(1) {
+    padding-left: 0px;
+  }
+  .small div:nth-child(2) {
+    display: none;
+  }
+}
+
+
+
+.head {
+  width: 100%;
+}
+
+.title {
+  padding: 30px 0;
+  background-color: var(--color-red-back);
+  border-bottom: 8px solid var(--color-blue-back);
+}
+
+.result .title {
+  border-bottom: 8px solid var(--color-yellow-back);
+}
+
+.title > h1 {
+  color: var(--color-blue-font);
+  font-size: 3em;
+  text-align: center;
+  line-height: 1.05em;
+  padding-bottom: 15px;
+}
+
+.title > h1 > span {
+  color: #F2ED33;
+}
+
+.title > h2 {
+  color: #F2ED33;
+  font-size: 1.3em;
+  font-weight: 100;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0 20px 15px 20px;
+}
+
+.title > h3 {
+  color: var(--color-blue-font);
+  font-size: 1em;
+  font-weight: 600;
+  text-align: center;
+  padding: 0 40px;
+}
+
+.title > h3 > a {
+  color: var(--color-yellow-font);
+  text-decoration: none
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    padding: 25px 0 25px 0;
+  }
+  .title > h1 {
+    font-size: 2.3em;
+    line-height: 1.1em;
+  }
+  .title > h2 {
+    font-size: 1.0em;
+  }
+  .title > h2 > br, .title > h3 > br {
+    display: none;
+  }
+  .title > h3 {
+    padding: 0 10px;
+  }
+}
+
+
+
+.twitter {
+  top: 0px;
+  right: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.banner {
+  top: 45px;
+  right: -130px;
+  width: 400px;
+  height: 40px;
+  position: absolute;
+  transform: rotate(45deg);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  white-space: nowrap;
+  font-weight: 700;
+  overflow: hidden;
+}
+
+.banner > a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 17px !important;
+  font-weight: 700;
+  color: black;
+}
+
+.banner > a > img {
+  width: 32px;
+  height: auto;
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .banner {
+    display: none;
+  }
+}
+
+
+
+.search {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  padding: 12px 0px;
+  display: flex;
+  flex-direction: row;
+  background-color: var(--color-red-back);
+  border-top: 8px solid var(--color-blue-back);
+}
+
+.result .search {
+  border-top: 8px solid var(--color-yellow-back);
+}
+
+.search > input {
+  width: 100%;
+  height: 33px;
+  margin: 0 20px;
+  padding-left: 20px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  font-size: 1em;
+  font-family: 'Raleway', sans-serif;
+}
+
+.search span {
+  margin-top: 2px;
+  margin-right: 15px;
+  cursor: pointer;
+  width: 27px;
+}
+
+.search span > img {
+  height: 27px;
+}
+
+.search span:last-child {
+  margin-right: 25px;
+  height: 27px;
+}
+
+.search > input::placeholder {
+  opacity: 0.5;
+}
+
+
+
+.result .legal {
+  display: none;
+}
+
+.legal {
+  background-color: var(--color-red-back);
+  border-top: 8px solid var(--color-blue-back);
+  display: flex;
+  justify-content: center;
+  padding: 50px 40px 120px 40px;
+}
+
+.legal > .about {
+  max-width: 700px;
+}
+
+.about > h1 {
+  color: var(--color-yellow-font);
+}
+
+.about > p {
+  color: var(--color-blue-font);
+  font-size: 1em;
+  font-weight: 600;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.about > p > a {
+  color: var(--color-yellow-font);
+  text-decoration: none;
+}
+
+
+
+.body {
+  display: flex;
+  justify-content: center;
+  padding: 0 40px;
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+@media only screen and (max-width: 600px) {
+  .body {
+    padding: 0 15px;
+  }
+}
+
+.result .body {
+  margin-top: 30px;
+  margin-bottom: 120px;
+}
+
+.result .main > *, .result .main li {
+  margin-top: 70px !important;
+  margin-bottom: 0px !important;
+  position: relative;
+}
+
+.result .main li {
+  margin-top: 80px !important;
+}
+
+.result .main .count {
+  position: absolute;
+  top: -50px;
+  left: 10px;
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--color-red-font);
+  display: flex;
+  align-items: center;
+}
+
+.result .main ul, .result .main ol {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.result .main li .count {
+  top: -60px;
+  left: -25px;
+}
+
+.empty .main:after {
+  margin-top: 60px;
+  display: flex;
+  content: "Nichts gefunden ...";
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--color-red-font);
+}
+
+.body > .main {
+  width: 100%;
+  max-width: 700px;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+.body .selected {
+  background-color: var(--color-yellow-back);
+  border-radius: 10px;
+}
+
+.body .hidden {
+  display: none;
+}
+
+.body .image {
+  display: flex;
+  width: 200px;
+  height: 150px;
+  background-color: var(--color-grey-back);
+  align-items: center;
+  justify-content: center;
+}
+
+.body .added, .body .changed, .body .removed {
+  color: var(--color-red-font);
+}
+
+.main > * {
+  padding: 8px 10px;
+}
+
+.main > *:nth-child(2) {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.main > *:nth-child(3) {
+  margin-bottom: 15px;
+}
+
+.main > hr {
+  height: 15px;
+  margin: 40px 0 40px 0;
+  padding: 0;
+  border: none;
+  background-color: var(--color-grey-back);
+  border-radius: 10px !important;
+}
+
+.main > h1 {
+  font-size: 1.6em;
+  margin-top: 20px;
+  line-height: 1.2em;
+  font-weight: 700;
+}
+
+.main > h2 {
+  font-size: 1.3em;
+  line-height: 1.2em;
+  margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  .main > h1 > br, .main > h2 > br, .main > h3 > br, .main > h4 > br, .main > h5 > br, .main > h6 > br {
+    display: none;
+  }
+}
+
+
+.main > h3, h4, h5 {
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+.main > blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.main > p > em {
+  font-weight: 600;
+  font-style: italic;
+  font-size: 1.05em;
+}
+
+.main > ul, .main > ol {
+  padding-left: 35px;
+}
+
+.main > ul:empty, .main > ol:empty {
+  display: none;
+}
+
+.main > ul > li, .main > ol > li {
+  padding-left: 10px;
+}
+
+.main > ul > li:not(:last-child), .main > ol > li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.main li {
+
+}
+
+.main a {
+  color: var(--color-blue-link);
+  text-decoration: none;
+}
+
+.main .footnote {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.main .sup {
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--color-red-font);
+  display: flex inline;
+  align-item: center;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.main .selected .sup {
+  background: none;
+}
+
+.main table th, .main table td {
+  text-align: left;
+  vertical-align: top;
+  margin-bottom: 20px;
+}
+
+.main table th {
+  text-align: left;
+  padding-bottom: 20px;
+}

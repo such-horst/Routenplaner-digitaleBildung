@@ -1,0 +1,3191 @@
+# Routenplaner #digitaleBildung
+
+## Auf dem Weg zu zeitgemäßer Bildung.<br/>Eine Orientierungshilfe im digitalen Wandel.
+
+*von Axel Krommer, Martin Lindner, Dejan Mihajlović, Jöran Muuß-Merholz, Philippe Wampfler, mit Beiträgen von Lisa Rosa und Kathrin Passig*
+
+Hamburg 2019, Internet 2020
+
+
+---
+
+
+## Stimmen zum Buch
+
+"Die Autoren gehören zur Spitze der Vordenker in Deutschland, wie zeitgemäße Bildung aussehen kann. Kurzweilig und nah an der Praxis können sie perfekt aufzeigen, warum Digitalisierung nicht 'Fluch' oder 'Segen' ist, sondern ein Paradigmenwechsel, auf den man gut pragmatisch reagieren kann. Ein wichtiger Wegweiser zu einer der wichtigsten Fragen unserer Zeit und unverzichtbar für alle, die sich für Bildung oder für Menschen interessieren."
+
+*Marina Weisband, Autorin und Expertin für digitale Bildung und Beteiligung*
+
+"Der digitale Geist ist aus der Flasche und wirbelt alles durcheinander. Der "digital turn" impliziert auch eine neue Herangehensweise beim Thema Bildung. Den Autoren gelingt es anschaulich und kompetent, teilweise auch unterhaltsam, den Leser zu einem Verständnis digitaler Technologien zu führen. Denn Digitalisierung ist mehr als die Umwandlung von analogen in digitale Formate. Als Bayerische und deutschlandweit erste Staatsministerin für Digitales kann ich Sie nur ermuntern: Trauen Sie sich, gestalten Sie mit! Nach der Lektüre dieses Buchs gelingt Ihnen das ein Stück weit qualifizierter. Und Sie verstehen, warum die Autoren das Internet ausgedruckt haben."
+
+*Judith Gerlach, MdL, Bayerische Staatsministerin für Digitales*
+
+"Es ändert sich das Mensch-Maschine-Verhältnis. Wohin? Die Evolution des soziokulturellen Nervensystems bekommt neuen Stoff. "Stoff?" Es bildet sich eine andere soziokulturelle Grammatik. Aber wir sprechen darüber zumeist in alten Semantiken. "Die Digitalisierung" wird dabei zum Fetisch. Der Routenplaner lädt zu Expeditionen ein. Es geht zu Schauplätzen und Debatten dieser veränderten "Bildung". Bildung der ganzen Gesellschaft und Bildung eines jeden Individuums. Im Routenplaner finden sich grammatische und semantische Versuche. Muss man lesen!"
+
+*Reinhard Kahl, Journalist, Autor, Filmemacher, Netzwerker*
+
+"Ist den Vordenkern im Bereich des Digitalen nun ihr genialster Coup gelungen, indem sie ihre bislang nur online verfügbaren Texte zu aktuellen Bildungsfragen in Printform veröffentlichen? Erhöht die Lektüre dieses Buches womöglich die Bereitschaft der Masse an Akteuren im Bildungsbereich, notwendige Veränderungsprozesse in den Bereichen des Lehrens und Lernens aktiv mit zu gestalten? Man darf gespannt sein.
+
+Deutlich wird mit der Veröffentlichung dieses Buches mit Sicherheit eines: Digitales und Analoges stehen sich im Bildungsbereich nicht gegenüber. Das Digitale durchdringt vielmehr bestehende kulturelle Praktiken. In der Bildung sollten entsprechende Veränderungen verstärkt in den Blick genommen werden. Demnach ist Digitalisierung kein reines Instrument, um bestehende Ziele im Unterricht besser und schneller zu erreichen. Vielmehr entstehen unter den Bedingungen von Digitalisierung und Digitalität völlig neue Zieldimensionen, die im Idealfall gesellschaftlich und individuell bedeutsam sind.
+
+Ob man zu dieser Einsicht nun über die Lektüre analoger oder digitaler Formate gelangt, ist sekundär, solange sie dazu beiträgt, dass Transformationsprozesse gemeinsam in Angriff genommen werden."
+
+*Uta Hauck-Thum, Professorin für Grundschulpädagogik und -didaktik, Ludwig-Maximilians-Universität München*
+
+"Das Buch ist eine Einladung an Schulleitungen, die eine Orientierung an die Hand bekommen. Das Buch ermutigt zum (Nach-)Denken und geht über die simplen Thesen von Manfred Spitzer und anderen hinaus. Die Debatten, die an so vielen Orten im Internet stattfinden, werden mit dem Buch in die analoge Welt übertragen."
+
+*PD Dr. Markus Deimann, digital affiner und avantgardistischer Bildungswissenschaftler*
+
+"Man soll ja nicht das Internet auszudrucken versuchen. Aber die hier versammelten Texte sind es wert, gelesen zu werden. Gut, dass sie schon jemand für Sie zusammengestellt und gebunden hat. So bleibt Ihnen mehr Zeit fürs Planen ihrer eigenen Reise durch Digitalien!"
+
+*Prof. Dr. Beat Döbeli Honegger, Autor von "Mehr als 0 und 1: Schule in einer digitalisierten Welt"*
+
+
+---
+
+
+# Widmung
+
+Für Horst.
+
+
+---
+
+
+# Warum wir das Internet ausdrucken - <br/>ein Vorwort
+
+*Axel Krommer, Martin Lindner, Dejan Mihajlović, Jöran Muuß-Merholz, Philippe Wampfler*
+
+## Von den Blogs ins Netz
+
+Wir, die Autoren dieses Bandes, kennen uns aus dem Netz. Genauer: In Gesprächen auf Twitter und in Blogs haben wir uns kennengelernt, diese Bekanntschaft in einigen Treffen auf Tagungen, Barcamps und Messen vertieft.
+
+Uns beschäftigen ähnliche Themen: Wir denken darüber nach, was das Netz und der digitale Wandel für Bildung und Gesellschaft bedeuten. Lernen, Schule und Unterricht betrachten wir aus einer Entwicklungsperspektive. Wir fragen uns, was der Einsatz von bestimmten Medien und Technologien möglich macht, was er verstärkt, was er erleichtert oder wo er Prozesse behindert. Was gesellschaftlich erstrebenswert oder bedenklich sein könnte.
+
+Darüber diskutieren wir offen und transparent im Netz. Unsere Einsichten und Ansichten halten wir schriftlich oder als Ton- und Videoaufnahmen in Blogs und in sozialen Netzwerken fest. Damit erreichen wir ein spezifisches Publikum: Diejenigen Menschen, die sich im Netz bewegen oder den Weg dorthin suchen und finden.
+
+Aber die meisten Lehrerinnen, Dozenten und Schulleitungen lesen im Netz nicht mit. Gleichwohl führen sie ähnliche Diskussionen. Für sie überführen wir unsere Arbeiten in ein Buchformat - wir drucken sozusagen das Internet aus. Wir buchifizieren unsere Blogs. Diese Übertragung ist nicht ganz einfach: Die Texte sind ursprünglich als Netztexte konzipiert, arbeiten mit Verlinkungen, Einbettungen und netzspezifischen Kontexten. In diesem Band haben wir diese Eigenschaften von Netztexten versucht abzubilden - mussten dabei aber eine Reihe von Abstrichen machen.
+
+Hinzu kommt, dass das Internet bunt und vielfältig ist. Unsere, z.B. rein männliche, Zusammensetzung ist es nicht. Wir sind uns bewusst, dass viele Blickwinkel in diesem Band fehlen. Wir schreiben nicht aus der Perspektive von Lernenden oder Marginalisierten. Das ist ein Defizit, das wir in Kauf nehmen.
+
+Die Idee hinter dem Buch ist eine pragmatische: Wir möchten unsere Netz-Texte auch für Offline-Debatten verfügbar machen, um Perspektiven und Gedanken einzubringen, die bisher weniger auf Papier gedruckt wurden. Das gilt auch für den Sonderfall des akademischen Diskurses in Deutschland. Denn viele Wissenschaftler(innen), die selbst an den relevanten Online-Debatten nicht teilnehmen, halten "Texte aus dem Internet" prinzipiell für minderwertig und unbedeutend. Mit unserem Buch transferieren wir unsere Argumente auch in die Welt dieser Wissenschaftler(innen) und es wird sich zeigen, welche Wirkung sie dort entfalten.
+
+## Ein Gegengewicht in einem einseitigen und vereinfachten Diskurs
+
+Wir haben den Eindruck, dass in Deutschland eine skeptische Haltung gegenüber digitalen Medien dominiert - besonders, wenn es um Fragen des schulischen Lernens geht. Argumente, die Zusammenhänge unzulässig vereinfachen oder eingeschränkte Perspektiven auf Bildung, Lernen und digitale Kommunikation einnehmen, erhalten in Medien, Bildungspolitik und Lehrerzimmern aus unserer Sicht zu viel Beachtung. Besonders die Vorstellung, Lernen sei ein von Medien unabhängiger Prozess, ist stark verbreitet. Generell ist eine bewahrpädagogische Stimmung auszumachen: Digitales wird pauschal als Bedrohung wichtiger Kulturtechniken dargestellt, Lernen und Arbeiten mit digitalen Medien als minderwertig angesehen. Diese Stimmung verstellt den Blick auf die relevante Frage, wie Menschen die digitale Transformation mitgestalten können.
+
+Weil wir die Wahrnehmung der Diskussion in der Öffentlichkeit für einseitig halten, bieten wir mit unserem Ansatz, Entwicklungen und Medienwandel kritisch, aber aufgeschlossen zu diskutieren, ein reflektiertes Gegengewicht zu den vorherrschenden Warnungen und Mahnungen an. Gleichzeitig sehen wir uns nicht als "Digital-Euphoriker" (Die ZEIT<a href="#footnote1" class="footnote">1</a>) oder "fröhliche Technokraten" (FAZ<a href="#footnote2" class="footnote">2</a>). Wir kritisieren die Position der "Nike-Didaktik", die das Credo "Just do it!" auf dem Schild trägt und alleine im Einsatz von digitalen Medien einen Fortschritt wähnt.
+
+Entscheidend ist für uns, dass es nicht nur eine warnende, mahnende und bewahrende Position gibt, sondern auch eine aufgeschlossene und fordernde, die gleichzeitig nicht von Euphorie und Positivismus getrieben sein muss. Für uns stehen konkrete Phänomene im Mittelpunkt, nicht ihre Bewertung. Wie funktioniert Lernen, wenn es das Netz gibt? Welche Kompetenzen sind erforderlich, um im 21. Jahrhundert mündig zu leben? Dafür bieten wir Visionen an und machen Vorschläge, wie eine neue Lernkultur entstehen könnte, und wir versuchen aufzuzeigen, welche Sackgassen es zu vermeiden gilt.
+
+## Warum das Buch (trotzdem) "#digitaleBildung" heißt
+
+Der Ausdruck "Digitale Bildung", der im Buchtitel vorkommt, bedarf einer Erklärung und Rechtfertigung, da er leicht missverstanden werden kann. Denn wenn von "digitaler Bildung" (als Hashtag im Netz: #digitaleBildung) gesprochen wird, könnte man annehmen, dass das Digitale nur eine Art Zusatz wäre, der das Konzept von Bildung nicht wesentlich verändern würde. "Lernen bleibt Lernen!", rufen die Anhänger dieser These und gehen dann auf die Suche nach dem Mehrwert digitaler Werkzeuge, mit denen sie Lernprozesse optimieren wollen. Im Web haben wir daher für unsere Diskussionen ganz bewusst den Ausdruck "zeitgemäße Bildung" verwendet, um uns von dieser Fehlkonzeption terminologisch abzugrenzen und zu verdeutlichen, dass Bildung unter Bedingungen der Digitalität einen grundlegenden Wandel auf vielen gesellschaftlichen Ebenen impliziert. Gleichwohl bestimmt der Ausdruck "digitale Bildung" weiterhin den Mainstream des öffentlichen Diskurses und der Begriff "zeitgemäße Bildung" ist außerhalb einer kleinen Online-Community relativ wirkungslos geblieben. Die Entscheidung, den irreführenden Begriff "digitale Bildung" als Buchtitel zu verwenden, ist daher strategisch zu verstehen: Wir wollen den Vereinfachern und Zuspitzern nicht das Feld überlassen, schließen an relevante gesellschaftliche Debatten an und versuchen, ein Verständnis von Bildung zu vermitteln, das letztlich die Fragwürdigkeit des Begriffes verdeutlicht.
+
+## Angebot und Anfang - analog und digital
+
+Mit diesem Buch machen wir Ihnen das Angebot, in verschiedene Bereiche der aktuellen Diskussion einzutauchen und neue Argumentationen kennenzulernen. Das Buch ist ein Sammelband. Die Aufteilung und Reihenfolge der Texte ist ein sehr unverbindlicher Vorschlag für die Auswahl und Reihenfolge beim Lesen. Von jedem Text aus können Verbindungslinien zu anderen Texten gezogen werden. Mit welchem Text Sie die Lektüre beginnen, ist genauso Ihnen überlassen, wie die Entscheidung, wie Sie sich in der Diskussion über zeitgemäße Bildung positionieren.
+
+Wenn es uns gelingen sollte, Menschen anzuregen, einen Blick ins Netz zu werfen, sich dort länger umzuschauen oder sogar niederzulassen, wäre auch unser letztes Ziel mit dem Buch erreicht. Im Netz finden Gespräche an verschiedenen Orten statt. Für uns uns sind das vor allem Twitter und Blogs. Sie werden über gemeinsame Schlagworte, die Hashtags, untereinander verbunden. Wir haben für dieses Buch den Hashtag #digitaleBildung gewählt. Wenn Sie also ins Netz gehen sollten, suchen Sie bei Twitter zum Beispiel nach dem Schlagwort #digitaleBildung oder auch nach #twittterlehrerzimmer oder nach #zeitgemäßeBildung. Falls es nicht nur allgemein um das Themenfeld, sondern direkt um dieses Buch geht, schlagen wir den Hashtag #RoutenplanerBuch vor, den wir als Autoren besonders im Augen haben. Wir freuen uns auf ein Gespräch!
+
+## Kathrin Passig und Lisa Rosa
+
+Ein besonderer Dank geht an Kathrin Passig und Lisa Rosa. Auch sie sind im Netz zu Hause und gehören zu denjenigen, die den digitalen Wandel tiefgehend verstehen und analysieren. Sie sind Pionierinnen des deutschsprachigen Webs. Dass wir von beiden einen Text für dieses Buch übernehmen durften, ist uns eine Ehre.
+
+## Quellenangaben
+
+Wir haben uns bei den Quellenangaben an zwei einfachen Prinzipien orientiert: Zum einen sollen die Angaben vollständig sein, damit jede Leserin und jeder Leser rasch alle genutzten Dokumente im Original finden kann. Zum anderen soll der der Lesefluss nicht unnötig gestört werden. Aus diesem Grund haben wir - bis auf wenige Ausnahmen - diejenigen Links, die man im Netz anklicken kann, im Buch in den Fußnoten platziert. Auf der Webseite zum Buch routenplaner-digitale-bildung.de sind alle Quellenangaben dann noch einmal verfügbar und alle Online-Texte verlinkt.
+
+Unter jedem Beitrag finden Sie außerdem Empfehlungen zum Weiterlesen, die Ihnen das Finden eines individuellen Pfades durch das Netzwerk des Buches erleichtern sollen.
+
+*Google Docs, April 2019, die Autoren*
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 1: Eine der seltenen Besprechungen im Autorenteam, online als Google Hangout | kein urheberrechtlicher Schutzanspruch*
+
+
+---
+
+
+# Teil I — Grundsätze und Plädoyers
+
+
+---
+
+
+# Neue Technologien, alte Reflexe
+
+*Kathrin Passig*
+
+## I. Die Gegenwart verstehen
+
+Im folgenden Text geht es um die Fehler, die wir selbst immer wieder machen, wenn wir Veränderungen im Alltag erkennen, beurteilen und mit ihnen klarkommen sollen. Ich werde versuchen, zu erklären, wie man möglichst nichts über die Zukunft sagt, das einem später leid tut - in den meisten Fällen gar nicht so viel später. Eigentlich geht es weniger um Vorhersagen als darum, die Gegenwart zu verstehen.
+
+Michael Bukowski schreibt bei Twitter: "Kleine Näherung: 75% der Leute leben heute gedanklich im 19. Jh., 20% im 20. Jh. und der Rest jetzt."<a href="#footnote3" class="footnote">3</a>
+
+Wir reden so viel über die Zukunft, dabei ist die Gegenwart schon unbekannt genug. Ich verdiene mein Geld normalerweise damit, bei Vorträgen nicht die Zukunft zu erklären und noch nicht mal die Gegenwart, sondern Veränderungen, die schon seit fünf bis zehn Jahren eingetreten sind. Dan Gardner beschreibt in seinem Buch "Future Babble: Why Expert Predictions Fail - and Why We Believe Them Anyway" (2010) eine "hartverdrahtete Abneigung gegen Ungewissheit", aber die meisten Probleme, vor denen wir im Zusammenhang mit Veränderungen stehen, haben gar nicht so viel mit Ungewissheit zu tun. Es ist ziemlich sicher - genaugenommen kaum zu übersehen - dass die ganzen Veränderungen, über die Berater und Forscher reden, schon da sind: das mobile Internet und seine Folgen, die allgemein gewachsene Mobilität, Coworkingspaces und der Wandel des Arbeitsplatzes, das Internet der Dinge, und so weiter. Die Gegenwart ist schon unbekannt genug. In den meisten Situationen braucht man keine Zukunftsvorhersagen. Man hat die Nase schon vorn, wenn man es schafft, als Privatperson oder als Firma nicht den Kontakt zur Gegenwart zu verlieren.
+
+Ich predige hier nicht der älteren Generation. Diese Probleme betreffen uns alle. Ich erinnere mich noch an den Tag, an dem mir ein Freund zum ersten Mal das Internet zeigte, genauer gesagt das WWW. Und was ich mir dabei dachte, war im Wesentlichen: gar nichts. Ich hab es mir angesehen und gedacht "Wird schon auch wieder so was wie BTX sein", also eine langweilige Erfindung für Vollblutnerds. Und damals war ich 23, es war also kein Problem meines hohen Alters.
+
+Es gibt einen tröstlichen Blogbeitrag von Kevin Kelly aus dem Jahr 2008 mit dem Titel "Digital Things I've Been Wrong About": 1990 hielt er Photoshop für einen Witz, Tintenstrahldrucker für nicht sehr aussichtsreich, Mitte der Neunziger das Spiel "Die Sims" für einen sicheren Flop, und seine Meinung über eBay war im Rückblick "so falsch, dass es nicht mal mehr lustig ist". Das kann jedem passieren. Wir können Fehleinschätzungen nicht vermeiden, aber wir können die häufigsten Fallstricke zu vermeiden versuchen.
+
+Manche von uns werden manchmal dafür bezahlt, die Experten zu sein. Häufiger sind wir nicht die Experten, müssen aber trotzdem irgendwie auf die Veränderungen um uns herum reagieren. Und bevor wir reagieren können, müssen wir erst einmal merken, dass sich da etwas ändert. Das ist gar nicht so einfach. Meistens arbeitet unser Kopf gegen uns. Aber weil der Kopf das immer wieder auf ähnliche Arten tut, müsste es möglich sein, wenigstens ein paar Anzeichen zu identifizieren, an denen man schlampige Argumente erkennt.
+
+2009 habe ich einen Artikel über falsche Vorhersagen geschrieben. Er heißt wie das Buch, in dem er Anfang 2013 abgedruckt wurde: "Standardsituationen der Technologiekritik". Es war ein leidlich lustiger Text, der bis heute oft zitiert wird. Leider ist er ganz falsch. Technikoptimisten mögen den Text, weil er Skeptiker blöd aussehen lässt. Es ist immer schön, wenn irgendwas andere Leute blöd aussehen lässt. Man kann sich ganz leicht über Vorhersagen im Allgemeinen lustig machen, und in diese Falle bin ich hineingetappt. Man findet jede Menge falscher Vorhersagen, und durch das Internet ist es noch leichter geworden. Aber dass es diese ganzen falschen Vorhersagen gibt, beweist an sich noch überhaupt nichts. Dan Gardner beschreibt, warum es so schwer ist, herauszufinden, welcher Anteil aller Vorhersagen falsch ist; die kurze Version seines Arguments geht so: Für Vorhersagen aus der Vergangenheit ist es schlicht unmöglich, weil man gar nicht weiß, wie groß die Gesamtmenge aller Vorhersagen war.
+
+Dass ich in dem Artikel nur Vorhersagen von Technikskeptikern zitiere, machte die Sache nicht besser. Ich wusste damals schlicht nicht, dass es auch ziemlich viele falsche Vorhersagen von Technikoptimisten gibt. Später habe ich ein Buch geschrieben, in dem ich den Fehler auszubessern versucht habe; "Internet - Segen oder Fluch" (Lobo/Passig 2012). Das Buch ist viel besser als der ursprüngliche Artikel - und auch viel weniger populär. Es ist leichter, viel zitiert zu werden, wenn man eine schöne prägnante Meinung hat.
+
+Bitte denken Sie also beim nächsten Teil des Textes daran, dass alles, was ich schreibe, falsch ist. Es ist immer noch einigermaßen lustig. Danach werde ich versuchen, die brauchbaren Teile zu retten und aus dem Material hoffentlich ein bisschen intelligentere Schlussfolgerungen zu ziehen als 2009.
+
+## II. Standardsituationen der Technologiekritik
+
+Die Reaktion auf technische Neuerungen folgt in Medien und im Privatleben immer wieder demselben Schema. Im Brockhaus von 1838 heißt es über die Eisenbahn:
+
+> "Bei Individuen, wie bei Körperschaften, ja ganzen Nationen, sind sich die Stadien der Erkenntniß aufs äußerste rasch gefolgt; Gleichgültigkeit, Ungläubigkeit, Widerstreben, Bedenken, Zugeben, Theilnehmen, eifriges Entbrennen, endlich phantastischer Schwindel waren die Phasen der Meinung hinsichtlich der Eisenbahnen, welche im Laufe kaum zweier Jahre ein großer Theil der Bewohner des gebildeten Europas durchgegangen ist."
+
+Heute heißt dasselbe Phänomen Hype Cycle. Ich kannte das Zitat noch nicht, als ich den ursprünglichen Text geschrieben habe, meine Phasen handeln nur vom Widerstand gegen das Neue und sehen ein bisschen anders aus als die im Brockhaus.
+
+### 1. Wozu soll das denn gut sein?
+
+Das erste, noch ganz reflexhafte Zusammenzucken ist das "What the hell is it good for?", mit dem der IBM-Ingenieur Robert Lloyd 1968 den Mikroprozessor willkommen hieß. Schon Praktiken und Techniken, die nur eine Variante des Bekannten darstellen - wie die elektrische Schreibmaschine als Nachfolgerin der mechanischen - stoßen in der Kulturkritikbranche auf Widerwillen. Noch schwerer haben es Neuerungen, die wie das Telefon oder das Internet ein weitgehend neues Feld eröffnen. Sie werden erst mal als nutzlos empfunden, weil man noch gar nicht versteht, wozu sie gut sein könnten, aber es ist auch Abneigung im Spiel, weil Veränderungen immer erhöhten Denkaufwand und Unbequemlichkeiten mit sich bringen.
+
+### 2. Wer will denn so was?
+
+Man hat schon eine Ahnung von der möglichen Funktion, kann sich aber noch nicht so richtig vorstellen, dass jemand bereit ist, die Unbequemlichkeiten auf sich zu nehmen, die dieses Neue mit sich bringt. US-Präsident Rutherford Hayes bekam 1876 eins der ersten Telefone gezeigt und sagte den vielzitierten Satz: "That's an amazing invention, but who would ever want to use one of them?" Das kleine Problem mit dieser Geschichte: Vermutlich ist sie nie passiert. Barack Obama hat sie 2012 zitiert und wurde daraufhin in der Presse verhöhnt, weil er auf eine Ente hereingefallen war. Weil ich nicht Obama bin, hat sich bei mir niemand beschwert. In den fünf Jahren seit Erscheinen des Artikels habe ich aber diverse andere Beispiele entdeckt für solche Zitate, die es nie gab. Das bekannteste stammt wohl von einem "Bayerischen Obermediziner-Kollegium", das angeblich 1838 verkündete, die schnelle Bewegung beim Zugfahren erzeuge eine Gehirnkrankheit. Es wird ständig zitiert, beinahe auch von mir; ich habe es in meinem Text nur nicht verwendet, weil es mir zu abgenutzt erschien, nicht weil ich Zweifel an seiner Authentizitität hatte. Allerdings gibt es keine Anzeichen dafür, dass das Dokument jemals existiert hat, und das liegt nicht daran, dass zu wenig danach gesucht worden wäre. Es handelt sich offenbar in erster Linie um ein Propaganda-Argument zum Diskreditieren von Skeptikern.
+
+### 3. Nur seltsame Gestalten oder privilegierte Minderheiten wollen das Neue.
+
+In den 90er Jahren hieß es vom Internet, es werde ausschließlich von weißen, überdurchschnittlich gebildeten Männern zwischen 18 und 45 genutzt. Und es hätte auch keine Chance, breitere Bevölkerungsschichten zu erreichen, weil Frauen - ich zitiere einen Artikel von Hanno Kühnert, der 1997 im Merkur erschien - "sich weniger für Computer interessieren und die unpersönliche Öde des Netzes scheuen. Im realen, nichtvirtuellen Leben sind Frauen aber die wichtigeren Käufer als Männer. Dem Internet fehlt daher eine maßgebende Käuferschicht." Titel des Artikels war: "Wenn das Internet sich nicht ändert, wird es zerfallen".
+
+Freizeitforscher Horst Opaschowski prophezeite 1996: "Der Multimediazug ins 21. Jahrhundert wird eher einem Geisterzug gleichen, in dem sich ein paar Nintendo- und SegaKids geradezu verlieren, während die Masse der Konsumenten nach wie vor 'voll auf das TV-Programm abfährt'." Schon ab den frühen 90er Jahren wurde regelmäßig darauf hingewiesen, dass insbesondere Terroristen, Nazis sowie Pornographiehersteller und -konsumenten sich des Internets bedienten.
+
+### 4. Vielleicht geht es wieder weg.
+
+Einige Zeit später ist nicht mehr zu leugnen, dass das neue Ding sich einer gewissen Akzeptanz nicht nur unter Verbrechern und Randgruppen erfreut. Aber vielleicht geht es ja auch einfach wieder weg, wenn man die Augen fest genug zukneift. Das Auto galt als Mode, Charlie Chaplin hielt 1916 das Kino für eine Mode, Edison verkündete 1922, "Die Radiobegeisterung wird sich auch wieder legen". Und ich zitiere im Originalartikel eine schwedische Ministerin, Ines Uusmann, mit den Worten "Das Internet ist eine Mode, die vielleicht wieder vorbeigeht.". Leider hat sie auch das vermutlich nie gesagt.
+
+Natürlich verschwindet hin und wieder irgendwas tatsächlich wieder. Aber wenn eine Neuerung erst mal so weit ist, dass Zeitungen ihr sorgenvolle Artikel widmen, dann hat sie sich schon so weit festgesetzt, dass das nicht mehr passieren wird. Ein Beispiel aus letzter Zeit sind die zahlreichen Artikel und dankbar aufgegriffenen Indizien dafür, sich Leute wieder von Facebook abwenden. Es reicht ja, wenn ein Journalist jemanden kennt, der letzte Woche nicht ganz so viel bei Facebook war wie vorher, dann kann man daraus schon die große "Facebook - der Hype ist vorbei"-Geschichte konstruieren. Das Problem: es geht ja nicht weg zugunsten des vorigen Zustands. Vielleicht verschwinden Auto, Radio, Kino und Internet eines Tages wieder, aber bestimmt nicht zugunsten von Pferd und Buch. Wenn Facebook eines Tages aus der Mode kommt - was sicher passieren wird -, dann wird es durch etwas abgelöst, was aus der Sicht der heutigen Facebookkritiker noch viel grässlicher ist.
+
+### 5. Dadurch ändert sich gar nichts
+
+Na gut, das Neue geht also nicht wieder weg, aber reagieren muss man deshalb noch lange nicht. Man leugnet nicht mehr die Existenz, sondern stattdessen die Auswirkungen: "Täuschen Sie sich nicht, durch [das Maschinengewehr] wird sich absolut nichts ändern", wie der französische Generalstabschef im Jahr 1920 vor dem Parlament versicherte, oder "Das Internet wird die Politik nicht verändern" (taz 2000). Das gibt es in verschiedenen Varianten:
+
+#### 5a. Es ist nur ein Spielzeug
+
+Wahrscheinlich ist das Neue nur eine Spielerei ohne praktische Relevanz. Lord Kitchener sagte 1917 über die ersten Panzer, sie seien "a pretty mechanical toy". Ich habe das Argument leider schon selber im Zusammenhang mit 3D-Druck verwendet: Ich beschwere mich seit Jahren über die langweiligen Produkte, die dabei herauskommen, weil es immer nur gedruckte Spielsachen sind. Aber ein gutes Argument ist das nicht.
+
+#### 5b. Damit ist kein Geld zu verdienen
+
+Der Flugpionier Octave Chanute erklärte 1904, das Flugzeug sei ein reines Sportgerät ohne kommerziellen Nutzen.
+
+#### 5c. Die Nutzer haben einander nichts mitzuteilen.
+
+Henry David Thoreau schrieb 1854: "Wir beeilen uns stark, einen magnetischen Telegraphen zwischen Maine und Texas zu konstruieren, aber Maine und Texas haben möglicherweise gar nichts Wichtiges miteinander zu besprechen." Denselben Vorwurf mussten sich Telefon und Internet gefallen lassen. Über das Telefon habe ich ihn selbst noch von meinen Eltern gehört. Und natürlich ist das Argument ständig auf das Internet angewendet worden. Der Dortmunder Kommunikationswissenschaftler Claus Eurich schrieb 1998 in "Mythos Multimedia": "Das so viel gerühmte Internet steht exemplarisch und herausragend dafür, wie eine grenzenlose Öffnung informationstechnischer Kanäle, neben einer unbestrittenen Zahl anspruchsvoller Informationen, zu einer Flut von inhaltslosem Wortlärm führt". Erst 2007 stand dasselbe wieder in Andrew Keens Buch "The Cult of the Amateur" (deutsch "Die Stunde der Stümper" 2008), in dem von "Millionen und Abermillionen enthusiastischer Affen" die Rede war, die einen "endlosen digitalen Dschungel der Mittelmäßigkeit" hervorbringen. Und im selben Jahr vertrat Henryk M. Broder im Tagesspiegel die Meinung, das Internet sei "maßgeblich für die Infantilisierung und Idiotisierung der Öffentlichkeit verantwortlich".
+
+Etwas später ist nicht mehr zu leugnen, dass das Neue sich weiter Verbreitung erfreut, keine Anstalten macht, wieder zu verschwinden, und sogar kommerziell einigermaßen erfolgreich ist. Es ist also im Prinzip ganz gut, aber, so Vorwurf Nummer 6, nicht gut genug.
+
+### 6. Das Neue ist nicht gut genug
+
+Es ist zum Beispiel teuer und - das ist ein fester Bestandteil dieses Arguments - wird nur noch teurer werden. Der schon zitierte Hanno Kühnert: "Wer das Internet regelmäßig nutzt, hat also trotz der preiswerten Verbindungen eine spürbar erhöhte Telefonrechnung. Die Kosten für den einzelnen User werden weiter steigen." Meine Telefonrechnung in den Neunzigern war so hoch, dass es billiger war, ein Büro und eine Standleitung mit Freunden zu teilen. Anders als von Kühnert vorhergesagt, ist mein Internetzugang seitdem immer billiger geworden.
+
+Ähnlich verhielt es sich mit den Vorhersagen aus den Neunzigern, das Internet sei jetzt schon zu langsam und würde nur noch langsamer werden. Außerdem würde man mit Suchmaschinen schon bald überhaupt nichts mehr finden können. Wieder Kühnert im Jahr 1996: "Eine dieser [Such-]Maschinen antwortete auf die Frage nach dem Wort 'Internet' mit 1881 Antworten. Bei der hundertzwanzigsten Auskunft mochte ich nicht mehr herumklicken." Er ging davon aus, dass es genauso weitergehen würde, bis man mit "über 2000 Antworten" konfrontiert sei. Das alles war vor Google, und sobald Google das Problem gelöst hatte, beschwerte man sich stattdessen über andere Suchmaschinenprobleme. Eventuell gab es zwischen 1998 und 2000 etwas weniger Beschwerden.
+
+Die Innovation ist außerdem überkompliziert und anfällig: In einem Leitartikel in der London Times von 1895 hieß es, es sei "extremely doubtful", dass das Stethoskop jemals weite Verbreitung finden werde, denn sein Einsatz sei zeitraubend und verursache "a good bit of trouble". Das ist gleichzeitig ein Beispiel dafür, dass hinter irrationalen Argumenten oft gute Gründe stehen; darauf komme ich später noch einmal zurück. Die Ärzte waren nicht dumm. Sie versuchten nur, eine rational klingende Begründung für etwas zu finden, was ihnen ihr Gefühl mitteilte. Und in diesem Fall wissen wir auch, was das war: Diagnoseinstrumente waren im 19. Jahrhundert verpönt, damit sah man als Arzt aus wie ein Ingenieur oder ein Bader. Ein richtiger Arzt diagnostizierte eine Krankheit mit Hilfe seiner Fachkompetenz, nicht mit Hilfe von Gerätschaften. Es war ein Statusproblem, und deshalb griffen die Ärzte zum nächstbesten Ausweichargument, um das neue Ding nicht benutzen zu müssen.
+
+Und schließlich ist das Neue nicht hundertprozentig zuverlässig. Der Volkskundler Martin Scharfe hat in seinem Buch "Wegzeiger" Berichte und Karikaturen aus der Frühzeit des Wegweisers zusammengetragen, in denen Wegzeiger mit unleserlichen, zerbrochenen, in die falsche Richtung weisenden oder heruntergefallenen Armen eine tragende Rolle spielen. Seit den späten neunziger Jahren kann man dasselbe Misstrauen und dieselbe Schadenfreude an den vielen Presseberichten über Reisende sehen, die von ihren Navigationsgeräten in die Irre geführt werden. Wenn sich jemand mit seinem Shell-Atlas verfährt, was bestimmt nicht seltener passiert, ist das keine Meldung wert.
+
+Allen Vorwürfen ist gemein, dass die Probleme als naturgegeben, unvermeidlich und unbehebbar gelten. Wenn eine Veränderung vorhergesagt wird, dann in Richtung einer weiteren Verschlechterung der Lage, obwohl dafür historisch gesehen eher wenig spricht.
+
+Nach diesem Argument ist es höchste Zeit, darüber nachzudenken, was das Neue mit den Köpfen von Kindern, Jugendlichen, Frauen, der Unterschicht und anderen leicht zu beeindruckenden Mitbürgern anstellt:
+
+### 7. Schwächere können nicht damit umgehen
+
+Und "Schwächere" heißt hier natürlich "schwächer als ich". Medizinische oder psychologische Studien werden ins Feld geführt, die einen bestimmten Niedergang belegen und einen Zusammenhang mit der gerade die Gemüter erregenden Technologie postulieren. John Philip Sousa schrieb 1906 über den Phonographen: "Wenn eine Mutter den Phonographen so einfach anstellen kann wie das elektrische Licht, wird sie ihrem Kind dann noch süße Schlaflieder singen oder wird das Kind von einer Maschine in den Schlaf gesungen?"
+
+### 8. Schlechte Manieren
+
+Sobald sich das Neue etabliert hat, geht es um Fragen der Etikette. In der Frühzeit des Buchdrucks galt es als unfein, ein gedrucktes Buch zu verschenken; getippten Privatbriefen haftete bis in die 80er Jahre ein Beigeschmack des Unhöflichen an. Es gab anfangs viel Kritik am Handygebrauch in der Öffentlichkeit - als sei es eine größere Zumutung, einem öffentlichen Telefongespräch lauschen zu müssen als einer Unterhaltung zwischen anwesenden Menschen. Das lässt inzwischen nach, aber in Cafés kann es immer noch ein Problem sein, mit aufgeklapptem Rechner herumzusitzen. Öffentliches Herumsitzen mit Buch oder aufgeklappter Zeitung ist schon sehr lange kein Problem mehr, aber mit Rechner bietet man, so die Cafébetreiber, ein ungeselliges Bild und schmälert die Einkünfte. Unausgesprochen geht es letztlich immer noch darum, dass der Anblick des Neuen irritiert.
+
+### 9. Schädlicher Einfluss auf das Denken, Schreiben und Lesen
+
+Hat die neue Technik mit Denken, Schreiben oder Lesen zu tun, dann verändert sie ganz sicher unsere Denk-, Schreib- und Lesetechniken zum Schlechteren. Die Postkarte galt Kritikern um 1870 als Sargnagel der Briefkultur. Die American Newspaper Publishers' Association diskutierte im Februar 1897 die Frage "[Do typewriters] lower the literary grade of work done by reporters?" In der NZZ war 2002 wiederum zu lesen, die mechanische Schreibmaschine habe durch ihre unterschiedlich stark gefärbten Buchstaben und ihre Geräusche Individualität verkörpert und an die Dynamik der Musik erinnert. Damit sei es jetzt vorbei, und das ordentliche Schriftbild verführe, "wir wissen es", zu inhaltlicher Nachlässigkeit. Peter Härtling erläuterte 1994 im Marbacher Magazin: "Die Prosa eines mit dem PC arbeitenden Poeten zeichnet sich für Kenner wiederum dadurch aus, daß sie unmerklich die Furcht vor dem Absturz prägt." An der University of Delaware entstand 1990 eine im Journal "Academic Computing" veröffentlichte Studie, derzufolge Studenten am Apple Macintosh wegen dessen grafischer Benutzeroberfläche im Vergleich zu Studenten am PC mehr Rechtschreibfehler machen, nachlässiger schreiben, einfachere Satzstrukturen und ein kindliches Vokabular benutzen. Aktuellere Varianten sind die Klage über die "leicht verdaulichen Texthäppchen und Schaubilder" der Präsentationssoftware Powerpoint, die zu einer "Verflachung des Denkens" führen (Spiegel 2004) sowie die angeblich nachlassende Fähigkeit, längeren Texten überhaupt noch zu folgen.
+
+Dass jede Technologie diese Stufen von neuem durchlaufen muss, erklärt das unvorhergesehen hohe Internetkritikaufkommen der letzten Jahre. Zumindest ich hatte es nicht vorhergesehen; ich dachte 1995, dass die Diskussion, die wir seit 2008 über das Internet führen, 1998 vorbei sein würde. Im selben Moment, in dem die Kritik am 1994 aufgetauchten World Wide Web in ihren Endphasen ankam, bewegten sich diverse Neuerungen wie Twitter und Facebook gerade wieder durch die ersten Stufen der Kritik. Und sobald sich alle an soziale Netzwerke gewöhnt haben, wird es wieder andere schlimme Neuerungen geben, die die Kritikphasen von vorn durchlaufen.
+
+Als ich 2009 den Artikel schrieb, hatte das iPhone (Jahrgang 2007) gerade die schon aus der Handyeinführung in den 90er Jahren bekannten Kritikstufen durchlaufen: "Braucht kein Mensch", "Brauch ich nicht" und "Ist nur was für Angeber". Es war bei Argument Nummer 6, "Ich hab mir jetzt auch so ein iPhone geholt - aber der teure Vertrag!" angekommen. Mit dem Telefon war man zufrieden, mit dem Preis nicht.
+
+2013 sind es vor allem die Selbstvermessungsbewegung und die Google-Glass-Brille, die die allerersten Stadien der Kritik durchlaufen. In der Frankfurter Allgemeinen erschien unter dem Titel "Dümmer mit Aussicht"<a href="#footnote4" class="footnote">4</a> im Oktober 2013 ein Artikel über Google Glass, in dem fast alle Argumenten der frühen Kritikphasen vorkamen: "Niemand, der einigermaßen bei Trost ist, läuft mit diesem Ding durch die Gegend." Es kann nur Sachen, die auch ein Smartphone kann. Vielleicht kann man sich dran gewöhnen, schreibt die Autorin, "und dennoch: Ich sehe den Punkt nicht so richtig." Das ist das "What the hell is it good for?"-Argument Nummer 1.
+
+Es scheint im Moment etwa zehn bis fünfzehn Jahre zu dauern, bis eine Neuerung die vorhersehbare Kritik hinter sich gebracht hat.
+
+## III. Standardsituationen des Technikoptimismus
+
+Als ich diese vielen schönen Zitate gefunden hatte, dachte ich, ich hätte was rausgefunden über schlechte Argumente gegen das Neue. Ich dachte, man könnte dem hohen Alter und der ständigen Wiederkehr dieser Argumente direkt entnehmen, dass es sich dabei um Unfug handeln muss. Aber dass viele falsche Vorhersagen existieren, beweist allein noch gar nichts.
+
+Ich habe einige Zeit gebraucht, um überhaupt zu merken, dass es auch falsche optimistische Vorhersagen gibt. Die lustigen, weil falschen pessimistischen Vorhersagen sind relativ leicht zu finden, das Netz ist voll damit. Dass ich die falschen optimistischen Vorhersagen erst so spät gefunden habe, ist kein Zufall, man findet sie viel seltener. Aber warum ist das so?
+
+Es könnte natürlich sein, dass es insgesamt mehr pessimistische Vorhersagen gibt. Das ist nicht ganz auszuschließen, speziell in Deutschland. Aber solange wir darüber keine Daten haben, muss die Nullhypothese erst mal sein, dass beides gleich häufig vorkommt. Falsche pessimistische Vorhersagen könnten häufiger sein als falsche optimistische, weil Optimisten einfach öfter recht haben. Das ist auch unwahrscheinlich. Am plausibelsten scheint mir noch die Erklärung, dass es sich um ein statistisches Artefakt handelt, das daher rührt, dass ich fast nur im Internet recherchiert habe. Technikoptimisten haben wahrscheinlich in den letzten Jahrzehnten mehr im Netz veröffentlicht als Technikskeptiker. Vielleicht hatte ich an der falschen Stelle gesucht.
+
+Weil ich zu wenige Beispiele gefunden habe, konnte ich keine zeitliche Abfolge von Argumenten konstruieren wie bei den pessimistischen Vorhersagen, deshalb erwähne ich hier nur einige gebräuchliche Argumente ohne bestimmte Reihenfolge.
+
+### 1. Freiheit, Gleichheit, Brüderlichkeit, garantierte Redefreiheit
+
+Im 19. Jahrhundert gingen Optimisten davon aus, dass die Eisenbahn quasi von allein Demokratie und Redefreiheit in alle Länder bringen werde, weil es einfacher geworden war, zu reisen und die eigenen politischen Ideen, Flugblätter und Bücher zu den Nachbarn zu transportieren. Das Argument gibt es in unveränderter Form bis heute: Ronald Reagan erklärte 1989 im Guardian: "Der Goliath des Totalitarismus wird besiegt werden durch den David Mikrochip". Nicholas Negroponte vom MIT Media Lab kündigte 1997 an, dass Kinder, die das Internet nutzen, nicht mehr wissen werden, was Nationalismus ist.
+
+### 2. Weltfrieden
+
+Ein sehr dauerhaftes und sehr beliebtes Argument. Die Frage, ob durch das Internet und die Digitalisierung der Krieg aussterben wird, ist sehr alt. Louis Sébastien Mercier stellte sich 1770 in einem Roman "Das Jahr 2440" folgendermaßen vor: "Der Krieg ist durch die Erfindung eines Apparates abgeschafft worden. Dieser Apparat kann die menschliche Stimme imitieren und die Schreie von Verwundeten vorspielen, was kriegslüsterne Fürsten von ihren martialischen Vorhaben abbringt." 1858 hieß es, die Telegraphie werde den Weltfrieden bringen. Hiram Maxim, der Erfinder eines frühen Maschinengewehrs, war der Meinung, dass dadurch der Krieg unmöglich würde. Dasselbe erhoffte sich der schon zitierte Octave Chanute vom Flugzeug, Jules Verne vom U-Boot, Alfred Nobel vom Dynamit, Guglielmo Marconi vom Radio, Henry Ford vom Auto - weil man damit weiter herumkommt, unterschiedliche Menschen kennenlernt und feststellen kann, dass die Nachbarn auch ganz nette Leute sind. Thomas Hutchinson gebrauchte das Argument 1946 in Bezug auf das Fernsehen, US-Senator Lyndon B. Johnson glaubte an die bemannte Raumfahrt als Friedensbringer, und der britische Premierministier Gordon Brown sagte 2009 in einem Interview mit dem Guardian: "Es wird keinen neuen Völkermord wie in Ruanda geben, weil sich Informationen über das Geschehen viel schneller verbreiten und die öffentliche Meinung immer größeren Druck ausüben würde, bis schließlich gehandelt werden müsste."
+
+### 3. Lernen wird ganz einfach
+
+Thomas Edison sagte 1922 vorher, der Film werde "unser Bildungssystem revolutionieren" und "schon in wenigen Jahren das Lehrbuch weitgehend, wenn nicht vollständig ersetzen." D.W. Griffith<a href="#footnote5" class="footnote">5</a> schrieb 1915 in der "New York Times": "Die Zeit wird kommen, und es wird keine zehn Jahre dauern, da werden die Kinder in der Schule praktisch alles aus Filmen lernen (...) Man setzt sich vor ein korrekt eingestelltes Fenster in einem wissenschaftlich ausgestatteten Saal, drückt einen Knopf und kann sehen, was wirklich passiert ist."
+
+### 4. Ende der Knappheit
+
+Die meisten Zitate zu diesem Thema stammen aus den 1950er Jahren und handeln davon, dass Strom in Zukunft gratis sein wird. "Alle Energie (elektrische, Atomkraft, Solarenergie) wird wahrscheinlich praktisch kostenlos sein" - das ist ein Zitat von Henry Luce, dem Gründer des Time Magazine, aus den Fünfzigern. Der Mathematiker John von Neumann sagte ungefähr zur selben Zeit: "In ein paar Jahrzehnten wird der Strom womöglich umsonst sein - genau wie die Atemluft."
+
+### 5. Ende des Verbrechens
+
+Im 1912 erschienenen Buch "Die Welt in 100 Jahren" schreibt Robert Sloss über "das drahtlose Jahrhundert: "Das drahtlose Jahrhundert wird also sehr vielen, wenn auch nicht allen Verbrechen ein Ende machen. Es wird ein Jahrhundert der Moralität sein, denn bekanntlich sind Moralität und Furcht ein und dasselbe." In seinem Szenario war es die drahtlose Übertragung der Fotos von Kriminellen in andere Städte, die so abschreckend wirken sollte. Im Moment wird das Argument vor allem im Zusammenhang mit Überwachungskameras im öffentlichen Raum gebraucht.
+
+### 6. Überwindung des Todes
+
+Ein Pariser Journalist schrieb 1895 nach einer Filmpremière von Louis Lumière: "Wenn diese Geräte in die Hände des Volkes geraten, wenn jeder die ihm nahestehenden Menschen fotografieren kann, nicht nur im unbewegten Zustand, sondern mit ihren Bewegungen, Handlungen, vertrauten Gesten und den Worten, die sie sprechen, dann wird der Tod nicht länger absolut und endgültig sein." Die aktuelle Version dieser Vorhersage ist die Unsterblichkeit durch Gehirn-Upload ins Netz.
+
+Ich glaube mittlerweile, dass man aus den Reflexen zwar etwas ablesen kann, aber nicht das, was ich 2009 dachte. Wenn bestimmte Themen so hartnäckig und jahrhundertelang wiederkehren, dann bedeutet das etwas. Und zwar nicht, dass die Technikkritiker alle dumm und verblendet waren, oder die Technikoptimisten. Die Leute waren ja damals nicht blöder als jetzt. Aus denselben Beweggründen, aus denen sie lustige Sachen über das Neue von damals sagten, sagen wir lustige Dinge über das Neue von heute. Ich habe selbst so ungefähr jedes Argument auf den beiden Listen irgendwann mal verwendet, und Sie wahrscheinlich auch. (Vielleicht nicht gerade das über die Abschaffung des Todes.)
+
+## IV. Aus falschen Vorhersagen lernen
+
+Eventuell deutet man diese Aussagen am besten als eine Art Indikator, ein kleines blinkendes Licht, das sagt: Hier steckt eine interessante Frage. Eine Frage, wie man mit Veränderungen umgeht, mit neuen Technologien. Diese reflexartigen Argumente handeln von sehr haltbaren Problemen. Und immer, wenn jemand eins von diesen Argumenten verwendet, versucht er eins von diesen alten Problemen zu lösen. Jedesmal, wenn wir eine von diesen Aussagen in den Mund nehmen, sagen wir: "Ich bin hilflos. Ich weiß nicht, was da passiert. Ich weiß nicht, wie ich mit dieser Veränderung umgehen soll. Ich habe so ein Gefühl, dass das Neue verkehrt ist / dass es toll ist, und ich fische jetzt nach Argumenten, die dieses Gefühl rationaler aussehen lassen sollen." Und das allein ist ja schon nützlich: Sobald man sich bei einem von diesen Argumenten ertappt, weiß man, dass da irgendwas Interessantes im eigenen Kopf oder in der Welt vorgeht, und dass es sich lohnt, näher hinzuschauen. Auch wenn das eigentliche Argument falsch ist.
+
+Einige Gründe, weshalb wir uns schwertun, Veränderungen zu deuten und mit ihnen klarzukommen: Natürlich ist Wunschdenken bei den optimistischen Aussagen im Spiel, und die fehlende Bereitschaft, sich mit Veränderungen auseinanderzusetzen oder Gewohnheiten zu ändern bei den skeptischen Aussagen. Beides ist nicht vollständig irrational. In vielen Fällen sind das ganz nachvollziehbare Manöver zur Beförderung oder Sicherung der eigenen Karriere.
+
+Skepsis wird gern mit dem Lebensalter in Verbindung gebracht. Das "Aquarium of the Pacific" veröffentlichte 2013 ein Video, in dem Pinguine am iPad ein Spiel für Katzen spielen<a href="#footnote6" class="footnote">6</a>, man muss dabei einen Fisch oder eine Maus fangen. Die Pinguine spielen es gern, aber nur die jungen Pinguine. Die alten Pinguine interessieren sich gar nicht für das iPad. Ich glaube, Menschen sind in dieser Hinsicht ein bisschen anders als Pinguine. Die Begeisterung für das Neue oder die reflexartige Abwehrhaltung hängt nur indirekt mit dem Lebensalter zusammen. Das hoffe ich jedenfalls, denn es ist auch für mich ein Karrieresicherungsmanöver, zu behaupten, dass das Alter nicht die entscheidende Rolle spielt. Was zählt, ist die Motivation, über die Zukunft nachzudenken oder wenigstens in Kontakt mit der Gegenwart zu bleiben.
+
+Wenn wir jünger sind, sind wir sehr motiviert, die Gegenwart zu verstehen, weil es uns an Geld fehlt, an sozialem Status, und wir deshalb jede neue Möglichkeit nutzen müssen, gerade wenn Leute in etablierten beruflichen Positionen von diesen neuen Möglichkeiten wenig verstehen. Sobald wir einigermaßen erfolgreich sind, werden wir träge und es ist nicht mehr so wichtig, jedes Detail der Veränderungen zu verfolgen, deshalb investieren wir nicht mehr so viel Zeit wie früher.
+
+Das führt unter anderem dazu, dass etablierte Unternehmen sich mit Innovationen viel schwerer tun als Startups. In der neu gegründeten Konkurrenzfirma trifft das Neue auf keine Widerstände, dort hat man es gern und arbeitet mit dem Neuen, nicht dagegen.
+
+## V. Vorschläge für den Umgang mit dem eigenen Kopf
+
+In Krankenhäusern sind eine ganze Menge, Regeln, Strategien und Angewohnheiten im Einsatz, die für sich genommen noch niemanden gesund machen: Sterile Instrumente, Hände waschen, sich an bestimmte Abläufe halten - wenn man diese Regeln ignoriert, macht man alles nur schlimmer. Ich glaube, es sollte ähnliche Regeln für Unternehmen oder sogar für den Umgang mit dem eigenen Kopf geben. Drei Regeln möchte ich vorschlagen:
+
+### 1. Hände waschen
+
+Das ist natürlich metaphorisch gemeint, obwohl Händewaschen auch unmetaphorisch nicht schadet. Wenn Sie in irgendeinem Beruf arbeiten, in dem es wichtig ist, dass Sie neue Entwicklungen verfolgen und verstehen und in Ihre Arbeit integrieren, dann sollten Sie es sich zur Gewohnheit machen, Neues grundsätzlich auszuprobieren, auch wenn es auf den ersten Blick albern und nutzlos wirkt. Und das wird es. Ausprobieren ist wie das Händewaschen im Krankenhaus: Es ist lästig, und man muss es immer wieder machen, einmal reicht nicht, und einmal die Woche reicht auch nicht. Aber man muss es machen, denn wenn man diesen einfachen Schritt vernachlässigt, dann macht man dadurch die ganze gute Arbeit zunichte, die man ansonsten leistet.
+
+Das klingt einfacher, als es ist. Sie denken jetzt vermutlich gerade an die ein oder zwei neuen Sachen, die Sie im letzten Jahr ausprobiert haben. Denken Sie stattdessen an die Sachen, die Sie überhaupt nicht ausprobieren wollten. Technologien oder Strategien, die andere schon einsetzen und die für Sie aber ganz albern oder nutzlos oder übermäßig kompliziert aussehen. Selbst wenn man sich für experimentierfreudig, einen Early Adopter, und dem Neuen gegenüber aufgeschlossen hält, ist man immer noch auf genügend Augen blind. "Ich bin ja ein Freund des Neuen. Aber dieses Neue, das ist mir jetzt wirklich zu blöd."
+
+Wir sind keine völlig rationalen Wesen. Wir müssen das Neue ausprobieren, um rauszufinden, was es eigentlich kann. Es reicht nicht, in der Zeitung was drüber zu lesen, und es genügt auch nicht, anderen dabei zuzusehen, wie sie das verwenden, was einem selbst nicht zusagt. In Kevin Kellys Buch "What Technology Wants" gibt es ein Kapitel über die Amish, und selbst die Amish probieren Neues aus, anstatt sich auf Theorien darüber zu verlassen.
+
+Das heißt nicht, dass man sich dazu zwingen sollte oder zwingen könnte, etwas zu verwenden, das man nicht leiden kann. Jedes neue Werkzeug hat viele Verwendungsmöglichkeiten. Es gibt immer irgendeinen Aspekt, irgendeine Einsatzmöglichkeit für ein neues Werkzeug, ein neues Gadget, eine neue Strategie, die auch Ihnen zusagen wird, die sich als nützlich und interessant herausstellen wird, und der Rest ergibt sich aus diesem Hebel. Wenn man geduldig nach diesem Hebel sucht, wird er sich immer finden.
+
+Meine Mutter hat jetzt seit etwa sechs Monaten ein iPad. Sie hat sich nie besonders für Technik oder das Internet interessiert und sich jahrelang über die "Computerspielsucht" ihrer Enkel beschwert. Die ersten drei Monate sagte sie über das iPad: "Das ist ja ein schönes Gerät, aber ich weiß nicht so genau, was ich damit machen soll."
+
+Für sie war dieser Hebel Scrabble. Als sie entdeckt hat, dass sie mit dem iPad im Netz gegen ihre Schwester und ihre Kinder spielen kann, ist eine alte Familientradition wieder in Gang gekommen. Das klingt trivial, aber alles andere folgte aus dem Scrabble: Instant Messaging, Skype, Scrabblespiel mit Fremden. Wir haben jetzt viel mehr Kontakt als früher, wir telefonieren nicht mehr nur einmal die Woche, sondern tauschen den ganzen Tag über Nachrichten aus, und auch ohne Nachrichten kann ich an ihrem Scrabbleverhalten ihren Tagesablauf ablesen. Ich glaube, ihr ist jetzt klargeworden, dass es im Netz um Sozialleben geht. Ich habe ihr das tausendmal gesagt in den letzten zwanzig Jahren, aber es ist nicht durchgedrungen. Das iPad und Scrabble haben geschafft, was mir nicht gelungen ist.
+
+Jetzt beschwert sie sich nicht mehr über die Computergewohnheiten der Enkel, dafür klagt mein Vater darüber, dass sie sogar beim Essen das iPad neben sich liegen hat und PC-Besitzern mit Apple-Fangirl-Gerede auf die Nerven fällt. Das sind Phasen, durch die offenbar jeder durch muss. Laute und lästige Handyklingeltöne hört man ja inzwischen auch nur noch bei Rentnern im Zug. Alle anderen haben ihr Handy stumm geschaltet oder lassen es nur vibrieren.
+
+Es wird also nicht alles Neue unter Schmerzen und Mühen eingeführt. Manches passiert auch wie von allein.
+
+### 2. Keine Meinung über neue Technologien äußern, die man noch gar nicht ausprobiert hat
+
+Mit ausprobiert meine ich: dem Neuen eine ehrliche Chance geben, nicht nur mal im Vorbeigehen einen Blick drauf werfen und zwei Tasten drücken. Bei meiner Mutter und ihrem iPad hat diese Phase drei Monate gedauert. Das heißt: Nicht aktiv zu einer veränderungsresistenten Kultur beitragen, z.B. indem man sagt: "Das brauch ich nicht. Das braucht doch keiner. Es lohnt doch gar nicht, sich damit auseinanderzusetzen." Wenn man nicht gerade Journalist ist, hat man meistens die Möglichkeit, über neue Entwicklungen einfach zu schweigen.
+
+Das gilt nicht nur für berufliche Neuerungen, das gilt auch für das Neue im Privatleben. Der Abstand vom Privatleben zum beruflichen Einsatz ist oft ganz klein, zum Beispiel bei allem, was mit sozialen Netzwerken zu tun hat. Wenn man sie privat blöd findet, wird man sie beruflich nicht sinnvoll einsetzen können.
+
+Das ist auch wieder eine Frage der mentalen Hygiene, genau wie das Ausprobieren an sich. Wenn man routinemäßig Innovationen schlechtredet, die man noch gar nicht richtig ausprobiert hat, dann fördert man dadurch schlampiges Denken. Man fördert es im eigenen Kopf, und man fördert schlampiges Denken in den Köpfen der Mitarbeiter, die sich anhören, wie man sagt "Also selbstfahrende Autos, der Blödsinn geht mir jetzt wirklich zu weit" oder "Coworkingspaces, wird schon wieder so was sein". Man braucht gar kein neugieriger Early Adopter zu sein. Man muss nicht mal wie einer reden. Es reicht schon, wenn man nicht wie jemand redet, der sich für die Gegenwart nicht interessiert. Veränderungen sind immer komplex, und wir müssen diese Komplexität entspannt hinnehmen lernen.
+
+Die Standardargumente der Technikkritik und der Technikbegeisterung, die ich zitiert habe, sind ganz einfacher Natur. Wenn man sich dabei ertappt, beim Befürworten oder Ablehnen einer Innovation eins dieser schlichten Argumente zu verwenden, ist das bereits ein ganz gutes Anzeichen dafür, dass das Argument nicht beim Verständnis helfen wird.
+
+Natürlich kann jedes dieser Argumente auch richtig sein. Als die Druckerpresse neu war, hieß es, sie würde Kriege auslösen und dazu führen, dass die Menschen der Religion den Rücken kehren, und beides ist eingetreten. Die Skeptiker hatten recht. Auch die Optimisten haben ab und zu recht. Gelegentlich endet wirklich irgendeine Knappheit. Zumindest in Erstweltländern sind Hungersnöte kein Problem mehr. Das war für unsere Vorfahren noch vor ein oder zwei Jahrhunderten ein unrealistischer Traum. Aber auch wenn man hin und wieder zufällig richtig liegt, befördert man mit diesen Argumenten die Auseinandersetzung nicht.
+
+Ein nützlicher Zusatz zu dieser Regel 3: Wenn man unbedingt eine Meinung über Unausprobiertes haben muss, sollte man sie wenigstens nicht niederschreiben. Auf die Art kann man später alles abstreiten und behaupten, man hätte den Nutzen des Neuen von Anfang an erkannt.
+
+### 3. Laubhaufen anbieten
+
+Damit meine ich: eine Umgebung schaffen, die für einen selbst oder das eigene Unternehmen leichter macht, mit dem Neuen zu experimentieren. Es ist wie mit Igeln im Garten. Igel im Garten sind beliebt, aber wenn man einen haben möchte, geht man nicht auf die Suche nach einem Igel. Sie sind schwer zu finden, unangenehm nach Hause zu tragen, und am Ende will der Igel wahrscheinlich auch gar nicht bleiben. Aber wenn man eine igelfreundliche Umgebung schafft, kommen sie von allein. Für Igel ist diese Umgebung zum Beispiel ein Laubhaufen. Für die eigene Fähigkeit, sich an die Gegenwart anzupassen, mit der Gegenwart zurechtzukommen, heißt das, dass man das Experimentieren erleichtern muss.
+
+Wir neigen dazu, in unseren Routinen festzustecken, und wir versuchen unser fehlendes Verständnis unserer Umgebung mit trägen Standardargumenten zu kaschieren. Wenn man es sich zur Gewohnheit macht, Neues auch dann auszuprobieren, wenn es sich unnütz oder lästig anfühlt, und wenn man seine Angehörigen und Mitarbeiter nicht aktiv vom Herumprobieren abhält, dann hilft das. Ich könnte mir vorstellen, dass es sich lohnt, vielleicht sogar nur so aus Prinzip und um des Experiments willen regelmäßig kleine Veränderungen vorzunehmen. Größere Veränderungen sind unbeliebt, speziell in Unternehmen, wo sie den Mitarbeitern üblicherweise aufgezwungen werden und alle stöhnen, wenn eine Umstrukturierungssitzung angekündigt wird. Aber kleine Veränderungen gehen vielleicht durch, und sie machen es wahrscheinlicher, dass man beim Experimentieren über das Unternehmensäquivalent zum iPad mit der Scrabble-App stolpert.
+
+##### Quellenangaben:
+
+Der Text bezieht sich auf folgende Vorarbeiten von Kathrin Passig:
+
+- Passig, Kathrin und Lobo, Sascha (2012): Internet: Segen oder Fluch. Berlin: Rowohlt.
+- Passig, Kathrin (2013): Standardsituationen der Technologiekritik. Frankfurt: Suhrkamp. Der erwähnte Aufsatz ist auch online erschienen: http://kathrin.passig.de/texte/standardsituationen_der_technologiekritik.html
+
+##### Weitere erwähnte Texte:
+
+- Eurich, Klaus (1998): Mythos Multimedia. Über die Macht der neuen Technik. Aktusried: Kösel.
+- Gardner, Dan (2010): Future Babble: Why Expert Predictions Fail - and Why We Believe Them Anyway. Toronto: McClelland & Stewart.
+- Keen, Andrew (2008): Die Stunde der Stümper. Übers. von Helmut Dirlamm. München: Hanser.
+- Kelly, Kevin (2008): Things I've Been Wrong About. Online-Quelle: https://kk.org/ct2/digital-things-ive-been-wrong (01.05.2019)
+- Kelly, Kevin (2011): What Technology Wants. London: Penguin.
+- Kühnert, Hanno (1997): Wenn das Internet sich nicht ändert, wird es zerfallen. In: Merkur 582 (1997), S. 959-966.
+- Mercier, Louis-Sebastien (1770/1982): Das Jahr 2440. Traum aller Träume. Übers. von Herbert Jaumann. Frankfurt: Suhrkamp.
+- Opaschowski, Horst W. (1996): Die multimediale Zukunft. Analysen und Prognosen vom Freizeit-Forschungsinstitut der British-American Tobacco. Hamburg.
+- Scharfe, Martin (1998): Wegzeiger: Zur Kulturgeschichte des Verirrens und Wegfindens. Marburg: Jonas Verlag.
+- Sloss, Robert (1910/2017): Die Welt in 100 Jahren. In: Arthur Brehmer (Hg.): Die Welt in 100 Jahren. Hildesheim: Olms.
+
+#### Ursprung:
+
+Der Text ist die freie Übersetzung eines englischsprachigen Vortrags auf der "Cologne Conference Futures 2013 - the Annual Symposium on Media Evolution" am 02.10.2013. Er erschien im August 2014 im Blog "Funkkorrespondenz", heute Medienkorrespondenz: https://www.medienkorrespondenz.de/leitartikel/artikel/neue-technologien-altenbspreflexe.html
+
+Der Text in der vorliegenden Fassung ist unter der Lizenz CC BY 4.0 lizenziert.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Einen anderen Zugang zum Phänomen des Medienwandels findet sich im Beitrag von Axel Krommer zu Paradigmen und palliativer Didaktik: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+- Während Standardargumente von einem nüchternen Umgang mit technologischem Wandel ablenken, wird dieser gleichzeitig in parallelen Diskursen thematisiert: <a href="#p1208">Die parallelen Diskurse zur digitalen Bildung</a>.
+- Dejan Mihajlović bietet in seinem Beitrag zur Digitalen Transformation eine Sicht hinter reflexartige Einordnungen der Digitalisierung an: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+
+
+---
+
+
+# Das Netz lesen - <br/>eine Anleitung für nicht-lineare Lektüre
+
+*Philippe Wampfler*
+
+Der Leitmedienwechsel von der Buchkultur hin zur Netzkultur erfordert neue Lesefähigkeiten. "Digital Literacy", der englische Begriff dafür, bezeichnet "diejenigen Kompetenzen, Fertigkeiten und Fähigkeiten, digitale Texte zu verstehen, zu deuten und mit ihnen produktiv umzugehen" (Kappes 2018). Was folgt, ist eine Erklärung der Herausforderung, die digitale und vernetzte Texte für Lesende bedeuten und eine Anleitung, wie diese Herausforderung gemeistert werden kann.
+
+Es ist sinnvoll, im Netz von einem erweiterten Textbegriff auszugehen, der jede Art von Bedeutungsgeflechten umfasst, auch wenn diese nicht primär auf geschriebener Sprache beruhen. Ein Beispiel dafür wären Computerspiele. Sie sind - wie Webvideos, Blogs, Beiträge auf sozialen Netzwerken und andere publizierte Formen von Kultur - Texte, die durch Leseverfahren erschlossen werden.
+
+## Ein Beispiel: "Keep Talking and Nobody Explodes"
+
+Das Computerspiel "Keep Talking and Nobody Explodes" (Steel Crate Games, 2015) zeigt gut, wie diese Leseverfahren funktionieren. Beim Spiel geht es darum, eine Bombe zu entschärfen. Wie das geht, steht in einem separaten Handbuch, das ausgedruckt vorliegt. Das Spiel lässt sich nicht alleine spielen: Eine Spielerin muss am Bildschirm eine Bombe entschärfen, während ein Spieler ihr aus dem Handbuch Anweisungen vorliest. Beide dürfen jeweils nicht auf den Text der anderen Person schauen, damit das Spiel seinen Reiz behält. Die Spielerin am Bildschirm kann also das Handbuch nicht lesen, während der Spieler mit dem Handbuch die Bombe auf dem Bildschirm nicht "lesen" kann.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 2: Screenshot aus Keep Talking and Nobody Explodes*
+
+Je weiter man im Spiel kommt, desto schwieriger werden die Rätsel. Im Handbuch stehen komplexe logische Abhängigkeiten: Knöpfe wechseln etwa die Farbe und man muss sich gemeinsam merken, welche Farben schon vorgekommen sind, um die richtigen Entscheidungen zu fällen.
+
+Nur wenn das Handbuch und die Bombe kompetent gelesen werden und die Erkenntnisse aus dieser Lektüre wiederum sinnvoll kommuniziert werden, können die Rätsel gelöst beziehungsweise die Bomben entschärft werden.
+
+## Kultur der Digitalität
+
+"Keep Talking and Nobody Explodes" führt vor, was Felix Stalder als die zentralen Merkmale der "Kultur der Digitalität" bezeichnet: Referentialität, Gemeinschaftlichkeit und Algorithmizität. Was heißt das?
+
+Referentialität meint, dass sich Texte auf andere beziehen. Das Handbuch ist ohne die Bombe auf dem Bildschirm (und ihre Elemente) sinnlos, das Spiel am Bildschirm ohne Handbuch nicht zu bewältigen. Jedes Element der Bombe bezieht sich auf Seiten aus dem Handbuch - und umgekehrt. Beim Spiel produzieren die Spielenden zudem ein Gespräch, das auf ein Computerspiel verweist, dessen Oberflächentext auf den Programmiercode verweist: Das ist Referentialität.
+
+Das Spiel kann nur gemeinschaftlich gelöst werden. Es lädt zur Kooperation ein - und zwar wie oft bei digitalen Texten, nicht zur Kooperation am Bildschirm, sondern zu einer hybriden Form: Eine Person braucht ein digitales Endgerät, die andere ein ausgedrucktes Handbuch (im pdf-Dokument kann man nicht genug schnell blättern). Die Gemeinschaftlichkeit zeigt sich auch darin, dass in der Spielcommunity Übersetzungen des Handbuchs entstanden sind, obwohl das Spiel nur auf Englisch erhältlich ist.
+
+Die Rätsel und ihre Lösung beziehen sich auf algorithmische Verfahren: Das Handbuch beinhaltet zwar logisch komplexe, aber völlig klare Handlungsabfolgen, wie sie ein Algorithmus zur Lösung von Aufgaben benutzt.
+
+Aus diesen Gründen steht das Spiel stellvertretend für einen typischen Leseprozess in der Kultur der Digitalität:
+
+- "Keep Talking and Nobody Explodes" orientiert sich beim Lesen nicht an der Buchkultur, die Spielenden lesen einen genuin digitalen Text<a href="#footnote7" class="footnote">7</a>.
+- Das Leseverfahren ist selbstbestimmt
+- und trotzdem in einen sozialen Kontext eingebettet.
+- Die Lektüre erfolgt nicht-linear (im Handbuch muss ständig zwischen Stellen hin und her gesprungen werden).
+- Aus dem Lesen entstehen Gespräche und Interaktionen mit dem Programm, die wiederum ausgewertet und gelesen werden können.
+
+## Nicht-lineares Lesen
+
+Einen Text linear zu lesen, bedeutet, einem vorgegebenen Verlauf zu folgen, also etwa die nummerierten Seiten eines Buchs in aufsteigender Folge hintereinander zu lesen oder ein Computerspiel so zu spielen, dass die Level in der vom Entwicklerteam vorgegebenen Reihenfolge durchlaufen werden.
+
+Da Texte im Netz durch Links verbunden sind, entsteht ein Angebot, ihre Struktur zu verlassen und zu einem anderen Text weiterzuspringen. Dieses Angebot ist nicht neu: Menschen haben Bücher und andere Texte schon immer nicht-linear gelesen, indem sie zum Beispiel den Schluss zuerst gelesen haben, in Lexika Begriffe nachgeschlagen haben oder zwischendurch die Sportberichte in der Zeitung aufgeschlagen haben.
+
+In der Buchkultur wird aber die lineare Lektüre durch die Affordanz<a href="#footnote8" class="footnote">8</a> des Mediums Buch gestärkt und zum Normalfall erklärt: Das bedeutet, das Buch macht primär das Angebot, es von vorne bis hinten zu lesen. Texte im Netz hingegen bieten zunächst eine nicht-lineare Lektüre an, weil sie auf andere Texte bezogen sind: Sie betten etwa Videos oder Beiträge aus sozialen Netzwerken ein oder verlinken Belege oder weiterführende Erklärungen.
+
+Entsprechend nehmen nicht-lineare Leseprozesse im Netz zu. Damit verbunden sind die Suchen nach bestimmten Informationen, das Überfliegen von Texten, die Lektüre von Ausschnitten, wie etwa eine Befragung von Liu (2005) gezeigt hat.
+
+In Selbst- und Fremdbeobachtungen nehmen geschulte Leserinnen und Leser, etwa Lehrkräfte, nicht-lineares Lesen als weniger gehaltvolle Kulturtechnik wahr: Die geringere Intensität bei der Verarbeitung mehrerer miteinander verbundener Texte wird als defizitär wahrgenommen, etwa weil es dabei schwerer fällt, sich Informationen zu merken oder die Struktur und Details der jeweiligen Texte zu erfassen. Die Leseforschung kann diese Eindrücke kognitiv erklären (vgl. Noyes/Garland 2003), letztlich sind sie aber das Resultat von Erwartungen aus der linearen Buchlektüre, die auf die nicht-lineare Netzlektüre übertragen werden. Dass sie sich nicht erfüllen, hängt zudem damit zusammen, dass Netztexte in Settings angeboten werden, welche die Aufmerksamkeit von Lesenden durch "addictive design" beeinflussen.
+
+## "addictive design" und emanzipiertes Lesen im Netz
+
+Digitale Plattformen optimieren ihre Interfaces ständig. Hauptgrund für die Veränderungen: Die Aufmerksamkeit, welche Nutzerinnen und Nutzer für die Apps aufbringen, soll maximiert werden. Dieses Verfahren nennt man "addictive design"<a href="#footnote9" class="footnote">9</a>: Auch wenn hier nur metaphorisch von Sucht die Rede sein kann, so geht es dabei darum, Oberflächen so zu gestalten, dass die Bereitschaft steigt, Zeit auf einer Plattform zu verbringen.
+
+Die Verantwortlichen orientieren sich dabei an der Forschung, welche die Glücksspielindustrie finanziert hat, um Menschen dazu zu bringen, möglichst viel Geld an Slot-Machines zu verlieren. Ein Beispiel dafür sind "pull to refresh"-Interfaces, die etwa auf Twitter oder Facebook den Nutzerinnen und Nutzern die Illusion geben, sie könnten beeinflussen, ob Posts angezeigt werden oder nicht. Das entspricht genau der Funktion des "Arms" der einarmigen Banditen, der die Walzen nicht steuert, sondern lediglich einen Einfluss der Spielenden suggeriert.
+
+Plattformen sind also so programmiert, dass es den Nutzerinnen und Nutzern schwerfällt, sie wieder zu verlassen. Diese sollen länger auf Facebook verweilen, sich Videos direkt auf der Plattform anschauen, erfahren, was ihre Kontakte geliket haben.
+
+Die Vorstellung hinter "addictive design" ist, dass die Aufmerksamkeit von Menschen - und damit ihre Lesewege - durch Programme und digitale Umgebungen gesteuert werden können. Die Forderung, Lesen müsse im Netz ein emanzipierter Prozess sein, entwirft ein Gegenprogramm: Die Steuerung der Lesewege durch die lesenden Subjekte.
+
+Das bedeutet, das volle nicht-lineare Potential des Netzes zu nutzen. Wie das möglich ist, zeigt die folgende Anleitung.
+
+## Eine Anleitung
+
+1. Texte im Netz oder mit dem Netz lesen.  
+Wer das Netz für die Lektüre nutzen will, kann es nicht abschalten oder weglegen. Es geht nicht darum, auf das Netz zu verzichten, sondern bewusst darin zu lesen.
+
+2. Einen guten Einstieg finden.  
+Gute Wikipedia-Artikel sind ideale Sprungbretter für Leseprozesse im Netz. Sie sind an sich informativ, verweisen aber immer auf andere Texte, die weiterführend sind, andere Perspektiven aufzeigen, Begriffe erklären und die Geschichten hinter den Begriffen erzählen.
+
+3. Einen guten Ausstieg finden.  
+Selbststeuerung und nicht-lineares Lesen bedeuten, von einem Text zu einem weiteren zu springen. Das muss erstens ohne Bedauern vonstattengehen - ein Leser schuldet einem Text nichts. Versteht er einen Abschnitt nicht, ist er mit Begriffen überfordert, irritiert ihn die Argumentation oder Struktur des Textes, sollte er den nächsten heranziehen.
+
+4. Die Kraft der Suche nutzen.  
+Das Netz ist keine Bibliothek, in der Inhalte klassifiziert oder verschlagwortet sind. Vielmehr ist es eine Sammlung von Datenbanken, die durchsucht werden können und verbunden sind. Wer im Netz liest, findet Texte mithilfe von Suchverfahren und Hyperlinks, durchsucht bestimmte Seiten oder Bücher nach Schlüsselbegriffen oder ganzen Sätzen, findet so auch die Dokumente, aus denen ein Zitat stammt.
+
+5. Zu den Quellen vorstoßen.  
+Die von Stalder erwähnte Referenzialität in der Kultur der Digitalität bringt es mit sich, dass Texte auf andere verweisen. Wissenschaftsjournalismus besteht oft in der Paraphrase von Studien; in der Berichterstattung über politische Geschehnisse werden Aussagen ohne Kontext zitiert; Social-Media-Beiträge spitzen Aussagen zu. Wer emanzipiert liest, kann hier auf die nächste Ebene gelangen und rekonstruieren, wie der Verweis funktioniert: Also etwa die Studie direkt lesen, das Original-Interview anschauen oder den Zusammenhang in seiner ganzen Breite zur Kenntnis nehmen.
+
+6. Texte und ihre Kontexte schnell beurteilen können.  
+In Zeiten von Fake News erscheinen viele Texte auf den ersten Blick lesenswert und werden als seriöse Argumentationen präsentiert, obwohl sie das nicht sind. Wer emanzipiert lesen will, muss diese Fassaden ignorieren und aufgrund einer Mischung aus technischem und journalistischem Verständnis nachvollziehen können, wie ein Text entstanden ist und welche Interessen dahinter stehen.
+
+7. Social Reading.  
+Das Netz verbindet Lesen (Konsumieren) und Schreiben (Produzieren) im Modus der Prosumption. Prosumierende produzieren Texte, während sie andere konsumieren. Das tun sie einerseits, indem sie eine Datenspur im Netz hinterlassen, die den Weg ihrer Lektüre dokumentiert (und etwa als Browserhistory ein wertvolles Archiv der eigenen Lesetätigkeit darstellt). Andererseits kommentieren Leserinnen und Leser Beiträge im Netz und auf Social-Media-Profilen und weisen so ihr persönliches Lernnetzwerk auf interessante Texte hin.
+
+8. Wissensmanagement.  
+Nicht-lineares Lesen verbindet eine Vielzahl von Texten. Zu wissen, was vom Gelesenen wichtig war und wie es wieder auffindbar ist, erfordert spezifische Methoden des Wissensmanagements. Wer emanzipiert liest, speichert Bookmarks, erstellt Notizen, markiert wichtige Stellen - direkt bei der Lektüre im Netz. Dafür gibt es eine Reihe von Tools, die oft sehr einfach sind: marker.to (https://marker.to) installiert etwa im Webbrowser einen digitalen Leuchtstift, mit dem sich auf jeder Seite im Netz Textpassagen markieren lassen, die dann auf einer persönlichen Seite angezeigt und gespeichert werden. Hypothes.is (https://web.hypothes.is) ist ein vergleichbares Tool für wissenschaftliche Kommentare.
+
+Für diese Form des Lesens im Netz braucht es zwei Voraussetzungen - viel Übung und Zugang zu den abgesperrten Teilen des Netzes. Wer Geld hat oder an einer Uni angestellt ist, kann sich Zugang zu vielen Textarchiven verschaffen. Die gesamte aktuell erscheinende Forschungsliteratur ist genauso im Netz zu finden wie alle aktuellen Bücher, Filme, Serien und Games. Das alles ist oft hinter Paywalls verborgen. Wer weiß, wie das geht, und das damit verbundene Risiko eingehen kann, kann mit Methoden der Netz-Piraterie oft auch auf diese Texte zugreifen. Letztlich bleibt also der Zugriff auf diese Texte ein Privileg.
+
+## Neues Lesen - neue Subjekte?
+
+Was bedeuten diese hier nur umrissenen Veränderungen im Leseprozess für die Bildung? In einem Essay für die Zeitschrift Forschung & Lehre hat der Medienkulturhistoriker Heiko Christians (2018) folgende Feststellung gemacht:
+
+> Die von Bildungsprozessen erhofften mentalen Effekte werden immer noch in den Kategorien einer am Buchformat ausgerichteten Lektürepraxis gedacht und formuliert: Identität, Kontinuität, Stabilität, Integrität oder Ganzheit sind längst zu gesellschaftlichen Werten und psychologischen Kernparametern aufgestiegene Effekte einer täglich unwahrscheinlicher werdenden Lektüreform.
+
+Unterhaltung, so seine Kernthese, sei heute durch die Abkehr von einer Buch- und Romankultur keine "konstruktive, impulsgebende Umgebung mehr für die Bildung". Das Subjekt, das sich mit Romanen unterhält, ist auch das Subjekt, das in humanistischen Bildungsprozessen gebildet wurde.
+
+Aber was ist mit den Netflix-Subjekten, den Game-Subjekten, den Youtube-Subjekten? Christians' Kritik: Wir wissen noch nicht genau, was diese Medien mit den Menschen machen, die sie nutzen - haben aber immer noch dasselbe Bildungsideal einer integren und integralen Persönlichkeit. Bildung muss Unterhaltungsmedien so einbinden, dass sie weder "rein verbrauchend" sind noch "distanzlos vereinnahmen". Doch Netflix, Games und Youtube wirken verbrauchend und vereinnahmend. Mehr noch: Die dort erworbene Aufmerksamkeitsstruktur überträgt sich auf alle, also auch auf Bildungssettings.
+
+Diesen Problemaufriss verwendet Christians (2018) dafür, Werbung für seine Forschung zu machen:
+
+> [Das] Bildungsprogramm müsste verhindern, dass an die Stelle einer 'bildenden' Praxis des Lesens und Schreibens die pauschale Hoffnung auf eine Technisierung und Dynamisierung der Umgebung und den pfingstlichen Ausbruch eines 'kritischen Bewusstseins' tritt. Es müsste verhindern, dass zwar die Parole 'Schulen ans (immer noch schnellere) Netz' ausgegeben wird, aber keinerlei Wissen mehr über diejenigen Kulturtechniken erarbeitet und vermittelt wird, die gerade durch eine verhältnismäßige Verlangsamung den wunderbaren Eifer der Jüngeren in die langfristig Halt gebende Form der Persönlichkeit verwandeln halfen.
+
+Das Problem besteht also darin, dass Menschen in Bildungsprozessen heute eine Mediensozialisation erleben, die sie zu anderen Subjekten macht, als es die humanistische Bildung vorsieht. Ihre Aufmerksamkeit verändert sich, sie sind nicht an Bücher gewöhnt, die Textstellen in größeren Kontexten zusammenhalten, sondern klicken sich durchs Netz.
+
+Hier kommen wir zurück auf die oben entwickelte Vorstellung vom "emanzipierten Lesen" im Netz. Tritt man für diese Lektüreform ein, kann man von kulturpessimistischen Sichtweisen abrücken, wie sie bei Christians gegen seine Absicht halt doch zu finden sind. Es wird dann erahnbar, dass im Netz neue Werte auftauchen, diese aber eine ernstzunehmende Alternative zu denen der Buchkultur darstellen: Neben Identität, Kontinuität und Ganzheit treten vielleicht Empathie, Kollaboration, persönliche Entwicklung, Offenheit und Fragmentierung.
+
+Mit neuen Medienformen entstehen neue Subjekte. Diese brauchen neue Formen von Bildung. Damit ist keine Wertung verbunden. Das von Christians umrissene Problem besteht tatsächlich, aber es markiert eine Ungleichzeitigkeit - die Unterhaltungsmedien ändern sich einfach schneller als die Bildungsangebote. Aber das ist kein Grund, an den traditionellen Bildungsangeboten festzuhalten.
+
+#### Quellenangaben:
+
+- Christians, Heiko (2018): Was ist (heute) Bildung? Online-Quelle: https://www.forschung-und-lehre.de/zeitfragen/was-ist-heute-bildung-632 (01.05.2019)
+- Kappes, Christoph (2018): Was ist Digital Literacy? Online-Quelle: https://de.quora.com/Was-ist-Digital-Literacy (01.05.2019)
+- Liu, Ziming (2005): "Reading behavior in the digital environment: Changes in reading behavior over the past ten years". In: Journal of Documentation (61), Heft 6, S. 700-712, Online-Quelle: https://doi.org/10.1108/00220410510632040 (01.05.2019)
+- Martin, Lydia (2017): Addictive Design. Online-Quelle: https://www.lydiafmartin.com/excerpt-addictive-design (01.05.2019)
+- Noyes, Jan M./Garland, Kate J. (2003): VDT versus paper-based text: reply to Mayes, Sims and Koonce. In: International Journal of Industrial Ergonomics (31), Heft 6, S. 411-423. Online-Quelle: https://www.sciencedirect.com/science/article/abs/pii/S0169814103000271#! (01.05.2019)
+- Stalder, Felix (2016): Kultur der Digitalität. Frankfurt am Main: Suhrkamp.
+- Wampfler, Philippe (2018): Digitale Literatur. Online-Quelle: https://fd.phwa.ch/wordpress/wp-content/uploads/2018/12/Digitale-Literatur.pdf (01.05.2019)
+
+#### Ursprung:
+
+Dies ist ein Originalbeitrag, der bislang noch nicht online erschienen ist.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Martin Lindner erklärt in seinem Beitrag in diesem Band, wie ein genauer Umgang mit dem Suchtbegriff aussehen müsste: <a href="#p1165">Sucht, Demenz und schlechte Noten: Wie gefährlich sind "internetbezogene Störungen"?</a>
+- Die Debatte um digitales Lesen ist ein gutes Beispiel für die Argumente, die Axel Krommer in seiner Kritik an der Mehrwert-Frage entwickelt: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Spiele zeigen, wozu Jöran Muuß-Merholz mit seiner "Aufforderung zum Tanz!" einlädt: <a href="#p290">Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren</a>.
+- Informationen zu "Keep Talking and Nobody Explodes" findet man unter https://keeptalkinggame.com und die Übersetzung des Handbuchs unter https://bombmanual.github.io
+
+
+---
+
+
+# Das blaue und das grüne Medium - der Medienbegriff des Pinguins
+
+*Jöran Muuß-Merholz*
+
+## Der Medienbegriff der Tiere
+
+Was sind "digitale Medien"? Ich habe für mein Verstehen von "digitale Medien" gute Erfahrungen mit einem sehr grundsätzlichen und naiven Verständnis gemacht. Es ist ein naturwissenschaftlicher Medienbegriff, wie er uns aus der Rede von Tieren vertraut ist. Wir benutzen einen solchen Medienbegriff, wenn wir über Tiere und ihren Lebensraum sprechen. Wir sagen beispielsweise: "Das Medium des Fisches ist das Wasser" oder "Das Medium des Regenwurms ist die Erde." Ähnlich dazu sagen wir nicht nur über Tiere, sondern manchmal auch über einen Menschen, er sei "ganz in seinem Element", wenn er in einer Umgebung und einem Modus ist, die zu ihm passen und mit denen er gut zurechtkommt.
+
+Auch in der Biochemie kennen wir ein solches Medienbild, wenn wir von einem Nährmedium sprechen. Gemeint ist die Umgebung, in der sich beispielsweise Mikroorganismen entwickeln sollen. Alternativ wird für den Begriff Nährmedium auch Nährboden oder Substrat verwendet. Die Naturwissenschaften sprechen in diesem Zusammenhang auch von Milieu oder vom Kulturmedium, was die Nähe zwischen naturwissenschaftlichen und sozialen Verständnissen von Medien deutlich werden lässt. Den Begriffen ist gemeinsam, dass damit der Boden (Substrat = "Untergestreutes") oder eine Umgebung (Environment = "Umgebendes") gemeint ist, auf dem und in der etwas geschieht.
+
+Zurück zum Regenwurm in seinem Medium Erde oder zum Fisch in seinem Medium Wasser. Wir sehen hier, dass Medium so etwas bedeuten kann wie: die Umgebung, in der wir uns bewegen, in der Leben stattfindet, was zwischen uns und dem Rest der Welt ist.
+
+## Der Pinguin kennt zwei Medien
+
+Beim Pinguin können wir jetzt ein interessantes Phänomen beobachten. Er führt sein Leben in zwei Medienwelten. Das Medium des Pinguins ist das Wasser und das Medium des Pinguins ist das Land. (Die Vorfahren des Pinguins hatten vor über 50 Millionen Jahren sogar ein drittes Medium: die Luft.)
+
+Um den Medienbegriff vom Pinguin ausgehend zu abstrahieren, nennen wir jetzt das Land das grüne Medium und das Wasser das blaue Medium.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 3: Pinguine im grünen Medium, Pinguine im blauen Medium<a href="#footnote10" class="footnote">10</a>*
+
+Im in schwarz-weiß gedruckten Buch kommen auf diesen Bildern die Eigenschaften des blauen und die grünen Mediums wenig zur Geltung. Hinter dem folgenden Link finden Sie Videos von Pinguinen. In Farbe und in Bewegung werden die Visualisierung deutlich wirksamer. https://www.joeran.de/die-pinguin-medienmetapher/
+
+Wir können uns jetzt anschauen, wie der Pinguin in seinen Medien unterwegs ist: Wie bewegt er sich? Wie steht er mit anderen Pinguinen in Kontakt? Wie weit erstreckt sich seine Reichweite? Was fällt ihm leicht, was fällt ihm schwer? Viele Unterschiede sind offensichtlich, wenn wir das grüne Medium und das blaue Medium miteinander vergleichen.
+
+Wir Menschen lernen gerade digitale Medien kennen, die in vielfacher Hinsicht neu und andersartig sind. Es ist, als hätten wir bisher in einer grünen Medienwelt gelebt und sehen uns nun mit der neuen, blauen Medienwelt konfrontiert.
+
+## Ist blau besser als grün?
+
+Zum Kennenlernen einer neuen Medienwelt gehört auch, dass wir das Neue und Unbekannte mit dem Alten und Bekannten vergleichen. Wir machen quasi einen "Medienvergleich". Das passiert, wenn wir Eigenschaften der blauen Medienwelt in Abgrenzung zur grünen Medienwelt beschreiben und beispielsweise feststellen, dass man sich in dem einem Medium schneller bewegen kann als im anderen, dass die Verbindung zu anderen Menschen in einem Medium einfacher ist als im anderen oder dass Raum und Zeit in einem Medium eine unterschiedliche Bedeutung haben als im anderen Medium.
+
+Solche Vergleiche sind notwendig und unvermeidlich, da unsere Maßstäbe durch die uns schon bekannte Medienwelt geprägt sind. Wir haben schlicht kaum andere Maßstäbe. Schwierig wird es mit den Medienvergleichen immer dann, wenn wir etwas im Sinne von "gut und böse" oder pauschal "besser und schlechter" vergleichen wollen. Denn die grüne und die blaue Medienwelt können kaum mit demselben Maßstab gemessen werden. Sie ticken gleichsam nach unterschiedlichen Naturgesetzen. Das macht besonders die Rede vom "Mehrwert digitaler Medien" problematisch, die gerade in pädagogischen Kreisen beliebt ist.
+
+## Trau keinem, der von "Mehrwert" spricht!
+
+Axel Krommer (2018b) hat anschaulich dargelegt, "dass der Mehrwert-Begriff unklar, irreführend, bewahrpädagogisch und letztlich überflüssig ist". An dieser Stelle soll die Unsinnigkeit der Mehrwert-Diskussion am Beispiel des Pinguins dargestellt werden.
+
+Eine zentrale Voraussetzung, um ein A und ein B nicht nur vergleichend beschreiben, sondern einen "Mehrwert" bewerten zu können, lautet: A und B brauchen vergleichbare Bedingungen. Bei Laborexperimenten wird das ermöglicht, indem man man die Untersuchung auf eine bestimmte Eigenschaft konzentriert und alle anderen Eigenschaft bei A und B stabil hält. Setzen wir in der Digitalisierungsfrage A als die grüne Medienwelt und B als die blaue Medienwelt. Es leuchtet unmittelbar ein, dass beide Umwelten so unterschiedlich sind, dass vergleichbare Bedingungen nicht bzw. nur mit unsinnigen Grundannahmen hergestellt werden können. Wollte man beispielsweise die Eigenschaft "Geschwindigkeit des Pinguins" untersuchen, so würde man zwecks Vergleichbarkeit in der Untersuchung vorgeben, dass der Pinguin in beiden Medien auf dem Boden laufen muss.
+
+Die grüne Medienwelt und die blaue Medienwelt ticken ganz unterschiedlich. Man könnte sogar sagen, sie sorgen für unterschiedliche Naturgesetze als Grundlage (Substrat) und Umgebung (Environment) unserer Leben. Hier steckt die fehlerhafte Grundannahme, auf der populäre Wissenschaftler wie Klaus Zierer oder Manfred Spitzer ihre vereinfachenden Thesen aufbauen. Sie gehen irrtümlich von einer statischen Welt aus, in der nur ein einzelner Baustein verändert wird, ohne dass diese Veränderung Wechselwirkungen zu anderen Bausteinen hätte.
+
+## Als Friedrich Nietzsche die Schreibmaschine entdeckte
+
+Vor diesem Hintergrund kann man auch nicht behaupten, dass digitale Medien "nur ein Werkzeug" für den Unterricht seien. (Sie können die Funktion eines Werkzeugs übernehmen. Aber sie sind nicht "nur" ein Werkzeug.) Alleine die Existenz der neuen Möglichkeiten erweitert und verändert unseren Denkraum.
+
+Digitale Medien sind für unser Leben und Lernen also nicht neutral, nicht "nur ein Werkzeug" oder gar "nur ein Übertragungskanal". Das wusste schon Friedrich Nietzsche. Axel Krommer berichtet in seinem empfehlenswerten Text "Wie ein Common-Sense-Medienbegriff zu pädagogischen Fehlschlüssen führt" (2018a):
+
+> "Im Februar 1882 schreibt Nietzsche einen Brief an Heinrich Köselitz (aka Peter Gast). Das Besondere: Er schreibt den Text nicht mit der Hand, sondern mit dem neuen Medium der Schreibmaschine. Und er merkt rasch, wie die 'Schreibkugel' sein Denken und seine Texte verändert: 'Sie haben Recht: unser Schreibzeug arbeitet mit an unseren Gedanken. Wann werde ich es über meine Finger bringen, einen langen Satz zu drücken!'"
+
+> Schreibmedien sind keine neutralen Vehikel zum Ausdruck fertiger Gedanken. Man muss kein Anhänger von McLuhans Medienbegriff sein, um zu erkennen, dass die Form eines Mediums maßgeblich dessen Inhalt und Wirkung prägt."
+
+## Neuland
+
+Wir sprechen in der Debatte um digitale Medien manchmal auch von den "neuen Medien". Angela Merkel prägte 2013 den Satz: "Das Internet ist für uns alle Neuland." Manche Menschen, die sich schon länger mit digitalen Medien beschäftigen, belächeln diese Begrifflichkeiten und halten dagegen, dass viele Formen der digitalen Medien schon seit Jahrzehnten existieren und für viele, insbesondere junge Menschen, selbstverständlich seien.
+
+Ich halte Begriffe wie "neue Medien" oder "Neuland" tatsächlich für hilfreich. Die Rede vom "Neuen" macht nämlich deutlich, dass wir es nicht nur mit einer Verstärkung oder mit einer Optimierung dessen zu tun haben, was vorher schon da war, sondern tatsächlich mit etwas Neuem, das grundlegend anders tickt als die alte Medienwelt.
+
+Das gilt umso mehr, wenn man in Betracht zieht, dass Digitalisierung ein andauernder Prozess und kein statischer Zustand ist. Die digitalen Medien verändern sich mit rasantem Tempo und in unvorhersehbare Richtungen. Unser Thema entwickelt sich weiter, noch während wir darüber nachdenken und sprechen. Die Rede von "neuen Medien" ist und bleibt also durchaus sinnvoll.
+
+## Kopfüber ins blaue Medium?
+
+Gehen wir noch einmal zurück zu den Pinguinen, die sowohl mit dem blauen Medium als auch mit dem grünen Medium gut vertraut sind. Im historischen Maßstab haben wir Menschen, die bisher gut mit dem grünen Medium vertraut waren, das blaue Medium gerade erst kennengelernt. Genauer gesagt: Wir haben mit dem Kennenlernen gerade erst begonnen. Einige Menschen stürzen sich gleich kopfüber hinein in das neue Medium, während andere zögernd am Ufer stehen und das neue Medium höchstens zaghaft mit dem großen Zeh austesten.
+
+Wie können wir uns angesichts der großen Ungewissheiten verhalten, mit denen wir im digitalen Wandel den neuen Medien gegenüberstehen? (Eigentlich ist schon diese Frage falsch formuliert. Denn wir stehen den digitalen Medien nicht "gegenüber", sondern wir stehen mitten drin.) Wir versuchen herauszufinden, wie dieses neue Medium funktioniert, wie es tickt, wie es sich anfühlt, was funktioniert und was auch nicht gut funktioniert.
+
+Ein beliebtes Konzept ist ein Kurs im Umgang mit digitalen Medien, an dessen Ende wir dann ein "Freischwimmer"-Zertifikat vergeben. Für den Anfang mag das hilfreich sein. Aber es ist nur ein erster Schritt. Die neue Medienwelt tickt so grundsätzlich anders und entwickelt sich so rasant, dass wir erst am Beginn des Kennenlernens stehen. Manchmal mögen uns Vergleiche mit der alten grünen Medienwelt helfen. Für manches können uns Schwimmkurse unterstützen. Aber die großen Fragen des digitalen Wandels werden wir für uns nicht über Anleitungen und Nachmachen beantworten können. Es geht vielmehr um Experimentieren und Herausfinden, um Erkundungen und Erprobungen in der neuen Medienwelt. Das braucht es auf der gesamtgesellschaftlichen Ebene, wenn wir Verständnis und Gestaltung der neuen Medien nicht Geheimdiensten und Großunternehmen überlassen wollen. Und das gilt auch auf der persönlichen Ebene, auf der wir am besten nicht nur auf uns alleine gestellt, sondern in kleinen Lerngemeinschaften arbeiten. Unsere Bildungshäuser können gute Orte dafür sein.
+
+#### Quellenangaben:
+
+- Klöckner, Lydia (2013): Pinguinen wurde Fliegen zu anstrengend. Online-Quelle: https://www.zeit.de/wissen/umwelt/2013-05/Seevoegel-Fliegen-Tauchen-Evolution (01.05.2019)
+- Krommer, Axel (2017): Wie man YouTube-Kids mit Tokio-Hotel-Angie den Medienbegriff McLuhans erklärt. Online-Quelle: https://axelkrommer.com/2017/11/25/wie-man-youtube-kids-mit-tokio-hotel-angie-den-medienbegriff-mcluhans-erklaert (01.05.2019)
+- Krommer, Axel (2018a): Wie ein Common-Sense-Medienbegriff zu pädagogischen Fehlschlüssen führt. Online-Quelle: https://axelkrommer.com/2018/08/27/wie-ein-common-sense-medienbegriff-zu-paedagogischen-fehlschluessen-fuehrt (01.05.2019)
+- Krommer, Axel (2018b): Wider den Mehrwert! Oder: Argumente gegen einen überflüssigen Begriff. Online-Quelle: https://axelkrommer.com/2018/09/05/wider-den-mehrwert-oder-argumente-gegen-einen-ueberfluessigen-begriff (01.05.2019)
+- Muuß-Merholz, Jöran (2018): Die Pinguin-Medienmetapher: Jöran erklärt den Leitmedienwechsel und die Mär vom digitalen Mehrwert. Online-Quelle: https://www.joeran.de/die-pinguin-medienmetapher/ (01.05.2019)
+- Rosa, Lisa (2017): Lernen im digitalen Zeitalter. Online-Quelle: https://shiftingschool.wordpress.com/2017/11/28/lernen-im-digitalen-zeitalter (01.05.2019)
+
+#### Ursprung:
+
+Der Text basiert auf Ausführungen in vielen Vorträgen des Autors. Für dieses Buch wurde er erstmals in Schriftform ausformuliert.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Axel Krommer: <a href="727">Wie ein Common-sense-Medienbegriff zu pädagogischen Fehlschlüssen führt</a>.
+- Lisa Rosa: <a href="#p621">Lernen im digitalen Zeitalter</a>.
+
+
+---
+
+
+# Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren
+
+*Jöran Muuß-Merholz*
+
+Nachdem das Thema in Deutschland lange ignoriert wurde, sehen wir heute nicht einen Hype, sondern geradezu Hysterie zur Digitalisierung der Schule. Die Forderung "Schule muss digitaler werden!" ist allgegenwärtig. Politik und Wirtschaft, Lehrer*innen, Schüler*innen und Eltern, Journalisten und Stiftungen haben eine derartige Aufbruchsstimmung, dass es einem unheimlich werden kann. Das Unbehagen ist begründet. Denn wenn man hinter die oberflächliche Einigkeit schaut, entdeckt man einen unausgesprochenen, bisweilen vielleicht auch unbewussten Konsens. Er lautet in etwa so: "Wir modernisieren die Schule nur an der Oberfläche. Wir optimieren mit digitalen Mitteln unser traditionelles Verständnis von Lernen und Lehren. Wir gießen den alten Wein in Hightech-Schläuche. Die Grundannahmen unserer Schule tasten wir nicht an."
+
+## Digital ist besser?
+
+In bestimmter Hinsicht mag die Digitalisierungseuphorie begründet sein. Mit bunten Apps kann man vielleicht besser Vokabeln und Matheaufgaben trainieren. Mit Erklärvideos lassen sich frontale Belehrungen beliebig oft wiederholen. Mit Smartboards kann das Tafelbild durch PowerPoint, Animationen und Videos ersetzt werden. Mit Lernplattformen lassen sich Materialien und Kommunikationen cloudbasiert vervielfältigen und beschleunigen.
+
+Die entscheidende Frage lautet: Optimieren wir hier nur die Schule des 19. und 20. Jahrhunderts? Verhindert die Rede von "digitaler Bildung" sogar den notwendigen Paradigmenwandel? Für Bildungsziele wie Aufklärung und Mündigkeit, Kreativität und Vielfalt, Freiheit und Verantwortung braucht es keine Vereinfachung der digitalen Welt, sondern Ansätze, die das offene Netz umarmen, den Umgang mit Vielfalt und Chaos fördern, selbstbestimmte Aktivitäten und kollaborative Projekte ermöglichen. Und dabei geht es nicht nur um Werkzeuge und Methoden. In einer Gesellschaft im digitalen Wandel müssen auch unsere Bildungsziele und Lerninhalte erst recht auf den Prüfstand.
+
+## Digitalisiert wird, was am einfachsten digitalisiert werden kann
+
+Mit digitalen Medien werden derzeit in der Schule vor allem zwei Bereiche modernisiert: Input mit Veranschaulichung sowie Übung mit Feedback. Beim Input kann der frontale Vortrag durch digitale Videos ersetzt werden, in denen ein Gegenstand mithilfe verschiedener Visualisierungen erklärt wird. Durch digitale Übungen können Verständnis und Routinen trainiert werden, wobei die Programme auch gleich Feedback geben und das Niveau anpassen können.
+
+Input und Übung, hier liegen derzeit die Stärken digitaler Medien. Damit wird digitalisiert, was am einfachsten digitalisiert werden kann. Allerdings sind das nicht die Felder, auf denen der Reformbedarf am größten wäre, etwa die Förderung von fächerübergreifenden Skills oder der Vorbereitung auf lebensbegleitendes, selbstorganisiertes Lernen. Das Grundverständnis der traditionellen Schule bleibt unangetastet.
+
+Reformorientierte Schulen haben dagegen bereits eine Pädagogik entwickelt und erprobt, die über Input und Übung hinausgeht. Solche Schulen finden sich nicht nur dort, wo "Reformschule" über dem Eingang steht, sondern an vielen Orten. Viele von ihnen sind im Netzwerk "Blick über den Zaun" aktiv oder im Wettbewerb "Der Deutsche Schulpreis" ausgezeichnet worden. Noch häufiger gibt es einzelne Akteure innerhalb der Schulen, die zwar nicht die ganze Schule umkrempeln können, aber ihren Unterricht neu denken. Ihnen allen ist gemeinsam, dass den Lernenden eine aktive und selbstbestimmte Rolle zugemutet wird. Sie lernen mit Selbststeuerung und Freiarbeit, arbeiten in Projekten und an Problemen der "echten Welt", oft in Zusammenarbeit mit anderen und orientiert an kreativen Produkten. In diesen Bereichen gibt es zwar großartige Beispiele für den Einsatz digitaler Medien, aber sie sind Ausnahmen von der Regel.<a href="#footnote11" class="footnote">11</a>
+
+## Bildungsziele für das 21. Jahrhundert
+
+Häufig wird im Kontext des digitalen Wandels die These vertreten, dass Fachwissen zugunsten von anderen Fähigkeiten in den Hintergrund trete. Dass die Realität anspruchsvoller ist, erklärt das Buch "Die vier Dimensionen der Bildung. Was Schülerinnen und Schüler im 21. Jahrhundert lernen müssen" (Fadel u.a. 2017). Darin zeigen die Autoren, dass Wissen weiterhin wichtig bleibt (und dass sogar neue Wissensbereiche hinzukommen), dass aber neben Wissen noch drei weitere Dimensionen wichtig sind.
+
+Die vier Dimensionen umfassen:
+
+- Wissen - sowohl traditionelles Wissen (z.B. Mathe, Sprachen, Kunst) als auch modernes Wissen (z.B. Ökonomie) und Querschnittsthemen (z.B. Medienkompetenz)
+- Skills - damit sind die vier Ks gemeint: Kritisches Denken, Kreativität, Kommunikation, Kollaboration
+- Charakter - also Fragen der Persönlichkeit wie z.B. Achtsamkeit, Resilienz, Neugier
+- Meta-Lernen - verstanden als das Lernen über das Lernen
+
+Es ist offensichtlich, dass in der traditionellen Schule bisher einseitig auf die erste Dimension (und hier auf traditionelles Wissen) gesetzt wird, und die anderen Dimensionen eher randständig sind. Bei den reformorientierten Schulen ist das anders. Sie verfolgen ihrem Anspruch nach umfassendere und untereinander verflochtene Bildungsziele.
+
+Wenn man gegenwärtig die Diskussion um digitale Medien in der Schule auf die Bildungsziele hin abklopft, findet man das Thema nur an den Stellen dieses Gesamtbildes verortet, die der traditionellen Schule entsprechen. Der Fachunterricht soll verbessert, die Medienkompetenz unterstützt, der Fachkräfte-Nachwuchs gefördert werden. Von den anderen Bildungszielen ist, auch und vielleicht gerade im Kontext der Digitalisierung, nur selten die Rede.
+
+## Nicht zu viel Veränderung auf einmal
+
+Aus Sicht der traditionellen Schule ist nachvollziehbar, dass mit der Digitalisierung eher das alte Verständnis der Lernformen und -zielen verfestigt wird. Es lässt sich nur ein begrenzter Umfang von Veränderungen gleichzeitig angehen. Und wenn die Änderung derzeit "Digitalisierung" heißt, dann ist es gerade angesichts der derzeitigen Rahmenbedingungen einfacher, alles andere möglichst unverändert zu lassen. Wenn man schon mit einem Bein in der Luft schwebt, dann will man zumindest für das andere Bein stabilen und vertrauten Boden spüren. Und so kommt es, dass die aktuellen Entwicklungen in Sachen Digitalisierung alte Pädagogiken optimieren, vielleicht zementieren neue digitale Infrastrukturen diese sogar.
+
+## Schule im digitalen Zeitalter ist reformorientierte Schule
+
+Für Akteure in reformorientierten Schulen ist selbstverständlich: Wir brauchen ein anderes Verständnis hinsichtlich des WAS und des WIE des Lernens. Das WAS muss auf ein umfassenderes Bildungsverständnis abzielen, beispielsweise im Sinne der oben beschriebenen vier Dimensionen. Das WIE muss auf ein Empowerment der Lernenden setzen, die ihr Lernen selbst in die Hand nehmen. Und dieses WAS und WIE stehen in direkter Wechselwirkung zueinander.
+
+Die folgende Gegenüberstellung stammt von der Lehrerin und Fortbildnerin Lisa Rosa (2017).<a href="#footnote12" class="footnote">12</a> Auf Basis der sich ändernden gesellschaftlichen Anforderungen zeigt sie, dass sich unsere Anforderungen an Schule und Lernen im digitalen Zeitalter grundlegend von dem unterscheiden, was wir im bisherigen, vom Buchdruck geprägten Zeitalter praktiziert haben. Die in der Abbildung vom Autor hinzugefügten wechselseitigen Pfeile weisen darauf hin, dass es nicht darum geht, dass die Elemente der linken Seite abgeschafft und ersetzt werden. Die neuen Perspektiven auf der rechten Seite kommen hinzu, ergänzen und verändern unser Verständnis von Schule und Lernen.
+
+Schule und Lernen im Buchdruckzeitalter
+
+- lehrerzentriert
+- belehrend
+- systematisch
+- objektivistisch
+- dekontextualisiert
+- allein
+- festliegendes Ergebnis
+- vorgegebene Bedeutung
+- Denkmodell: Büffeln
+
+Schule und Lernen im digitalen Zeitalter
+
+- lernerzentriert
+- erforschend
+- problemorientiert
+- perspektivisch
+- kontextualisiert
+- im Austausch
+- ergebnisoffen
+- persönlicher Sinn
+- Denkmodell: Rauskriegen
+
+In dieser Gegenüberstellung ließe sich die Überschrift "Buchdruckzeitalter vs. digitales Zeitalter" austauschen. Stattdessen könnte dort auch "Traditionelle Schule vs. reformorientierte Schule" stehen. Jeder Punkt der Liste würde weiterhin genauso gut passen!
+
+Es sieht also so aus, als ob die reformorientierten Schulen wie geschaffen für das digitale Zeitalter sind. Bedeutet das, dass mit zunehmender Digitalisierung quasi "automatisch" mehr reformerische Pädagogiken Einzug in die Schulen halten? Keineswegs. Im Moment sieht es eher nach dem Gegenteil aus: Mit neuen Medien wird die alte Pädagogik optimiert!
+
+## Aufforderung zum Tanz
+
+Reformorientierte Pädagog*innen müssen sich dringend stärker in die Debatte um Digitalisierung einbringen. Denn ihr Verständnis von Schule ist prädestiniert für das digitale Zeitalter, während die traditionellen Schulen vielleicht ihre Technik, aber nicht ihre Pädagogik modernisieren.
+
+Im Moment sehen wir unter den reformorientierten Akteuren zwei Richtungen: Die eine Gruppe entscheidet sich für die Digitalverweigerung, während eine andere Gruppe die digitalen Medien vielleicht nicht umarmt, aber doch zumindest erprobt. Beide Gruppen müssen sich zusammentun. Denn die Verweigerer laufen Gefahr, in ihrer Ablehnung die vielfältigen Möglichkeiten der digitalen Medien und den Bezug zur echten Welt außerhalb der Schule zu verlieren. Die Befürworter müssen aufpassen, dass ihr Blick auf das Lernen nicht von den Verführungen der digitalen Medien verengt wird, denn: Auch mit modernsten Medien lässt sich eine altmodische Pädagogik verfolgen.
+
+Für alle Schulen, auch und vielleicht gerade für die besonders reformorientierten unter ihnen, gilt die doppelte Herausforderung: Sie müssen weiterhin an der längst nicht erfüllten Mission der neuen Schule arbeiten UND GLEICHZEITIG den digitalen Wandel gestalten. Sie verlassen damit mit zwei Beinen gleichzeitig den stabilen Boden. Wenn wir diesen Zustand gut hinkriegen, dann ist das ein Tanz.
+
+#### Quellenangaben:
+
+- Fadel, Charles/Bialik, Maya/Trilling, Bernie (2017): Die vier Dimensionen der Bildung. Was Schülerinnen und Schüler im 21. Jahrhundert lernen müssen. Mit einem Vorwort von Andreas Schleicher. Deutsche Übersetzung von Jöran Muuß-Merholz. Hamburg: Verlag ZLL21.
+- Muuß-Merholz, Jöran (2016): Personalisiertes Lernen in Blog-Projekten - Digitale Medien im Unterricht von Lisa Rosa. Online-Quelle: https://www.joeran.de/lisa-rosa (01.05.2019)
+- Muuß-Merholz, Jöran (2019): Digitale Schule - Was heute schon im Unterricht geht. Das Praxisbuch zum individualisierten Lernen mit digitalen Medien. Hamburg: Verlag ZLL21.
+- Rosa, Lisa (2017): Lernen im digitalen Zeitalter. Online-Quelle: https://shiftingschool.wordpress.com/2017/11/28/lernen-im-digitalen-zeitalter (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text erschien in einer früheren Version erstmals als Teil eines Buches, das an der Reformschule Winterhude (Hamburg) entstand: Ziele. Wege. Unruhe. 15 Jahre Winterhuder Reformschule. 50. Winterhuder Gespräch. Verabschiedung von Birgit Xylander. Eine Festschrift. Herausgeber: Freund und Förderer der Winterhuder Reformschule e.V., 2019. Online verfügbar unter https://www.joeran.de/aufforderung-zum-tanz
+
+#### Empfehlungen zum Weiterlesen:
+
+- Buch-Tipp mit vielen Beispielen reformorientierter Pädagogik mit digitalen Medien: Muuß-Merholz, Jöran (2019): Digitale Schule - Was heute schon im Unterricht geht. Das Praxisbuch zum individualisierten Lernen mit digitalen Medien. Hamburg: Verlag ZLL21.
+- Lisa Rosa: <a href="#p621">Lernen im digitalen Zeitalter</a>.
+- https://www.edunautika.de/ - ein Barcamp von und mit reformorientierten Schulen, ein Barcamp zu zeitgemäßer Pädagogik im digitalen Wandel.
+
+
+---
+
+
+# Der große Verstärker. Digitale Medien als Trojaner, Katalysator oder Kontrollmaschine
+
+*Jöran Muuß-Merholz*
+
+Kurz vor Weihnachten 2018 war ich zu Gast in einer Diskussionsrunde. Alle Eingeladenen hatten vorab ein Statement zur Frage geschickt, wie digitale Medien in den Bildungsinstitutionen wirken würden. Unser Gastgeber leitete meinen Beitrag folgendermaßen ein: "Ich bin irritiert, dass Ihre These so skeptisch ausfällt, Herr Muuß-Merholz. Ich dachte immer, Sie seien ein Befürworter, ja sogar ein Euphoriker?! Und jetzt schreiben Sie hier, dass digitale Medien alte Pädagogiken fördern würden. Wann hat sich das denn geändert?"
+
+Die Grundidee meines Statements steht in einem anderen Text, nämlich in "Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren". Im Folgenden geht es darum, wie sich meine Perspektive von der Euphorie zur Skepsis gewandelt hat und welche Hoffnungen bleiben.
+
+## Die Hoffnung von 2010
+
+2010 durfte ich erstmals das Programm zur re:learn zusammenstellen, der Sub-Konferenz zur re:publica, einer Konferenz zur Gesellschaft im digitalen Wandel. Ich schrieb für die Website der re:publica einen kleinen Text:
+
+> "Unter dem Motto re:learn kommen in Berlin Internet und Bildung zusammen. 'Das Ganze hat überhaupt nichts mit e-learning zu tun!', betont Jöran Muuß-Merholz, Initiator und Kurator der re:learn: 'Beim Zusammenwachsen von Bildungswelt und Netzwelt verändert sich die gesamte Lernkultur in Richtung Selbstbestimmung, Kollaboration, Praxis- und Projektorientierung.'"<a href="#footnote13" class="footnote">13</a>
+
+Darüber stand als Überschrift: "Ziehen auf digitalem Wege Trojaner für eine veränderte Lernkultur in die Bildungsinstitutionen ein?"
+
+Das bringt meine Idee von 2010 auf den Punkt. Die Trojaner-These lautete vereinfacht gesagt: Wenn erst einmal digitale Medien und Netzwelt in Schulen und andere Bildungshäuser Einzug halten, dann wird die Pädagogik quasi automatisch einen Schub in Richtung Selbstbestimmung, Kollaboration, Praxis- und Projektorientierung bekommen. So diskutierten wir es auch auf der re:learn-Konferenz. Wir sprachen über Blogs und Wikis, die von Schüler*innen zusammen mit ihren Lehrer*innen bearbeitet wurden, zeigten Geocaching-Routen, bei denen es aus den Schulgebäuden raus ins Leben ging, und sprachen über den Umgang mit iPhones an einer Schweizer, Tablets an einer Kölner und Laptops an einer Berliner Schule.
+
+## Ein Trojaner als Einhorn
+
+Die Grundannahme hinter der Metapher vom Trojanischen Pferd sah dabei ungefähr so aus: Digitale Medien werden aus unterschiedlichen Gründen in die Schule gebracht. Aber wenn sie erst einmal da sind, dann entspringen aus ihren Bäuchen kleine Soldaten in Form von Wikis und Blogs, Wikipedia und Geocaching, Zusammenarbeit mit Dritten und Projekten, die man dem Rest der Welt zeigen kann. Mehr Selbstbestimmung, weil die Möglichkeiten für selbstbestimmtes Lernen größer wurden. Mehr Praxis- und Projektorientierung, weil die Möglichkeiten für Verknüpfung zur Praxis und die Umsetzung von Projekten wuchsen. Mehr Kollaboration, weil die digitalen Werkzeuge und Plattformen das so einfach machten.
+
+Eine neue Pädagogik würde kommen, ganz einfach: weil es geht. Weil es fast schon unausweichlich war. Unser trojanisches Pferd war wie ein magisches Einhorn: stark und omnipotent, glücklich und bunt, naiv und widerspruchsfrei.
+
+Das "wir" in diesen Sätzen waren "wir Leute aus dem Internet". Wir schlossen von uns auf andere. Wir gingen davon aus: Wenn wir selbst mit der Digitalisierung diesen Wandel hin zu Selbstbestimmung und Zusammenarbeit, Praxis- und Projektorientierung erfahren hatten, dann würden andere diese Erfahrung auch machen. Nur später.
+
+## Dann wenigstens ein Katalysator …
+
+In weniger euphorischen Momenten sahen wir, dass die Bildungsrevolution doch noch einige Herausforderungen zu überwinden hatte. Vielleicht würde die Bildungsrevolution nicht ganz so schnell wie in Troja, nämlich über Nacht kommen. Aber dann würden die digitalen Medien zumindest als Katalysator wirken. Die Katalysator-Idee war quasi eine abgeschwächte Trojaner-These. Wenn schon kein nächtlicher Umschwung, dann zumindest ein Turbo-Antrieb. Nach der militärischen jetzt eine chemische Metapher. Man nehme eine Bildungsorganisation und gebe digitale Medien hinein. Und schon würden sich Reaktionen in Richtung moderne Pädagogik vollziehen, die ohne digitale Medien gar nicht oder nur viel langsamer in Gang kommen würden.
+
+Die Katalysator-Metapher war, im Rückblick analysiert, immerhin schon etwas konstruktiver. Sie ging nicht mehr von einer quasi feindlichen Übernahme aus, sondern setzte auf eine Grundlage *innerhalb* der Bildungshäuser, quasi einen Keim, der sich durch digitale Medien entwickeln könne. Hier wird nicht mehr etwas Neues von außen infiltriert, sondern etwas verstärkt, was im Inneren schon angelegt ist.
+
+## Das System schlägt zurück
+
+Nicht nur in der Bildung, auch in anderen gesellschaftlichen Bereichen konnten wir in den Folgejahren sehen, dass digitale Medien nicht zwangsläufig zu Emanzipation und Empowerment führen. Selbst wenn es zu Beginn anders aussah. Nachdem im Arabischen Frühling der Widerstand von unten über Social Media unterstützt wurde, gewannen an vielen Orten die autoritären Systeme wieder die Oberhand, auch über die digitalen Welten. Mehr noch: Heute gehören genau die autoritäten Akteure zu denjenigen, die am meisten von der Verbreitung von Digitalisierung und Social Media profitieren. Das Muster lässt sich auf verschiedenen Ebene nachzeichnen: Auf die Obama-Kampagne folgte die Trump-Kampagne. Nach dezentralen Flohmarkt-Plattformen kam amazon. Aus Couchsurfing wurde Airbnb. Statt Blogs wurde Facebook erfolgreich.
+
+Die traditionellen und mächtigen Akteure lernten schnell, wie sie sich die digitale Welt zu ihren Gunsten gestalten konnten. Das System schlug zurück.
+
+## It's all about Kontrolle
+
+Das lässt sich inzwischen auch im Bildungsbereich nachvollziehen. In den letzten Jahren profitieren zunächst diejenigen von digitalen Medien, die in den etablierten Settings die Schwächeren sind: Schülerinnen und Schüler. Mit dem Smartphone auf bzw. unter dem Tisch konnten sie viele Strukturen, Routinen und Kontrollen umgehen und sich zunutze machen.
+
+Wer heute über eine Bildungsmesse läuft, sieht die Gegenreaktion überall auf den Werbebannern. Das Versprechen lautet: "Die Schule kann die Kontrolle zurückgewinnen!" Dabei geht es sogar schon um eine zweite Stufe der Reaktion auf den digitalen Wandel. Im ersten Schritt soll die Kontrolle zurückgewonnen werden, indem die digitalen Geräte verboten und weggesperrt werden. Es handelt sich quasi um den Versuch, die alten Verhältnisse wiederherzustellen, indem das Neue einfach weggesperrt werden sollte.
+
+Bei der zweiten Stufe geht es quasi um den gegenteiligen Ansatz: Schule gewinnt die Kontrolle nicht trotz, sondern durch digitale Medien zurück. Das Versprechen: Wenn Hardware und Software in der Hand der Schule sind, dann lässt sich darüber das Verhalten der Schülerinnen und Schüler ständig beobachten und steuern - und zwar um Größenordnungen besser als ohne digitale Medien. Diese Kontrolle 2.0 ist das neue große Versprechen der Digitalisierungsindustrie. (Selbstverständlich geschieht das alles im Dienste des Lernens, nicht um der Kontrolle selbst willen.)
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 4: Foto "Unter Kontrolle" von Zeitschriften-Cover (Bildzitat)*
+
+## Katalysator oder Kontrollmaschine
+
+Was ist nun also richtig - die These von digitalen Medien als Katalysator für progressive Pädagogik und Empowerment oder die These von digitalen Medien als omnipotente Kontrollmaschine? Schaut man auf die tatsächliche Praxis, so finden sich Belege für beide Richtungen: Es gibt Praxisgeschichten, in der digitale Medien als Katalysator dienten. Wo Schulleiter berichten, dass sie Ausgangspunkte von pädagogischem Wandel waren, der so gar nicht vorgesehen war. Wo Lehrerinnen zeigen, dass Lernen in Projekten und an Produkten anders und besser als in prä-digitalen Zeiten funktioniert. Wo Unterricht durch digitale Medien stärker auf Selbstbestimmung und Zusammenarbeit aufbaut (vgl. Muuß-Merholz 2019) Und es gibt gleichzeitig immer mehr Berichte über digitale optimierte Kontrolle, in denen jeder Schritt überwacht und überprüft werden kann.
+
+Es gilt also beides: Digitale Medien können als Katalysator für fortschrittliche Pädagogik fungieren. Und digitale Medien können zu optimierter Überwachung und Kontrolle des Lernens genutzt werden.
+
+## Der große Verstärker
+
+Der Bildungsbereich hat in Sachen Digitalisierung einen großen Vorteil: Er ist vergleichsweise spät dran. Deswegen können wir beobachten und lernen, was in anderen gesellschaftlichen Bereichen schon in Sachen Digitalisierung passiert ist. Zwar muss man vorsichtig sein, wenn man Beobachtungen von anderen Bereichen auf die Bildung übertragen und pauschalisieren will. Aber eine Sache kann man tatsächlich pauschal feststellen: Digitale Medien fungieren als große Verstärker. Sie verstärken das, was schon da ist. Insofern können Sie ein Stück weit tatsächlich Katalysator sein, aber nicht per se in eine gewünschte Richtung, sondern als Unterstützung von vorhandenen Anlagen.
+
+Wer gerne lahm auf dem Sofa rumhängt, der kann mit digitalen Medien noch besser lahm auf dem Sofa rumhängen.
+
+Wer gerne raus in die Welt geht und Neues entdecken will, der kann mit digitalen Medien noch besser raus in die Welt gehen und Neues entdecken.
+
+Wer sich gerne mit anderen Menschen verbindet und austauscht, der kann sich mit digitalen Medien noch besser mit anderen Menschen verbinden und austauschen.
+
+Wer gerne Unterricht mit starker Struktur und Kontrolle macht, kann mit digitalen Medien noch besser Unterricht mit starker Struktur und Kontrolle machen.
+
+Wer gerne selbständiges Lernen fördert, mit viel Aktivität, mit viel Kreativität, mit viel kritischem Denken, mit viel Zusammenarbeit, der kann mit digitalen Medien noch besser selbständiges Lernen, mit viel Aktivität, mit viel Kreativität, mit viel kritischem Denken, mit viel Zusammenarbeit fördern.
+
+Wer gerne Unterricht mit wenig Aufwand vorbereitet und alte Stunden nur leicht verändert wiederholt, der kann mit digitalen Medien noch besser Unterricht mit wenig Aufwand vorbereiten und alte Stunden nur leicht verändert wiederholen.
+
+Wer neue Bildungsziele erproben, verfolgen und untereinander verflechten will, der kann mit digitalen Medien noch besser neue Bildungsziele erproben, verfolgen und untereinander verflechten.
+
+## Droht Polarisierung?
+
+Wie wird es weitergehen? Steht uns eine stärkere Polarisierung bevor, mit starken Kontrasten zwischen einzelnen Schulen, sogar zwischen einzelnen Lehrerinnen und Lehrern? Wenn die Verstärker-These richtig ist, spricht vieles dafür. Denn schon jetzt sehen wir große Unterschiede in den Leitbildern von Schulen, im Selbstverständnis von Pädagogik und Lehren, in den Grundformen von Unterricht und Lernen. Es ist denkbar und wahrscheinlich, dass Digitalisierung die unterschiedlichen Richtungen noch verstärken wird. Es wird Schulen und Pädagogen geben, die sich als Gegenpol zur allgegenwärtigen Digitalisierung verstehen, die mit dem Aussperren digitaler Medien eine Rückbesinnung auf traditionelle Werte und Bildungsziele verbinden wollen. Es wird Schulen geben, die digitale Medien für einen an Kontrolle orientierten Ansatz nutzen, in dem traditioneller Unterricht digital vermeintlich verbessert wird, indem Input, Übungen und Feedback individualisiert und optimiert werden. Und es wird Schulen und Lehrer geben, die auf den Ansatz setzen, den wir bei der re:learn-Konferenz 2010 für unausweichlich hielten und bei dem sich die gesamte Lernkultur in Richtung Selbstbestimmung, Kollaboration, Praxis- und Projektorientierung verschiebt.
+
+## Ist Versöhnung möglich?
+
+Aber vielleicht ist das zu dichotomisch, zu sehr in Entweder-Oder-Mustern gedacht. Vielleicht gibt es auch eine Sowohl-Als-Auch-Antwort, in der die Möglichkeiten der digitalen Medien zur Optimierung des Lehrens eingesetzt werden und gleichzeitig neue Formen erprobt und ausgedehnt werden. Vielleicht lassen sich beide Perspektiven miteinander versöhnen.
+
+Möglicherweise ist dieses Sowohl-Als-Auch stärker als nur eine Versöhnung, und es braucht beides zusammen, um die Bildungsziele des 21. Jahrhunderts angehen zu können. Denn diese Bildungsziele sind so umfassend und anspruchsvoll, dass weder der eine noch der andere Ansatz alleine ausreichen wird. Diese Ziele setzen sich sowohl aus Wissen und klassischen Lernzielen wie auch aus zusätzlichen Dimensionen wie Skills, Charakter und Meta-Lernen zusammen (vgl. Fadel u.a. 2017). Mit optimierten Lehrangeboten lassen sich vielleicht die klassischen Fächer schneller und effizienter bearbeiten, aber sicher keine Skills wie Kreativität oder kritisches Denken und keine Charaktereigenschaft wie Neugier oder Leadership fördern. Dafür braucht es die neuen pädagogischen Formen.
+
+Wenn wir die Bildungsziele des 21. Jahrhunderts ernst nehmen, brauchen wir eine digitale Effizienzdividende aus dem optimierten Lehren, damit wir uns zusätzlich progressiven Formen für die erweiterten Lehr- und Lernziele widmen können. Für die Erreichung dieser Bildungsziele braucht es nicht nur einen großen Verstärker, sondern auch die richtige Ausrichtung. Ein Zusammenspiel aus verschiedenen Richtungen bei gleichzeitiger Verstärkung, das ist nicht einfach. Aber wichtig.
+
+##### Quellenangaben:
+
+- Fadel, Charles/Bialik, Maya/Trilling, Bernie (2017): Die vier Dimensionen der Bildung. Was Schülerinnen und Schüler im 21. Jahrhundert lernen müssen. Mit einem Vorwort von Andreas Schleicher. Deutsche Übersetzung von Jöran Muuß-Merholz. Hamburg: Verlag ZLL21.
+- Muuß-Merholz, Jöran (2019): Digitale Schule - Was heute schon im Unterricht geht. Das Praxisbuch zum individualisierten Lernen mit digitalen Medien. Hamburg: Verlag ZLL21.
+
+##### Ursprung:
+
+Der Text ist für dieses Buch neu entstanden, nachdem die These vom großen Verstärker in zahlreichen Vorträgen erprobt und ausgearbeitet wurde.
+
+##### Empfehlungen zum Weiterlesen:
+
+- Jöran Muuß-Merholz: <a href="#p290">Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren</a>.
+- Dejan Mihajlović: <a href="#p1336">Was ist zeitgemäße Bildung?</a>
+- Axel Krommer: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+
+
+---
+
+
+# Warum der Grundsatz "Pädagogik vor Technik" bestenfalls trivial ist
+
+*Axel Krommer*
+
+Der Grundsatz "Pädagogik vor Technik", ist im aktuellen Diskurs über Bildung und Digitalisierung sehr häufig zu hören. Er hat mindestens drei Lesarten, die im Folgenden kritisch betrachtet werden. "Pädagogik vor Technik" kann demnach meinen
+
+1. dass Technik dem Menschen dienen sollte, nicht der Mensch der Technik.
+2. dass man sich zunächst auf das pädagogische Kerngeschäft konzentrieren sollte, bevor man das Klassenzimmer für Technik öffnet.
+3. dass pädagogische Entscheidungen vor technischen Entscheidungen getroffen werden müssen.
+
+Es wird sich herausstellen, dass Lesart (1) zwar wahr, aber bestenfalls trivial ist, während die Lesarten (2) und (3) falsch sind und schlimmstenfalls dazu führen, insbesondere die Potenziale digitaler Medien für den Unterricht zu verkennen.
+
+## Lesart 1: Trivialität
+
+Ein prominenter Vertreter der These, dass sich die Technik dem Menschen unterzuordnen habe, ist der Augsburger Schulpädagoge Klaus Zierer, dessen Buch "Lernen 4.0" (2018) gar den Untertitel "Pädagogik vor Technik" trägt.
+
+Wer die These vertritt, dass Technik dem Menschen zu dienen habe (und nicht umgekehrt) erntet rasch und kommod breite Zustimmung. Doch diese Zustimmung hat einen hohen Preis. Denn de facto gibt es keinen einzigen Pädagogen und keine einzige Pädagogin, der bzw. die ernsthaft und explizit die These vertreten würde, dass der Mensch der Technik zu dienen habe. Und eine Aussage, deren Negation so absurd ist, dass ihr niemand zustimmen würde, ist inhaltlich schlicht trivial. Die Zierer-Lesart des Grundsatzes "Pädagogik vor Technik" ist daher keine gehaltvolle These, sondern eine semantische Seifenblase.
+
+Der triviale Charakter der ersten Lesart lässt sich auch philosophisch begründen. Denn zu den charakteristischen Merkmalen der Technik gehört, dass sie als "Ur-Humanum" (vgl. Schadewaldt 1970), verstanden werden muss: Der Mensch nutzt als Mängelwesen technische Hilfsmittel, um das bewältigen zu können, worin er von Natur aus benachteiligt ist. Lesart 1 paraphrasiert also lediglich eine verbreitete Technik-Definition und ist daher ähnlich gehaltvoll wie die Aussage, dass Kreise rund sind.
+
+Das bedeutet jedoch nicht, dass der Grundsatz "Pädagogik vor Technik" vollkommen wertlos wird. Denn auch inhaltlich Triviales kann wichtige kommunikative Funktionen erfüllen: Wenn sich beispielsweise die nächste Schule anschickt, ohne jedes didaktische Konzept digitale Technik anzuschaffen, kann "Pädagogik vor Technik!" als warnender Weckruf dienen, der etwas Selbstverständliches zurück ins Bewusstsein hebt, das zuvor möglicherweise durch Hardware-Euphorie vernebelt wurde.
+
+## Lesart 2: Technikblindheit
+
+Die folgende Illustration kann als Ausgangspunkt für eine kritische Analyse der zweiten Lesart dienen:
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 5: Illustration von Katharina Bitzl. In: Süddeutsche Zeitung Nr. 52 vom 03./04.03.2018, Buch II, S. 13.*
+
+Pädagogik wird hier durch Buch, Stift und Schrift visualisiert. Pädagogisches Handeln bedeutet also beispielsweise, Lesen und Schreiben zu lehren. Die Technik in Gestalt eines Tablets, auf dem Schreibschwünge durch kleine Pfeile angedeutet werden, bleibt im Hintergrund (und könnte auch eine Schiefertafel sein).
+
+Illustriert wird hier ein Common-sense-Verständnis unterrichtlicher Technik, zu deren Gegenstandsbereich gewöhnlich vom OHP<a href="#footnote14" class="footnote">14</a> über das Whiteboard<a href="#footnote15" class="footnote">15</a> bis zum Smartphone vor allem elektronische Geräte gezählt werden. Doch natürlich sind auch Schrift und Buch Formen von Technik: Die frühe Neuzeit war maßgeblich durch die Konkurrenz von Schreib- und Druckkunst um die Führungsrolle in der Informationstechnologie geprägt und der beispiellos komplexe Buchdruck, die ars nova ingeniosa, galt als High-Tech des 15. Jahrhunderts (vgl. Giesecke 1998, S. 67).
+
+Für uns sind Schrift und Typografie hingegen so selbstverständlich geworden, dass ihr technologischer Charakter kaum noch wahrgenommen wird. Das kann zu der falschen Vorstellung führen, der auf Buch und Schrift basierende Unterricht sei durch eine Pädagogik geprägt, die ganz ohne Technik auskomme. Wenn man über das Verhältnis von Pädagogik und Technik nachdenkt, ist es jedoch entscheidend, auch Schrift und Buch als Unterrichts-Techniken zu identifizieren.
+
+Vor diesem Hintergrund entpuppt sich der Grundsatz "Pädagogik vor Technik" in der aktuellen Debatte als versteckt-bewahrpädagogischer Appell: "Setze zuerst auf die Buch-und-Schrift-Pädagogik, bevor Du (digitale) Technik in Deine (didaktischen) Überlegungen einbeziehst!".
+
+Doch wer dieser Aufforderung folgt, blendet nicht nur aus, wie sehr die traditionelle Pädagogik durch Buch- und Schrift-Technik geprägt ist. Aus der Buch-und-Schrift-Perspektive wird es auch sehr schwierig, sich an Prinzipien zeitgemäßer Bildung zu orientieren. Lesart 2 ist daher gerade für die Institution Schule kein Grundsatz, der innovative Prozesse der Schulentwicklung anstoßen kann.
+
+## Lesart 3: Kulturblindheit
+
+Die dritte Lesart des Grundsatzes "Pädagogik vor Technik" ist eine Variation des Themas, das schon in der zweiten Lesart anklingt. Die These, dass pädagogische Entscheidungen prinzipiell vor technischen Entscheidungen zu treffen sind, blendet ebenfalls aus, wie sehr der pädagogische Handlungs- und Entscheidungsraum durch die vorhandene Technik mitbestimmt wird.
+
+Die Privilegierung der Pädagogik vor der Technik gemahnt darüber hinaus an Klafkis "Primat der Didaktik", das den Zusammenhang zwischen Unterrichtszielen und Methoden in einer Ziel-Weg-Analogie abbildet:
+
+> "[M]an muß das Ziel kennen, um über den Weg entscheiden zu können." (Klafki 1961, S. 76).
+
+Wenn man den Unterricht auf der Grundlage dieses Prinzips planen will, legt man also zunächst die Ziele fest, die es zu erreichen gilt, und entscheidet erst in einem zweiten Schritt, mit welchen Methoden diese Ziele am besten zu erreichen sind.
+
+Der blinde Fleck dieser Vorgehensweise zeigt sich aktuell in der Debatte um den Mehrwert digitaler Medien. Dieser Mehrwert scheint nur dann gegeben zu sein, wenn sich die vorab gesetzten Ziele mit digitalen Medien besser, schneller, nachhaltiger etc. erreichen lassen als auf traditionellem Wege.
+
+Ausgeblendet wird bei diesem Vorgehen, dass die unterrichtlichen Zieldimensionen nicht unabhängig von medialen und technischen Rahmenbedingungen sind. Vereinfacht gesagt: Die Ziele, die sich in einem ausschließlich auf Buch und Schrift basierenden Unterricht realistischerweise erreichen lassen, unterscheiden sich signifikant von den Zielen, die man mit Buch, Schrift, Tablet und Internetzugang ansteuern kann. Der wahre Mehrwert digitaler Medien besteht also nicht darin, alte Ziele schneller zu erreichen, sondern völlig neue Zieldimensionen erstmals zu erschließen.
+
+Das Motto "Pädagogik vor Technik" verstellt nicht nur den Blick auf diese Zusammenhänge, sondern auch auf die radikal-disruptiven Veränderungen, die für die Phase der Leitmedientransformation (vgl. Brandhofer 2016) prägend sind: Es geht darum, dass die gesamte Gesellschaft durch die Kultur der Digitalität (sensu Stalder 2016) in eine neue Denk-Nährlösung, "a new medium to think and imagine differently" (Manovich 2013, S. 13) getaucht wird, in der auch solche Begriffe wie Lernen und Wissen neue Bedeutungen erhalten (vgl. hierzu z.B. Weinberger 2011).
+
+Aus der "Pädagogik vor Technik"-Perspektive bleiben diese komplexen Interdependenzen, die für das Verständnis der Kultur der Digitalität und der Veränderungen im Bereich des Lernens und Lehrens entscheidend sind, weitgehend unsichtbar.
+
+Es ist daher auch wenig überraschend, dass sich die These "Lernen bleibt [...] Lernen - ob digital oder nicht" (Zierer 2018, S. 65), die gleich auf mehreren Ebenen problematisch ist, nahtlos in ein Gedankengebäude integrieren lässt, in dem der Grundsatz "Pädagogik vor Technik" eine zentrale Bedeutung besitzt.
+
+## Fazit
+
+Der Grundsatz "Pädagogik vor Technik" ist bestenfalls trivial, schlimmstenfalls ein Baustein einer Theorie, die ungeeignet ist, Lernen und Lehren unter den Bedingungen der Digitalität angemessen zu beschreiben - geschweige denn zu analysieren oder zu gestalten.
+
+Aus dem Bereich der allgemeinen Didaktik gibt es seit mehr als einem halben Jahrhundert eine rationale Alternative zu den kurzsichtigen X kommt vor Y-Modellen. Sie beruht auf der Einsicht, dass Unterricht ein vieldimensionaler Prozess von größter Faktorenkomplexität ist, dem man theoretisch nur gerecht werden kann, wenn man die Interdependenzen zwischen den einzelnen Faktoren aufzeigt.
+
+Die Rede geht vom Berliner Modell (vgl. Heimann/Otto/Schulz 1965), in dem nicht zufällig die Medienwahl erstmals als eigenständiges Entscheidungsfeld, d.h. nicht als Teil der Methodik, auftaucht.
+
+Anstatt weiter "Pädagogik vor Technik" zu rufen, den Einfluss von Technik auf die Pädagogik und den Einfluss von Medien auf Kultur und Gesellschaft tendenziell auszublenden, gilt es daher, die Interdependenzen der Faktoren zu analysieren, die Lernen unter den Bedingungen der Digitalität konstituieren.
+
+Für den Bereich des E-Learnings hat Karla Spendrin (2013) bereits einen interessanten Ansatz vorgelegt, der explizit auf dem Berliner Modell basiert. Es steht zu hoffen, dass weitere solcher Vorschläge folgen.
+
+##### Quellenangaben:
+
+- Brandhofer, Gerhard (2016): Leitmedientransformation - oder: das geht nicht wieder weg. Online-Quelle: https://www.brandhofer.cc/leitmedientransformation (01.05.2019)
+- Giesecke, Michael (1998): Der Buchdruck in der frühen Neuzeit. Eine historische Fallstudie über die Durchsetzung neuer Informations- und Kommunikationstechnologien. Frankfurt am Main: Suhrkamp.
+- Heimann, Paul/Otto, Gunter/Schulz, Wolfgang (1965): Unterricht. Analyse und Planung. 1/2 Hannover: Schroedel 1965.
+- Klafki, Wolfgang (1961): Studien zur Bildungstheorie und Didaktik. Unveränderter Nachdruck der Auflage von 1975. Weinheim und Basel: Beltz 2010.
+- Manovich, Lev (2013): Software Takes Command. New York/London/Oxford/New Delhi/Sydney: Bloomsbury 2013.
+- Schadewaldt, Wolfgang (1970): Hellas und Hesperiden. Zürich, Stuttgart: Artemis, S. 463.
+- Spendrin, Karla (2013): Allgemeine Didaktik und E-Learning. Eine Annäherung. In: merz 5, S. 12-18.
+- Stalder, Felix (2016): Kultur der Digitalität. Berlin: Suhrkamp.
+- Weinberger, David (2011): Too big to know. New York: Basic Books.
+- Zierer, Klaus (2018): Lernen 4.0. Pädagogik vor Technik. Möglichkeiten und Grenzen einer Digitalisierung im Bildungsbereich. 2., erweiterte Auflage. Hohengehren: Schneider.
+
+##### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 16.04.2018 auf https://axelkrommer.com/2018/04/16/warum-der-grundsatz-paedagogik-vor-technik-bestenfalls-trivial-ist
+
+##### Empfehlungen zum Weiterlesen:
+
+- Zur Debatte um den "Mehrwert" gibt es in diesem Buch einen eigenen Beitrag: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Philippe Wampfler plädiert in einem Blog-Beitrag dafür, die verschiedenen Lesarten des Mehrwerts ernst zu nehmen und den Begriff nicht pauschal abzulehnen (vgl. https://schulesocialmedia.com/2018/10/22/der-mehrwert-digitaler-medien-revisited/)
+- Die Debatte um den Grundsatz "Pädagogik vor Technik" wird auch durch bestimmte Vorstellungen von Technik und der Beziehung zwischen Mensch und Technik geprägt. In diesem Zusammenhang sei das Buch "Philosophie der Technik: Eine Einführung" von Klaus Kornwachs (München: Beck 2013) empfohlen.
+
+
+---
+
+
+# Nicht Digitalisierung, sondern Digitale Transformation - Kultureller Wandel als Orientierung für zeitgemäße Bildung
+
+*Dejan Mihajlović*
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 6: Digitale Transformation | Pixabay/überarbeitet CC 0*
+
+Alles, was das Zusammenleben ausmacht, entspringt dem, was (junge) Menschen erfahren und (gelernt haben) lernen. Daraus lässt sich ableiten, dass Bildungsinstitutionen nicht die einzige, aber eine wesentliche Rolle spielen und Bildung immer (wieder neu) im gesellschaftlichen Kontext gedacht und diskutiert werden muss. Da sich unsere Gesellschaft seit Jahrzehnten in der Digitalen Transformation befindet, müssen sich Debatten über zeitgemäße Bildung an diesem Prozess orientieren. In sozialen Netzwerken nutze ich bevorzugt die Formulierung Digitaler Wandel, weil sie kürzer ist, ich möglichst viele Mitmenschen erreichen möchte und mir einbilde, dass sie allgemein zugänglicher bzw. weniger abschreckend klingt. Der Begriff Wandel beschreibt aus meiner Sicht aber nur die vielen, "kleineren" Änderungen, die zum gesamtgesellschaftlichen, komplexen, großen Ganzen führen, zur Transformation. Die Digitale Transformation steht für einen Prozess der grundlegenden Veränderung der gesellschaftlichen Ordnung. Was bedeutet das aber konkret? Weil die Antwort darauf zu lang und nie abschließend ist, kann dieser Beitrag nur einen Anfang darstellen, um sich dieser Thematik zu nähern, hoffentlich mancher noch schwammigen Vorstellung (auch meiner) zu etwas mehr Schärfe zu verhelfen und Handlungsansätze auszuarbeiten.
+
+## Was bedeutet Digitale Transformation?
+
+Das Digitale steht für die Ursache dieser Transformation und stellvertretend für die Turing-Galaxis, in der die Welt von vernetzten Computern als Leitmedium geprägt ist. Welche gesellschaftlichen Folgen ein Leitmedienwechsel mit sich bringt und welche Phasen dabei durchlaufen werden müssen, kann am Beispiel der mehr als 500 Jahre zurückliegenden Erfindung des Buchdrucks nachvollzogen werden. Unter Transformation verstehe ich die Entwicklung und den Übergang in neue gesellschaftliche Systeme. Die grundlegende Veränderung der gesellschaftlichen Ordnung umfasst alle Lebensbereiche. Oft rücken Wirtschaft und Politik in den Mittelpunkt eines häufig fachspezifisch geführten Diskurses, weil hier die Umbrüche besonders deutlich anhand der Automatisierung der Arbeitsprozesse oder bei den strukturellen Problemen von Parteien sichtbar werden. Dabei bräuchte es auch dort eine multiperspektivische Expertise und Betrachtung, weil es sich bei der Digitalen Transformation um eine gesamtgesellschaftliche Aufgabe handelt, deren Komplexität u.a. Kollaboration erfordert. Die Veränderungen der Kommunikation wirken spürbar über alle Bereiche hinweg und veranschaulichen zunehmend die Notwendigkeit überfachlicher Überlegungen. Ich glaube, dass jeder Versuch, die Digitale Transformation in ihrer Gesamtheit vereinfacht darzustellen oder zu beschreiben, an der Komplexität, Größe und Dynamik des Prozesses scheitern muss. Deshalb führt aus meiner Sicht kein Weg daran vorbei, sich schrittweise ein Verständnis aufzubauen, das mit viel Arbeit und Zeit verbunden ist; auch wenn bei den zahlreichen Veranstaltungen zu dieser Thematik der Wandel gerne als "Spaß mit neuer Technik" verpackt wird. Unzählige kleine Puzzleteile sind notwendig, um sich einem Gesamtbild zu nähern. Wo man beginnt, ist dabei nicht entscheidend, sondern dass man damit anfängt.
+
+## Das Smartphone und das Dagstuhl-Dreieck
+
+Kein anderes technisches Gerät wird in der öffentlichen Debatte seit Jahren so kontrovers diskutiert wie das Smartphone. Seine Wirkungen machen die komplexen Prozesse der Digitalen Transformation spürbar. Sich jederzeit und an jedem Ort einen Zugang zu Informationen zu verschaffen und sich weltweit zu vernetzen und austauschen zu können, hat zu Verschiebungen der Machtverhältnisse geführt und Grenzen aufgelöst. Leider sind die Erklärungen der spürbaren Veränderungen nicht selten undifferenziert, werden auf Chancen und Risiken oder ein Dafür oder Dagegen vereinfacht (vgl. hierzu Wampfler 2018). Das beginnt meist damit, dass die Smartphone-Nutzung als EINE Handlung zusammengefasst wird, die auch gerne mit auf das Smartphone starren beschrieben wird. Dabei wird unterschlagen, dass dieses Gerät als Telefon, TV-Gerät, Zeitung, (Foto-/Video-)Kamera, Buch, Radio, Uhr, Kalender, Postfach, Wecker, Taschenrechner, Wörterbuch, Navigationsgerät, Spielekonsole, Stoppuhr, Notizbuch, Ticket und EC-Karte (die Liste ist natürlich noch viel länger) genutzt wird und damit für unterschiedliche Handlungen steht. Lisa Rosa (2014) spricht deshalb schon länger von einem "Kulturzugangsgerät". Wahrscheinlich sind diese Vereinfachungen, Positionierungen und undifferenzierten Betrachtungen nur ein Versuch, wieder etwas Klarheit herzustellen, in einer Welt, die grundlegenden Veränderungen der gesellschaftlichen Ordnung unterliegt. Einen aus meiner Sicht sehr gelungen Ansatz, wie man sich den komplexen Prozessen nähern kann, stellt das Dagstuhl-Dreieck<a href="#footnote16" class="footnote">16</a> dar, das ein ausgewählter Personenkreis aus dem Bereich der Informatik und Medienpädagogik im März 2016 auf einer Tagung entwickelt hat (vgl. Döbeli Honegger 2017).
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 7: Dagstuhl-Dreieck | nach https://beat.doebe.li/bibliothek/w02886.html, eigene Bearbeitung CC 0*
+
+Nicht nur, weil es offene und zentrale Fragen stellt, sondern auch verschiedene Perspektiven berücksichtigt und ihre gegenseitige Wechselwirkung wiedergibt: Wie funktioniert das? Wie wirkt das? Wie wird das genutzt? Bei der Wirkung und Anwendung möchte ich hervorheben, auch jeweils die Perspektive des Individuums und der Gesellschaft mitzudenken. Der Einstieg kann über jede der drei Fragen erfolgen. Wählt man das anfangs erwähnte Smartphone als zu untersuchenden Gegenstand aus, stellt man fest, dass allein aufgrund der unzähligen Funktionen, die dieses Gerät leisten kann, eine lange Liste an zu klärenden Fragen entsteht, um ein notwendiges Verständnis zu erreichen und eine seriöse Handlungsempfehlung zu erarbeiten. Wenn also mal wieder eine Person einfache Antworten auf komplexe Probleme liefert, hat sie die Prozesse der Digitalen Transformation nicht wahrgenommen, nicht verstanden oder schlicht ignoriert. Damit wird oft nur der Schein der alten Macht, Kontrolle oder Grenzen aufrechterhalten. Dass an vielen Stellen ein ausreichendes Verständnis für Transformationsprozesse zu fehlen scheint, führt auf verschiedenen Ebenen dazu, auf Entwicklungen mehr oder weniger erfolgreich nur reagieren und nicht selbst welche gestalten zu können. Deshalb befürchte ich, dass die Digitale Transformation in der Breite ankommen muss, um eine mündigere Gesellschaft zu erreichen. Ironischerweise liefern die Dinge, die uns vor Herausforderungen stellen, dafür häufig auch gleichzeitig die Lösungen. Aus diesem Grund setze ich auf das Potenzial des Webs, mobile Endgeräte und den Humanismus, um in diesem komplizierten gesellschaftlichen Prozess gemeinsam eine für alle erstrebenswerte Zukunft zu gestalten. Diesen Beitrag biete ich als einen Anfang dafür an.
+
+#### Quellenangaben:
+
+- Döbeli Honegger, Beat (2017): Dagstuhl-Dreieck: "Speak with one voice" reloaded. Online-Quelle: http://blog.doebe.li/Blog/DagstuhlDreieck (01.05.2019)
+- Rosa, Lisa (2014): Kulturzugangsgerät, kleine Abhandlung. Online-Quelle: https://shiftingschool.wordpress.com/2014/10/21/kulturzugangsgerat-kleine-abhandlung (01.05.2019)
+- Wampfler, Philippe (2018): Die Dialektik der Digitalisierung. Am 22. August 2018 auf: https://schulesocialmedia.com/2018/08/22/die-dialektik-der-digitalisierung (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 25.08.2018 auf https://mihajlovicfreiburg.com/2018/08/25/digitale-transformation-ein-anfang
+
+#### Empfehlungen zum Weiterlesen:
+
+- Weshalb neue Technik nicht in einer Anpassung einer bestehenden Schul- und Lernkultur münden sollte, hat Philippe Wampfler hier aufgeschrieben: <a href="#p1247">Digitale Didaktik: ein Konzept</a>.
+- Weil bei neuer Kulturtechnik gerne nach dem Mehrwert gefragt wird, lohnt es sich Axel Krommers Ausführung zu lesen, in der er aufzeigt, weshalb der Begriff unklar, irreführend, bewahrpädagogisch und deshalb letztlich überflüssig ist: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Zu einem Missverständnis der Smartphone-Nutzung zählt auch das Thema Sucht, das Martin Linder hier lesenswert beleuchtet: <a href="#p1165">Sucht, Demenz und schlechte Noten: Wie gefährlich sind "internetbezogene Störungen"?</a>
+
+
+---
+
+
+# Paradigmen und palliative Didaktik. <br/>Oder: Wie Medien Wissen und Lernen prägen.
+
+*Axel Krommer*
+
+> "Transform the medium by which we develop, preserve, and communicate knowledge, and we transform knowledge." (Weinberger 2011, IX)
+
+Der folgende Text stellt den Versuch dar, den aktuellen Diskurs über zeitgemäße Bildung aus einer kulturhistorischen Perspektive zu beleuchten. Es soll zumindest in Ansätzen gezeigt werden, wie Medien als gesellschaftliche und kulturelle Formen zentrale Konzepte wie Wissen und Lernen prägen und warum Prozesse der Schulentwicklung so quälend langsam sind.
+
+## Medien, Werkzeuge und Paradigmen
+
+Eine - auch im Bildungskontext - sehr verbreitete Vorstellung davon, was ein Medium ist, lässt sich folgendermaßen zusammenfassen: Medien sind reine Werkzeuge, deren Zweck darin besteht, vorab festgelegte Unterrichtsziele zu erreichen.
+
+Mehr oder weniger deutliche Spuren dieses Werkzeug-Medienbegriffs lassen sich u.a. im KMK-Papier zur Bildung in der digitalen Welt (2016), im Medienkompetenz-Rahmen des Landes Nordrhein-Westfalen<a href="#footnote17" class="footnote">17</a> (2018) und in der einflussreichen schulpädagogischen Position Zierers (2018) nachweisen (vgl. Krommer 2018a).
+
+Konzeptionell geht dieser Common-Sense-Medienbegriff auf das Sender-Empfänger-Modell von Shannon und Weaver (1949) zurück. In diesem Rahmen sind Medien neutrale Übertragungskanäle für Informationen. Durch welchen Kanal eine Information von A nach B fließt, ist dabei unbedeutend: "It may be a pair of wires, a coaxial cable, a band of radio frequencies, a beam of light etc." (Shannon/Weaver 1949, S. 34) Medien sind für Shannon und Weaver beliebig austauschbare Werkzeuge, die lediglich einen bestimmten Zweck erfüllen (müssen).
+
+Wenn man Medien im Unterricht ebenfalls als neutrale Werkzeuge ansieht, besteht die Gefahr, dass Schulentwicklung mit dem Austausch von Werkzeugen verwechselt wird: Lernziele, die man gestern mit Buch und Arbeitsblatt zu erreichen suchte, nimmt man heute mit dem Computer und dem Internet in den Blick. Und weil man ggf. schneller am Ziel ist oder Ergebnisse besser sichern kann, hat dieser Werkzeugwechsel (scheinbar) auch einen Mehrwert, der ihn didaktisch legitimiert. Dass an diesem Gedankengang nahezu alles falsch ist, wird an anderer Stelle ausführlich begründet (vgl. Krommer 2018b).
+
+Der Werkzeug-Medienbegriff mag für die Planung einer Schulstunde gerade noch brauchbar sein. Wenn man die Auswirkungen der Digitalisierung auf das Bildungssystem beleuchten möchte, bleibt die Werkzeug-Perspektive jedoch blind für den wesentlichen Aspekt: die Tatsache, dass Medien keine neutralen Kanäle, sondern prägende Formen sind, die maßgeblichen Einfluss auf Kultur und Gesellschaft nehmen.
+
+Ein wirkmächtiger Medienbegriff, der diesem Umstand angemessen Rechnung trägt, stammt von Marshall McLuhan. Ihm gebührt das Verdienst, den "Übergang des Erkenntnisinteresses auf die Form von Medien" (Leschke 2003, S. 245) vollzogen und sentenzenhaft in einer einzigen These verdichtet zu haben. Die Rede geht vom berühmten Diktum "Das Medium ist die Botschaft". Die dahinter stehende Grundidee erläutert McLuhan in einem Interview folgendermaßen:
+
+> "You see, it doesn't much matter, what you say on the telephone. The telephone as a service is a huge environment. And that is the medium. And the environment affects everybody. What you say on the telephone affects very few. And the same with radio or any other medium. What you print is nothing compared to the effect of the printed word. The printed word sets up a paradigm, a structure of awareness, which affects everybody in very drastic ways."<a href="#footnote18" class="footnote">18</a>
+
+Wie Medien als Paradigmen wirken und wie sich die McLuhan- von der Shannon/Weaver-Perspektive unterscheidet, kann am Beispiel des Übergangs von der Festnetz- zur Mobiltelefonie illustriert werden: Für die Anhänger des Werkzeug-Medienbegriffs wird hier nach dem Motto "Telefonieren bleibt Telefonieren!" nur ein technisches Gerät ausgewechselt, während mit McLuhan beschrieben werden kann, in welcher Weise die nomadische Smartphone-Kommunikation unsere Gesellschaft verändert hat.
+
+Das beginnt bereits mit dem Begrüßungsritual: Am Festnetz ist es üblich, sich mit seinem Namen zu melden. Denn der Anrufer weiß, wo (= in welchem Haushalt) das Festnetztelefon steht, kann sich aber nicht sicher sein, wer in diesem Haushalt den Hörer abheben wird. Die Handy-Telefonie stellt diese Verhältnisse auf den Kopf: Nun weiß man genau, wen man anruft, nicht aber, wo sich der Angerufene befindet. Das Begrüßungsritual des Mobilfunks beginnt daher (in der Regel) mit einer Ortsangabe ("Du, ich bin gerade im Zug...") und nicht mehr mit der Identifikation des Angerufenen. Solche Beispiele, die zeigen, wie die Mobiltelefonie unsere Kommunikationsformen und damit Teile der Gesellschaft verändert hat, lassen sich in ihrer Bedeutung beliebig skalieren.
+
+Die Rede von Medien als Paradigmen lässt sich besser verstehen, wenn man den wissenschaftstheoretischen Ursprüngen des Ausdrucks nachspürt.
+
+Der Begriff besitzt in Thomas Samuel Kuhns Klassiker "The Structure of Scientific Revolutions" (2., erweiterte Auflage 1970) eine zentrale Funktion. Kuhn untersucht in dem Buch aus historischer Sicht, wie sich epochale Umbrüche im Bereich der Naturwissenschaften vollziehen. Eine seiner zentralen Einsichten besteht darin, dass die Common-Sense-Vorstellung vom Funktionieren wissenschaftlichen Fortschritts falsch bzw. in wesentlichen Aspekten unangemessen ist. Denn man könnte annehmen, dass die Entwicklung der Wissenschaft ein kumulativer Prozess ist, der streng rational abläuft und in dessen Verlauf wir Schritt für Schritt auf der Grundlage vernünftiger Prinzipien unsere Kenntnisse über die Natur erweitern. Kuhns philosophische Analyse zeigt hingegen, dass wissenschaftlicher Fortschritt kein stetiger Prozess kontinuierlicher Wissenserweiterung ist und dass es - bemerkenswerterweise - in bestimmten Phasen sehr viel weniger rational zugeht, als man gemeinhin annimmt.
+
+Als Paradigma bezeichnet er ein etabliertes Theoriegebäude, das die anerkannten Probleme und Methoden eines Forschungsgebietes bestimmt. Paradigmen legen fest, welche Fragen sinnvollerweise gestellt werden können, welche Methoden erlaubt sind, um diese Fragen zu untersuchen, und welche Antworten als akzeptabel gelten. Wer beispielsweise glaubt, dass die Erde den Mittelpunkt des Universums darstellt, sieht andere Phänomene, stellt andere Fragen und akzeptiert andere Erklärungen als ein Anhänger des heliozentrischen Weltbildes. Jenseits dieser abstrakt-theoretischen Ebene manifestieren sich Paradigmen auch ganz konkret und alltäglich in den gängigen Lehrbüchern. Schüler(innen) und Studierende werden dadurch paradigmatisch sozialisiert:
+
+> "By studying them and by practicing with them, the members of the corresponding community learn their trade." (Kuhn 1970, S. 43)
+
+Anders ausgedrückt: Wir werden - ob wir es wollen oder nicht - im Laufe unserer Ausbildung in das gerade herrschende Paradigma eingeführt, das fortan unser wissenschaftliches Denken und Handeln bestimmt und an dessen Grundlagen wir nur in sehr seltenen Fällen zweifeln (vgl.Kuhn 1970, S. 80).
+
+Dass ein Paradigma erfolgreich ist, bedeutet nicht, dass es alle relevanten Aspekte der untersuchten Wirklichkeit hinreichend genau erklärt. So stimmten z.B. die Voraussagen des Ptolemäischen Systems im Hinblick auf die Planetenpositionen niemals exakt mit den verfügbaren Beobachtungsdaten überein. Das führte jedoch nicht dazu, dass man die Theorie aufgab. Kuhn weist explizit darauf hin, dass wissenschaftliche Entwicklung nicht dem Pfad simpler Falsifikation folgt:
+
+> "No process yet disclosed by the historical study of scientific development at all resembles the methodological stereotype of falsification by direct comparison with nature." (Kuhn 1970, S. 77)
+
+Ein Teil der wissenschaftlichen Arbeit besteht vielmehr darin, Diskrepanzen zwischen dem Paradigma und den Beobachtungsdaten zu minimieren, indem die Theorie angepasst wird. Zu diesem Zweck kann man unter anderem Ausnahmen formulieren, Zusatzannahmen machen, die Existenz neuer Phänomene annehmen oder aus dem Stegreif Hypothesen aufstellen. Das führt jedoch dazu, dass die Theorie immer komplexer wird. Wenn ein Paradigma durch ständige Korrekturen und Modifikationen ein Stadium erreicht hat, in dem seine Komplexität deutlich schneller zunimmt als seine Exaktheit, ist ein neuralgischer Punkt erreicht. Nicht umsonst gelten Einfachheit und ontologische Sparsamkeit als Kriterien für die Güte wissenschaftlicher Theorien (vgl. hierzu Chalmers 199, S. 70ff.). Wenn die Wucherungen der Theorie zu groß werden, gerät das Paradigma schließlich in eine Krise.
+
+Aus der Retrospektive erscheinen die Versuche, Paradigmen zu retten, zuweilen als irrational. Paul Feyerabend (1976) hat das auf die Formel gebracht, dass Vernunft und Wissenschaft oft verschiedene Wege gehen. Der anscheinenden (und manchmal nur scheinbaren!) Irrationalität in der Phase der paradigmatischen Krise hat Brecht in seinem Schauspiel Das Leben des Galilei ein literarisches Denkmal gesetzt: Hier versucht Galilei, die Anhänger des Ptolemäischen Weltbildes davon zu überzeugen, dass die erklärende Kraft des heliozentrischen Weltbilds dem geozentrischen überlegen ist.
+
+Doch anstatt durch das von Galilei mitgebrachte Fernrohr zu schauen und Beobachtungen zu machen, die für die neue Theorie sprechen, wünschen sich die Vertreter des herrschenden Paradigmas einen rein formalen Disput (vgl. Brecht 1938/1939, S. 45), zweifeln an der Verlässlichkeit des Fernrohrs (vgl. ebd., S. 46), verweisen auf die Lehrbücher, die gegen Kopernikus sprechen, und berufen sich auf die Autorität des Aristoteles, um ihre Position zu stärken (vgl. ebd., S. 48).
+
+Kurz: Sie zeigen das typische Verhalten von Wissenschaftlern in der Phase der Krise. (Für eine historische Einordnung des Disputs zwischen der Kirche und Galilei, die zeigt, dass die Vernunft nicht so eindeutig auf der Seite Galileis war, wie es auf den ersten Blick scheint, vgl. Feyerabend 1976, Kapitel 13-15).
+
+Die Bedeutung dieser Krise liegt darin, dass sie Hinweise darauf gibt, wann es nicht mehr möglich ist, die akzeptierten wissenschaftlichen Rätsel zu lösen. Krisen weichen die (methodischen) Regeln des bestehenden Paradigmas auf und es gibt drei Möglichkeiten, wie sie enden können: Das alte Paradigma kann die Oberhand behalten, die unlösbaren Probleme können für zukünftige Generationen archiviert werden oder es taucht ein neues Paradigma auf, das für Wissenschaftler attraktiv genug ist, um akzeptiert zu werden. Dann kommt es zu einem Paradigmenwechsel, wie zum Beispiel im Fall des Übergangs vom geozentrischen Weltbild des Ptolemäus zum heliozentrischen Weltbild des Kopernikus.
+
+Wenn man - mit McLuhan - Medien als Paradigmen begreift und ein Paradigma in Anlehnung an Kuhn als eine Art Rahmen versteht, der Denken und Handeln maßgeblich bestimmt, dann müsste sich zeigen lassen, wie die kulturhistorisch einflussreichsten medialen Paradigmen jeweils Kultur und Gesellschaft geprägt haben. Das soll im Folgenden exemplarisch belegt werden, indem - schlaglichtartig und verkürzt - nachgezeichnet wird, wie die Paradigmen der Oralität, der Skriptografie, der Typografie und der Digitalität zentrale Konzepte wie Wissen und Lernen prägten und prägen.
+
+## Oralität
+
+Vor der Erfindung der Schrift lebten die Menschen in einer Phase primärer Oralität, in der es nicht einmal eine Ahnung von der Möglichkeit des Schreibens gab: Die menschliche Stimme war das Leitmedium, das die präliterale Gesellschaft und Kultur in vielerlei Hinsicht bestimmte.
+
+Das wird am Beispiel des Konzepts, der Struktur und der Weitergabe des Wissens besonders deutlich. Ein zentraler Grundsatz oraler Kulturen lautet: "Du weißt nur, was du im Gedächtnis trägst." Und wenn es keine Möglichkeit gibt, Wissen in schriftlicher Form - und damit außerhalb des Gedächtnisses - zu speichern, müssen Techniken entwickelt werden, Wissen so zu strukturieren, dass es im Prozess der mündlichen Vermittlung möglichst gut und schnell auswendig gelernt werden kann. Walter Ong (1976, S. 32) zählt einige dieser Mnemo-Techniken auf:
+
+> "Die Gedanken müssen in der Form von tief rhythmischen ausgewogenen Mustern entstehen, als Wiederholung oder Antithese, Alliterationen und Assonanzen, Epithetons oder in Form von anderen formelhaften Ausdrücken, eingebunden in standardisierte thematische Anordnungen (die Versammlung, das Mahl, der Zweikampf, der Gehilfe des Helden usw.), in Gestalt von Sprichwörtern, die jeder kennt und deswegen rasch erinnert, oder anderer mnemonischer Systeme."
+
+Die Mündlichkeit als Medium der Speicherung und Weitergabe von Wissen formt dessen Struktur und Inhalte. Das Denken muss sich in mnemonischen Mustern vollziehen, reproduzierbares Wissen ist ohne Mnemotechnik buchstäblich (!) undenkbar:
+
+> "In einer oralen Kultur wäre es Zeitverschwendung, wenn man etwas in nicht-formularischen, nicht-mnemonischen Begriffen durchdenken würde. Denn diese Überlegungen könnten niemals so effektiv wiederholt werden, wie dies mit Hilfe der Schrift möglich ist. Sie wären, wie komplex auch immer, kein bleibendes Wissen, sondern flüchtig-einmalige Gedanken."
+
+Merksprüche wie "drei-drei-drei bei Issos Keilerei", Eselsbrücken und andere sprachliche Mittel, die dabei helfen, etwas auswendig zu lernen, sind aktuelle Anwendungen dieser Technik, die jedes Schulkind kennt. Aber auch Formen der Narration werden durch die Mündlichkeit in spezifischer Weise geprägt. Exemplarisch sei hier auf die Entdeckung Milman Parrys verwiesen, dass die charakteristischen Merkmale der Dichtung Homers der Ökonomie geschuldet sind, "die ihr von den oralen Kompositionsmethoden aufgezwungen wird." (Ong 1976, S. 19). Kurz: Wie (und was) man denkt, lernt, lehrt und erzählt, wird durch das Paradigma der Oralität konfiguriert.
+
+## Skriptografie
+
+Die Schrift entwickelte sich zunächst überall dort, wo Menschen in hinreichend komplexe Formen des Austauschs miteinander traten und relevante Informationen über einen längeren Zeitraum und entkoppelt von den Trägern dieser Informationen verfügbar gehalten werden mussten. Typischerweise war das im Bereich der Verwaltung der Fall, die mit dem Städtebau der Hochkulturen etwa ab dem 3. Jahrtausend notwendig wurde. Nicht kunstvolle Dichtung, sondern nüchterne Datenverarbeitung steht also am Beginn des Siegeszuges dieses neuen Mediums.
+
+Im Gegensatz zum Sprach- ist der Schrifterwerb kein Teil der natürlichen Entwicklung des Menschen. Schreiben lernt man nicht automatisch oder nebenbei. Es bedarf einer gezielten Einweisung in die neue Kulturtechnik. Während Lernen in den oralen Kulturen recht unsystematisch und in authentische Handlungszusammenhänge eingebettet war, erfordert das Erlernen der Schrift nun eine systematische Unterweisung, die sich nicht mehr in den alltäglichen Lebenszusammenhängen vollzieht. Man lernt nicht mehr, indem man während der Arbeit dem Meister über die Schulter schaut. Lernen wird zu einer eigenständigen, institutionell organisierten Tätigkeit (vgl. Fichtner 2008, S. 142-143).
+
+Die Schrift ist weitaus mehr als eine Kulturtechnik. Sie ist - mit Fichtner (2008, S. 135) gesprochen - "eine besondere Wissensform, die die Kommunikation, das System der Aufbewahrung und Weitergabe von Wissen, aber auch die Beziehungen des Denkens zur Wirklichkeit grundlegend verwandelt hat." Während die Mündlichkeit an unmittelbare Kommunikation in einem für Sprecher(in) und Hörer(in) gemeinsam zugänglichen Kontext gebunden ist, erlaubt die Schrift eine von räumlicher und zeitlicher Präsenz unabhängige Kommunikation.
+
+Schrift macht lebendige Sprache zu statischem Text, dem man als Objekt distanziert gegenübertreten kann. Das Medium der Schrift zwingt dazu, die im Vergleich zur Oralität fehlenden Kontexte durch größere Genauigkeit des Ausdrucks zu kompensieren. Abstrakte Konzepte wie die Definition oder der Beweis, die durch ihre Loslösung von konkreten Situationen und Problemen gekennzeichnet sind (vgl. Fichtner 2008, S. 149), wären ohne Schrift, die das Wissen selbst zu einem Objekt der Analyse macht, nicht denkbar.
+
+Einen nicht zu unterschätzenden Gegenpol zu dieser sprachlichen Exaktheit bildete die Fehleranfälligkeit des handschriftlichen Kopierens, auf die Eisenstein (2005, S. 219) hingewiesen hat: "Classical authors had warned against trusting hand-copied books and especially hand copied pictures for the excellent reason that they generated over time." Hinzu kam die geringe Verbreitung handschriftlich kopierter Bücher, mit denen man keine Öffentlichkeit im modernen Sinn des Wortes erreichen konnte. Von einem kollektiven Gedächtnis kann man daher im Paradigma der Handschrift nicht sprechen (vgl. Eisenstein 2005, S. 221). Dennoch bleibt festzuhalten, dass das Konzept des Wissens einen völlig neuen Aggregatzustand annahm (vgl. Fichtner 2008, S. 148).
+
+## Typografie
+
+Wie sehr der Buchdruck seit dem 15. Jahrhundert unser Konzept des Wissens und damit auch des Lernens geprägt hat, lässt sich anhand der Entwicklung des Buches zum "konkurrenzlosen Medium der reinen Sprachlichkeit" (Lobin 2018, S. 34) verdeutlichen: Gutenbergs Erfindung war besonders gut darin, Geschriebenes schnell und präzise zu reproduzieren. Gezeichnetes, Gemaltes, farbige Bilder oder bunte Grafiken ließen sich hingegen nicht so leicht vervielfältigen.
+
+Die druckmaschinelle Massenfertigung zeigte daher - zumindest in den Anfängen - eine starke Tendenz zur Monomedialität, die die jahrhundertealte Tradition der symmedialen Einheit von textlicher und bildlicher Ebene durchbrach. Das zeigt sich exemplarisch und besonders deutlich, wenn man die schwarz-weißen Seiten der Gutenberg-Bibel mit den bunten Text-Bild-Kombinationen aufwändiger Handschriften vergleicht (vgl. hierzu Frederking/Krommer/Maiwald 2018, S. 35-36 und Giesecke 2002, S. 64-66).
+
+An dieser Stelle sei an Eisenstein (2005, S. 218-221) erinnert, die herausgearbeitet hat, wie schwierig und langwierig es war, insbesondere in naturwissenschaftlichen Büchern die Unzulänglichkeiten sprachlicher Beschreibungen durch exakte Abbildungen zu kompensieren. Bedingt durch die technischen Beschränkungen der Druckerpresse entwickelte sich daher die schwarz-weiße Buchseite in ihrer radikalen Monomedialität als Blaupause für die Repräsentation, Standardisierung und Klassifikation von Wissen - der Text, den Sie gerade lesen, bestätigt übrigens diese These.
+
+Das gedruckte Buch führt zu neuen Methoden, Wissen zu organisieren:
+
+> "Die strenge Linearität, der sequentielle Charakter der Satz-für-Satz-Darstellung, die Einteilung in Abschnitte, die Vereinheitlichung der Orthographie und Grammatik können in gewisser Weise auch als Methode zur Organisation des Denkens selbst verstanden werden. Das gedruckte Buch [...] hat sicher entscheidend dazu beigetragen, Denkgewohnheiten und Bewusstseinsstrukturen herauszubilden, die der Struktur der Typographie eng verwandt sind." (Fichtner 2008, S. 164)
+
+Weinberger (2011, S. 45) bringt diese Zusammenhänge auf eine einfache Formel: "Traditional knowledge has been an accident of paper."
+
+## Digitalität
+
+Der Begriff "Digitalität" wird hier im Anschluss an Stalder (2016) verwendet, der das Konzept durch drei wesentliche Bestandteile charakterisiert.
+
+Zunächst entstehen neue Formen der Referentialität. Gemeint ist, dass sich immer mehr Menschen an kulturellen Prozessen beteiligen und eigene Gefüge bedeutungsvoller Bezüge herstellen (müssen). Das ist ein Resultat der Erosion etablierter Ordnungsstrukturen: Lektoren, Verlage, Redakteure u.a. hatten die gesellschaftliche Aufgabe, als Gatekeeper darauf zu achten, dass Wesentliches von Unwesentlichem, Wahres von Falschem und Relevantes von Irrelevantem getrennt wurde, bevor die jeweiligen Informationen publiziert wurden. Der Grundsatz lautete, dass zunächst gefiltert und dann veröffentlicht wird.
+
+Der Gewinn an Übersichtlichkeit wurde allerdings dadurch erkauft, dass viele Menschen sich nicht in der gewünschten Weise aktiv und produktiv an kulturellen Prozessen beteiligen konnten. Mit dem Internet hat sich das radikal verändert. Nun ist potenziell jede(r) Rezipient(in) auch Produzent(in) eigener Inhalte, die in einem Blog, über einen Selfpublishing-Verlag, eine soziale Plattform etc. veröffentlicht werden können, ohne dass ein strenger Türhüter passiert werden muss. "The Internet is what you get when everyone is a curator and everything is linked." (Weinberger 2011, S. 45)
+
+Wenn jede(r) zum vernetzten Sender bzw. zur Senderin wird, entsteht Unordnung. Und dieser Unordnung kann nur noch durch nachträgliches Auswählen und Filtern begegnet werden. Wir sind gezwungen, unsere Filter so zu justieren, dass sich ein für uns sinnvolles Gefüge von Bezügen ergibt, wir müssen das kulturelle Chaos stets neu ordnen und dadurch Orientierung schaffen. "Referentialität ist heute ein Grundmuster der Sinngebung, im privaten wie im öffentlichen Raum." (Stalder 2018, S. 11).
+
+Sich als isoliertes Individuum im Durcheinander der digitalen "Informationsflut 2.0" (Stalder 2016, S. 105) zurechtzufinden, ist unmöglich. Charakteristisch für die Kultur der Digitalität ist daher das Prinzip der Gemeinschaftlichkeit, das sich exemplarisch in sozialen Netzwerken zeigt. Diese Gemeinschaften können den Menschen helfen, "sich in einer unübersichtlich und sehr widersprüchlichen gewordenen Welt mal besser, mal schlechter zu orientieren." (Stalder 2018, S. 13). Im Fluss ständiger Kommunikation und Verteilung von Aufmerksamkeit wird der Versuch gemacht, "die eigene, singuläre Identität zu etablieren", die nicht mehr essentialistisch, sondern performativ verstanden wird: Sein heißt online sein (= zu kommunizieren).
+
+Neben Referentialität und Gemeinschaftlichkeit ist Algorithmizität ein drittes Kennzeichen der Digitalität. Wir sind auf Algorithmen angewiesen, um uns in der neuen Unübersichtlichkeit zurechtzufinden. Individuelle und gemeinschaftliche Formen der Referentialität sind nicht hinreichend, um uns Orientierung zu bieten. Gleichzeitig sind Algorithmen an der Konstruktion genau der Komplexität beteiligt, die wir nur mit ihrer Hilfe (mehr oder weniger) beherrschen können.
+
+Bridle (2018) spricht in diesem Kontext von einem "New Dark Age", weil wir nicht mehr nachvollziehen können, wie Algorithmen ihre "Entscheidungen" treffen: Google teilt uns mit, wohin uns die nächste Zugreise wahrscheinlich führt oder welche Website uns interessiert, macht aber die Grundlagen und das Zustandekommen dieser Voraussage nicht transparent. "For everything that is shown, something is hidden." (Bridle 2018, S. 36)
+
+Diese grobe Skizze lässt bereits erkennen, in welcher Weise sich das Konzept des Wissens unter den Bedingungen der Digitalität wandelt. So hat das Wegfallen institutionalisierter Filter, deren Aufgabe darin bestand, die Menge des Wissenswerten zu reduzieren, unmittelbare Folgen:
+
+> "Rather than knowing-by-reducing to what fits in a library or a scientific journal, we are now knowing-by-including every draft of every idea in vast, loosely connected webs." (Weinberger 2011, S. 5)
+
+Außerdem verändern sich in diesem System vernetzter Fakten die "stopping points" (Weinberger 2011, S. 21). Gemeint sind die Punkte, an denen man eine Recherche legitimerweise beenden kann. Sie sind notwendig, weil wir es uns nicht leisten können, jedes Faktum bis zu seinen Ursprüngen zurückzuverfolgen. Lexika sind beispielsweise wichtige und vertrauenswürdige stopping points der Buchkultur: Wer 1983 die Einwohnerzahl einer Großstadt ermitteln wollte, konnte den Brockhaus aufschlagen, fand dort eine in der Regel nicht mehr ganz aktuelle Zahl und tat dennoch gut daran, die Suche zu beenden.
+
+2019 sucht man online und findet bei der Wikipedia die gesuchte Einwohnerzahl - allerdings eingebunden in ein Netz von Hyperlinks, in dem weiterführende Informationen nur einen Klick entfernt sind. Wo stopping points gesetzt werden sollten, wird nicht mehr durch institutionalisierte Filtermechanismen bestimmt. Das verändert das Konzept des Wissens als System von stopping points fundamental und es verändert die Kompetenzen, die wir benötigen, um Wissen zu erwerben (vgl. Krommer 2014).
+
+Wie sich die Struktur, die Speicherung und der Zugriff auf Informationen unter den Bedingungen der Digitalität verändern, kann am Konzept der Metadaten erläutert werden. Wenn man Bücher als materielle Objekte - z.B. in einer Bibliothek - in eine Ordnung bringen will, muss man sich für genau einen Ort entscheiden, an dem ein Buch platziert wird. Ein und dasselbe Buch kann nicht in zwei Regalen gleichzeitig stehen. Wenn die Bibliothek nach Autorennamen sortiert wird, ist sie - merkwürdige Zufälle ausgeschlossen - nicht gleichzeitig nach Gattungen oder nach Erscheinungsjahr geordnet.
+
+Um neben der physischen Anordnung der Bücher, die sich z.B. alphabetisch am Namen des Autors orientiert, noch weitere Ordnungssysteme zu schaffen, könnte man für jedes Buch mehrere Karteikarten anlegen, auf denen Informationen über die Bücher zu finden sind und die man dann nach unterschiedlichen Kriterien sortiert. So entstünde ein System von Metadaten, d.h. von Daten (z.B. Erscheinungsjahr, Name des Autors, Entstehungsjahr etc.) über Daten (=die Eigenschaften der Bücher). Unter analogen Bedingungen sind die Metadaten stets weniger komplex als die Daten, auf die sie sich beziehen. Eine Karteikarte über ein gedrucktes Buch enthält weniger Informationen als das Buch selbst.
+
+Das ändert sich, wenn Bücher digital vorliegen. Nun können im Prinzip alle Daten gleichzeitig auch zu Metadaten werden. So genügt z.B. die Eingabe eines bestimmten Begriffs in eine Suchmaske, um Bücher zu finden, in denen dieser Begriff auftaucht. Man muss nicht hoffen, dass jemand eine Karteikarte mit dem entsprechenden Schlagwort angelegt hat. In den Worten Weinbergers (2007, S. 104): "[T]he only distinction between metadata and data is that metadata is what you already know and data is what you're trying to find out."
+
+Wie wirkmächtig das Paradigma der Typografie ist, kann man an der typischen Struktur einer Festplatte ablesen. Hier werden Dateien implizit so behandelt wie materielle Bücher, die man in sorgfältig beschriftete Regale einsortiert. Die Festplatten-Regale haben Bezeichnungen wie c:\Uni\WS-2019\Hauptseminare\Deutsch\Fontane und die Festplatten-Bücher, die darin aufbewahrt werden, bekommen möglichst sprechende Namen (z.B. Effi-Briest-Interpretation.docx). Anders gesagt: Es wird viel Arbeit darin investiert, Ordner- und Dateinamen zu Metadaten mit Orientierungsfunktion zu machen. So wie man in einer Bibliothek gezielt durch die Regale navigiert, um ein Buch zu finden, gleicht jeder Mausklick durch die Struktur der Festplatte einem Schritt auf dem Weg zum Auffinden der gesuchten Datei.
+
+Wenn unter Bedingungen der Digitalität der Unterschied zwischen Daten und Metadaten nivelliert wird, sind jedoch vollkommen andere Formen zur Strukturierung einer Festplatte denkbar. Statt aufwändig eine statische Ordnerstruktur aufzubauen, kann man z.B. durch die Vergabe von Schlagworten ("Tags") bei der Speicherung einer Datei individuelle Metadaten erzeugen und Materialien nach den gewünschten Eigenschaften durchsuchbar und auffindbar machen.
+
+Unter Bedingungen der Digitalität ähnelt die Struktur des Wissens nicht mehr einer wohlgeordneten Bibliothek, sondern eher einem Amazon-Warenlager: Hier werden die Artikel nicht - wie Bücher - nach bestimmten Kriterien (Produktkategorie, Größe etc.) sortiert, sondern - wie digitale Dateien - einfach abgelegt und über Metadaten auffindbar gemacht.
+
+Die Ordnung im Amazon-Lager ist nur noch für den Algorithmus sichtbar, nicht mehr für den Menschen.
+
+## Paradigmenwechsel
+
+Der kultur- und mediengeschichtliche Parforceritt hat vor allem eines gezeigt: Die mediale Rahmung einer Gesellschaft und Kultur hat erhebliche Auswirkungen auf Konzepte wie Wissen und Lernen und damit auch auf Vorstellungen davon, wie es wäre, gebildet zu sein (vgl. Bieri 2017).
+
+Wenn Medien als Paradigmen begriffen werden, lassen sich auch die zum Teil irrationalen Beharrungstendenzen erklären, die für krisenhafte Phasen des Übergangs typisch sind: Ebensowenig wie in der Naturwissenschaft gibt man auch im gesellschaftlich-kulturellen Kontext die bewährten, fast schon selbstverständlich erscheinenden, sinnstiftenden, Erklärungen und Sicherheit bietenden Paradigmen auf.
+
+Wenn sich Diskrepanzen zwischen Paradigma und Welt zeigen, versucht man vielmehr, solange es möglich ist, an den alten Strukturen festzuhalten. Die metaphorische Rede vom Bildungssystem als einem schwerfälligen Tanker, dessen Kurs sich nur mühsam ändern lässt, bezieht sich auf diese Beharrungstendenzen.
+
+Die strukturkonservative Abwehrhaltung, die für Paradigmen kennzeichnend ist, manifestiert sich im Bereich der Medien u.a. in vielfältigen Formen des bewahrpädagogischen Kulturpessimismus'. Am bekanntesten sind wohl die Argumente wider die Handschrift, die Sokrates durch Platon im Phaidros (St. 275) in den Mund gelegt werden: Das neue Medium werde
+
+> "[...] Vergessenheit schaffen in den Seelen derer, die sie erlernen, aus Achtlosigkeit gegen das Gedächtnis, da die Leute im Vertrauen auf das Gedächtnis, da die Leute im Vertrauen auf das Schriftstück von außen sich werden erinnern lassen durch fremde Zeichen, nicht von innen heraus durch Selbstbesinnen."
+
+Die Schrift - so lautet Sokrates' Fazit - werde uns alle zu "Dünkelweisen und nicht zu Weisen" machen. Diese Reaktion ist aus der Sicht der Kultur der Oralität verständlich, denn die Skriptografie bedroht bewährte Formen des Lehrens, Lernens und Wissens. Da es falsch wäre, das alte Paradigma zu früh aufzugeben, nutzt man konservative Strategien, zu denen die Warnung vor drohenden Gefahren ebenso gehört wie der Hinweis auf den fehlenden Mehrwert des Neuen. In der Retrospektive wird aber erkennbar, dass man den Wert der Handschrift aus der Perspektive der Oralität gar nicht ermessen kann. Und nur dadurch, dass Platon die Argumente wider die Schrift aufgeschrieben hat, sind sie uns heute noch zugänglich.
+
+In ähnlicher Weise wie aus der Perspektive der Mündlichkeit die Handschrift als Bedrohung wahrgenommen wurde, wirkte der Buchdruck als Gefahr für das Paradigma der Skriptografie. Das erläutert Michael Giesecke (1998) am Beispiel der Einführung des gedruckten Schulbuchs gegen Ende des 15. Jahrhunderts, das die typische Lehr- und Lernsituation des Mittelalters radikal veränderte.
+
+Im Paradigma der Skriptografie war der Lehrer, der sich auf eigenhändige Ab- und Mitschriften stützte, im Unterricht das einzige Informationsmedium und die einzige Autorität. Die Aufgabe der Schüler bestand darin, dem Vortrag des Lehrers zu lauschen und selbst Mitschriften anzufertigen. Durch die Einführung des Schulbuchs in Gestalt der "Ars minor", einer lateinischen Grammatik von Aelius Donatus, holt sich "der Lehrer ein neues, fremdes Programm in seinen Kurs [...]. Es tritt in Konkurrenz mit den bislang üblichen Instruktionsformen." (Giesecke 1998, S. 218) Plötzlich ist der Lehrer nicht mehr die einzige Quelle des Wissens. Die Schüler beginnen,
+
+> "die Aussagen des Lehrers an den Informationen zu messen, die das neue typographische System ausgibt. [...] Verglichen mit den mittelalterlichen Lehr- und Lerntraditionen mußte jeder gedruckte Donat [= die Ars minor, A.K.] in der Hand des Schülers als Fremdkörper erscheinen, der die Autorität des Lehrers relativiert und zu einer Neubestimmung derselben nötigt." (Giesecke 1998, S. 219)
+
+Auch die grundlegende Struktur des Unterrichts verändert sich. Schüler können nun bereits zu Hause das neue Medium nutzen, um sich Inhalte anzueignen. Das eröffnet in der konkreten Lehr-Lernsituation z.B. Freiräume für Diskussionen und Erläuterungen, die es zuvor nicht gab.
+
+(Am Rande bemerkt: Das neuzeitliche Lehr-Lernschema, das durch die Einführung des gedruckten Schulbuchs entstand, entspricht exakt der Grundstruktur des Flipped Classrooms (vgl. z.B. Buchner/Schmid 2019), der häufig als Revolution des Lernens mit digitalen Medien angepriesen wird. Und das mittelalterliche Schema ist ein Abbild des Frontalunterrichts, den die "Flipper" auf den Kopf stellen wollen. Das innovative Potenzial des Flipped Classrooms relativiert sich jedoch stark, wenn man erkennt, dass hier ein knapp 600 Jahre altes Strukturprinzip nur leicht variiert wird.)
+
+Aktuell befinden wir uns erneut in einer Phase des Leitmedientransfers (vgl Brandhofer 2016). Das Paradigma der Typografie wird durch das Paradigma der Digitalität abgelöst. Und wieder zeigen sich charakteristische Beharrungstendenzen, die den oben skizzierten historischen Mustern folgen.
+
+Die einseitig-alarmistische Kritik an digitalen Medien, die uns scheinbar verdummen lassen (vgl. Spitzer 2012), ist eine moderne Variante der Befürchtung, dass wir durch die Handschrift zu "Dünkelweisen" degenerieren. Die Ängste, dass die "Ars minor" die Autorität des Lehrers untergräbt, weil Schüler eigene Informationsquellen unkontrolliert nutzen können, spiegelt sich in aktuellen Smartphone-Verboten wider.
+
+Wie vor mehr als einem halben Jahrtausend fürchtet man sich im Bildungssystem vor Autoritäts- und Kontrollverlust durch "neue" Medien und das herrschende Paradigma entfaltet seine ganze strukturkonservative Kraft: Störende Phänomene, die sich nicht problemlos integrieren lassen, werden ausgesperrt und ignoriert. So wie die Kirchenvertreter in Brechts "Leben des Galilei" nicht durch das Fernrohr schauen wollen, weil dadurch der etablierte Denkrahmen infrage gestellt wird, verschließt jede Smartphone-Verbots-Schule die Augen vor der Kultur der Digitalität.
+
+Die Spannungen zwischen der Buch-Schule und der Digital-Welt werden in der aktuellen Krise auch an anderen Stellen sichtbar: So setzt die Schule in der Regel immer noch auf Prüfungsformate, die einseitig auf den Paradigmen der Oralität und Skriptografie beruhen und strikt auf das isolierte Individuum ausgerichtet sind. Im Abitur gibt es hand(!)-schriftliche Examina und mündliche Prüfungen, für die der Leitspruch "Du weißt nur, was Du im Gedächtnis trägst", gilt und in denen jeweils die Leistung eines einzelnen Menschen im Zentrum steht.
+
+Die Beschränkung auf Mündlichkeit, Gedächtnis, Handschrift und das einzelne Individuum kann jedoch die Lernwirklichkeit der Kultur der Digitalität nicht angemessen repräsentieren. Hier knüpft man auf sozialen Plattformen wie Twitter persönliche Lern-Netzwerke, um von der Expertise anderer zu profitieren und die eigenen Kompetenzen anzubieten, hier ist das Internet ein selbstverständliches Mittel zur Kommunikation, zur Kollaboration und zur Recherche. Und hier steht nicht das einzelne Individuum im Mittelpunkt, sondern das Netzwerk selbst. In den Worten Weinbergers (2008, S. 45-46):
+
+> "[I]n a networked world, knowledge lives not in books or in heads but in the network itself. [...] We still need to get maximum shared benefit from smart, knowledgeable individuals, but we do so by networking them."
+
+Diese Aspekte der Kultur der Digitalität werden in der Schule nicht nur unzureichend gewürdigt, sondern im Extremfall sogar unter Strafe gestellt. Während Kommunikation, Kollaboration, Kreativität und kritisches Denken als Kernkompetenzen für das 21. Jahrhundert ausgerufen werden (vgl. Muuß-Merholz 2017), gilt es unter Abiturbedingungen als Form von Betrug, wenn man mit anderen spricht oder gar zusammenarbeitet. Perelman hat bereits 1992 auf diese Schieflage hingewiesen:
+
+> "Academia's way of accounting focuses on tests of individual performance in strict, austere isolation from cooperation with others or use of resources or tools outside the learner's head. The role of collaboration or technology in learning is placed in the category of cheating. This mythical and misguided vision is, fortunately, being eroded by a mass of social and cognitive science findings that there are limits to what can be learned alone, and that the most effective and useful learning is a shared enterprise." (Perelman 1992, S. 155-156)
+
+Diese Beispiele mögen genügen, um schlaglichtartig zu beleuchten, woran man im Bereich der Bildung, der Schule und des Lernens erkennen kann, dass unterschiedliche mediale Paradigmen miteinander in Konflikt geraten. Abschließend soll vor diesem Hintergrund der Begriff "palliative Didaktik" erläutert werden, der Phänomene beschreibt, die für krisenhafte Phasen des Übergangs zwischen zwei Paradigmen typisch sind.
+
+## Palliative Didaktik
+
+Der Ausdruck "palliative Didaktik" hat (mindestens) zwei Lesarten:
+
+Die starke Lesart geht von der Diagnose aus, dass das Schulsystem, das sich in zentralen Aspekten an den Paradigmen der Oralität, Skriptografie und Typografie orientiert, im Rahmen einer Kultur der Digitalität in seiner Existenz bedroht ist und nicht mehr gerettet werden kann. Metaphorisch ausgedrückt: Das Gutenberg-Schulsystem ist unheilbar krank. Es wird den Paradigmenwechsel von der Typografie zur Digitalität nicht überleben. Die aktuellen Versuche, das alte Paradigma z.B. durch den Austausch der bislang verwendeten Werkzeuge zu stützen (hier ein Whiteboard statt der Tafel, dort Tablets statt Bücher), sind bei Lichte besehen palliativ-medizinische Maßnahmen, die das Leben der Gutenberg-Schule durch technische Apparate verlängern und den Paradigmenwechsel hinauszögern sollen.
+
+Nach dieser Lesart hängt das Leben der Gutenberg-Schule maßgeblich am Tropf des Zertifizierungs-Monopols: Wer studieren will, muss Abitur machen. Und das Abiturzeugnis stellt die Schule aus. Solange diese Zertifikate noch anerkannt werden, wird die Schule überleben. Schwindet der Glaube an die Schule, verschwindet sie als Institution.
+
+Die Schule ist - ähnlich wie Geld - als Teil der sozialen Wirklichkeit abhängig von kollektiver Intentionalität (vgl. Searle 2010): Schulen sind nur Schulen, solange wir daran glauben, dass sie Schulen sind. Dass inzwischen viele Firmen auf eigene Assessment-Center und nicht auf Schulzeugnisse vertrauen, wenn Bewerber eingestellt werden sollen, ist ein untrügliches Zeichen dafür, dass der Glaube an die Schule aus dem alten Paradigma schwindet und das Ende der Institution naht.
+
+Die schwache Lesart hat ihren Ausgangspunkt in der Bedeutung des lateinischen Verbs "palliare", das "ummanteln" bedeutet. Palliative Didaktik beschreibt dann die Ummantelung alter pädagogischer Prinzipien und lerntheoretischer Konzepte durch digitale Technik.
+
+Nach beiden Lesarten gilt, dass digitale Technik nicht als selbstverständlicher Teil der Kultur der Digitalität begriffen wird, sondern primär als notdürftige Stütze des alten Paradigmas. Formulierungen wie "digital gestützter Unterricht" oder "digitale Medien als Hilfsmittel" sind zumeist ein guter Indikator für Strategien palliativer Didaktik.
+
+Anstatt zeitgemäße, offene, kollaborative Formen des Lernens und Lehrens zu ermöglichen, werden Formen des traditionellen Unterrichts in ein digitales Mäntelchen gehüllt: Schlechter Frontalunterricht ist für Schüler(innen) plötzlich ubiquitär-mobil via YouTube verfügbar und die behavioristisch-fremdgesteuerte Trias aus Reiz, Reaktion und Rückmeldung (vgl. Kerres 2018, Kap. 4.3.1) feiert in Gestalt von Kahoot, LearningApps und Learning Snacks palliative Urständ.
+
+An den den Automatic Teacher von Sidney Pressey (1926) und B.F. Skinners Teaching Machine (1954) sind sie lerntheoretisch nahtlos anschlussfähig (vgl. hierzu auch Watters 2015 und Skinner 1968).
+
+Dass neue Paradigmen ihre Potenziale im Hinblick auf die Entwicklung von Schule und Unterricht nicht sofort entfalten können, ist historisch gesehen kein neues Phänomen. Fichtner weist z.B. darauf hin, dass nach dem Übergang von der Oralität zur Skriptografie die erwartbaren Veränderungen innerhalb des Bildungssystems zunächst ausblieben:
+
+> "Obwohl man spätestens seit der griechischen Klassik von einer generellen Literalität ausgehen muss, zeigen sich nirgendwo Phänomene und Symptome, die Rückschlüsse auf eine grundlegende qualitative Veränderung des Lernens selbst zulassen. [...] Lesen und Schreiben sind ausschließlich Hilfsmittel zur Ausbildung von mündlichen Kompetenzen, zur Übung des Gedächtnisses, zur Orientierung des Lernens auf Reproduktion und Nachahmung. [...] Die Zähigkeit, mit der besonders Athen an dieser Erziehung insgesamt festgehalten hat, ist bis weit in das 4. Jahrhundert hinein symptomatisch." (Fichtner 2008, S. 151).
+
+Es steht zu hoffen, dass wir beim Übergang von der Typografie zur Digitalität nicht wieder Jahrhunderte warten müssen, bis das Bildungssystem den Mantel des alten Paradigmas abwirft und sich grundlegend wandelt.
+
+#### Quellenangaben:
+
+- Brandhofer, Gerhard (2016): Leitmedientransformation - oder: das geht nicht wieder weg. Online-Quelle: http://www.brandhofer.cc/leitmedientransformation (01.05.2019)
+- Brecht, Bertolt (1938/39): Leben des Galilei. Schauspiel. 53. Auflage, Frankfurt am Main: Suhrkamp 1998 (=edition suhrkamp 1).
+- Bridle, James (2018): New Dark Age. Technology and the End of the Future. London: Verso.
+- Buchner, Josef/Schmid, Stefan (2019): Flipped Classroom Austria: … und der Unterricht steht kopf! [sic!] Wien: ikon.
+- Chalmers, Alan F. (1999): Wege der Wissenschaft. Einführung in die Wissenschaftstheorie. enHerausgegeben und übersetzt von Niels Bergemann und Jochen Prümper. Vierte Auflage. Berlin: Springer.
+- Eisenstein, Elizabeth L. (2005): The Printing Revolution in Early Modern Europe. Second Edition. Cambridge: University Press.
+- Feyerabend, Paul (1976): Wider den Methodenzwang. 7. Auflage. Frankfurt am Main: Suhrkamp 1999 (=stw 597).
+- Fichtner, Bernd (2008): Lernen und Lerntätigkeit. Ontogenetische, phylogenetische und epistemologische Studien. Berlin: Lehmanns Media (=ICHS Band 24).
+- Frederking, Volker/Krommer, Axel/Maiwald, Klaus (2018): Mediendidaktik Deutsch. Eine Einführung. 3., völlig neu bearbeitete und erweiterte Auflage. Berlin: Erich Schmidt.
+- Giesecke, Michael (1998): Der Buchdruck in der frühen Neuzeit. Eine historische Fallstudie über die Durchsetzung neuer Informations- und Kommunikationstechnologien. Frankfurt am Main: Suhrkamp (=stw 1357).
+- Giesecke, Michael (2002): Von den Mythen der Buchkultur zu den Visionen der Informationsgesellschaft. Trendforschungen zur kulturellen Medienökologie. Frankfurt am Main: Suhrkamp (=stw 1543).
+- Kerres, Michael (2018): Mediendidaktik. Konzeption und Entwicklung digitaler Lernangebote. 5. Auflage. Oldenbourg: de Gruyter.
+- KMK (Kultusministerkonferenz) (Hrsg.) (2016): Bildung in der digitalen Welt. Strategie der Kultusministerkonferenz. Online-Quelle: https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2017/Strategie_neu_2017_datum_1.pdf (01.05.2019)
+- Krommer, Axel (2014): Digitale Informations-, Kommunikations- und Kooperationsmedien im Deutschunterricht. In: Frederking, Volker / Krommer, Axel / Möbius, Thomas (Hrsg.): Digitale Medien im Deutschunterricht. Baltmannsweiler: Schneider Verlag (= Deutschunterricht in Theorie und Praxis, Band VIII). S. 290-311.
+- Krommer, Axel (2018a): Wie ein Common-Sense-Medienbegriff zu pädagogischen Fehlschlüssen führt. Online-Quelle: https://axelkrommer.com/2018/08/27/wie-ein-common-sense-medienbegriff-zu-paedagogischen-fehlschluessen-fuehrt (01.05.2019)
+- Krommer, Axel (2018b): Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff. Online-Quelle: https://axelkrommer.com/2018/09/05/wider-den-mehrwert-oder-argumente-gegen-einen-ueberfluessigen-begriff (01.05.2019)
+- Lobin, Henning (2018): Digital und vernetzt. Das neue Bild der Sprache. Stuttgart: Metzler.
+- Muuß-Merholz, Jöran (2017): Die 4K-Skills: Was meint Kreativität, kritisches Denken, Kollaboration, Kommunikation. Online-Quelle: https://www.joeran.de/die-4k-skills-was-meint-kreativitaet-kritisches-denken-kollaboration-kommunikation (01.05.2019)
+- Ong, Walter (2016): Oralität und Literalität. Die Technologisierung des Wortes. Mit einem Vorwort von Leif Kramp und Andreas Hepp. Übersetzt von Wolfgang Schömel. 2. Auflage. Wiesbaden: Springer.
+- Perelman, Lewis J. (1992): School's Out. Hyperlearning, the New Technology, and the End of Education. New York: William Morrow.
+- Poser, Hans (2012): Wissenschaftstheorie. Eine philosophische Einführung. 2. Auflage. Stuttgart: Reclam (=RUB 18995).
+- Searle, John (2010): Making the Social World. The Structure of Human Civilization. Oxford: University Press.
+- Shannon, Claude E./Weaver, Warren (1949): The Mathematical Theory of Communication. Urbana, Chicago, London: University of Illinois Press 1972.
+- Skinner, B.F. (1968): The technology of Teaching. Kindle-Edition 2003 (ISBN 978-0-9964539-3-6 mobi).
+- Spitzer, Manfred (2012): Digitale Demenz. Wie wir uns und unsere Kinder um den Verstand bringen. München: Droemer.
+- Stalder, Felix (2016): Kultur der Digitalität. Frankfurt am Main: Suhrkamp (=edition suhrkamp 2679).
+- Stalder, Felix (2018): Herausforderungen der Digitalität jenseits der Technologie. In: Synergie. Fachmagazin für Digitalisierung in der Lehre. #05, S. 8-15. Online-Quelle: https://www.synergie.uni-hamburg.de/de/media/ausgabe05/synergie05-beitrag01-stalder.pdf (01.05.2019)
+- Watters, Audrey (2015): The Automatic Teacher. Online-Quelle: https://hackeducation.com/2015/02/04/the-automatic-teacher (01.05.2019)
+- Weinberger, David (2011): Too Big to Know. New York: Basic Books.
+- Zierer, Klaus (2018): Lernen 4.0. Pädagogik vor Technik. 2., erweiterte Auflage. Baltmannsweiler: Schneider.
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 12.04.2019 auf https://axelkrommer.com/2019/04/12/paradigmen-und-palliative-didaktik-oder-wie-medien-wissen-und-lernen-praegen
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Lisa Rosa: <a href="#p621">Lernen im digitalen Zeitalter</a>.
+- Kathrin Passig: <a href="#p53">Neue Technologien, alte Reflexe</a>.
+- Jöran Muuß-Merholz: <a href="#p1285">Sitzsäcke sind das neue Sprachlabor. Digitale Geräte, K.I. und bunte Möbel machen noch keine moderne Schule</a>.
+
+
+---
+
+
+# Lernen im digitalen Zeitalter
+
+*Lisa Rosa*
+
+## 1. Was bedeutet die digitale Transformation für die Schule?
+
+Diese Frage wird endlich von allen Dächern und von allen Spatzen gepfiffen. Und weil wir damit spät dran sind - immerhin sind die «neuen Medien» schon Jahrzehnte da -, möchte man jetzt am liebsten ganz schnell die richtigen Antworten haben und alles sofort umsetzen. Aber wie Daniel Kahneman (2011) in Schnelles Denken, Langsames Denken<a href="#footnote19" class="footnote">19</a> gezeigt hat, sind die schnellen Antworten nicht immer die guten. Simplifizierung und Verkürzung sind jedoch an der Tagesordnung. Allerdings besteht kann eine Vereinfachung, die nicht unzulässig verkürzt, keine Zusammenhänge weglassen. Wenn Zusammenhänge zerrissen werden, bevor sie überhaupt gedacht, geschweige verstanden wurden, dann beschäftigen wir uns nur mit isolierten Einheiten. Diese isolierte Sicht führt zu ganz anderen Vorstellungen von der Sache und dann auch zu anderen Maßnahmen in der Praxis. Und diese Maßnahmen führen uns vielleicht auf einen Weg, den wir - wenn wir über das Ende des Wegs (und die Zusammenhänge) wüssten - niemals gehen würden.
+
+Der Zusammenhang: Die Transformation ist eine der gesamten Gesellschaft und Folge der Durchsetzung eines neuen dominanten Informations- und Kommunikationsmediums. Information wird auf eine neue Art und Weise gewonnen, verarbeitet und gesellschaftlich verteilt. Und nicht nur das: Auch die Gegenstände, die gewusst, gekonnt (und gewollt)<a href="#footnote20" class="footnote">20</a> werden müssen, um die Gesellschaft aufrechtzuerhalten, verändern sich radikal. Da Wissen und Lernen (als Operationsweise von Wissen) das "Kerngeschäft" der Schule betrifft, muss diese Institution also gerade in besonderer und radikaler Weise vom digitalen Wandel betroffen sein. Selbst der jahrzehntelange notorische Widerstand der Schule gegen die »neuen Medien« kann als ein Ausdruck dieser Betroffenheit gelesen werden. Denn wenn diese Medien "nur Werkzeuge" wären, hätte man sie ja ganz entspannt betrachten und auch mal in die Hand nehmen und ausprobieren können. Es geht jedoch um mehr als bloß Wissen und Bildung: Computer und Internet sind nicht nur ein neues Informations- und Kommunikationsmedium, mit dem wir anders kommunizieren und lernen. Sie krempeln die ökonomischen Grundlagen unserer Gesellschaft, die Produktionsweise um. Das ist keine Zukunftsmusik, sondern bereits eingetreten, wie Michael Giesecke bemerkt:
+
+> "Die Hauptfunktion des Konglomerats digitaler Medien liegt längst nicht mehr in der Verständigung zwischen Menschen, sondern in der Steuerung der materiellen Produktion, der Börse, der politischen Systeme, der Wissenschaften u.v.a.m. Es sind soziale Medien, ja auch, aber nur unter anderem. Für das Funktionieren der technischen Dinge sind sie mittlerweile unverzichtbar, für die zwischenmenschliche Kommunikation nicht." (Giesecke 2017, S. 29-30f)
+
+Und deshalb verändern sich nicht nur die Art und Weise und die Gegenstände des Lernens, sondern auch seine gesellschaftliche Bedeutung, seine Bedingungen und das Ausmaß der Konsequenzen.
+
+## 2. Was bisher geschah
+
+Die übliche Reduktion des (digitalen) Mediums im Kontext der Bildung auf ein (neues) Hilfsmittel zum (pädagogisch vorteilhaften) Unterrichten weiß entweder nichts von diesen gesamtgesellschaftlichen Effekten oder blendet dieses Wissen aus, wenn es um Lernen und Schule geht. Ja, Medien sind auch Werkzeuge und Hilfsmittel, aber eben nicht nur. Sie sind noch viel mehr. Informations- und Kommunikations-Medien machen Gesellschaft. Die Schule ist keine von der Gesamtgesellschaft abgeschlossene Welt, obwohl sie manchmal nach innen wie außen diesen Anschein erweckt. Sie darf wegen ihres unbestreitbaren Zusammenhangs mit der Gesellschaft keinen eigenen, separaten, sozusagen "alternativen" Begriff von Medium, Lernen und Wissen haben, der diese gesamtgesellschaftlichen Effekte nicht erklären kann, den Zusammenhang zwischen Gesellschaft, (Leit-)Medium und Bildung leugnet und nur im Kontext Schule gilt.
+
+"Digitale Bildung" oder "digitales Lernen" oder "digitaler Unterricht". Wo ist das Problem?
+
+Das Problem liegt am herkömmlichen Alltagsverständnis, was Medien sind. Seit ich vor 45 Jahren mit meinem Lehrerstudium begann, hat sich eines an der Ausbildung nicht verändert: Das Verständnis, was Unterrichten bedeutet, wie man Unterricht plant und was in diesem Zusammenhang Medien sind. Unterrichtsplanung erfolgt vom Gegenstand zu den Zielen hin, legt verwendetes Material fest, wählt Methoden, Sozialformen und Medien.
+
+Ganz am Ende kommen also die Medien vor. Wir verstehen sie in unserer Unterrichtsplanung als austauschbare Container, in denen das Material ausgeliefert wird; alles andere bleibt, was und wie es schon immer war und immer bleiben wird, egal welche Medien eingesetzt werden. Und es bleibt in der Hand des Lehrers. Und selbst wenn wir den sogenannten Lernen-durch-Lehren-Unterricht (LdL) einführen, in dem die Schüler zu Lehrern werden, bleibt das Konzept von Unterricht dasselbe. Auch das ist aber ein Alltagsverständnis, das zu hinterfragen ist: Unterricht ist nur eine historisch konkrete Form von Lernprozessgestaltung. Wer sagt, dass Lernen nur mit Unterrichtetwerden funktioniert?
+
+Und es kann schon rein logisch etwas nicht stimmen mit dieser hartnäckigen Schul-Vorstellung davon, was Medien sind. Denn ganz offensichtlich verändern diese neuen digitalen Medien gerade alles und jedes in unserer gesamten Lebenswirklichkeit, vom Politiksystem bis zu den persönlichen Beziehungen - zuallererst und vor allem in der Arbeitswelt:
+
+- Der Computer vernichtet bis 2050 die Hälfte aller heutigen Arbeitsplätze. Und nicht nur die, sondern auch die Berufe, die dahinter stehen. (Die neuen, die er schafft, stehen nicht im Verhältnis dazu.)
+- Dies geschieht in der Produktion schon lange.
+- Derzeit ist der Umbau der Übernahme von Arbeit durch Computer in Verwaltung, Büro und Dienstleistungsberufen im Gange.
+- Robotik und KI sind heute schon so weit, dass auch "studierte" Arbeit nicht mehr von Menschen geleistet werden muss. (Z.B. wird der größte Teil der juristischen Arbeit in Betrieben durch KI ersetzt, auch immer mehr Diagnose-Arbeit im medizinischen Bereich usw.)
+- Es bleiben also nur noch Berufe und die Sorte Arbeit in den Berufen übrig, die der Computer nicht kann oder die für KI zu teuer ist, weil eine menschliche Billigstarbeitskraft sie erledigen kann.
+
+Und diese umwerfende Entwicklung, angestoßen durch die Digitalität, soll mit einem Medienbegriff verstehbar sein, der Medien eigentlich nur als bloße Behälter sieht, in denen Wissen ausgeliefert wird?
+
+Wir müssen uns also etwas anderes unter Medien vorstellen, um einigermaßen zu verstehen, was da gesamtgesellschaftlich vor sich geht, als dass sie bloß ein beliebiges Werkzeug am letzten Ende unserer Unterrichtsgestaltung sind. Wie können wir uns Medien also passender vorstellen?
+
+## 3. Alles muss neu gedacht werden
+
+Gerade, weil sie als Reflex auf den gesamtgesellschaftlichen Umbruch selbst im Wandel begriffen sind, müssen die Begriffe "Medium", "Wissen" und "Lernen" für die Schule neu geklärt werden. Das ist für Bildungsinstitutionen außerordentlich schwer zu akzeptieren, denn das hinterfragt deren Identität im Kern. Wie tiefgreifend die Neukonstruktion auch zum Begreifen des Ganzen sein muss, um zu verstehen, was mit Schule in den nächsten Dekaden passieren wird und soll oder nicht soll, und welche Optionen wir in diesem Prozess überhaupt haben, zeigt die Grafik von Michael Giesecke.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 8: Innovationsspirale nach Michael Giesecke (2002, S. 121)*
+
+## 4. Was heißt Medium?
+
+Gleichgültig, wo wir mit der Betrachtung der Grafik anfangen, es ist nie der "wirkliche" Anfang. Wir können also mit der Erklärung überall beginnen, z. B. links unten: Neue Medien führen zu neuen Weltbildern, diese führen zu neuem Wissen über die Welt (und uns selbst), das erzeugt neue Wahrnehmungsprogramme und diese führen schließlich wieder zur Entwicklung neuer Kommunikations- und Medienformen. Der Zusammenhang ist also nicht monokausal linear, sondern komplex: Das bedeutet, dass alles sowohl Ergebnis als auch Voraussetzung eines ko-evolutionären Prozesses ist, in dem die einzelnen Einheiten sich in wechselseitiger Abhängigkeit entwickeln. Medien sind nicht beliebig (z. B. für didaktische Zwecke) austauschbare "Hilfsmittel". An den Inhalten klebt Medienmaterial, sagt Giesecke (2005, S. 15). Und ebenso gilt umgekehrt: An den Medienformen kleben Inhalte, Ideen und ganze Weltbilder.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 9: Medienbegriff nach Lisa Rosa*
+
+Lehrer wissen, dass wir uns einen Gegenstand nicht direkt aneignen, also lernen können, indem wir ihn selbst konsumieren, verschlingen oder ins Gehirn eintrichtern. Wir brauchen ein Drittes, etwas, mit dem wir den Gegenstand lernend bearbeiten. Das ist die Entdeckung Vygotskijs in der ersten Hälfte des vorigen Jahrhunderts. Dieses Dritte kennen wir als Mittel oder Instrument oder Werkzeug.
+
+Beispiel: Wir lesen einen Text über den Lerngegenstand, z.B. Lobbyismus in der Bildung. Und diesen Text lesen wir in der Klasse, weil die Lehrerin ihn für alle an die Wand wirft. Auch nicht direkt, unmittelbar, sondern vermittelt, über ein Gerät. Das nennen wir dann Medium, etwa einen Beamer oder einen OHP. Aber weder der Text noch das Gerät ist das Medium.
+
+Das Medium ist sozusagen der gesamte "Kulturraum", geschaffen durch das Medium und gleichzeitig in ihm enthalten, in dem das Lernen stattfindet.
+
+Das ist das postmoderne Medienverständnis. Mit diesem und vergleichbaren Modellvorstellungen können wir zumindest die Tragweite erfassen. Nützlich ist auch, sich vorzustellen, dass Medien verschiedene Ebenen besitzen. Dann weiß man immer, wo man gerade gedanklich ist und worüber man gerade spricht:
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 10: Medienkonstellation nach Lisa Rosa*
+
+Erst wenn wir die umfassende, die gesellschaftlich-kulturelle Ebene verstehen, haben wir eine halbwegs nützliche Vorstellung, die wir als Lehrer auch für unsere Lehrtätigkeit gebrauchen können. Mit "Medienkonstellation" meinen wir die komplexe Organisationsstruktur der vielen Medien, auch der historisch älteren Medien. Diese - wie Gestik, Sprache, Handschrift - verschwinden ja nicht unter dem historisch neuen (Leit-)Medium. Sie bekommen allerdings einen neuen Systemplatz im aktuellen Mediengefüge. Auf Tablets kommen Handschrift und Zeichnung auf ein (nicht nur technisch) neues Niveau. Der Märchenerzähler, den meine Freundin zur Promotionsfeier als kulturelles Event eingeladen hatte, faszinierte auf neue Weise mit alter Medientechnologie (Erzählen mit der Stimme) und deren "Inhalten" (Siebenmeilenstiefel). Wir können ein Video dieses Events in kürzester Zeit über die aktuellen "sozialen Medien" um den ganzen Globus schicken. Die Märchen und ihr Medium (das Ausdenken, Erinnern und Erzählen) haben eine völlig veränderte Bedeutung im digitalen Zeitalter. "Fake news" und "Storytelling" sind keine kompletten Neuerfindungen, sondern Wiederentdeckungen in historisch neuem Gewand. Ein Remix an Form und Bedeutung.
+
+Das Verwenden digitaler Geräte und Tools sagt allein noch überhaupt nichts darüber aus, ob mit ihnen ein adäquates "Lehren und Lernen im digitalen Zeitalter" stattfindet. Umgekehrt gilt sogar: Ein adäquates "Lehren und Lernen im digitalen Zeitalter" kann - nicht immer, aber eben auch - ohne diese Geräte und Tools stattfinden. Denn: "Web 2.0 ist keine Technologie sondern eine Einstellung. Das bedeutet, es gibt keine technologische Revolution, es ist eine gesellschaftliche Revolution." (Stephen Downes 2005)
+
+## 5. Was heißt Gesellschaft?
+
+Netzwerkgesellschaft nennt Manuel Castells bereits 1996 die am Horizont aufscheinende neue Gesellschaftsformation<a href="#footnote21" class="footnote">21</a>. "Von den nationalen Kommunikationsräumen des Buchdrucks zu den globalen Netzen der digitalen Medien", heißt der wegweisende Untertitel des oben zitierten Essays von Michael Giesecke (2017).
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 11: Ronfeldt/Jarche, Chaos and Order (2018)*
+
+Die Grafik von David Ronfeldt und Harold Jarche<a href="#footnote22" class="footnote">22</a> ist nur ein Beispiel von vielen. Medium als Kriterium zur Periodisierung von Gesellschaftsepochen ist erst mit der Durchsetzung des digitalen Mediums als Leitmedium entstanden. Davor waren andere Dinge als epochemachend verstanden worden: Erst die Götter, dann die Ideen und Taten großer Männer, der Weltgeist, die Produktionsweise.
+
+## 6. Was bedeuten Wissen und Lernen?
+
+"Lernen bleibt Lernen" ist der Titel eines Aufsatzes von Klaus Zierer (2017), der die Vorstellung, es gäbe ein überzeitliches menschliches Lernen als anthropologische Konstante, auf den Punkt bringt. Michael Giesecke bezeichnet diese Vorstellung als einen Mythos der Buchkultur, der die historische Lernwelt des Industriezeitalters verewigen möchte. Wer die ausgezeichnete Geschichte des Lernens von Bernd Fichtner (2008) kennt, der kann angesichts eines unhistorischen und biologistischen Ansatzes nur den Kopf schütteln.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 12: Lernverständnis in verschiedenen Epochen*
+
+Schule und Lernen im Buchdruckzeitalter
+
+- lehrerzentriert
+- belehrend
+- systematisch
+- objektivistisch
+- dekontextualisiert
+- allein
+- festliegendes Ergebnis
+- vorgegebene Bedeutung
+- Denkmodell: Büffeln
+
+Schule und Lernen im digitalen Zeitalter
+
+- lernerzentriert
+- erforschend
+- problemorientiert
+- perspektivisch
+- kontextualisiert
+- im Austausch
+- ergebnisoffen
+- persönlicher Sinn
+- Denkmodell: Rauskriegen
+
+Auch der Wunsch, etwas ganz gewiss zu wissen, bevor wir es unseren Kindern "beibringen", ist Teil dieses alten Wissens- und Lernbegriffs, der so tut, als gäbe es uneingeschränkt objektives, absolut sicheres Wissen. Transformation bedeutet jedoch, dass sich zumindest ein Teil der Antworten erst während des Prozesses selbst entwickeln und herausstellen wird. Und dass wir in einer Umbruchszeit leben, kann man nicht mehr als bloße theoretische Behauptung oder gar einen interessengeleiteten Wunsch (z. B. der Industrie) abtun, denn sie ist längst eine gesellschaftliche und auch persönliche Alltagserfahrung der meisten Menschen geworden und muss als Tatsache verstanden werden. Das Denken in Zusammenhängen, in Beziehungen, in Prozessen, kontextbezogen und reflexiv - systemisches Denken also - verändert nicht nur die Art des Denkens, sondern erfordert auch eine neue Art des Lernens. Ob wir es problemorientiertes, situiertes oder Projektlernen nennen: Es ist grundsätzlich anders als das nachvollziehende, ent-kontextualisierte systematische Lernen von Kausalitäten, die bloß in eine Richtung laufen.
+
+Historiker und Bildungsforscher können zeigen, dass der Begriff davon, was als Wissen und Lernen gilt und wie es verstanden wird, genau wie alles Denken und Wollen historisch konkret, d.h. von den geschichtlichen Verhältnissen abhängig ist. Das heißt nicht deterministisch (= das Eine führt notwendigerweise zum Anderen), sondern ko-evolutionär. Wir erwarten darum logischerweise zu Recht, dass sich mit einem Epochenwandel - v.a. da er mit einem Medienwandel zu tun hat - auch das Verständnis von Wissen und Lernen verändert.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 13: Wissensbegriff*
+
+Hier sehen wir den Wissensbegriff, wie er schon vor vielen Jahren in der Informatik entwickelt wurde, die zusammen mit der Entwicklung der digitalen Technik als neue Wissenschaft entstand.
+
+Je höherwertig das Wissen - also mit tieferem Verständnis des Gegenstands - desto mehr Kontext und desto mehr Bedeutung kommen hinzu. Und sehr wichtig für uns: Es gibt einen Unterschied zwischen Information und Wissen!
+
+Wissen wird hier nicht verstanden als die Kenntnis der sogenannten objektiven "Fakten". Sowas gibt es, wenn überhaupt, allenfalls auf der Ebene der Daten. Aber auch Daten sind ja immer schon eine Sammlung, was eine Auswahl voraussetzt. Und Auswahl heißt immer: Was wird wie und warum gewählt?
+
+Was bedeutet das alles für die Bildung?
+
+1. Wissen ist immer perspektivisch.
+2. Durch die persönliche "Arbeit" an Informationen wird es erst möglich, ein tieferes Verständnis von Gegenständen und ihren Zusammenhängen zu erlangen. Menschen erschaffen dadurch ihr eigenes Wissen. Wissen hat also etwas mit der Person zu tun, die wissen will/oder soll - und damit, welche persönliche Bedeutung der Gegenstand für diese Person hat. Und darüber bestimmt die Person selbst. Das heißt nicht Beliebigkeit - nach dem Motto: "kann jeder denken, was er will". Das ist das subjektivistische Missverständnis aus der Perspektive derer, die ihre dualistische Medaille nicht aufgeben wollen, die sagt: Entweder gibt es eine objektive Wahrheit - oder alles ist wurscht. Sie kleben an der formalen Logik des Weltverständnisses der historischen Moderne, das die Industriegesellschaft und die Naturwissenschaften hervorgebracht hat. Die, die darüber hinaus denken, lernen, dass gesellschaftliche Bedeutungen (das ist das, was als "wahr" gelten darf) der ständigen Aushandlung unterliegen. Sind die Menschenrechte "wahr"? Ja, wenn wir das so wollen und wenn wir sie in unserem Denken und in der gesellschaftlichen Praxis "wahr machen". Nicht, weil es etwa ein naturgegebenes (statt gottgegebenes) Menschenrecht gäbe.
+
+Das neue Verständnis von Wissen hat selbstverständlich Folgen für die Art und Weise, wie das Lernen dieses Wissens vor sich geht - und dann selbstverständlich auch dafür, wie folglich das passende Lehren bzw. Unterrichten aussehen muss.
+
+Die Erfahrung des Lebens in einer Umbruchzeit lehrt auch: Wissen (als Ergebnis von Lernen) ist immer vorläufig und wird beim auf Dauer gestellten Lernen ständig überwunden. Ergebnisoffenheit ist also ein wichtiges Merkmal des Lernens im 21. Jahrhundert. Dass das Augenmerk mehr auf dem Prozess anstatt wie bisher ausschließlich auf den Ergebnissen liegt, heißt jedoch keineswegs, dass die Ergebnisse beliebig oder egal wären. Denn die Entscheidung, in welche Richtung die Entwicklung gehen soll, können wir - und müssen wir sogar - jetzt treffen. Dazu müssen wir mögliche Ergebnisse (Szenarien) vorwegdenken, und dies für Zeiträume, die die eigene Lebensspanne übersteigen. Gleichzeitig geht es um ein persönlich bedeutsames Lernen, ein Lernen mit Engagement, das auf einem von rationalen Kriterien geleiteten Urteil beruht. Urteilsfähigkeit ist daher heute mehr denn je gefragt und kommt auf die Liste dessen, was am Ende der Schulzeit gewusst/gekonnt/gewollt (kurz: Kompetenz) sein muss. Ein vernünftiges Urteil kann sich jedoch nur bilden, wer viele Seiten einer Sache gesehen hat. Das bedeutet: Wissen ist multiperspektivisch. "Wir brauchen Leute, die nicht alles glauben, was ihnen im Internet gesagt wird", sagt die Direktorin des Max-Planck-Instituts für Informatik, Anja Feldmann (2018). In meinen Augen ist das Ziel noch viel umfassender: Die Leute - also alle, nicht nur wie bisher eine dünne Schicht der Gebildeten (Akademiker, "Leistungsträger", "Elite"… ) - müssen lernen, überall - nicht nur im Internet - begründet vernünftig zu urteilen anstatt zu glauben, was ihnen gesagt wird.
+
+Eine weitere Einsicht liegt in der Gesellschaftlichkeit von Wissen (vgl. Rosa 2017). Die dominante Vergesellschaftungsform wird zukünftig die Vernetzung sein. Nicht nur Lernen in und mit Netzwerken, sondern auch das Ziel, Netzwerken zu lernen, ist Bestandteil der Kompetenzliste. Auch eine neue gesellschaftliche Vorstellung davon, was gelernt werden muss und wie dieses Wissen/Können/Wollen zusammenhängt, zeichnet sich ab. Eine grobe Zusammenfassung der Kernziele einer neuen Allgemeinbildung findet sich in dem Schlagwort 4K. Die Abkürzung steht dabei für die Fähigkeiten des kritischen Denkens, der Kreativität, Kommunikation und Kollaboration.
+
+Wie diese Fähigkeiten ("Skills") mit Wissen ("Knowledge") sowie Haltungen und Werten ("Attitudes & Values") zu Kompetenzen verflochten werden, die in Handeln münden, zeigt die Grafik der OECD:.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 14: OECD 2030 Framework*
+
+Es geht bei einem zeitgemäßen Lernen also ganz gewiss nicht darum, effizienter (also schneller und billiger) dieselben Ziele wie gestern zu erreichen, sondern darum, effektiver<a href="#footnote23" class="footnote">23</a> zu lernen, und zwar heute, im Hinblick auf neue Anforderungen, neue Bedeutungen alter Ziele und neue Ziele für ein erwünschtes Morgen.
+
+Die beliebte Formel "Computer sind auch nur Werkzeuge" kann auch als Selbstvergewisserung gemeint sein, dass Computer - speziell auf der Stufe der Künstlichen Intelligenz und der vernetzt selbstlernenden "künstlichen Gehirne" - nicht die "Weltherrschaft übernehmen". Angesichts der mit Maschinen verknüpften utopischen Hoffnungen wie dystopischen Befürchtungen<a href="#footnote24" class="footnote">24</a> wird spätestens jetzt deutlich, dass wir nicht nur informatische Bildung brauchen, die uns zeigt, was Maschinenlernen ist, sondern auch sehr genau klären müssen, worin die Besonderheit menschlichen Lernens gegenüber dem Maschinenlernen (aber auch im Unterschied zum Lernen der Tiere und zum Lernen von sozialen Systemen) besteht.
+
+"Sind diese neuen Kompetenzen denn nicht bloß die Zurichtung für die Bedarfe des neuen Arbeitsmarkts im Interesse der Wirtschaft?" - Das wird von Pädagogen oft gefragt. Ich denke, in den Papieren der OECD<a href="#footnote25" class="footnote">25</a> finden sich viele Hinweise darauf, dass das Bewusstsein dafür wächst, dass alle Menschen dieselben Grundbedürfnisse<a href="#footnote26" class="footnote">26</a> teilen, und ebenso dafür, dass sich eine "Elite der Reichen" langfristig nicht aus den globalen Problemen herauskaufen kann. Ganz sicher wachsen diese Einsicht sowie die Fähigkeiten und der Wille, das (politische) Handeln an dieser Erkenntnis auszurichten, nicht von selbst. Alle müssen sich lernend darum kümmern, dass sich diese universalistische Sicht im Interesse aller gegen eine partikularistische Moral im Interesse der wenigen durchsetzt. Dazu eben brauchen alle diese Kompetenzen. Neue Technologien, Medien, Innovationen entstehen niemals abstrakt und fallen nicht vom Himmel. Sie werden in ihren jeweils historischen Verhältnissen entwickelt, erfunden oder in eine bestimmte Richtung weiterentwickelt, um bestimmten Zwecken zu dienen. Die Bestimmung darüber, welchen Zwecken die neuen Technologien dienen sollen und welche Richtung ihre Entwicklung nehmen soll, dürfen wir nicht (mehr) denen überlassen, die sie bezahlen können und die damit Geld verdienen.<a href="#footnote27" class="footnote">27</a>
+
+Umfassend sind also die Fähigkeiten, die gelernt werden müssen, umfassend global ist auch die Vernetzung, in der gelernt wird, und umfassend ist schließlich die gesellschaftliche Bedeutung des Lernens für das Überleben der ganzen Menschheit angesichts der ökologischen und sozialen Zerstörungen in der alten Epoche.
+
+#### Quellenangaben:
+
+- Downes, Stephen (2005): E-Learning 2.0. Online-Quelle: https://www.downes.ca/cgi-bin/page.cgi?post=31741 (01.05.2019)
+- Feldmann, Anja (2018): "Wir brauchen Leute, die nicht alles glauben, was ihnen im Internet gesagt wird". Interview vom 30. April 2018. Online-Quelle: https://www.sueddeutsche.de/digital/interview-am-morgen-jahre-www-wir-brauchen-leute-die-nicht-alles-glauben-was-ihnen-im-internet-gesagt-wird-1.3960454 (01.05.2019)
+- Fichtner, Bernd (2008): Lernen und Lerntätigkeit: Ontogenetische, Phylogenetische und epistemologische Studien. München: Lehmanns.
+- Giesecke, Michael (2017): Grundzüge kulturvergleichender medialer Trendforschung. Von den nationalen Kommunikationsräumen des Buchdrucks zu den globalen Netzen der digitalen Medien. In: LOG IN 187/188 (2017), S. 20-31. Online-Quelle: https://michael-giesecke.de/cms/images/pdf/LogInkl.pdf (01.05.2019)
+- Giesecke, Michael (2002): Von den Mythen der Buchkultur zu den Vision der Informationsgesellschaft. Frankfurt am Main: Suhrkamp.
+- Giesecke, Michael (2005): Auf der Suche nach posttypographischen Bildungsidealen. In: Zeitschrift für Pädagogik 51 (2005), S. 14-29. Online-Quelle: https://www.pedocs.de/volltexte/2011/4737/pdf/ZfPaed_2005_1_Giesecke_Auf_der_Suche_nach_D_A.pdf (01.05.2019)
+- Jarche, Harald (2018): Chaos and Order. Online-Quelle: https://jarche.com/2018/05/chaos-and-order (01.05.2019)
+- Kahneman, Daniel (2011): Thinking Fast and Slow. New York: Farrar, Straus & Giroux.
+- OECD (2017): Global competency for an inclusive world. Online-Quelle: https://gisigpl.files.wordpress.com/2017/12/global-competency-for-an-inclusive-world.pdf (01.05.2019)
+- Rosa, Lisa (2017): Lernen im digitalen Zeitalter. Online-Quelle: https://shiftingschool.wordpress.com/2017/11/28/lernen-im-digitalen-zeitalter (01.05.2019)
+- Zierer, Klaus (2017): Lernen bleibt Lernen - Digitalisierung in der Pädagogik. In: Forschung & Lehre 7, S. 610-611. Online-Quelle: https://www.wissenschaftsmanagement-online.de/system/files/downloads-wimoarticle/1707_WIMO_Lernen%20bleibt%20Lernen_ZIERER.pdf (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text setzt sich aus zwei Publikationen zusammen, die unter https://shiftingschool.wordpress.com/2017/11/28/lernen-im-digitalen-zeitalter und https://schulendigital.ch/2018/08/14/aufbruch-in-ein-zeitalter-des-lernens erschienen sind. Die vorliegende Fassung hat Lisa Rosa unter der Lizenz CC BY 4.0 freigegeben.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Dass der Grundsatz "Lernen bleibt Lernen" falsch ist, zeigen auch die kultur- und medienhistorischen Überlegungen in dem Text "<a href="#p483">Paradigmen und palliative Didaktik. Wie Medien Wissen und Lernen prägen</a>" von Axel Krommer.
+- Die Einladung zum Tanz von Jöran Muuß-Merholz bietet nicht nur eine Interpretation der Gegenüberstellung der Lernverständnisse an, die Lisa Rosa entwickelt - er verweist auch auf die Gefahr, mit digitalen Mitteln ein überholtes Lernverständnis zu festigen: <a href="#p290">Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren</a>.
+- Dejan Mihajlović umreißt sein Verständnis des Lernens im digitalen Zeitalter mit dem Begriff "zeitgemäße Bildung": <a href="#p1336">Was ist zeitgemäße Bildung?</a>.
+
+
+---
+
+
+# Teil II - Neue und falsche Begriffe
+
+
+---
+
+
+# Wie ein Common-sense-Medienbegriff zu pädagogischen Fehlschlüssen führt
+
+*Axel Krommer*
+
+Das Nachdenken über den Medienbegriff wird häufig als theoretisches Glasperlenspiel angesehen, das allerhöchstens im praxisfernen Lehnstuhl des wissenschaftlichen Elfenbeinturms seinen Platz hat.
+
+Im Folgenden soll an einem aktuellen Beispiel aus einem höchst einflussreichen Buch gezeigt werden, wie ein inadäquater Medienbegriff zu pädagogischen Fehlschlüssen führt, die erhebliche Folgen für die konkrete Unterrichtswirklichkeit haben können.
+
+## Zierer und der Computer
+
+In seinem Buch "Lernen 4.0", das den Untertitel "Pädagogik vor Technik" trägt, widmet sich der Augsburger Schulpädagoge Klaus Zierer u.a. dem SAMR-Modell<a href="#footnote28" class="footnote">28</a>. Um zu erläutern, was nach Ruben Puentedura mit der Stufe "Substitution" (=Ersetzung) gemeint ist, wählt Zierer folgendes Beispiel:
+
+> "Für gewöhnlich schreiben Schülerinnen und Schüler ihre Geschichten mit Papier und Bleistift. [...] Wird nun anstelle von Papier und Bleistift der Computer verwendet, so erfolgt zwar eine Digitalisierung im Lernprozess, aber ausschließlich auf der Ebene der Ersetzung: Papier und Bleistift werden durch einen Computer ersetzt. Ein Mehrwert wird dadurch nicht möglich sein. **Die Geschichte wird durch den Einsatz eines Computers keine andere werden.**" (Zierer 2018, S. 76. Hervorhebung von mir, A.K.)
+
+Diese kurze Passage ist nicht nur wegen des Mehrwert-Begriffs problematisch, sondern vor allem wegen der Behauptung, dass sich durch den Wechsel des Schreibmediums das Schreibprodukt nicht verändert.
+
+Dass das falsch ist, wusste schon Friedrich Nietzsche.
+
+## Nietzsche und die Schreibmaschine
+
+Im Februar 1882 schreibt Nietzsche einen Brief an Heinrich Köselitz (aka Peter Gast). Das Besondere: Er schreibt den Text nicht mit der Hand, sondern mit dem neuen Medium der Schreibmaschine. Und er merkt rasch, wie die "Schreibkugel" sein Denken und seine Texte verändert:
+
+> "Sie haben Recht: unser Schreibzeug arbeitet mit an unseren Gedanken. Wann werde ich es über meine Finger bringen, einen langen Satz zu drücken!" (Nietzsche 1908, S. 97)
+
+Schreibmedien sind keine neutralen Vehikel zum Ausdruck fertiger Gedanken. Man muss kein Anhänger von McLuhans Medienbegriff (vgl. Krommer 2017) sein, um zu erkennen, dass die Form eines Mediums maßgeblich die Produktionsbedingungen, den Inhalt und dessen Wirkung(en) prägt. In den Worten des Deutschdidaktikers Michael Staiger:
+
+> "Es ist also keineswegs gleichgültig, ob ein Satz mit Kreide an die Tafel geschrieben wird oder ob er als Projektion einer Overhead-Folie oder eines Computerbildschirms erscheint, die Medienästhetik hat immer einen entscheidenden Einfluss auf die Medienwirkung." (Staiger 2006, S. 180)
+
+Wenn man die Form eines Mediums untersucht, dann nimmt man u.a. in den Blick, welche Auswirkungen Medien auf das Denken, das Handeln, Inhalt und Struktur der Kommunikation, soziale Gemeinschaft und die Identität besitzen. Dass Medien beispielsweise die Auswahl sinnvoller Inhalte drastisch begrenzen können, hat Neil Postman in dem bekannten Diktum, dass man mit Rauchzeichen nicht philosophieren könne, ironisch zugespitzt (vgl. Postman 1985, S. 15-16). Und wie sehr z.B. eine mediale Form wie WhatsApp schriftliche, visuelle und mündliche Kommunikation prägt, erleben sehr viele Nutzer(innen) jeden Tag.
+
+Mehr als ein Jahrhundert nach Nietzsches (temporärem) Wechsel von der Handschrift zur Schreibmaschine beschreibt der amerikanische Wissenschaftsjournalist Steven Johnson seine persönlichen Erlebnisse beim Übergang von der Handschrift zum Verfassen eines Textes mit dem Computer folgendermaßen:
+
+> "Nach einigen Monaten bemerkte ich einen qualitativen Wandel in der Art und Weise, wie ich mit Sätzen arbeitete: Das Denken und der Prozeß des Schreibens begannen, einander zu überschneiden. [...] Der Computer hatte mir nicht nur das Schreiben leichter gemacht, sondern auch die Substanz dessen verändert, was ich schrieb, und ich vermute, daß er in dieser Hinsicht einen ungeheuren Einfluß auf mein Denken hatte." (Johnson 1997, S. 163-164)
+
+Kurz: Zierer irrt. Die Geschichte wird durch den Einsatz des Computers eine andere werden.
+
+## Shannon und der Channel
+
+Es bleibt die Frage, warum Zierer die These vertritt, der Wechsel des Schreibmediums habe keine Auswirkungen auf das Schreibprodukt. Die Antwort liegt auf der Hand: Er stützt sich - zumindest implizit - auf einen Common-Sense-Medienbegriff, der von der Vorstellung ausgeht, dass Medien eine Art Kanal darstellen, durch den Informationen von einem Sender zu einem Empfänger übermittelt werden.
+
+Die Bestandteile dieses populären "Sender-Empfänger-Modells" haben erstmals im Rahmen der Mathematical Theory of Communication von Claude E. Shannon fest definierte Bedeutungen erhalten (vgl. Shannon/Weaver 1949). Doch Shannon ging es einzig und allein um das technische Problem der Signalübertragung und nicht um die semantisch-pragmatischen Aspekte bedeutungsvoll-zwischenmenschlicher Kommunikation. Er formuliert das sehr deutlich: "[The] semantic aspects of communication are irrelevant to the engineering problem." (Shannon/Weaver 1949, S. 31) Dass das Modell von Shannon und Weaver ungeeignet ist, um interpersonale Kommunikationsprozesse zu analysieren, wird daher in der Forschung immer wieder betont (vgl. hierzu exemplarisch Köck 2000, S. 355-358; Krallmann/Ziemann 2001, S. 31-33; Staiger 2007, S. 55-58).
+
+Im Rahmen dieses Modells, in dem "Geist und Bedeutung keinen Ort" (Kümmel 1997, S. 217) haben, ist ein Medium nichts weiter als ein Channel, der geeignet ist, Signale vom Sender zum Empfänger zu übertragen: "It may be a pair of wires, a coaxial cable, a band of radio frequencies, a beam of light etc." (Shannon/Weaver 1949, S. 34). Das Medium selbst verändert die transportierte Nachricht nicht und bleibt gewissermaßen unsichtbar, solange die Signale störungsfrei übermittelt werden.
+
+## Medien und Common Sense
+
+Das Sender-Empfänger-Modell begünstigt die Vorstellung, dass Medien lediglich neutrale Übertragungskanäle sind, mit deren Hilfe sich vorgefertigte Informationspakete (wie materielle Güter auf einem Fließband) vom Sender zum Empfänger transportieren lassen (vgl. hierzu Sandbothe 1996, S. 426 und Frederking/Krommer/Maiwald 2018, S. 12-16).
+
+Und wenn man -wie Zierer -mit dem Common-Sense-Medienbegriff des Sender-Empfänger-Modells argumentiert, scheint es tatsächlich irrelevant zu sein, ob eine "Geschichte" durch den Kanal der Handschrift auf ein Blatt Papier oder durch den Kanal der Computerschrift auf einen Bildschirm transportiert wird.
+
+Erhellend ist in diesem Zusammenhang, aus welcher Quelle das Geschichten-Beispiel stammt, mit dem Zierer die Stufe "Substitution" des SAMR-Modells erläutert und das -wie gezeigt wurde -auf einem Common-Sense-Medienbegriff beruht. Die Bibliografie verrät: Es handelt sich nicht etwa um einen wissenschaftlichen Text, sondern um ein Video, das unter der URL https://www.commonsense.org/education/videos/introduction-to-the-samr-model zu finden ist.
+
+Hier schließt sich dann die Diallele: Von commonsensemedia.org zum Common-Sense-Medienbegriff.
+
+#### Quellenangaben:
+
+- Frederking, Volker/Krommer, Axel/Maiwald,Klaus (2018): Mediendidaktik Deutsch. Eine Einführung. 3., völlig neu bearbeitete und erweiterte Auflage. Berlin: Erich Schmidt.
+- Johnson, Steven (1997): Interface Culture. Wie neue Technologien Kreativität und Kommunikation verändern. Stuttgart: Klett-Cotta 1999.
+- Köck, Wolfram K. (2000): Kognition-Semantik-Kommunikation. In: Schmidt, Siegfried J. (Hrsg.): Der Diskurs des Radikalen Konstruktivismus. Frankfurt am Main: Suhrkamp (= stw 636), S. 340-374.
+- Krallmann, Dieter/Ziemann, Andreas (2001): Grundkurs Kommunikationswissenschaft. Mit einem Hypertext-Vertiefungsprogramm im Internet. München: Fink (= UTB 2249).
+- Krommer, Axel (2017): Wie man YouTube-Kids mit Tokio-Hotel-Angie den Medienbegriff McLuhans erklärt. Online-Quelle: https://axelkrommer.com/2017/11/25/wie-man-youtube-kids-mit-tokio-hotel-angie-den-medienbegriff-mcluhans-erklaert (01.05.2019)
+- Kümmel, Albert (1997): Mathematische Medientheorie. In: Spahr, Angela / Kloock, Daniela: Medientheorien. Eine Einführung. München: Fink (= UTB 1986). S. 205-236.
+- Nietzsche, Friedrich (1908): Friedrich Nietzsches gesammelte Briefe: Bd. Briefe an Peter Gast, herausgegeben von Peter Gast. Schuster und Loeffler.
+- Postman, Neil (1985): Wir amüsieren uns zu Tode. Urteilsbildung im Zeitalter der Unterhaltungsindustrie. Frankfurt am Main: Fischer Taschenbuch Verlag 1988.
+- Sandbothe, Mike (1996): Interaktive Netze in Schule und Universität. Philosophische und didaktische Aspekte. In: Bollmann, Stefan/Heibach, Christiane (Hrsg.): Kursbuch Internet. Anschlüsse an Wirtschaft und Politik, Wissenschaft und Kultur. Mannheim: Bollmann, S. 424-433.
+- Shannon, Claude E. / Weaver, Warren (1949): The Mathematical Theory of Communication. Urbana, Chicago, London: University of Illinois Press 1972.
+- Staiger, Michael (2006): Die Tücke der Medien. Medienpraktische Fragen zum Einsatz von Spielfilmen. In: Frederking, Volker (Hrsg.): Filmdidaktik und Filmästhetik. München: kopaed 2006 (=Jahrbuch Medien im Deutschunterricht 2005), S. 179-189.
+- Staiger, Michael (2007): Medienbegriffe, Mediendiskurse, Medienkonzepte. Bausteine einer Deutschdidaktik als Medienkulturdidaktik. Baltmannsweiler: Schneider.
+- Zierer, Klaus (2018): Lernen 4.0. Pädagogik vor Technik. 2. erweiterte Auflage. Baltmannsweiler: Schneider.
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 27.08.2018 auf https://axelkrommer.com/2018/08/27/wie-ein-common-sense-medienbegriff-zu-paedagogischen-fehlschluessen-fuehrt
+
+#### Empfehlungen zum Weiterlesen:
+
+- Lisa Rosa: <a href="#p621">Lernen im digitalen Zeitalter</a>.
+- Axel Krommer: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Axel Krommer: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+- Jöran Muuß-Merholz: <a href="242">Das blaue und das grüne Medium - der Medienbegriff des Pinguins</a>.
+
+
+---
+
+
+# Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff
+
+*Axel Krommer*
+
+Die Frage nach dem Mehrwert digitaler Medien für den Unterricht wird seit (mindestens) zwei Jahrzehnten hartnäckig gestellt. Wann immer innovative Ideen formuliert werden, scheint der Mehrwert das ultimative Kriterium zu sein, das über die didaktische Güte eines Konzepts entscheidet. Im Folgenden soll für die These argumentiert werden, dass der Mehrwert-Begriff unklar, irreführend, bewahrpädagogisch und deshalb letztlich überflüssig ist.
+
+## Begriffliche und konzeptionelle Unschärfen
+
+Die gängige Vorstellung vom Mehrwert, die sukzessive auf mehreren Ebenen als defizitär entlarvt werden soll, lässt sich in drei einfachen Thesen zusammenfassen:
+
+1. Der Einsatz digitaler Medien darf nicht zum Selbstzweck werden und führt nicht automatisch zu besserem Unterricht.
+2. Verglichen mit traditionellen Konzepten bedeutet es zumeist einen zusätzlichen Aufwand (zeitlich, organisatorisch, technisch, finanziell, didaktisch etc.), den Unterricht mit digitalen Medien zu unterstützen.
+3. Dieser zusätzliche Aufwand ist nur dann gerechtfertigt, wenn sich die curricularen Ziele mit digitalen Medien schneller, besser und einfacher erreichen lassen als ohne diese Werkzeuge. Darin liegt für Lernende wie Lehrende der Mehrwert digitaler Medien.
+
+Ein Mehrwert-Konzept, das mit diesen Überzeugungen vereinbar ist, haben z.B. Baumgartner und Herber (2013) vorgelegt. Sie betonen (vgl. These 1), dass der Einsatz digitaler Medien "noch nicht automatisch einen didaktischen Mehrwert [generiert]" (ebd. S. 330) und dass ein solcher Mehrwert (vgl. These 3) erst dann entstehen kann, "wenn sich aus der Interaktion mit dem Medium ein Lerneffekt bei den Lernenden ergibt, der dem gegenüber einer Situation ohne Nutzung dieser Medien überlegen ist" (ebd., Hervorhebung im Original).
+
+Schon an dieser Stelle zeigt eine kritische Analyse, dass ausgerechnet These (1), der man uneingeschränkt zustimmen möchte, problematisch ist. Denn es gibt offensichtlich keinen ernstzunehmenden Pädagogen, der behaupten würde, der Einsatz digitaler Medien solle zum Selbstzweck werden und/oder führe automatisch zu besserem Unterricht. Doch eine These, deren Negation so absurd ist, dass sie niemand befürwortet, ist eine gehaltlose
+
+Trivialität, die bestenfalls an Selbstverständliches erinnern kann. Auf These (1) kann daher ohne inhaltlichen Verlust verzichtet werden.
+
+Wenn man mit Blick auf These (2) und (3) die einschlägige pädagogische Literatur sichtet, so fällt zum einen auf, dass es keine allgemein anerkannte Definition des Mehrwerts gibt, sondern dass der Begriff in zahlreichen Varianten mit unterschiedlichen Schwerpunkten kursiert (vgl. Stratmann 2007). Zum anderen ist bemerkenswert, dass der Mehrwert-Begriff häufig als so selbstverständlich und alltäglich zu gelten scheint, dass er nicht einmal dann präzise bestimmt wird, wenn er eine zentrale argumentative Funktion besitzt (vgl. Fischer 2017).
+
+Einige Gründe für die begriffliche Unschärfe sind offensichtlich: So wird beispielsweise das Wert-Konzept aus der Ökonomie übernommen, ohne dass es eindeutige Kriterien dafür gibt, wie (und in welcher Maßeinheit) pädagogischer bzw. didaktischer Wert bestimmt werden kann.
+
+Der Gegenstandsbereich des Wertbegriffs ist ebenfalls unklar: Erstreckt er sich - um nur einige Kandidaten zu nennen - auf einzelne Medien und Methoden oder ganze Unterrichtskonzepte? Auf isolierte Lerneffekte oder die Qualität von Bildung insgesamt? Oder gar auf die Digitalisierung als gesellschaftliches Phänomen?
+
+Als problematisch erweist sich auch die Tatsache, dass gehaltvolle Aussagen über den Mehrwert sprachlogisch stets Vergleiche sind. Eine Aussage wie "Digitale Medien haben einen didaktischen Mehrwert" ist nur sinnvoll, wenn auch deutlich wird, womit der Wert digitaler Medien verglichen wird (d.h. wenn die Frage: "Mehr wert als was?" überzeugend beantwortet werden kann). Und da ein didaktischer Wert nicht absolut gesetzt ist, sondern in hohem Maße vom konkreten Kontext abhängt, besteht immer die Gefahr, dass schiefe Vergleiche angestellt werden. Um es an einem plakativen Beispiel zu erläutern: Auf einer stromlosen Almhütte werden Papier und Bleistift einen Mehrwert gegenüber einem interaktiven Whiteboard aufweisen, in einem verkabelten Klassenzimmer sieht das jedoch anders aus.
+
+Kurz: Unsere Intuitionen im Hinblick auf den Mehrwert mögen klar und eindeutig erscheinen - der Begriff und seine Anwendung im Bereich der Pädagogik sind es nicht.
+
+## Mehrwert und Medienintegration
+
+Das gängige Verständnis vom Mehrwert, das oben in den Thesen (1)-(3) skizziert wurde, ist häufig mit einer stark verengten Perspektive auf die mediale Grundierung des Unterrichts verknüpft. Denn Medien geraten erst dann in den Blick, wenn es sich um elektronische (oder digitale) Medien handelt. "Medienintegration" meint dann, den traditionellen Unterricht durch elektronische bzw. digitale Medien zu unterstützen (vgl. These 2). Und diese Integration gilt als didaktisch sinnvoll, wenn sich gegenüber dem Unterricht, der auf Stimme, Buch und Schrift basiert, ein Mehrwert ergibt (vgl. These 3).
+
+Gegen diese Sichtweise lässt sich jedoch einwenden, dass Medien nicht erst in Gestalt elektronischer (oder gar digitaler) Medien in den Unterricht integriert werden, sondern dass auch die Stimme, das Buch und die Schrift mediale Formen sind (vgl. hierzu Frederking/Krommer/Maiwald 2018, S. 105). Die (immer noch selbstverständliche) Sozialisation im Rahmen der Buchkultur macht den medialen Charakter von (menschlicher) Stimme, Buch und Schrift jedoch gleichsam unsichtbar und lässt auch vergessen, dass Buch und Schrift hochspezialisierte Technologien darstellen (vgl. Giesecke 1998, S. 67).
+
+Das bedeutet: Es gibt keinen Unterricht ohne Medien. Oder wahlweise: Man kann nicht nicht-medial unterrichten.
+
+Vor diesem Hintergrund ergeben sich (mindestens) drei problematische Aspekte:
+
+1. Es gibt keinen erkennbaren Grund, die Frage nach dem Mehrwert nur beim Einsatz bestimmter technischer Medien (z.B. beim Smartphone, nicht aber beim Buch oder Arbeitsblatt) zu stellen.
+2. Es fehlt eine Begründung dafür, warum nicht-technische Medien (d.h. die Stimme oder der Mensch) gar keinen Mehrwert-Test bestehen müssen: Wäre es nicht sinnvoll, sicherzustellen, dass das Unterrichtsgespräch A gegenüber dem Unterrichtsgespräch B einen Mehrwert aufweist, bevor es in den Unterricht integriert wird?
+3. Es ist nicht nachvollziehbar, warum bestimmte mediale Formen einen höheren Wert haben müssen als andere, bevor sie legitimerweise im Unterricht eingesetzt werden dürfen: Würde nicht ein Gleich-Wert genügen?
+
+Diese Analyse macht einen konservativ-bewahrpädagogischen Effekt sichtbar: Die selbstverständlich genutzten Medien des traditionellen Unterrichts müssen zum Mehrwert-Test entweder gar nicht antreten oder sie entscheiden den Vergleich mit digitalen Medien auch dann für sich, wenn sie lediglich gleichwertig sind: Ein Unentschieden zählt als Sieg des bewährten Systems. In der aktuellen Phase der gesellschaftlichen Leitmedientransformation (vgl. hierzu Brandhofer 2016) sehen progressive Prinzipien zeitgemäßer Schulentwicklung gewiss anders aus.
+
+Wie wirkmächtig die Strukturen des etablierten Schulsystems sind, lässt sich auch am Begriff des "Aufwands" zeigen, der in These (2) eine zentrale Rolle spielt. Denn der Aufwand, der betrieben werden muss, um digitale Medien in den Unterricht zu integrieren, wird einseitig als etwas Negatives gesehen, was nur durch den zu erwartenden Mehrwert kompensiert werden kann. Wie diese Denkweise Veränderungen und Verbesserungen erschwert oder gar verhindert, kann man mit einem (schiefen) Vergleich illustrieren:
+
+Wer mit zwei Fingern ziemlich rasch auf der Tastatur tippen kann, wird merken, dass er nach den ersten Stunden eines professionellen Schreibkurses mit zehn Fingern immer noch deutlich langsamer ist als mit der bewährten Technik. Wer den Unterricht nun mit dem Hinweis abbricht, dass der große Aufwand keinen Mehrwert erkennen lasse, wird niemals das Potenzial des Zehn-Finger-Systems ausschöpfen können.
+
+Während auf der einen Seite der Aufwand für digitale Medien möglichst gering gehalten werden soll, gilt es als selbstverständlich, mit erheblichem Aufwand die traditionellen Techniken (insbesondere Handschrift und Lesen) zu erlernen, ohne dass explizite Mehrwert-Rechnungen angestellt werden. Und schließlich wird in der Argumentation vergessen, dass die negativ konnotierte Kategorie des Aufwands auch positiv als Lernprozess beschrieben werden kann (vgl. hierzu Wampfler 2017).
+
+## Mehrwert und Medienbegriff
+
+In einem Video des Forums Bildung Digitalisierung, in dem die Husumer Theodor-Storm-Schule ihr Medienkonzept vorstellt, wird ein sehr populäres Verständnis des Begriffs "Medium" deutlich. Dort heißt es:
+
+> "Medien sind [...] einfach Werkzeuge des Unterrichts. Mit Medien kann man nur Dinge einfacher oder schneller machen oder in größere Zusammenhänge stellen, einfacher miteinander verknüpfen. In dem Sinne benutzen wir unsere digitalen Werkzeuge wie alle anderen Unterrichtsinstrumentarien auch." (Theodor-Storm-Schule 2018)
+
+Wenn Medien lediglich Werkzeuge sind, mit deren Hilfe man vorab definierte Ziele erreichen kann, erscheint folgende Überlegung zum Mehrwert digitaler Medien unmittelbar einleuchtend:
+
+Die Planung des Unterrichts beginnt mit der Festlegung der Lernziele, die die Lernenden erreichen sollen. Anschließend sucht man nach den Medien (und Methoden), mit denen sich diese Ziele am besten erreichen lassen. Der Mehrwert digitaler Medien kann sich dann darin zeigen, dass man mit diesen neuen Werkzeugen die festgelegten Ziele schneller, besser oder einfacher erreichen kann (vgl. These 2 und 3). Grundsätze wie "Didaktik geht vor Methodik" (vgl. Klafki 1961) oder "Pädagogik vor Technik" (vgl. Zierer 2017) fassen dieses Denkmuster prägnant zusammen (vgl. dazu kritisch Krommer 2018a).
+
+Mit einer einfachen Analogie kann man jedoch zeigen, warum Medien nicht nur Werkzeuge sind und an welcher Stelle das übliche Schema der Unterrichtsplanung einen blinden Fleck aufweist:
+
+Gesetzt den Fall, man plane statt einer Unterrichtsstunde eine Reise. Auch hier hat es den Anschein, als könne man zunächst das Ziel festlegen und müsse erst in einem zweiten Schritt darüber nachdenken, mit welchem Transportmittel sich dieses Ziel am bequemsten und schnellsten erreichen lässt. Doch dieses vermeintliche Primat des Reiseziels gegenüber dem Transportmittel ist das Resultat einer stark eingeengten Perspektive. Denn welche Ziele realistischerweise in den Blick genommen werden, hängt in entscheidendem Maße von den verfügbaren Transportmitteln ab. Um es an einem Alltagsbeispiel zu erläutern: Wer in einer Gesellschaft lebt, in der die Postkutsche das schnellste Verkehrsmittel darstellt, kommt gar nicht auf die Idee, zum Einkaufen von Nürnberg nach München zu fahren, während dieses Reiseziel für einen Bahnfahrer mit dem ICE durchaus in Reichweite liegt (vgl. hierzu ausführlich Krommer 2015, S. 40-41).
+
+Übertragen auf die Schule bedeutet das: Medien sind nicht nur Werkzeuge, die den (herkömmlichen) Unterricht unterstützen (vgl. These 2). Sie haben - im Sinne McLuhans (1964) - als prägende Formen grundlegende Auswirkungen auf das gesamte Bildungssystem. Es geht darum, zu verstehen, dass wir durch die Kultur der Digitalität (vgl. Stalder 2016) in eine neue Denk-Nährlösung, "a new medium to think and imagine differently" (Manovich 2013, S. 13) getaucht werden (vgl. Muuß-Merholz 2018), in der auch solche Begriffe wie "Lernen" und "Wissen" neue Bedeutungen erhalten (vgl. hierzu z.B. Weinberger 2011 ) und Didaktik zu Medienkulturdidaktik wird (vgl. Staiger 2007).
+
+Der Mehrwert digitaler Medien besteht daher keinesfalls darin, alte Ziele schneller, einfacher, besser, nachhaltiger etc. zu erreichen (vgl. These 3). Ihr Wert besteht vielmehr darin, als konstituierende Formen die Zieldimensionen des Unterrichts signifikant zu erweitern. Für diese entscheidenden Zusammenhänge bleibt man blind, wenn man Unterricht (implizit oder explizit) auf der Grundlage des Werkzeug-Medienbegriffs plant.
+
+## Mehrwert und Paradigmen
+
+Wenn man es in der philosophischen Terminologie Thomas S. Kuhns (1969) beschreibt, befinden wir uns momentan in der krisenhaften Übergangsphase vom Gutenberg-Paradigma ins Turing-Paradigma (vgl. hierzu Krommer 2018b).
+
+Dass der Mehrwert-Begriff perspektivisch fest in der Buch-Schule und keinesfalls in der Digitalisierungs-Welt verwurzelt ist, lässt sich besonders gut erkennen, wenn man sich die gängigen Formate von Abschlussprüfungen ansieht. In der Regel muss hier zu einer festgelegten Zeit an einem festgelegten Ort eine Einzelperson, die weder das Internet nutzen noch mit anderen in Kontakt treten darf, handschriftlich und (fast) ohne Hilfsmittel eine vordefinierte Aufgabe lösen. Was innerhalb der Schule alltäglich ist, ist im Alltag absurd: Unter den Bedingungen der Digitalität löst man komplexe Probleme nicht dadurch, dass man sich isoliert und offline mehrere Stunden mit Papier und Bleistift einschließt.
+
+Wenn solche Prüfungsformate herangezogen werden, um den Lernerfolg zu messen und damit auch den Mehrwert zu bestimmen, dann können digitale Medien nur schlecht abschneiden (vgl. hierzu auch Rosa 2016). Denn die Kompetenzen, die sich mit ihrer Hilfe besonders gut fördern lassen, werden im Rahmen der Buchkultur-Prüfung nicht honoriert. Im Gegenteil: Kommunikation und Kooperation, die zu den Kernkompetenzen des 21. Jahrhunderts gezählt werden, sind während einer klassischen Klausur vor allem eins: Formen des Betrugs. Auf dieser Grundlage kann dann die strukturkonservative Mehrwert-Falle zuschnappen:
+
+1. Der Einsatz digitaler Medien ist nur gerechtfertigt, wenn es einen Mehrwert gegenüber analogen Medien gibt.
+2. Der Mehrwert digitaler Medien wird mit (analogen) Prüfungsformaten gemessen.
+3. Die Prüfungsergebnisse zeigen, dass digitale Medien keinen Mehrwert gegenüber analogen Medien bringen.
+4. Daraus folgt: Der Einsatz digitaler Medien ist nicht gerechtfertigt.
+
+Dass durch die Ergebnisse der empirischen Bildungsforschung regelmäßig bestätigt wird, dass "neue" Medien nur einen geringen Lerneffekt haben (vgl. exemplarisch Zierer 2017, S. 45-46), verwundert vor diesem Hintergrund nicht. Würde man auf einer Sandbahn messen, welchen Effekt Schlittschuhe auf die Fortbewegungsgeschwindigkeit besitzen, käme man zu ähnlich ernüchternden Ergebnissen.
+
+Die Defizite des Mehrwert-Begriffs lassen sich nun knapp zusammenfassen: Der Begriff ist unklar, fußt auf einem unreflektierten Verständnis von Medienintegration, reduziert Medien in naiver Weise auf bloße Werkzeuge, verstärkt konservativ-bewahrpädagogische Tendenzen, verhindert oder verlangsamt Innovationen und ist insbesondere durch die etablierten Prüfungsformate fest in der Buchkultur verankert.
+
+Wenn wir über Bildung unter den Bedingungen der Digitalisierung reden, sollten wir auf den Begriff "Mehrwert" verzichten, um auch terminologisch eine angemessene Grundlage dafür zu haben, die didaktischen Potenziale unterschiedlicher Medien sinnvoll zu gewichten.
+
+## Fazit
+
+Die Schlussfolgerung aus den vorgetragenen Überlegungen sei der Kombinationsgabe des Lesers bzw. der Leserin überlassen. Es gilt, eine Analogie zu vervollständigen, die ich aus einem sehr empfehlenswerten Vortrag von Philippe Wampfler (2017) entlehnt habe:
+
+1. Limetten stellen keinen Mehrwert für eine Guacamole dar. Vielmehr gilt: Eine Guacamole ohne Limetten ist keine Guacamole.
+2. Digitale Medien stellen keinen Mehrwert für den Unterricht unter Bedingungen der Digitalisierung dar. Vielmehr gilt: ...
+
+#### Quellenangaben:
+
+- Baumgartner, Peter/Herber, Erich (2013): Höhere Lernqualität durch interaktive Medien? - Eine kritische Reflexion. In: Erziehung & Unterricht, Nr. 3-4. Rahmenbedingungen für einen qualitätsvollen Unterricht, S. 327-335.
+- Brandhofer, Gerhard (2016): Leitmedientransformation - oder: das geht nicht wieder weg. Online-Quelle: https://www.brandhofer.cc/leitmedientransformation/ (01.05.2019)
+- Fischer, Christian (Hrsg.) (2017): Pädagogischer Mehrwert? Digitale Medien in Schule und Unterricht. Münster: Waxmann.
+- Frederking, Volker/Krommer, Axel/Maiwald, Klaus (2018): Mediendidaktik Deutsch. Eine Einführung. 3. völlig neu bearbeitete und erweiterte Auflage. Berlin: Erich Schmidt.
+- Giesecke, Michael (1998): Der Buchdruck in der frühen Neuzeit. Eine historische Fallstudie über die Durchsetzung neuer Informations- und Kommunikationstechnologien. Frankfurt am Main: Suhrkamp.
+- Klafki, Wolfgang (1961): Studien zur Bildungstheorie und Didaktik. Unveränderter Nachdruck der Auflage von 1975. Weinheim und Basel: Beltz 2010.
+- Krommer, Axel (2015): "Bring your own device!" und die Demokratisierung des Beamers. Didaktische Dimensionen digitaler Technik. In: Knopf, Julia (Hrsg.): Medienvielfalt in der Deutschdidaktik. Erkenntnisse und Perspektiven für Theorie, Empirie und Praxis. Baltmannsweiler: Schneider, S. 36-47.
+- Krommer, Axel (2018a): Warum der Grundsatz "Pädagogik vor Technik" bestenfalls trivial ist. Online-Quelle:https://axelkrommer.com/2018/04/16/warum-der-grundsatz-paedagogik-vor-technik-bestenfalls-trivial-ist (01.05.2019)
+- Krommer, Axel (2018b): Digitale Bildung vs. palliative Technik. Zum Status quo der sogenannten Bildungsrevolution. Eröffnungsvortrag im Rahmen des Bildungskongresses "Print und digital. Unterricht heute und morgen gestalten". Online-Quelle: https://youtu.be/BLLKJb2NTUQ (01.05.2019)
+- Kuhn, Thomas S. (1969): Die Struktur wissenschaftlicher Revolutionen. (Um das Postskriptum von 1969 ergänzte Auflage.) Frankfurt am Main: Suhrkamp 1989 (=stw 25).
+- Manovich, Lev (2013): Software Takes Command. New York/London/Oxford/New Delhi/Sydney: Bloomsbury.
+- McLuhan, Herbert Marshall (1964): Die magischen Kanäle. In: Baltes, Martin/Böhler, Fritz/ Höltschl, Rainer/ Reuß, Jürgen (Hrsg.): Medien verstehen. Der McLuhan-Reader. Mannheim: Bollmann 1997, S.112-155.
+- Muuß-Merholz, Jöran (2018): Die Pinguin-Medienmetapher: eine etwas andere Definition von digitalen Medien. Online-Quelle: https://youtu.be/cLaNeNbVQyQ (01.05.2019)
+- Rosa, Lisa (2016): Welche digitale Bildung wollen wir? Online-Quelle: http://schuleundkirche.ekir.de/2016/08/08/welche-digitale-bildung-wollen-wir (01.05.2019)
+- Rosa, Lisa (2017): Lernen im digitalen Zeitalter. Online-Quelle: https://shiftingschool.wordpress.com/2017/11/28/lernen-im-digitalen-zeitalter (01.05.2019)
+- Staiger, Michael (2007): Medienbegriffe, Mediendiskurse, Medienkonzepte. Bausteine einer Deutschdidaktik als Medienkulturdidaktik. Baltmannsweiler: Schneider.
+- Stalder, Felix (2016): Kultur der Digitalität. Berlin: Suhrkamp.
+- Stratmann, Jörg (2007): Pädagogischer Mehrwert und Implementierung von Notebooks an der Hochschule. Münster: Waxmann.
+- Ong, Walter J. (1982): Orality and Literacy. The Technologizing of the Word. London/New York: Routledge 1988.
+- Theodor-Storm-Schule Husum (2018): Das Medienkonzept. Online-Quelle: https://youtu.be/P3TVDNgbo78?t=24s (01.05.2019)
+- Wampfler, Philippe (2017): Vom Mehrwert zum Wert des digitalen Arbeitens. Online-Quelle: https://youtu.be/e2uBlqbPamw (01.05.2019)
+- Weinberger, David (2011): Too big to know. New York: Basic Books.
+- Zierer, Klaus (2017): Lernen 4.0. Pädagogik vor Technik. Möglichkeiten und Grenzen einer Digitalisierung im Bildungsbereich. Baltmannsweiler: Schneider 2017.
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 05.09.2018 auf https://axelkrommer.com/2018/09/05/wider-den-mehrwert-oder-argumente-gegen-einen-ueberfluessigen-begriff
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer: <a href="#p405">Warum der Grundsatz "Pädagogik vor Technik" bestenfalls trivial ist</a>.
+- Philippe Wampfler: <a href="#p1208">Die parallelen Diskurse zur digitalen Bildung</a>.
+- Philippe Wampfler: <a href="#p1247">Digitale Didaktik: ein Konzept</a>.
+
+
+---
+
+
+# Warum wir keine vierte Kulturtechnik "digitale Kompetenz" brauchen
+
+*Jöran Muuß-Merholz*
+
+"Neben den drei traditionellen Kulturtechniken Lesen, Schreiben, Rechnen tritt eine vierte: der kompetente Umgang mit digitalen Medien, eine Art 'Digitale Kompetenz'." Dieser Satz kommt, zumindest sinngemäß, in jeder zweiten Grundsatzrede vor, wenn es um die Auswirkungen des digitalen Wandels auf die Bildung geht. Die Aussage ist beliebt, weil sie plausibel erscheint. Aber sie ist nicht richtig.
+
+Es wäre hilfreicher und dem digitalen Wandel angemessener, wenn man die Eigenständigkeit einer vierten Kulturtechnik verneint und stattdessen den Wandel der traditionellen Kulturtechniken Lesen, Schreiben, Rechnen in den Vordergrund stellt.
+
+Die traditionellen Kulturtechniken Lesen, Schreiben und Rechnen ändern sich laufend, schon immer, aber gerade jetzt im und durch den digitalen Wandel. Wenn man diesen Wandel der Kulturtechniken aufgreift und in Bildungszielen und Bildungshandeln umsetzt, dann kann man auch die vierte Kulturtechnik darin aufgehen lassen.
+
+Konkreter würde das insbesondere bedeuten, die traditionellen Kulturtechniken weit zu fassen:
+
+- Lesen insgesamt als Umgang mit der informationellen Welt, also auch als Recherche, Bewertung, Wissensmanagement, Analyse …
+- Schreiben insgesamt als "in die Welt hinein schreiben" und "sich in der Welt äußern", also als Hand- oder getippte Schrift, als gesprochenes Wort, als Video oder Audio, als Präsentation, als Gestaltung von Publikationen …
+- Rechnen insgesamt als Verstehen und Gestalten von logischen Verknüpfung von Objekten, also auch als Algorithmen, Informatik, Informationswissenschaften …
+
+Hinter allen drei Kulturtechniken können wir heute um digitale Kompetenzen nicht herumkommen. Aber es geht nicht um eine vierte Kulturtechnik, sondern um eine Querschnittsfrage. Lesen ist im digitalen Zeitalter nicht mehr dasselbe wie in prä-digitalen Zeiten. Schreiben ist im digitalen Zeitalter nicht mehr dasselbe wie in prä-digitalen Zeiten. Rechnen ist im digitalen Zeitalter nicht mehr dasselbe wie in prä-digitalen Zeiten. Die Rede von einer vierten Kulturtechnik darf nicht davon ablenken, dass wir alle uns mit der Veränderungen der tradierten Kulturtechniken durch den digitalen Wandel beschäftigen müssen.
+
+PS: Wenn schon eine vierte Kulturtechnik, dann lieber eine, die auf soziales Handeln abzielt: Kommunizieren, Kooperieren, Koordinieren, Organisieren etc. Auch hier ist die Querschnittskomponente "digitale Kompetenzen" essentiell.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 15: Kulturtechnik Schreiben im erweiterten Verständnis: Andreas Hofmann "schreibt" via WhatsApp*
+
+#### Ursprung:
+
+Der Text wurde in einer früheren Fassung am 10.06.2016 auf https://www.joeran.de/drei-oder-vier-kulturtechniken-digitale-kompetenz veröffentlicht. Er entstand, als der Autor auf einer politischen Veranstaltung in Berlin in der letzten Reihe des Publikums saß und frustriert zuhörte.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Philippe Wampfler: <a href="#p1208">Die parallelen Diskurse zur digitalen Bildung</a>.
+- Dejan Mihajlović: <a href="#p460">Nicht Digitalisierung, sondern Digitale Transformation - Kultureller Wandel als Orientierung für zeitgemäße Bildung</a>.
+- https://edulabs.de/oer - Bildung in der digitalen Welt. Sammlung von Unterrichtsideen von der edulabs-community.
+
+
+---
+
+
+# Es gibt keine "digital natives". <br/>Medienkompetenz und Jugendliche
+
+*Philippe Wampfler*
+
+## Digital Natives - ein Missverständnis
+
+Seit Marc Prensky 2001 erstmals von der Gegenüberstellung zwischen "digital natives" und "digital immigrants" sprach, werden damit Vorurteile zementiert, die sich wissenschaftlich kaum nachweisen lassen. Die geografisch-politische Metapher bringt eine gefühlte Wahrheit auf den Punkt: Jüngere Menschen adaptieren technische Innovationen schneller als ältere; sie quälen sich nicht durch Bedienungsanleitungen, sondern erproben Funktionalitäten spielerisch und autodidaktisch.
+
+Prüft man diese Einsicht genauer, erweist sie sich als schief oder falsch: Nicht alle Jugendlichen erwerben informell Kompetenzen im Umgang mit Neuen Medien, nur weil sie später geboren sind als ihre Eltern. Und älteren Menschen ist es nicht verwehrt, einen selbstverständlichen Umgang mit digitaler Technik zu pflegen.
+
+Andreas Pfister und Philippe Weber (2012) haben den "digital native" als eine "messianische Figur" beschrieben und sie dekonstruiert:
+
+> "Während man Jugendlichen auf der Ebene des technischen Know-hows alles Mögliche zutraut, wird ihnen zugleich eine kolossale Naivität den Medien gegenüber unterstellt. Der jugendliche Frohmut mache sie blind gegenüber den eigentlichen Kräften, die hinter der Technik lauerten."
+
+Das Zitat zeigt ein zweites, verstecktes Vorurteil: Die Eingeborenen werden ganz in der kolonialistischen Tradition als Unwissende belächelt. Sie leben zwar scheinbar harmonisch, ahnen aber gar nicht, welche Bedrohungen auf sie zukommen.
+
+Wer "digital native" sagt, trifft also zwei Annahmen: Erstens seien Kinder und Jugendliche irgendwie automatisch medienkompetent, zweitens seien sie das nicht ganz richtig, weil sie die echten Schwierigkeiten und Probleme nicht durchschauten.
+
+Beide Annahmen führen zu einem Missverständnis, was Medienkompetenz ist und wie Jugendliche sie erwerben. Deshalb lohnt es sich, auf den Begriff "digital natives" zu verzichten und einen genaueren Blick auf Jugendliche und Medienkompetenz zu werfen.
+
+# Parkland: Jugendliche und Medienkompetenz
+
+Im Februar 2018 erschoss ein Schüler an der Marjory Stoneman Douglas High School in Parkland, Florida, 17 Personen. An der Schule entstand direkt danach eine Bewegung, die sich gegen den Einfluss der Waffenlobby auf die US-Gesetze stark machte. Emma Gonzales, Cameron Kasky, Delaney Tarr und David Hogg sind vier der Namen, die mit kurzen Clips im Netz bekannt wurden. Sie drückten darin aus, wie stark sie unter dem Massenmord litten, klagten Verantwortliche an, stellten Fragen an Politikerinnen und Politiker und brachten konkrete Forderungen und Vorschläge vor.
+
+Sieht man sich die Clips ihrer Reden an<a href="#footnote29" class="footnote">29</a> an, fallen einige Punkte auf: Diese Schülerinnen und Schüler verstehen, wie man im Netz sprechen muss. Ihr Timing, ihre Rhetorik und ihr Auftreten sind gemacht um sich im Netz Gehör zu verschaffen. Sie benutzen die Plattform, die ihnen Massenmedien wie CNN bieten, sind sich aber völlig im Klaren, dass die ihre Zielgruppe im Netz erreichen.
+
+Die Reden der Jugendlichen entfalten aber nicht nur innerhalb ihrer Bewegung Wirkung, sondern provozieren auch die Gegenseite: das Publikum von rechten Verschwörungsseiten wie Infowars, das bereit ist, alles zu verdrehen, was abläuft, wenn es dem eigenen politischen Interesse am uneingeschränkten Waffenbesitz dient. Als Reaktion wurde den Jugendlichen vorgeworfen, sie seien "crisis actors", also geschulte Profis, die von der Linken eingesetzt würden, um Stimmung zu machen. Diese Verschwörungstheorien verbreiteten nicht nur die entsprechenden Medienportale - auch die Algorithmen von Youtube verschafften ihnen Resonanz.
+
+Aber auch auf diesen Widerstand schienen die jugendlichen Aktivistinnen und Aktivisten vorbereitet: Sie verstanden und verstehen auch persönliche Angriffe als eine Chance, die Aufmerksamkeit in die richtige Richtung zu lenken. Deshalb nahmen sie Angebote zur Auseinandersetzung an, statt zu verstummen. Als beispielsweise eine Journalistin sich darüber lustig machte, dass David Hogg von einigen Elite-Universitäten nicht aufgenommen wurde, schlug dieser zurück: Er erwähnte die Werbekunden der Sendung der Journalistin, worauf einige davon ihre Aufträge beendeten.<a href="#footnote30" class="footnote">30</a>
+
+Betrachtet man diese ganze Bewegung, lässt sich daraus eine Konzeption für Medienbildung ableiten.
+
+
+
+Medienkompetenz befähigt, politisch aktiv zu werden. Mehr noch: Medienkompetenz befähigt zur gesellschaftlichen und kulturellen Teilhabe. Das heißt in diesem Fall: eigene Anliegen verständlich auszudrücken und sie medial so zu verpacken, dass sie Verbreitung finden und viral gehen könnten. Dazu gehören Rhetorik, Auftrittskompetenz, Verständnis der Kontexte, Umgang mit Reaktionen, Kommunikation über Social Media und traditionelle Massenmedien; aber auch politische Bildung. Es ist in der US-Politik entscheidend, ob man eine Abschaffung der Second-Amendment-Rechte fordert, was politisch völlig unrealistisch ist, oder ob man für einen erschwerten Zugang zu halb-automatischen Gewehren eintritt, wofür sich durchaus eine Mehrheit finden ließe.
+
+Die eigene Kampagne ist der Kern der Medienkompetenz. Kompetenz bedeutet in diesem Sinne, Medien für eigene Anliegen bewusst und langfristig einzusetzen, Ziele zu definieren und die passenden Wege zu beschreiten.
+
+Diese Kampagne ist Teamwork: Vor der Kamera stehen nicht alle diese Jugendlichen, sondern wohl die richtigen, die bestimmte Rollen verkörpern können: Die Kämpferin, der Musterschüler, die unschuldige Träumerin… Die Jugendlichen schaffen so viel Identifikationspotential, arbeiten aber gerade auch auf Social Media stark zusammen.
+
+Die Aktivistinnen und Aktivisten der Parkland-Schule wurden nicht von selbst medienkompetent: Sie belegten an der Schule Kurse, in denen Kompetenzen im Umgang mit audiovisuellen Medien aufgebaut wurden. Bereits vor der Kampagne nutzen sie Social Media ohne Hemmungen und Ängste, sammelten Erfahrungen mit Missgeschicken und Gegenwind. Sie verstehen, wie sich Inhalte im Netz verbreiten, worauf ihr Publikum anspricht.
+
+Verallgemeinert man dieses Beispiel, so sind Jugendliche medienkompetent, wenn sie für eigene Anliegen eintreten können und andere Personen mit selbst gestalteten medialen Produkten erreichen können. Sie brauchen dafür Lernangebote - wie sie in dieser Schule zur Verfügung standen -, aber auch eine entsprechende Erfahrung mit den psychologischen und sozialen Mechanismen, die Netzkommunikation steuern. Und sie brauchen Rechte - wie sie in der "Erklärung der digitalen Lernerrechte" formuliert sind.
+
+#### Quellenangaben:
+
+- Pfister, Andreas/Weber, Philippe (2012): Keine federleichte neue Medienwelt. Online-Quelle: https://www.nzz.ch/feuilleton/keine-federleichte-neue-medienwelt-1.17561009 (01.05.2019)
+- Prensky, Marc (2001): Digital Natives, Digital Immigrants. Online-Quelle: https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf (01.05.2019)
+
+#### Ursprung:
+
+Teile dieses Beitrags wurden bereits im Netz veröffentlicht, unter anderem hier: 
+
+- https://schulesocialmedia.com/2018/02/22/die-parkland-medienbildung-ein-modell-fuer-medienkompetenz
+- https://schulesocialmedia.com/2014/08/12/bitte-verzichtet-auf-den-begriff-digital-natives
+- https://schulesocialmedia.com/2012/09/04/die-figur-des-digital-native
+
+#### Empfehlungen zum Weiterlesen:
+
+- Die Erklärung der digitalen Lernerrechte ist ein wichtiger Kontext dieser Diskussion: <a href="#p1499">Erklärung der digitalen Lernerrechte</a>.
+- Dejan Mihajlović zeigt die Bedeutung von Medienkompetenz Jugendlicher in Bezug auf Partizipation auf: <a href="#p1140">Partizipation im digitalen Wandel - Neue Möglichkeiten und Notwendigkeiten der Beteiligung junger Menschen</a>.
+- Eine wichtige Perspektive auf digitale Medien ist auch diejenige des Katalysators: <a href="#p352">Der große Verstärker. Digitale Medien als Trojaner, Katalysator oder Kontrollmaschine</a>.
+
+
+---
+
+
+# Wir verwechseln "Lehren" mit "Lernen". Die digitale Bildungswelt tut nur so, als denke sie lernseits
+
+*Jöran Muuß-Merholz*
+
+Die Begriffe "Lernen" und "Lehren" sind zentral für pädagogische Theorie und Praxis. Ist es da nicht erstaunlich, dass wir sie häufig vertauschen? Besonders die digitale Welt ist anfällig für diese Verwechslung.
+
+Michael Schratz hat zwei Perspektiven auf Unterricht eingeführt (2009): Wir können Unterricht "lehrseits" oder "lernseits" denken. Es sind zwei unterschiedliche Perspektiven auf das Setting, das wir "Unterricht" nennen und das, was bei den Beteiligten passiert - oder auch nicht passiert. Denn wohl nur in der Theorie mag es sich inzwischen herumgesprochen haben, dass Lehren und Lernen nicht direkt miteinander gekoppelt sind. Es wird nicht automatisch gelernt, was gelehrt wird. Die Aufklärung dieses Trugschlusses ist in der Praxis längst nicht überall wirksam. Im Gegenteil. Die lernseitige Perspektive ist nach wie vor im Hintertreffen oder wird weiterhin als direktes Resultat lehrseitiger Maßnahmen gedacht.
+
+## Die prä-digitale Bildungswelt denkt lehrseits
+
+Schaut man sich unsere Bildungsinstitutionen (zum Beispiel die Schule) an, so erkennt man die bipolare Trennung und das Schwergewicht auf der lehrseitigen Perspektive bereits auf der sprachlichen Ebene:
+
+- Wir unterscheiden die beteiligten Personen in Lernende einerseits und Lehrende / Lehrkräfte andererseits. Man kann sogar ein Lehramt dafür erhalten.
+- Lehrende verfügen über Lehrbücher, Lehrfilme und andere Lehrmittel.
+- Wir gestalten Orte als Lehrräume, die nicht immer identisch mit Lernräumen sind, aber auch nicht mit dem Lehrerzimmer. Es gibt sogar Lehranstalten, in denen der Lehrbetrieb stattfindet.
+- Lernende können (nicht immer) aus einem Lehrangebot wählen, wenn sie einen Lehrgang oder andere Lehrveranstaltungen besuchen. (Auch eine Schule, eine Hochschule oder andere Lernorte besucht man übrigens. Es ist irgendwie nicht der eigene Ort, man ist ja nur zu Besuch.)
+
+## Die digitale Bildungswelt tut so, als denke sie lernseits
+
+Schauen wir nun auf einige zentrale Begriffe, die im Kontext von Bildung und Digitalisierung kursieren, so könnten wir auf die Idee kommen, hier würde lernseits gedacht.
+
+- Grundsätzlich wird als Oberbegriff häufig vom Digitalen Lernen gesprochen.
+- Eine sehr beliebte Medienform sind in diesem Kontext die digitalen Lernvideos.
+- Die meisten Schulen versuchen, die digitale Welt über sogenannte Lernmanagementsysteme (LMS) zu organisieren. Diese werden auch Lernplattformen genannt.
+- Ein Konzept, das in Sachen Digitalisierung derzeit als nächste Stufe des E-Learnings viel diskutiert wird, nennt sich Adaptive Learning.
+
+## Lernseitige Begriffe tarnen lehrseitige Konzepte
+
+Nun könnte man aus dieser sprachlichen Verschiebung den Schluss ziehen, dass im digitalen Kontext mehr vom Lernenden aus gedacht wird. Aber die Begriffe lassen sich leicht entlarven. Dabei entpuppen sich als eindeutig lehrseitige Konzepte:
+
+- Der Oberbegriff Digitales Lernen verschleiert, dass vor allem lehrseitige Aktivitäten digitalisiert werden. Das offensichtlichste Symptom ist, dass die meisten Akteure dabei zuerst an digitale Tafeln (Interaktive Whiteboards) denken - also das lehrseitigste Medium überhaupt.
+- Die Lernvideos sind eigentlich ganz klar Lehrvideos. Denn in aller Regel übernimmt jemand im Video die Rolle eines Lehrenden und belehrt die Lernenden, die vor dem Video sitzen.
+- Die Lernmanagementsysteme müssten eigentlich Lehrmanagementsysteme heißen. Denn sie liegen klar in der Hand der Lehrkräfte, die dort Ablauf, Materialien und Kommunikation des Unterrichts managen. Die Lernenden sollen im LMS nur dem folgen, was lehrseitig vorgegeben wird.
+- Die Idee von Adaptive Learning verspricht eigentlich genau das Gegenteil, nämlich Adaptive Teaching oder besser Adaptive Instruction. Denn ihr Versprechen besagt, dass Inputs und Aufgaben, also das Lehrangebot, sich dem Lernenden anpasst - nicht umgekehrt.
+
+## Vorsicht und Hoffnung
+
+Man sieht, dass im digitalen Kontext zwar häufig lernseitige Begriffe genutzt werden, diese tatsächlich aber meist nur schlechte Tarnungen für eindeutig lehrseitige Konzepte sind. Das muss nicht heißen, dass eine stärkere Orientierung an lernseitigen Fragen im Digitalisierungskontext nicht möglich, sinnvoll und wünschenswert wäre - viele Aufsätze in diesem Buch zeigen genau das. Wir müssen allerdings aufpassen, dass wir nicht aus der modernen Technik und den verführerischen lernseitigen Begriffen alleine schon auf eine moderne Pädagogik schließen. Häufig ist sogar das Gegenteil der Fall.
+
+#### Quellenangaben:
+
+- Schratz, Michael (2009): 'Lernseits' von Unterricht. Alte Muster, neue Lebenswelten - was für Schulen? Lernende Schule 12 (46-47), 16-21.
+
+#### Ursprung:
+
+Dieser Text entstand neu für das Buch.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+- Philippe Wampfle: <a href="#p1247">Digitale Didaktik: ein Konzept</a>.
+- Jöran Muuß-Merholz: <a href="#p1285">Sitzsäcke sind das neue Sprachlabor. Digitale Geräte, K.I. und bunte Möbel machen noch keine moderne Schule</a>.
+
+
+---
+
+
+# Quizifizierung - eine Kritik am Kahoot-Hype
+
+*Philippe Wampfler*
+
+## Quiz-Affordanz
+
+Die Affordanz eines Mediums bezeichnet seinen Angebotscharakter: Was können Menschen damit wirksam machen, was fällt leichter, wenn man das Medium verwendet? Welche Verhaltensweisen werden durch den Einsatz des Mediums verstärkt?
+
+Interaktive Medien können leicht Antworten auswerten, wenn sie im Multiple-Choice-Format abgegeben werden. Entsprechend gehört es zur Affordanz digitaler Medien, Quiz-Fragen anzuzeigen, Antworten zu speichern und diese automatisch auszuwerten. Dieses Angebot ist für Lehrkräfte verlockend: Erstens bieten Quizzes Interaktion an. Die Lernenden geben ihre Antworten etwa direkt am Tablet ein und erhalten eine automatisierte Rückmeldung. Zweitens entfällt so der Aufwand für die Korrektur.
+
+Prominentes Beispiel dafür ist die App Kahoot!,<a href="#footnote31" class="footnote">31</a> welche die gleichnamige Firma seit 2013 im Netz anbietet. Sie wird in Weiterbildungen zum Einsatz digitaler Medien intensiv empfohlen. Die App zeigt auf einem Großbildschirm oder einer Leinwand Quiz-Fragen im Multiple-Choice-Format an, die Lernende auf ihren Endgeräten beantworten. Dabei erleben sie ein Spielgefühl: Sie erhalten für ihre Antworten (abhängig von Richtigkeit und Geschwindigkeit) Punkte, aus denen eine Rangliste erstellt wird. Der Eindruck, das Quiz sei eine spielerische Form, wird durch die Kahoot-Musik unterstützt, die an den Soundtrack von Jump-and-run-Spielen angelehnt ist und suggeriert, die eigene Tätigkeit sei in einen kontinuierlichen Verlauf eingebunden. (Kahoot kann auch in leicht modifizierten Varianten und ohne Punkte verwendet werden.)
+
+Den Effekt, der durch Kahoot in Klassen ausgelöst wird, haben wir an einem anderen Ort "Kahoot-Sog"<a href="#footnote32" class="footnote">32</a> genannt. Er bezeichnet die Affordanz für Schulklassen: Der Zeitdruck erzeugt zusammen mit der Wettbewerbssituation und der scheinbaren Auflockerung des Schulalltags eine hohe Konzentration und Emotionalität. Schülerinnen und Schüler beantworten die Quiz-Fragen oft übereifrig und wünschen sich, auch in den nächsten Stunden Kahoot! einzusetzen.
+
+Dieser "Sog" ist ambivalent zu beurteilen: Einerseits zeigt er, dass digitale Medien im Unterricht eine positive Wirkung auf die Lernenden haben. Klassen, die mit Kahoot arbeiten, erscheinen aktiver und motivierter. Andererseits basiert der Sog auf Multiple-Choice-Fragen, die in einem frontalen Setting durch Knopfdruck beantwortet werden - also ganz ähnlich wie bei Skinners "Teaching Machines"<a href="#footnote33" class="footnote">33</a>. Von zeitgemäßen Vorstellungen von Unterricht und Wissenserwerb ist dieses Setting damit weit entfernt: Die Lernenden bearbeiten nicht fachliche Probleme, sondern erraten, was in der Vorbereitung als richtig oder falsch ausgezeichnet wurde.
+
+Folglich entsteht eine Spannung zwischen den wahrnehmbaren Wirkung digitaler Quiz-Tools und den damit zusammenhängenden Vorstellungen von Unterricht und Lernen.
+
+## Quizifizierung
+
+In einer Kritik an digitalen Lernformaten<a href="#footnote34" class="footnote">34</a> hat Lisa Rosa (2018) auf die Tendenz zu "leicht verdaulichen Wissenshäppchen" hingewiesen, die in kurzen Lernphasen von Lehrenden an Lernende verabreicht werden. Rosa bezeichnet sie auch als "Quizifierung" oder "Toolifizierung" und drückt damit aus, dass der Einsatz digitaler Medien ein grundlegendes Problem verstärken kann: Obwohl sich der Lern- und Wissensbegriff des Zeitalters des Buchdrucks oder der Industrialisierung durch den Leitmedienwechsel grundlegend verändert hat, halten Schulen an einer autoritären, lehrerzentrierten Wissensvermittlung fest. Ob die Vermittlung erfolgreich war, wird mit vorgegebenen Fragen überprüft, zu denen es objektiv richtige Antworten gibt, die Lernende alleine an vom Stundenplan vorgegebenen Orten und Zeiten wiedergeben müssen. Das Quiz-Format übernimmt diese Vorstellung von Wissensvermittlung, die im Widerspruch zur 4K-Vorstellung von Lernen steht. Diese geht von der Einsicht aus, dass Lernen in einer Auseinandersetzung mit Problemen und anderen Menschen besteht, bei der kritisches Denken wie auch kreative Vorgehensweisen selbstverständlich dazugehören.
+
+Quizifizierung bezeichnet also den unzeitgemäßen Einsatz der Quiz-Didaktik: Digitale Tools wie Kahoot! verleiten dazu, Multiple-Choice-Fragen mit festgelegten Antworten zu stellen, obwohl damit keine Auseinandersetzung mit anderen Perspektiven, kein kritisches Denken und keine kreative Bearbeitung von Problemen möglich ist.
+
+Die Grenzen dieser Methode lassen sich an einem Beispiel aufzeigen: Eine Ethik-Übung geht von der Geschichte der Zugbrücke<a href="#footnote35" class="footnote">35</a> aus. Sie erzählt davon, wie eine Baronin im Mittelalter einer Affäre wegen unter Druck gerät: Ihr Mann bedroht sie. In dieser Situation hilft ihr niemand: Ihr Liebhaber fühlt sich nicht zuständig, ein Freund macht ihr moralische Vorwürfe und ein Fährmann will für seine Leistung bezahlt werden. Zuletzt wird sie von einem Verrückten umgebracht. Die Lernenden erhalten die Aufgabe, über die Schuld der sechs beteiligten Personen nachzudenken und eine Rangliste zu erstellen. Diese Rangliste könnte problemlos mit einem Quiz-Tool abgefragt werden. Aber der Lerneffekt der Übung besteht in der Einsicht, dass andere aus vernünftigen Gründen eine andere Rangliste anfertigen. Es gibt keine Lösung, wie eine richtige Rangliste auszusehen hätte - vielmehr ist jede nichts anderes als eine Diskussionsgrundlage, ein Ausgangspunkt, um über Werte, ethische Schlüsse und Vorannahmen nachzudenken.
+
+Quizifizierung bedeutet in diesem Beispiel, diese zentralen Prozesse im Unterricht zurückzustellen und der Abfrage objektiv richtiger Antworten Priorität einzuräumen. Und doch zeigt das Ethik-Beispiel auch, dass Quiz-Fragen auch in einem zeitgemäßen Unterricht einen Platz einnehmen könnten: Wenn sie didaktisch geschickt eingesetzt werden.
+
+## Ansätze zu einer zeitgemäßen Quiz-Didaktik
+
+Die erwähnte Geschichte von der Zugbrücke lässt erahnen, wie Quiz-Tools eingesetzt werden können, damit sie mit Vorstellungen von zeitgemäßem Unterricht vereinbar sind: Die Fragen oder Antworten werden lediglich als Ausgangspunkt für Reflexions- und Lernprozesse eingesetzt. Sie dienen nicht dazu, richtiges Wissen abzubilden, sondern Perspektiven, Einstellungen oder Werte sichtbar zu machen. Die Quiz-Funktionalität wird folglich dazu verwendet, ein Meinungsbild einer Lerngruppe zu erheben, ohne dass sich die Mitglieder einzeln exponieren müssen. Damit ist es auch leicht möglich, Meinungsänderungen zu dokumentieren: Zur Geschichte der Baronin könnte eine Klasse etwa einen Gerichtsprozess durchspielen und danach erneut darüber abstimmen, wem die größte Schuld am tragischen Ende der Baronin zu kommt. Daraus würde ersichtlich, wo sich die Meinung der Klasse geändert hat.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 16: Quizziz-Frage in einer Lerneinheit von Nölte<a href="#footnote36" class="footnote">36</a>*
+
+Die abgebildete Frage aus einem Projekt von Björn Nölte<a href="#footnote37" class="footnote">37</a> zeigt ein über das Meinungsbild hinausgehendes Szenario: Quizfragen können einen Einstieg in einen problembasierten Unterricht darstellen. Die Frage zu den drei Fabeln kann kein Meinungsbild abholen, weil die Klasse kein gemeinsames Verständnis davon hat, was einen Text zu einem politischen Text macht. Die Aufforderung, in einer Quiz-App eine Frage zu beantworten, ist also eine Einladung zu einer Auseinandersetzung mit der verwendeten Begrifflichkeit und dem Selbstverständnis der Frage. In der anschließenden Diskussion der Frage sind die Schülerinnen und Schüler gefordert, auf der Basis ihnen bekannter Texte Definitionen zu entwickeln, diese zu vergleichen und dann die Frage zu kritisieren (weil möglicherweise jede Fabel politisch ist oder ein Text nicht politisch sein kann, nur eine Niederschrift oder eine Lektüre etc.).
+
+In einem problemorientierten Ansatz zeigt sich bei der Beantwortung einer Quiz-Frage, dass objektives, hierarchisch vorgegebenes Wissen nicht ausreicht, um ein Problem zu verstehen oder zu bearbeiten - die Frage hebt sich selber auf. Gleichwohl fühlten sich die Lernenden, welche sich schon für eine Antwort entscheiden mussten, "(hoffentlich) […] etwas involvierter", wie Nölte schreibt.
+
+Eine weiterer Zugang zu Quizzes besteht darin, sie als Lernprodukte anzusehen. Schülerinnen und Schüler erstellen als Dokumentation oder Verdichtung ihrer Lernprozesse ein Quiz, mit dem sie beispielsweise ihre Einsichten dem Rest der Klasse vorführen können. In diesem Setting sind Lernende gefordert, sich alleine oder in Gruppen auf sinnvolle Fragen und Antwortmöglichkeiten zu einigen. Der primäre Lerneffekt findet in der Erstellungsphase statt. Hier steht die ganze Palette der 4K-Kompetenzen offen: Kreativität, kritisches Denken, Kollaboration und Kommunikation sind gleichermaßen gefordert, wenn Gruppen Entscheidungen zu relevanten Fragen, herausfordernden Antwortmöglichkeiten, klaren Formulierungen und einer sinnvollen Abfolge der Fragen treffen müssen.
+
+Der Kahoot-Guide<a href="#footnote38" class="footnote">38</a> nennt diese Methode "Learners to Leaders". Trotz der Buzzwords wird darin erkennbar, dass eine zeitgemäße Quiz-Didaktik die Rollenverteilung zumindest unterlaufen muss: Lehrkräfte dürfen sich nicht mit digitalen Tools als wissende Entscheiderinnen und Entscheider präsentieren, sondern gestalten Umgebungen, in denen die Lernenden Tools nutzen und eigenständig damit Kompetenzen aufbauen können.
+
+## Sind Quiz-Tools wirklich innovativ?
+
+Entsprechend sind weitere Ansätze zu einer unkonventionellen Verwendung von Quiz-Tools kritisch zu beurteilen: Blind Kahooting ist etwa ein weitere Vorschlag im Kahoot-Guide. Dabei werden Quiz-Fragen als Einführung in Themenblöcke gestellt. Lernende werden so zunächst mit Fragen konfrontiert, zu denen sie die Antworten erst noch lernen sollen oder zu denen sie die Antworten durch die Fragen selbst lernen. Das ist zwar eine lernwirksame und originelle Form eines Quiz-Einsatzes, stärkt aber wiederum die Rolle der wissenden und planenden Lehrkraft und basiert auf der Vorstellung, eine Gruppe von Lernenden habe einen Prozess gleichzeitig zu durchlaufen.
+
+Genau so wie Blind-Kahooting lediglich eine Spielart einer Quizifizierung eines konventionellen Unterrichts darstellt, verhält es sich mit dem Einsatz von Quizzes im Rahmen einer Lerntheke. Suggeriert die Lerntheke eine Individualisierung, so führen die dabei verwendeten Quiz-Fragen häufig wieder zurück zur Vorstellung, alle Schülerinnen und Schüler einer Klasse müssten dieselben Dinge zur selben Zeit "lernen". Zu einer Lerntheke könnten allenfalls individuelle Lernkarteien gehören, die mit entsprechenden digitalen Tools leicht zu erstellen sind: Diese hätten aber jeweils nur einen Wert für die Person, die sie erstellt hat. Die Affordanz des digitalen Karteikastens wäre dann sein Speicher, in dem alle Antworten und Fehler gespeichert sind, so dass eine auf die Vergessenskurve abgestimmte individuelle Abfrageroutine eine wirksame Auseinandersetzung mit der Lernkartei sicherstellt. Dabei handelt es sich aber nicht mehr um ein Quiz.
+
+## Das Quiz als Symbol palliativer Didaktik
+
+Steve Conway spricht im Bezug auf Gamification von einer "Zombification"<a href="#footnote39" class="footnote">39</a>: In Spielen und in gamifizierten Lernumgebungen gewinnen einfache Arbeitsschritte an Wert. Dieser Anreiz, der sich zunächst positiv auf die Motivation auswirkt, verflacht aber schnell - und hat einen Preis: Er geht auf Kosten der Attraktivität komplexer Aufgaben. Das lässt sich an Kahoot! gut beobachten: Bemerken Schülerinnen und Schüler, dass die Punktevergabe stark von der Antwortzeit abhängt, beginnen sie von Beginn der Quiz-Durchführung an sehr schnell Antworten zu drücken. Die richtige Entscheidung oder gar die kritische Reflexion einer Frage verlieren durch das Quiz-Format an Bedeutung. Der Effekt der Gamification ist also, folgt man Conway, eine Form von Manipulation, die letztlich die Motivation senkt und die Arbeit an Aufgaben auf höheren Taxonomiestufen von Bloom unattraktiv macht. Der Effekt von Quizzen auf die Motivation Lernender ist zwar wahrnehmbar, aber einseitig. Sie resultiert aus dem Fokus auf den Wettbewerb in der Klasse und dem Erraten richtiger Lösungen. Die Entwicklung der Persönlichkeiten und das Wohlbefinden der Schülerinnen und Schüler leidet darunter: Sie werden zu Zombie-Lernenden konditioniert.
+
+Die Quiz-Anwendungen können so im Sinne Krommers als "palliative Didaktik" bezeichnet werden: Sie erscheinen in der Anpassung an ein System sinnvoll, das im Zuge der Digitalisierung aber reformiert werden müsste. Die kognitive Passivität der Lernenden erscheint im Quiz-Spiel als Aktivität; die didaktische Unhaltbarkeit von Quiz-Frage als technische Innovation.
+
+#### Quellenangaben:
+
+- K!Academy (2016): Create. Play. Discover. Share. The Kahoot!Guide to Creating & Playing Learning Games. Online-Quelle: https://files.getkahoot.com/academy/Kahoot_Academy_Guide_1st_Ed_-_March_2016_-_WOA.pdf (01.05.2019)
+- Castle, Stephanie (2015): The Art of Blind Kahoot!ing. Online-Quelle: https://kahoot.com/blog/2015/10/28/art-blind-kahooting (01.05.2019)
+- Krommer, Axel (2013): Von Skinners "Teaching Machines" (1954) zu den "Learning-Apps". Online-Quelle: https://axelkrommer.com/2013/09/17/von-skinners-teaching-machines-1954-zu-den-learning-apps (01.05.2019)
+- Boyd, Danah (2014): Es ist kompliziert. Übers. von Almuth Braun. München: Redline Verlag.
+- Conway, Steven (2014): Zombification?: Gamification, motivation, and the user. In: Journal of Gaming & Virtual Worlds 6 (2), 129-141. Online-Quelle: https://www.researchgate.net/publication/265557299_Zombification_Gamification_motivation_and_the_user (01.05.2019)
+- Nölte, Björn (2017): Formative Assessment: Bewerten um des Lernens Willen. Online-Quelle: https://www.bpb.de/lernen/digitale-bildung/werkstatt/255718/formative-assessment-bewerten-um-des-lernens-willen (01.05.2019)
+- Nölte, Björn (2018): Quizze als Bestandteile zeitgemäßer Bildung. Online-Quelle: https://medium.com/@Noelte030/quizze-als-bestandteil-zeitgem%C3%A4%C3%9Fer-bildung-9a41b8e970d7 (01.05.2019)
+- Rosa, Lisa (2018): Welche digitale Bildungsrevolution wollen wir? Online-Quelle: https://prezi.com/2_a0meyxl9yc/welche-digitale-bildungsrevolution-wollen-wir (01.05.2019)
+- Wampfler, Philippe (2017): Der Kahoot-Sog und die Gefahr der Quizifizierung der digitalen Bildung. Online-Quelle: https://schulesocialmedia.com/2017/05/19/der-kahoot-sog-und-die-gefahr-der-quizifizierung-der-digitalen-bildung (01.05.2019)
+- Wampfler, Philippe (2018): Die Zugbrücke. Online-Quelle: https://unterricht.phwa.ch/die-zugbrucke (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text geht zurück auf einen Beitrag, der am 19.05.2017 auf https://schulesocialmedia.com/2017/05/19/der-kahoot-sog-und-die-gefahr-der-quizifizierung-der-digitalen-bildung erschien. Ein ausführlicherer Aufsatz zum Einsatz von Quiz-Apps im Deutschunterricht für das Jahrbuch der AG Medien des Symposiums Deutschdidaktik befindet sich beim Druck dieses Buches in Vorbereitung.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Die Diskussion von Quiz-Apps hängt stark mit palliativer Didaktik: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+- Ein entscheidender Kontext ist auch das Verständnis der 4Ks: <a href="#p1023">Kommunikation, Kollaboration, Kreativität und kritisches Denken - mehr als Buzzwords</a>.
+
+
+---
+
+
+# Die Nike-Didaktik Oder: Warum man auf den pädagogischen Grundsatz "Einfach machen!" verzichten kann
+
+*Axel Krommer*
+
+Der Philosoph Otto Neurath hat im Kontext erkenntnistheoretischer Überlegungen ein Gleichnis geprägt, das weit über die Grenzen der Philosophie hinaus immer wieder zitiert wird. Es lautet:
+
+> "Es gibt keine tabula rasa. Wie Schiffer sind wir, die ihr Schiff auf offener See umbauen müssen, ohne es jemals in einem Dock zerlegen und aus besten Bestandteilen neu errichten zu können." (Neurath 1932/33, S. 206)
+
+Dieses Gleichnis lässt sich auch auf den Bildungsbereich anwenden: Denn Schulen und Hochschulen können nicht einfach solange geschlossen werden, bis ein gesellschaftlicher Konsens darüber besteht, wie man den Transformationen begegnen soll, die mit der Kultur der Digitalität verbunden sind. Es gibt keine tabula rasa. Wir müssen die Unterrichtspraxis im laufenden Betrieb verändern bzw. in letzter Konsequenz durch vollkommen neue Konzepte ersetzen.<a href="#footnote40" class="footnote">40</a>
+
+Zunächst scheint klar zu sein, dass diese komplizierten Umbauarbeiten auf hoher See ein gerüttelt Maß an Planung, Reflexion und Umsicht verlangen. Doch ausgerechnet im sensiblen Bereich der Bildung wird immer häufiger der Ruf laut, man möge doch bei der Planung des Unterrichts auf das ewige Räsonieren verzichten, nicht länger auf die praxisfernen Reflexionen aus dem theoretischen Elfenbeinturm vertrauen und stattdessen einfach mal machen.
+
+"Just do it!" ist der Wahlspruch derjenigen, die vorzugsweise den eigenen Unterricht nutzen, um Dinge einfach mal auszuprobieren. Man könnte das in Anlehnung an einen bekannten Werbeslogan<a href="#footnote41" class="footnote">41</a> die "Nike-Didaktik" nennen.
+
+Die Nike-Didaktiker wenden sich nicht nur plakativ gegen die (zumeist universitären) "Theoretiker", sondern auch gegen diejenigen, die ständig nur negative Kritik üben, indem sie darlegen, warum Tool X und App Y keinen wirklichen Fortschritt auf dem Weg zur zeitgemäßen Bildung darstellen.
+
+Neuraths Schiffs-Gleichnis kann helfen, eine Variante der Nike-Didaktik als verantwortungslosen Irrsinn zu entlarven: Wer auf offener See ohne jegliche Überlegung mit dem Ruf "Just Do it!" eine Planke herausreißt, riskiert möglicherweise den Untergang des ganzen Schiffes und missbraucht zudem die Besatzung als Versuchskaninchen für die eigenen Experimente. Analog: Wer Schüler(innen) in dieser gedankenlosen "Just do it!"-Manier zu Versuchsobjekten degradiert, diskreditiert sich selbst.
+
+Es gibt allerdings die berechtigte Hoffnung, dass es in den Klassenzimmern und Seminarräumen nur wenige Nike-Didaktiker dieser Couleur gibt. Denn wer sich stolz das "Macher"-Etikett ans Revers heftet, um sich gegen die ach! so intellektuellen und praxisfernen "Denker" abzugrenzen, übersieht, dass sich didaktisches Denken und Handeln ebenso wenig trennen lassen wie unterrichtliche Theorie und Praxis.
+
+Die Probleme, die mit dem Grundsatz "Einfach machen!" verknüpft sind, lassen sich recht einfach verdeutlichen:
+
+Gesetzt den Fall, eine Unterrichtseinheit, die von Kollegin K nach dem Prinzip der Nike-Didaktik durchgeführt wurde, sei gelungen. Dann lassen sich (mindestens) zwei interessante Fälle unterscheiden:
+
+(1) Kollegin K ist nicht in der Lage, zu erklären, warum das "Einfach machen!"-Konzept aufgegangen ist. Das würde jedoch bedeuten, dass die Einheit nur zufällig gelungen und damit konzeptionell wertlos ist.
+
+Ihr Handeln ist vergleichbar mit dem eines Schülers, der in einem Multiple-Choice-Test einfach mal Kreuze setzt, eine gute Note erzielt, aber inhaltlich nichts verstanden hat.
+
+(2) Kollegin K war vor dem Beginn der Einheit tatsächlich nicht in der Lage, Prinzipien zu benennen, nach denen sie ihren Unterricht plant. Deswegen glaubte sie, den Grundsatz "Einfach machen!" anwenden zu müssen. In der kritischen Retrospektive (und ggf. im Dialog mit anderen) wird ihr jedoch klar, warum die Gegenstände, Methoden, Medien, Sozialformen etc. sinnvoll waren, d.h. sie kann die Prinzipien, die leitend für die Planung waren, ex post explizit benennen.
+
+Ihr Handeln erinnert an das Konzept der impliziten Analyse aus dem Kontext des handlungs- und produktionsorientierten Literaturunterrichts (vgl. Haas 1997, S. 11): Wenn Schüler(innen) beispielsweise die zerschnittenen Verse eines Gedichts in eine sinnvolle Reihenfolge bringen, handeln sie implizit nach Regeln, die erst später zu expliziten, kognitiv reflektierten Erkenntnissen werden.
+
+Wenn die Nike-Didaktik nicht mit einer pädagogischen Bankrotterklärung gleichgesetzt werden soll - wie in Fall (1) - dann erweist sie sich - wie in Fall 2 - gerade nicht als pragmatischer Gegenentwurf zu praxisferner Theorie, sondern bestenfalls als eine Vorstufe notwendiger didaktischer Reflexion.
+
+Dass auch das beste Konzept, das auf dem "Einfach machen!"-Prinzip beruht, ohne diese reflexiv-analytische Ebene an Wert einbüßt, wusste schon Schleiermacher:
+
+> "Die Dignität der Praxis ist unabhängig von der Theorie; die Praxis wird nur mit der Theorie eine bewusstere." (Schleiermacher 1826, S. 11)
+
+Der Slogan "Einfach machen!" nährt die Mär vom Gegensatz zwischen Theorie und Praxis und trägt zumindest implizit zur Abwertung der Theorie bei. Mit dem Hinweis auf Schleiermacher könnten (und sollten) die Nike-Didaktiker ganz bewusst auf diesen Wahlspruch verzichten, ohne befürchten zu müssen, die Dignität ihrer Konzepte zu schmälern.
+
+#### Quellenangaben:
+
+- Haas, Gerhard: Handlungs- und produktionsorientierter Literaturunterricht. Theorie und Praxis eines "anderen" Literaturunterrichts für die Primar- und Sekundarstufe. Seelze 1997.
+- Neurath, Otto: Protokollsätze. In: Erkenntnis 3 (1932/33), S. 204-214.
+- Schleiermacher, Friedrich: Pädagogische Schriften I. Die Vorlesungen aus dem Jahr 1826. Herausgegeben von Erich Weniger. Frankfurt am Main, Berlin, Wien 1983.
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 27.08.2018 auf https://axelkrommer.com/2018/05/14/die-nike-didaktik-oder-warum-man-auf-den-paedagogischen-grundsatz-einfach-machen-verzichten-kann
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer: <a href="#p1115">Lob der negativen Kritik</a>.
+- Dejan Mihajlović: <a href="#p1336">Was ist zeitgemäße Bildung?</a>
+- Philippe Wampfler: <a href="#p1247">Digitale Didaktik: ein Konzept</a>.
+- Jöran Muuß-Merholz: <a href="#p290">Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren</a>.
+
+
+---
+
+
+# Kommunikation, Kollaboration, Kreativität und kritisches Denken - mehr als Buzzwords
+
+*Dejan Mihajlović*
+
+## Lernen im 21. Jahrhundert
+
+Was bedeutet es für uns als Individuen und unsere Gesellschaft, wenn Maschinen bzw. Programme<a href="#footnote42" class="footnote">42</a> immer mehr Arbeitsfelder der Menschen übernehmen? Wie kann man zunehmendem Nationalismus begegnen und demokratische Strukturen oder Gemeinschaften wie die EU stärken und schützen, auch wenn politische Ereignisse wie die Wahl von Donald Trump oder der Brexit Umbrüche auslösen? Der folgenden Beitrag diskutiert die Bedeutung dieser Herausforderungen für Gemeinschaften: Sollen Menschen persönlichen Sinn und Geborgenheit erfahren, dürfen sie weder politisch noch technologisch an den Rand gedrückt werden. Deshalb betreffen beide Herausforderungen auch den Bildungsbereich, der entscheidend für die Teilnahme an gesellschaftlichen Prozessen ist.
+
+Ein Blick auf den Arbeitsmarkt zeigt, dass nicht nur manuelle Tätigkeiten zunehmend automatisiert werden, sondern auch die, die auf reinem Abfragewissen basieren. Reproduktion von Fachwissen verliert rasant an Wert, weil es besonders gut digitalisiert werden kann. Früher reichte das in der Schule erworbene Wissen für die Teilhabe am Großteil des gesellschaftlichen Lebens aus. Mit der Digitalisierung drängen digitale Technik und neues Wissen in alle Lebensbereiche und erfordern Lernen als lebensbegleitenden Prozess. Das friedliche Zusammenleben in einer demokratischen, offenen, freien und pluralistischen Gesellschaft muss unter möglichst großer Beteiligung immer wieder neu ausgehandelt werden. Die zu lösenden Probleme werden dabei immer komplexer. Deshalb stellt sich nun die Frage, welche Kompetenzen notwendig sind, um junge Menschen darauf ausreichend vorzubereiten. Auch in Deutschland ist die aus den USA stammende Rede von den 21st Century Skills inzwischen sehr verbreitet. Dabei stellen Communication, Collaboration, Creativity und Critical thinking die vier wichtigsten Cs dar. Die These hierzu lautet: Lernprozesse, die auf zeitgemäßer Kommunikation und Kollaboration, Kreativität und kritischem Denken aufbauen, fördern den Erwerb des notwendigen Rüstzeugs für die Zukunft. Die ins Deutsche übersetzten 4K-Skills hat Andreas Schleicher auf der re:publica 2013 hierzulande bekannter gemacht<a href="#footnote43" class="footnote">43</a>. Seitdem werden sie auch in der deutschsprachigen Bildungscommunity zunehmend erwähnt und als notwendig erachtet. Im Folgenden sollen einige Gedanken und Argumente entfaltet werden, die eine gehaltvolle Debatte über die 4Ks in Theorie und Praxis eröffnen können. (Bei einem 4K-Lernsetting finden Kommunikation, Kollaboration, Kreativität und kritisches Denken gleichzeitig statt. Freiheit spielt innerhalb dieser Lernprozesse eine wichtige Rolle. Sie begünstigt die 4Ks und persönlich sinnstiftendes, wirksames und nachhaltiges Lernen.)
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 17: 4K-Skills von Dejan Mihajlović unter CC 0*
+
+## Kommunikation
+
+Wenn ich in einem Gespräch mit Lehrenden die 4Ks erwähne, höre ich häufig, dass das alles nichts Neues sei. Schließlich habe man schon immer darauf geachtet, dass Lernende viel kommunizieren, zusammenarbeiten, kritisch hinterfragen oder kreativ sind. In diesen Einschätzungen steckt ein entscheidender Denkfehler, weil diese Kompetenzen nicht im Kontext des digitalen Wandels betrachtet werden. Kommunikation scheint mir in diesem Zusammenhang das meist unterschätze K zu sein. Das liegt wahrscheinlich daran, dass wir tagtäglich kommunizieren und uns durch fehlende oder zumindest nicht wahrgenommene Rückmeldungen von Defiziten automatisch eine ausreichende Qualifikation zusprechen. Man übersieht, dass sich Kommunikation in den letzten Jahren gravierend verändert hat und damit auch die Anforderungen. Wenn man bedenkt, welchen Umbruch allein die Einführung der SMS herbeiführte, kann man die Wirkung von sozialen Netzwerken und den zusätzlichen Möglichkeiten wie Hyperlinks, Emojis, Hashtags, Sharepics, GIFs, Sprachnachrichten oder Stories, die sich in den letzten Jahren etabliert haben, erahnen. Auch ohne diese neuen Kommunikationsmöglichkeiten sind Veränderungen feststellbar. Manchmal wird das digitale Schreiben als reine Substitution des analogen dargestellt, Dabei wird ein wichtiger Aspekt ausgelassen, indem das Schreiben isoliert, als Mittel zum Zweck, betrachtet wird. Axel Krommer berichtete mir bei einem Besuch in Freiburg, dass seine Studierenden im Laufe ihres Studiums (nahezu) alles digital schreiben würden und bei der Abschlussarbeit, die immer noch handschriftlich abgeben werden müsse, größte Probleme hätten, weil das Löschen, Kopieren und Einsetzen wegfiele. Digitales Schreiben ist eben nicht nur digitalisiertes analoges Schreiben. Es verändert die Art zu denken bzw. Texte gedanklich zu konstruieren. Deshalb stellen auch Postings und Tweets neue Denkverläufe dar. Hinzu kommt, dass jedes soziale Netzwerk einer eigenen Dynamik und z.T. unausgesprochenen Regeln unterliegt, die nicht alle gleich zu nutzen und lesen verstehen. Das kann von äußeren Faktoren abhängen, wie einer Zeichenbegrenzung bei Twitter und dem Einfluss von Algorithmen bei Facebook, oder der eigenen Fähigkeit, ein Netzwerk aufzubauen, das (mehr) gesellschaftliche Teilhabe ermöglicht.
+
+Webstrukturen lösen bestehende Hierarchien auf, überwinden Grenzen und schaffen ein neues Kommunikationsgefüge. Der ehemals meist auf den Freundes- und Bekanntenkreis beschränkte Kommunikationsradius hat sich dadurch in den letzten Jahren in einem schleichenden Prozess nicht nur vervielfacht, sondern wurde um Personen erweitert, mit denen man unter anderen medialen Bedingungen sehr wahrscheinlich niemals in Kontakt getreten wäre. Die Diskrepanz der Wissensstände, Kommunikationsstrategien und -fähigkeiten fordert und überfordert dabei nicht selten. Der relativ überschaubaren Anzahl an Briefen und Postkarten von früher stehen Massen an Benachrichtigungen diverser Messenger-Dienste, E-Mail-Konten und Social Media-Accounts gegenüber. Nicht selten werden dabei mehrere Kanäle parallel bedient. Müsste man in Anbetracht dieser Entwicklung den notwendigen Faktoren erfolgreicher Kommunikation in Schulen und Hochschulen nicht mehr Beachtung schenken? Wie viel psychologisches Wissen sollte in schulisches Lernen einfließen, während während immer deutlicher wird, dass die Perspektive auf die Realität für menschliche Entscheidungen viel wichtiger ist als Tatsachen? Es gibt aber auch systemische Probleme des Unterrichts, die nun durch technische Mittel gelöst werden können. So ließen sich die kommunikativen Potenziale der Digitalisierung beispielsweise nutzen, um Lernenden bzw. Studierenden eine aktivere Rolle innerhalb institutioneller Lernprozesse zukommen zu lassen. Im Themenfeld Kommunikation sehe ich gegenwärtig am meisten Handlungsbedarf.
+
+## Kollaboration
+
+Im Bereich der Kollaboration, die man in der Regel als intensivere Zusammenarbeit versteht, hat der digitale Wandel neue Möglichkeiten hervorgebracht, die im gesellschaftlichen Zusammenleben an Bedeutung zulegen. Echte Kollaboration lebt von Freiwilligkeit, Fähigkeit und Willen zur Zusammenarbeit. Sie ist selbstorganisiert und hat, wenn überhaupt, höchstens flache Hierarchien. Durch digitale Anwendungen werden inklusive, zeit- und ortsunabhängige Lernsettings - bzw. diese Form des Miteinanders- erst ermöglicht. Hier genügt ein Blick in Firmen bzw. auf deren Arbeitsstrukturen oder über das Web formierte und gelenkte politische Bewegungen. In beiden Fällen sind Akteure, die zu Kollaboration bereit und vernetzt sind entscheidende Erfolgsfaktoren. Wie sieht aber die Konkurrenz zum Plakat oder der OH-Folie aus, die unter den medialen Möglichkeiten bisher den Höhepunkt der schulischen Zusammenarbeit darstellten? Anhand von wenigen Beispielen, möchte ich einige gewonnene Optionen auflisten:
+
+### Etherpads
+
+Etherpads sind webbasierte Editoren, wie z.B. das ZUMPad (www.zumpad.zum.de), das Cryptpad (www.cryptpad.fr) oder das VHS-Pad (www.vhspad.de), durch die Dokumente von allen Beteiligten zeit-, ortsunabhängig und gleichzeitig bearbeiten werden können. Räumliche Vorgaben, wie fest installierte Tische oder Bänke, verlieren an Relevanz. Alle können zu Wort kommen.
+
+### Padlet
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 18: Screenshot Padlet*
+
+Padlet bietet digitale Pinnwände, die alle bei den Etherpads bereits genannten Optionen umfassen und zusätzlich das Ablegen von Audio-, Video-, Bild- oder Text-Dateien ermöglichen.
+
+### Aula
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 19: Screenshot Aula*
+
+Aula ist ein digitales Beteiligungskonzept (ausdiskutieren und live abstimmen) von politik-digital e.V. unter der Leitung von Marina Weisband und mit der Unterstützung der Bundeszentrale für politische Bildung, das allen Schüler_innen einer Schule über eine Plattform und Zeitfenster im Stundenplan einfach und direkt ermöglicht, das Schulleben mitzugestalten. Weil Partizipation erfahren, bzw. gelebt werden muss, erweitern die digitalen Strukturen der aula-Plattform Mitgestaltungswege und erleichtern Zugänge. Ideen und Projekte können so kollaborativ und klassen-, bzw. klassenstufenübergreifend geplant und umgesetzt werden (vgl. Mihajlović 2018).
+
+### Blog
+
+Ein Blog leistet fast alles, der bisher erwähnten Dinge, mit einem wichtigen Zusatz: Es kann langfristig das Zuhause eines persönlichen Lernnetzwerks sein, das Lernen mit allen vier Ks durch Vernetzung über schulische und Ländergrenzen hinaus ermöglichen kann. Hier sehe ich übrigens auch den klaren Vorteil gegenüber allen geschlossenen (digitalen) Schulsystemen. Lernende verfügen über ihr Geleistetes auch über die Schulzeit und das Studium hinaus und können es weiter nutzen und entwickeln (vgl. Mihajlović 2017).
+
+## Kreativität
+
+Unabhängig von den neuen Möglichkeiten, Kreativität (auch mithilfe der anderen Ks) umzusetzen, steht an dieser Stelle Innovation als wichtige Verknüpfung. Immer komplexere Probleme verlangen kreative Lösungen. Dass z.B. Plastik die Weltmeere verschmutzt und gravierende Folgen für Mensch und Umwelt hat, scheint langsam auch in der breiten Öffentlichkeit angekommen zu sein. Am Beispiel des Projekts The Ocean Cleanup des jungen Niederländers Boyan Slat, der es sich zur Aufgabe gemacht hat, den Plastikmüll in den Ozeanen einzusammeln, wird deutlich, dass aufgrund der vielschichtigen Aufgabenstellung Kreativität allein nicht ausreicht und multiperspektivische Betrachtungen mithilfe von Kommunikation, kritischem Denken und Kollaboration notwendig sind. Wenn Wissen in neue Zusammenhänge übertragen wird, kann das zu Innovation führen. Dafür müssen Räume für experimentelles Handeln geschaffen werden. Die gute Nachricht: Projektarbeit kann das beispielsweise auch im bestehenden Bildungssystem leisten (vgl. hierzu Rosa 2013.
+
+## Kritisches Denken
+
+Kritisches Denken ist wahrscheinlich das anspruchsvollste K, das bei den eingangs erwähnten Fragen unserer Gesellschaft eine wesentliche Rolle spielt, wenn es darum geht, Entscheidungen in einer global vernetzten Welt zu treffen. Aber auch ein zunehmend wichtiges, wenn es aufgrund neuer technischer Möglichkeiten zu komplexen ethischen Fragestellungen führt, die klären sollen, wie beispielsweise autonome Fahrzeuge programmiert werden sollen, wenn eine unvermeidliche Kollision mit anderen Menschen droht.
+
+Kritisches Denken wird häufig als Kritisieren missverstanden. Es geht aber darum, einen Sachverhalt zu beurteilen, bzw. beurteilen zu können. Dafür ist ein ergebnisoffener Prozess notwendig, indem eine Analyse des Sachverhalts stattfinden muss, systemisch, überfachlich und im historischen Kontext. Ein Zerlegen, das zu Erkenntnissen führt, die zusammengesetzt in einer Einordnung münden. Lisa Rosa (2017) hat überzeugend dargelegt, dass kritisches Denken eine Haltung ist, die darin besteht, ernsthaft herausfinden zu wollen, wie etwas ist, wie es geworden ist und wie es verändert werden könnte.
+
+## Zwei konkrete Beispiele aus der Praxis
+
+Weil so häufig über zukünftige Herausforderungen gesprochen und geschrieben wird, möchte ich die Notwendigkeit der vier Ks vielleicht noch an einem letzten Beispiel verdeutlichen, bevor ich zur Unterrichtspraxis wechsle. Aktuell gehen europaweit jeden Sonntag Menschen auf die Straßen, um für die europäische Idee zu demonstrieren. Befindet sich die EU denn nicht auch deshalb in der Krise, weil es im Bereich der (interkulturellen) Kommunikation und der (Bereitschaft zur) Kollaboration Defizite gibt? Entstehen etwa nicht durch den Verbund der aktuell noch 28 Mitgliedsstaaten komplexe Probleme, die auch nach kreativen Lösungen verlangen? Müssen nicht einheitlich formulierte Ziele für über eine halbe Milliarde Europäer_innen kritisch durchdacht sein, um möglichst allen maximal gerecht zu werden. Könnten die vier Ks nicht dazu beitragen, dass die EU auch als eine Kulturgemeinschaft besser gelingt?
+
+### Präsentationen
+
+GFS (gleichwertige Feststellung von Schülerleistungen), FIP (fachinterne Überprüfung) oder FÜK (fächerübergreifende Kompetenzprüfung) sind nur drei Gründe, weshalb in allen Fächern jährlich unzählige Präsentationen (in Baden-Württemberg) gehalten werden. Ich weiß, dass einige Schulen bzw. Fachkonferenzen oder Lehrer_innen dafür Themenlisten vorgeben. Dabei erhält man hier eigentlich genau die notwendigen Freiheiten, die man für Lernprozesse, wie sie oben beschrieben wurden, nutzen könnte. Um die Herausforderung der FÜK-Themenfindung gemeinsam zu bewältigen, legte ich Ende letzten Jahres meiner Klasse ein Etherpad an, in das sie alle Themen, die sie wirklich interessieren und für die FÜK gerne bearbeiten würden, eintragen konnten. Nach anfänglichen Startschwierigkeiten füllte sich das Etherpad relativ schnell mit Ideen. Das Ergebnis nach ca. zehn Minuten war eine Liste mit über 70 Themen, die wir im Anschluss inhaltlich und bezüglich Prüfungstauglichkeit (Gibt es ausreichend brauchbare Quellen? Kann man es mindestens zwei Fächern zuordnen?) im Plenum diskutierten. Durch die Option, ihre Gedanken frei (und anonym) ins Etherpad zu schreiben, erhielt jedes Klassenmitglied die Möglichkeit, seine wahren Ideen und Wünsche zu äußern, wurde durch die Gedanken anderer Mitschüler_innen zu neuen eigenen Ideen inspiriert oder entwickelte bestehende weiter. Dass die Schüler_innen lernen mussten, mit der ungewohnten Freiheit bei der Gestaltung der Lernprozesse umzugehen, zeigte sich schon bei der Themenwahl: Wurden zu Beginn noch mehrheitlich geschichtliche, aus dem schulischen Lehrplan bekannte Themen genannt, löste sich irgendwann der Knoten und gesellschaftliche sowie psychologische Themenbereiche, wie Darknet, Mainstream oder Klarträume wurden auf die Liste gesetzt. Die Erarbeitung einer Struktur im Anschluss erfolgte ebenfalls mit den bereits genannten Tools, die sich für raum- und zeitunabhängige Kommunikation und Kollaboration eignen. Mir persönlich nahm diese Arbeitsweise den Druck, in den Pausen zwischen Tür und Angel beraten oder viele Nachmittagstermine anbieten zu müssen, um ausreichend Zeit für kritisches Denken bei der inhaltlichen Debatte zur Verfügung zu haben. Kreativität spielte meist eine Rolle, wenn es darum ging, welche Produkte oder Umsetzungen am Ende stehen könnten. (Wie soll Expert_innenwissen in die Arbeit einfließen? Über ein Interview? Schriftlich? Durch eine Ton- oder Videoaufnahme? Wie kann ich das mit der mir zur Verfügung stehenden Technik am besten lösen?).
+
+### aula
+
+Alle Schüler_innen unserer Schule können über diese Plattform ihre Ideen posten, gemeinsam weiterentwickeln und abstimmen. Die erste Idee, die das nötige Quorum erreicht hatte, um auf den Tisch zu kommen und nach Prüfung der Schulleitung zur finalen Abstimmung freigegeben wurde, scheiterte aber an der fehlenden einfachen Mehrheit. Was danach folgte, beschreibt das Lernen mit den vier Ks: Im Schülerrat und Klassen wurde diskutiert, wie es zur geringen Wahlbeteiligung kommen konnte. Ablauf, Strukturen, Wählerschaft und sonstige Faktoren wurden analysiert und kritisch hinterfragt, um Lösungsansätze zu entwickeln, die einen erneuten Misserfolg verhindern sollten. Mangelnde Informationen, Motivation und Werbung wurden als einige der Ursachen ausgemacht. Bestehende bzw. funktionierende Kommunikationskanäle wie Snapchat wurden und werden nun ergänzend genutzt, Plakate (klassenübergreifend) erarbeitet und aufgehängt und Durchsagen gemacht. Eine Schülergruppe erstellte zusätzlich einen Plan, wann sie welche Klassen informieren und durch persönliche Ansprachen motivieren kann, um ausreichend Zuspruch zu generieren. Ich bin sehr gespannt, ob es die nächste Idee, die eventuell nach den Osterferien zur Abstimmung freigegeben wird, schaffen wird. Unabhängig davon haben unsere Schüler_innen bereits viel über demokratische Prozesse gelernt.
+
+### Befähigung durch digitale Tools
+
+Bei allen hier und in anderen Blogbeiträgen genannten Beispielen mit digitalen Tools verfolge ich stets das Ziel, dass Schüler_innen lernen, diese Anwendungen für ihren Lernprozess selbst zu nutzen. Das ist kein Selbstläufer, sondern muss mit den Klassen gezielt erarbeitet und geübt werden. Deshalb freue ich mich umso mehr über jedes Padlet, Blog, Etherpad, Erklärvideo oder sonstige Anwendungen und Produkte, die nicht von Lehrenden, sondern von Lernenden frei gewählt erstellt werden.
+
+## Weshalb 4K?
+
+Der digitale Wandel ist unumkehrbar und stellt uns vor komplexe Herausforderungen, die mit dem bisherigen Verständnis von Lehren und Lernen nicht lösbar scheinen. Ein Ziel muss es sein, die zukünftigen Generationen zu befähigen, unbekannte Hürden in einem sich ständig wandelndem Feld zu meistern. Menschen mit einem guten persönlichen Lernnetzwerk, deren Lernprozesse durch zeitgemäße Kommunikation und Kollaboration, Kreativität und kritisches Denken geprägt sind, traue ich das (aktuell) zu.
+
+#### Quellenangaben:
+
+- Mihajlović, Dejan (2017): Social Media gehört in die (Hoch)Schulen. Online-Quelle: https://mihajlovicfreiburg.com/2017/03/12/social-media-gehoert-in-die-hochschulen (01.05.2019)
+- Mihajlović, Dejan (2018): aula - Demokratie lernen und leben. Online-Quelle: https://mihajlovicfreiburg.com/2018/08/19/aula-demokratie-lernen-und-leben (01.05.2019).
+- Rosa, Lisa (2013): Über die Notwendigkeit einer Rekonzeptualisierung des Projektlern-Ansatzes unter den Bedingungen des digitalen Zeitalters und den Folgen für die Lehrerbildung. In: Schumacher, Christine/Rengstorf, Felix/Thomas, Christina (Hg.):, Projekt: Unterricht. Projektunterricht und Professionalisierung in Lehrerbildung und Schulpraxis. Göttingen: Vandenhoeck & Ruprecht, S. 245-269. Online-Quelle: https://www.researchgate.net/publication/235635684_Lernen_20_-_Projektlernen_mit_Lehrenden_im_digitalen_Zeitalter (01.05.2019)
+- Rosa, Lisa (2017): Kritisches Lernen für Alle - Kern der Literacy von heute und morgen. Online-Quelle: https://shiftingschool.wordpress.com/2017/02/17/kritisch-denken-lernen-fuer-alle-kern-der-literacy-von-heute-und-morgen (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 18.04.2017 auf https://mihajlovicfreiburg.com/2017/04/18/kommunikation-kollaboration-kreativitaet-und-kritisches-denken-mehr-als-buzzwords
+
+#### Empfehlungen zum Weiterlesen:
+
+- Das Gleichsetzen digitalen Schreibens mit digitalisiertem analogen Schreiben ist ein pädagogischer Fehlschluss, der aus einem inadäquater Medienbegriff resultiert. Weitere Beispiele und Folgen hat Axel Krommer in diesem Beitrag aufgeführt: <a href="#p727">Wie ein Common-sense-Medienbegriff zu pädagogischen Fehlschlüssen führt</a>.
+- Lisa Rosa gewährt hier umfangreiche Einblicke in die Herausforderungen des Lernens im 21. Jahrhundert: <a href="#p621">Lernen im digitalen Zeitalter</a>.
+- Weil auf verschiedenen Ebenen gearbeitet wird, ein digitales Umfeld für das Lernen zu kreieren und meist von Cloud-Lösungen gesprochen wird, empfehle ich diesen Beitrag von Martin Lindner dazu zu lesen: <a href="#p1462">Von der "Schulcloud" zur lebenslangen "Bildungsakte": Wohin bewegt sich das digitale Bildungssystem?</a>
+
+
+---
+
+
+Teil III - Debatten und Debakel
+
+
+---
+
+
+# Datenschutzrenitenz - ein Plädoyer für einen entspannten Umgang mit Datenschutz
+
+*Philippe Wampfler*
+
+## Was für Datenschutz in Schulen spricht …
+
+Datenschutz an Schulen ist aus zwei Gründen wichtig:
+
+Schulen müssen sich erstens an rechtliche Vorgaben halten.
+
+Schulen sind zweitens als Schonraum konzipiert. Können Daten von Schülerinnen und Schülern außerhalb dieses Schonraums so verwendet werden, dass Lernenden daraus ein Nachteil erwächst, sind diese Daten zu schützen. Das betrifft insbesondere auch Lerndaten wie etwa Fehler, die Schülerinnen und Schüler machen. Programme können diese Fehler heute auswerten. Diese Auswertungen können an Schulen dazu gebraucht werden, um Lernprozesse individuell an den Leistungsstand von Lernenden anzupassen. Gleichzeitig können sie auch dazu verwendet werden, um die kognitive Entwicklung einer Person zu dokumentieren und daraus etwas Schlüsse über die Eignung für eine Arbeitsstelle abzuleiten.
+
+Verwendet eine Schule also Programme, die mittel- und langfristig Lerndaten erheben, dann müssen diese wirksam geschützt werden. Dabei gilt es zu bedenken, dass auch anonymisierte Daten zu Profilen gebündelt werden können, die einer Person direkt zugeordnet werden können<a href="#footnote44" class="footnote">44</a> (und dass viele Plattformen ihre Versprechen in Bezug auf Datenschutz mehrfach gebrochen haben).
+
+## … und was dagegen.
+
+Datenschutz ist wichtig. Gleichwohl ist dieser Text ein Aufruf, sich übertriebenen und unsachlichen Datenschutzforderungen zu verweigern, ein Plädoyer für Renitenz in Datenschutzfragen.
+
+Dafür gibt es verschiedene Gründe. Vier wesentliche werden im Folgenden kurz umrissen, um dann im letzten Abschnitt auf ein fundamentales Problem der Datenschutzdiskussion hinzuweisen: Die ungenauen Vorstellungen von Daten und ihrem Schutz.
+
+Datenschutzdiskussionen sind oft Teil eines Verhinderungsdiskurses. Das ist der erste Grund, der für Renitenz spricht. Was heißt das? Wer Forderungen in Bezug auf den Schutz von Daten aufbringt, tut das oft, um die Verwendung digitaler Werkzeuge und Geräte an Schulen zu verhindern. Das lässt sich daran erkennen, dass extreme Anforderungen an den Schutz digital gespeicherter Daten gestellt werden, die von übertriebenen Bedrohungsszenarien ausgehen. Schulen verwenden verschiedene Arten von Daten und haben das schon immer gemacht. Egal wie die Daten gespeichert werden: Verschiedene Personen haben Zugang dazu und Schutzmechanismen sind lückenhaft. Der Schutz der Daten ist verhältnismäßig, nicht absolut. Geht es aber um eine digitale Verwendung von Daten, wird argumentativ vorgegeben, der Schutz müsse absolut sein, wenn ein Speicher- oder Verarbeitungsverfahren eingesetzt wird. Damit lässt sich aber jede Form der Speicherung und Verarbeitung von Daten verhindern: Denn es gibt keine absolut sicheren Verfahren.
+
+Ein zweiter Aspekt betrifft die zur Verfügung stehenden Mittel. Lehrkräfte an Schulen verarbeiten Daten auf Rechnern: Sie speichern darauf Noten, kommunizieren mit Eltern oder der Schulleitung per E-Mail und führen Anwesenheitskontrollen durch. Das ist ein realistisches Szenario. Nun können Lehrkräfte nicht sicherstellen, dass die verwendeten Computer vor Zugriffen auf diese Daten geschützt sind: Einerseits, weil sie nicht über das nötige IT-Knowhow verfügen, andererseits, weil verschiedene Personen sich Zugang zu diesen Geräten verschaffen können. Auf eine Formel gebracht: Schuldaten sind so sicher, wie die Daten auf den Rechnern von Lehrkräften. Die Mittel, um sichere Geräte zu beschaffen und das Personal im Umgang mit Daten zu schulen, fehlen an vielen zuständigen Stellen. Datenschutzforderungen sind - und das ist der zweite Grund, der für eine Lockerheit im Umgang mit Datenschutz spricht - oft schlicht nicht realistisch. Sie sind mit der Forderung zu vergleichen, eine Schule müsse absolut brandsicher sein: Obwohl alle wissen, dass Schülerinnen, Schüler und Angestellte entflammbare Kleider tragen und mit Papier auf Holzbänken arbeiten. Es wäre schön, eine Schule könnte nicht brennen. Nur: Sicherstellen lässt sich das nicht so einfach.
+
+Daran schließt ein drittes Argument an, für das der Brandschutzvergleich ebenfalls hilfreich ist: Schulen bemühen sich, Brände zu verhindern, mit denen sie tatsächlich rechnen müssen und vor denen sie sich schützen können. Es werden Regeln erlassen, wo Lehrkräfte rauchen dürfen, ob Kerzen in Schulzimmern angezündet werden dürfen und es wird geübt, wie die Klassen im Brandfall das Schulhaus schnell verlassen können. Gegen einen verheerenden Waldbrand oder einen Terroranschlag mit Feuerwerfern kann sich eine Schule hingegen nicht schützen.
+
+Diese Fragen müsste eine sinnvolle Diskussion über Datenschutz mitdenken: Was sind Bedrohungsszenarien, gegen die sich eine Schule schützen kann? Wie sieht wirksamer Schutz konkret aus? Was sind sinnvolle Verfahren, wenn der Schutz versagt hat? Aus dieser Perspektive wird deutlich, dass Datenschutz in Bildungssettings von sehr unterschiedlichen Bedrohungsszenarien ausgeht. Während es undenkbar ist, dass Schulen sich heute wirksam gegen professionelle Hackerangriffe oder den Zugriff von Geheimdiensten schützen können, so ist es möglich, dafür zu sorgen, dass Daten vor unbefugten Zugriffen aus dem Umfeld von Schülerinnen und Schülern sicher gespeichert werden. Darüber hinaus kann eine Schule mit entsprechenden Verträgen sicherstellen, dass die eingesetzte Soft- und Hardware Daten nicht ohne Erlaubnis und rechtliche Basis weitergeben oder auswerten. Sich hingegen dagegen schützen zu wollen, dass Verträge übertreten werden, gehört in den Bereich übertriebener Schutzmaßnahmen: Klar gibt es dieses Risiko, würde es aber konsequent ausgeschlossen, könnte eine Schule nicht mehr operieren.
+
+Das vierte Argument bezieht sich auf die Kultur und die medialen Praktiken Jugendlicher. Es lässt sich am einfachsten am Beispiel von WhatsApp diskutieren: Schulen dürfen im gesamten deutschsprachigen Raum aus Datenschutzgründen nicht offiziell mit WhatsApp arbeiten. Das Tool gehört zum Portfolio von Facebook. Es speichert die Mobiltelefonnummer, anhand der Personen eindeutig identifiziert werden können - und lässt andere Applikationen von Facebook auf die Daten zugreifen. Gleichzeitig nutzen Kinder und Jugendliche aber WhatsApp<a href="#footnote46" class="footnote">46</a> - oft mit der expliziten Erlaubnis ihrer Eltern. Sie handeln dort eine Reihe schulischer Fragen aus und organisieren auch viele für die Schule wichtige Abläufe. WhatsApp ist für Jugendliche ein wichtiges Werkzeug. Pädagogisch wäre es sinnvoll, es gäbe eine schulische Begleitung. Juristisch ist das aber nicht möglich. Die Datenschutzdebatte bedeutet also in dieser Hinsicht, dass Schulen juristische Bedenken über ihre pädagogische Verantwortung stellen müssen, dass sie Werkzeuge in der Schule verwenden müssen, mit denen Schülerinnen und Schüler oft nicht vertraut sind und die in Bezug auf die Nutzerfreundlichkeit oft höhere Anforderungen stellen als die häufig verwendeten Apps.
+
+Das Argument, eine Klasse könne schnell dazu gebracht werden, eine andere Chat-App zu verwenden, wenn das von der Schule so vorgegeben sei, kann leicht geprüft werden: Wenn die inoffiziellen Klassenchats auch auf diese Tools umgestellt werden, dann klappt die Vermittlung. Heute ist das sehr selten der Fall: In der Regel verwenden Klassen WhatsApp-Chats als Hauptkommunikationskanal und übertragen Nachrichten aus anderen Kanälen in die entsprechenden Gruppen.
+
+Verzichten Schulen aus Datenschutzgründen auf die Nutzung von WhatsApp, so kommen sie nur einer juristischen Vorschrift nach. Effektiv schützen sie keine Daten: Die Klassengruppen existieren auch ohne schulische Nutzung, entsprechend kann Facebook Schülerinnen und Schüler anhand ihrer Mobiltelefonnummer identifizieren, ohne dass Schulen dazu einen Beitrag leisten oder das verhindern könnten.
+
+Aus diesen Gründen hat sich an vielen Schulen die inoffizielle Nutzung entsprechender Chats etabliert. Sie ist symptomatisch für einen idealistischen, wirkungslosen Diskurs über Datenschutz, der pragmatische Arbeit mit digitalen Medien an Schulen verhindert und viele Ressourcen beansprucht.
+
+## Wem gehören Daten eigentlich?
+
+Daten entstehen: Durch eine Aktion, die beobachtet und dokumentiert wird. Zu behaupten, sie gehörten jemandem, ist deshalb unsachlich und auch absurd. Nehmen wir den einfachsten Fall: Zwei Menschen unterhalten sich. Haben jetzt beide das Recht darauf zu kontrollieren, was mit dem Inhalt des Gesprächs passiert? Darf ohne Einwilligung der anderen Person ein Tagebuch geführt werden? Darf man vom Gespräch weitererzählen?
+
+Das sind moralisch interessante Fragen, aber die Antwort darauf wäre kaum, dass der Inhalt eines Gesprächs der Person gehört, die ihn geäußert hat.
+
+Daten sind an Kontexte gebunden. Auch wenn eine Ärztin Patientendaten stark schützen muss, so ist es doch auch richtig, dass sie bei einem Versicherungsfall oder einer kriminalistischen Untersuchung gewisse Daten weitergeben darf und muss. Auch werden diese Daten archiviert und möglicherweise in einigen Jahrzehnten medizinhistorisch ausgewertet.
+
+Werden etwa IP-Adressen unter gewissen Bedingungen als schützenswerte, persönliche Daten interpretiert, zeigt sich daran eine enorm ideologische Vorstellung von Datenschutz: Die IP-Adresse braucht es, damit Kommunikation im Netz funktioniert und dokumentiert werden kann. Wer einen Blog betreibt, möchte sehen, wer kommentiert und auf dem Blog aktiv ist. Die IP-Adresse dient dazu genauso, wie bestimmte Postsendungen nur unter Angabe von einer Absenderadresse verschickt werden können. Dieses Beispiel zeigt, dass auch in Fällen, wo Daten Personen klar zugeordnet werden können, diese nicht in dem Sinne geschützt werden sollten, dass sie für alle anderen unlesbar werden: Weil das Auswerten von Daten ebenfalls von Kontexten abhängt und einen großen Nutzen bringt.
+
+Darüber hinaus ist die Vorstellung verbreitet, digital gespeicherte Daten seien schützenswerter als andere. So werden im öffentlichen Raum Menschen ohne explizite Einwilligung gefilmt, so dass mit entsprechender Auswertung Bewegungsprofile erstellt werden können. Auch speichern Dienste wie die Schufa oft ohne Wissen der Betroffenen umfassende Finanzdaten und erstellen Kreditprofile, die benutzt werden, um wichtige wirtschaftliche Entscheidungen zu fällen. Schulen, die Noten nicht digital speichern, legen auf Papier umfassende Akten an, die oft nur durch ein Türschloss gesichert sind. Ein realistischer Datenschutz müsste hier ausgewogen argumentieren und besonders von den betroffenen Personen ausgehen: An Schulen werden Schülerinnen und Schüler oft vor Möglichkeiten der Datenspeicherung geschützt, mit der sie und ihre Eltern einverstanden wären, während andere Institutionen Daten erfassen, ohne auch nur darüber zu informieren.
+
+## Renitenz als Haltung
+
+Aus diesen Gründen hier ein Plädoyer für Renitenz. Was heißt das? Zunächst die Weigerung, juristische Fragen in der Bildung über pädagogische Erwägungen und die Bedürfnisse der Schülerinnen und Schüler zu stellen. Lehrkräfte und Schulen ermöglichen Lernen. Das ist ihre zentrale Funktion, die sie im Rahmen des Gesetzes ausüben. Sie sind aber keine Laboratorien, in welchen der juristische Umgang mit neuen Technologien ausgehandelt wird und haben weder das Geld noch die Zeit, um den Schutz von Daten zu optimieren.
+
+Wer in Datenschutzfragen renitent ist, arbeitet pragmatisch, nicht nachlässig. Die eingesetzten Werkzeuge werden so genutzt, dass möglichst keine persönlichen Informationen gespeichert werden und Profile nicht einzelnen Personen zugeordnet werden können. Zur Anmeldung werden Klassenprofile mit Fantasienamen erstellt, Fotos von Schülerinnen und Schüler werden nicht auf Plattformen hochgeladen, sondern durch gezeichnete Bilder oder Naturfotografien ersetzt. Wenn es möglich ist, werden Werkzeuge eingesetzt, die keine Logins erfordern und die Daten sorgfältig und zurückhaltend speichern.
+
+Eine letzte Haltung zeichnet Datenschutzrenitente aus: Sie lassen sich nicht in endlose Diskussionen über paranoide Bedrohungsängste verwickeln, sondern probieren Dienste vernünftig aus, informieren sich zielgerichtet und gehen auch mal einen Kompromiss ein: Im Wissen darum, dass es weder je möglich war noch nie möglich sein wird, Daten absolut zu schützen - mehr noch: Dass ein absoluter Schutz von Daten eher eine Dystopie als ein wünschbares Ideal darstellt.
+
+#### Quellenangaben:
+
+- Geuter, Jürgen (2014): Wem gehört mein digitaler Zwilling? Online-Quelle: https://connected.tante.cc/2014/06/09/wem-gehoert-mein-digitaler-zwilling (01.05.2019)
+- Wampfler, Philippe (2015): Alter Wein in neuen Schläuchen. Digitale Verhinderungsdiskurse. Online-Quelle: https://schulesocialmedia.com/2015/11/25/alter-wein-in-neuen-schlaeuchen-digitale-verhindungsdiskurse (01.05.2019)
+- Wampfler, Philippe (2017): Digitaler Deutschunterricht. Göttingen: Vandenhoeck & Ruprecht.
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 30.05.2018 auf https://schulesocialmedia.com/2018/05/30/5-gruende-fuer-meine-datenschutz-renitenz
+
+#### Empfehlungen zum Weiterlesen:
+
+- Ein größerer Kontext erschließt sich bei Martin Lindner: <a href="#p1462">Von der "Schulcloud" zur lebenslangen "Bildungsakte": Wohin bewegt sich das digitale Bildungssystem?</a>.
+- Eine Begründung für die Datenschutzrenitenz ist die Bedeutung der Partizipation, die durch Datenschutz oft erschwert wird: <a href="1140">Partizipation im digitalen Wandel - Neue Möglichkeiten und Notwendigkeiten der Beteiligung junger Menschen</a>.
+- Weil Datenschutz zuweilen mit Urheberrecht verwechselt wird, empfiehlt sich hier ein Hinweis auf die Möglichkeit, aus diesem Buch neue Texte zu erstellen: <a href="#p1532">Remixen Sie dieses Buch! Exkurs zu Open Educational Resources</a>.
+
+
+---
+
+
+# Lob der negativen Kritik
+
+*Axel Krommer*
+
+Wenn man sich in aktuellen Debatten ablehnend zu Vorschlägen aus dem Bereich der Bildung unter den Bedingungen der Digitalität (kurz: "digitale Bildung") äußert, d.h. wenn man z.B. das Konzept des Flipped Classrooms, den Einsatz von Kahoot, H5P, Classcraft, LearningApps etc. kritisiert, trifft man immer häufiger auf das folgende argumentative Muster:
+
+1. Dem Kritiker wird vorgeworfen, er sei im Hinblick auf X (z.B. die Gestaltung einer Unterrichtsstunde mit digitalen Medien) lediglich destruktiv-ablehnend und habe selbst keine konstruktiv-weiterführenden Alternativen anzubieten.
+2. Aus (1) wird dann das Recht abgeleitet, die Kritik so lange zu ignorieren bzw. nicht ernst zu nehmen, bis der Kritiker selbst (zumindest theoretisch) gezeigt hat, wie X besser geht.
+3. Verschärft wird (2) häufig durch die Forderung, dass der Kritiker auch beweisen müsse, dass er X (in der Unterrichtspraxis) besser könne als der Kritisierte.
+
+Auf den ersten Blick mag dieses Reaktions-Schema zumindest dann seine Berechtigung haben, wenn man sich mit besserwisserischen Nörglern auseinandersetzt, die selbst keine guten Ideen haben.
+
+Auf den zweiten Blick zeigt sich jedoch, dass auch die Kritik an einer Position X, die keine konkreten Alternativen zu X aufzeigt, durchaus konstruktiv sein kann. Diese These soll im Folgenden kurz erläutert werden.
+
+**Erstens** lässt sich festhalten, dass es gesellschaftlich akzeptierte Formen der Kritik gibt, die nicht von der Annahme ausgehen, dass man jemanden nur dann kritisieren dürfe, wenn man es selbst besser könne: Literaturkritiker müssen nicht die besseren Schriftsteller sein, Filmkritiker nicht die besseren Regisseure etc.
+
+**Zweitens** gilt auch für den Bereich der Kritik der alte Grundsatz: "Omnis negatio est determinatio", d.h. auch eine Form der negativen Kritik, die nur angibt, was X nicht ist, stellt eine (logische) Form der positiven Bestimmung von X dar.
+
+**Drittens** erinnert uns ein Titel wie "Kritik der reinen Vernunft" daran, dass "Kritik" auch bedeuten kann, die Grenzen und Schranken eines Gegenstandsbereichs auszuloten. Genau in diesem Sinne "kritisiert" Kant die reine Vernunft: Er bestimmt ihre Reichweite und Grenzen.
+
+Vor diesem argumentativen Hintergrund lassen sich kontroverse Debatten vor allem über die Praxis der digitalen Bildung besser einordnen und verstehen. Denn häufig wird Kritik, die ganz grundsätzlich darauf zielt, den Rahmen zeitgemäßer Bildung abzustecken, einseitig als Kritik an einer konkreten Unterrichtspraxis missverstanden.
+
+So kann man - um nur ein Beispiel zu nennen - das Input-Output-Schema, das dem prototypischen Mathematikunterricht zugrunde zu liegen scheint, ganz grundsätzlich für fragwürdig halten. Dieses Schema beschreibt der Heidelberger Mathematik-Didaktiker Christian Spannagel in einem Vortrag46 sinngemäß wie folgt:
+
+> "In der Regel beginnt eine Mathestunde mit einer lehrerzentrierten Phase der Wissensvermittlung. Das (vermeintlich) Gelernte muss dann zu Hause geübt und vertieft werden. Doch wer den Stoff schon im Präsenzunterricht nicht verstanden hat, wird an den Hausaufgaben scheitern."
+
+Der Flipped Classroom dreht nun diese Phasen um: Die Schüler(innen) erhalten den Input zu Hause, indem sie z.B. in individuellem Tempo und mit der Möglichkeit der Wiederholung Lernvideos anschauen. Geübt und angewendet wird das Wissen dann im Präsenzunterricht, in dem sich die Lehrenden nun viel intensiver um die einzelnen Schüler(innen) kümmern können.
+
+Doch das, was von den Protagonisten der Flipped-Classroom-Szene als Revolution<a href="#footnote47" class="footnote">47</a> gefeiert wird, darf man mit guten Argumenten für die Fortschreibung einer didaktisch defizitären Praxis mit digitalen Mitteln halten: Der Nürnberger Trichter wird auch telepräsentisch durch YouTube nicht zu einem konstruktivistischen Instrument und das fragwürdige Dogma der "Stoffvermittlung" bleibt bestehen.
+
+Diese Form der Kritik richtet sich ganz gezielt auf die Einhegung des Bereichs der Bildung unter den Bedingungen der Digitalität und versucht, Argumente dafür zu liefern, X aus diesem Bereich auszugrenzen. Und dieser Form der Kritik wird man nicht dadurch gerecht, dass man dem Kritiker vorwirft, lediglich einen Ansatz abzulehnen, es selbst nicht besser zu können, keine konstruktiven Gegenvorschläge zu liefern etc.
+
+Wie Bildung unter den Bedingungen der Digitalität in einem positiven Sinne konkret und unterrichtspraktisch aussehen sollte, steht nicht fest, sondern wird ausgehandelt. Schon aus diesem Grund sind Formen negativer Kritik, die begründet darlegen, wie Bildung unter den Bedingungen der Digitalität nicht aussieht bzw. aussehen sollte, wertvolle Beiträge zur aktuellen Debatte.
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 02.10.2017 auf https://axelkrommer.com/2017/10/02/lob-der-negativen-kritik
+
+#### Empfehlungen zum Weiterlesen:
+
+- Philippe Wampfler: <a href="#p1247">Digitale Didaktik: ein Konzept</a>.
+- Dejan Mihajlović: <a href="#p1336">Was ist zeitgemäße Bildung?</a>
+- Lisa Rosa: 189. <a href="#p621">Lernen im digitalen Zeitalter</a>.
+
+
+---
+
+
+# Partizipation im digitalen Wandel - Neue Möglichkeiten und Notwendigkeiten der Beteiligung junger Menschen
+
+*Dejan Mihajlović*
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 20: Logo "March for our Lives", nicht unter freier Lizenz*
+
+Die Möglichkeiten, sich zu beteiligen oder andere sich beteiligen zu lassen, haben in der Kultur der Digitalität einen enormen Wandel erfahren. Dabei spielen digitale online- und offline-Strukturen die zentrale Rolle. Im Netz unterliegt die Beteiligung einer eigenen Dynamik und Entwicklung, weil sie aus einer Freiwilligkeit, unterschiedlichen Fähigkeiten und dem Verständnis des Netzes resultiert. Werden digitale Strukturen punktuell geschaffen und bewusst eingesetzt, um mehr Partizipation zu erreichen, gelten teilweise gleiche, aber auch neue Hürden. Dieser Beitrag beleuchtet anhand einiger konkreter Beispiele die Potenziale und Herausforderungen von Beteiligung im digitalen Wandel.
+
+## Social Media - digitales Sprachrohr
+
+Ich habe in den letzten Jahren immer wieder gelesen, dass die Versprechen des Webs, zum Beispiel eine mögliche nächste Stufe der Demokratisierung zu erreichen, bisher unerfüllt blieben. Vielleicht war aber einfach die Zeit noch nicht reif dafür. Welches partizipative und demokratische Potenzial im Web steckt, haben einige Bewegungen der letzten Jahre verdeutlicht. Besonders häufig sind es jungen Menschen, die diese Möglichkeit nutzen, um Hierarchien zu überwinden und gehört und gesehen zu werden. Im Iran haben junge Frauen, denen der Tanz in der Öffentlichkeit verboten ist, sich aus Protest beim Tanzen gefilmt und die Filme bei Instagram hochgeladen. Die Jugendlichen aus Parkland, über die Philippe im Kapitel Es gibt keine »digital natives« - und doch sind Jugendliche medienkompetent schreibt, haben es in kurzer Zeit geschafft, über soziale Netzwerke die öffentliche Debatte zu bestimmen, Waffengesetze zu verschärfen und knapp eine Million junge Menschen mit March for Our Lives nach Washington zu mobilisieren. Emma Gonzáles, die über ein enormes Sendungsbewusstsein verfügt, stach dabei besonders heraus. Ich empfehle auch Beiträge der damals elfjährigen Naomi Wadler zu recherchieren.
+
+Das Spannende an diesem Prozess war, dass andere junge Menschen dadurch angeregt wurden und daraus gelernt haben, wie sie sich beteiligen können, ohne vergeblich darauf zu warten, jemals gefragt zu werden. Das ist auch notwendig. Ich engagiere mich seit Jahrzehnten in unterschiedlichen Bereichen der Jugendbeteiligung. Wenn ich dazu ein Resümee ziehen müsste, wäre es, dass Meinungen junger Menschen normalerweise in öffentlichen Debatten kaum Raum erhalten und wenig Gehör finden.
+
+Auch Greta Thunberg und die Schülerinnen und Schüler, die sich ihr angeschlossen haben, wissen soziale Netzwerke geschickt zu nutzen, um sich zu organisieren und sich und ihre Anliegen in Bezug auf die Klimapolitik sichtbar zu machen. Kindern und Jugendlichen ist es gelungen, sich nicht nur am politischen und gesellschaftlichen Diskurs zu beteiligen, sondern ihn zu bestimmen.
+
+Manchmal ist es auch nur ein Hashtag wie #MeToo, der das Ausmaß sexueller Belästigung und Übergriffe transparent macht und damit weltweit gesamtgesellschaftliche Debatten auslöst.
+
+Auch Lehrende haben in der Vergangenheit immer wieder soziale Netzwerke als Sprachrohr verwendet, um ihre Perspektive und Meinungen einzubringen. Als Trump nach dem Vorfall in Parkland seine Idee, Lehrer_innen bewaffnen zu wollen, um so Amokläufe zu verhindern, geäußert hatte, folgten diese dem Beispiel der Teenager und verschafften ihrer politischen Haltung einen öffentlichen Raum, indem sie bei Instagram unter #armmewith posteten, womit sie bewaffnet werden möchten. In sozialen Netzwerken öffentlich politisch Stellung zu beziehen, ist für Lehrende eine komplexe Angelegenheit, weil sie in doppelter Rolle auftreten. Als Lehrende, die in Deutschland u.a. den Beutelsbacher Konsens beachten sollten, aber auch als Teil der Gesellschaft, in der sie durch ihr Engagement Beteiligung vorleben. Es lässt sich ausgiebig und kontrovers darüber diskutieren, wie aktiv oder passiv diese Rollen, besonders in der aktuellen weltpolitischen Entwicklung, gelebt werden sollten.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 21: Screenshot Hashtag #armmewith Instagram*
+
+In allen Fällen sind es Personen, Gruppierung oder Themen, die in den bestehenden gesellschaftlichen Ordnungen keine Lobby haben oder Probleme darstellen, die nicht die notwendige Beachtung erfahren. Über digitale Strukturen ist es gelungen, ihrer Stimme oder ihrem Anliegen über die medialen Möglichkeiten ein Gewicht zu verleihen und den öffentlichen Raum zu besetzen. Wer die Mechanismen und Spielregeln sozialer Netzwerke versteht, wird zur gesellschaftlichen Mitgestaltung befähigt und kann bestehende Strukturen und Hierarchien überwinden. In einer diversen Gesellschaft müssen Beteiligungsprozesse diese Vielfalt berücksichtigen und allen Zugänge zu kultureller Teilhabe ermöglichen. Das Themenfeld Social Media verdient deshalb im Bildungsbereich eine (größere) Beachtung, weil es ein wesentliches Element der Mündigkeit und freien Gestaltungsfähigkeit im digitalen Wandel darstellt.
+
+## Digitale Strukturen für Partizipation in der Schule
+
+Auch im Rahmen von Schule und Unterricht sind Beteiligungsprozesse durch digitale Geräte, Anwendungen und Strukturen auf einer anderen Ebene möglich. Es wird dabei ein digitaler Raum erzeugt, über den alle Beteiligten zeit- und ortsunabhängig partizipieren können. Das beginnt bei einfachen Etherpads, webbasierten Editoren, und geht bis zu großen Schulkonzepten wie "aula", einer digitalen Beteiligungsplattform, die Schülerinnen und Schüler ermöglicht, ihre Schule mitzugestalten. Das Ziel, das es technisch, politisch und sozial anzustreben gilt, ist es, Möglichkeiten der Partizipation zu schaffen, die die Heterogenität der Schülerschaft berücksichtigt und bestenfalls alle Hürden zur Beteiligung ausräumt. Ein Angebot allein reicht aber nicht aus, um echte Beteiligung in der Schule zu erreichen. Um die letzten Jahre mit dem "aula"-Konzept und ihrer digitalen Beteiligungsplattform als konkretes Beispiel zusammenfassen: Die Kernvoraussetzungen erfolgreicher Partizipation im digitalen Wandel bleiben eine Schulleitung und ein Kollegium, die einen Beteiligungsprozess wünschen und moderieren. Beteiligung ist kein Selbstläufer, für den nur Räume geschaffen werden müssen. Beteiligung muss wie Mathe und Englisch gelernt werden. Dieser Prozess kostet zwar viel Zeit und Kraft, stellt aber in der Schule die Basis eines demokratischen Selbstverständnisses und der Vorstellung von Gesellschaft dar.
+
+#### Quellenangaben:
+
+- Wampfler, Philippe: Die Parkland-Medienbildung - ein Modell für Medienkompetenz. Online-Quelle: https://schulesocialmedia.com/2018/02/22/die-parkland-medienbildung-ein-modell-fuer-medienkompetenz (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 25.02.2018 auf https://mihajlovicfreiburg.com/2018/02/23/social-media-ein-schluessel-zur-partizipation
+
+#### Empfehlungen zum Weiterlesen:
+
+- Philippe Wampfler beschreibt hier, wie Medienkompetenz junger Menschen heute aussieht: <a href="#p879">Es gibt keine "digital natives". Medienkompetenz und Jugendliche</a>.
+- Wer bereits gute Ansätze für Beteiligung kennt, kann digitale Medien als Verstärker nutzen. Wie, beschreibt Jöran Muuß-Merholz in diesem Beitrag: <a href="#p352">Der große Verstärker. Digitale Medien als Trojaner, Katalysator oder Kontrollmaschine</a>.
+- Damit Kinder und Jugendliche im Netz lernen können, brauchen sie entsprechende Rechte. Martin Lindner hat hier Ausschnitte einer bestehenden Erklärung dazu aufgeschrieben: <a href="#p1499">Erklärung der digitalen Lernerrechte</a>.
+
+
+---
+
+
+# Sucht, Demenz und schlechte Noten: Wie gefährlich sind "internetbezogene Störungen"?
+
+*Martin Lindner*
+
+Digitale Medien in der Schule? Also noch mehr digitale Medien, jetzt auch noch ständig in der Schule? Smartphones und das Internet, soziale Medien und die Cloud? Um Gottes Willen! Vor schweren Gefahren warnt seit 15 Jahren vor allem Prof. Dr. Dr. Manfred Spitzer, Gehirnforscher, Leiter der Universitätsklinik für Psychiatrie in Ulm und des Transferzentrums für Neurowissenschaften und Lernen. Allein die Titel seiner Bestseller zeichnen ein alarmierendes Bild: Vorsicht Bildschirm! Elektronische Medien, Gehirnentwicklung, Gesundheit und Gesellschaft (2005). Digitale Demenz: Wie wir uns und unsere Kinder um den Verstand bringen (2012). Cyberkrank!: Wie das digitalisierte Leben unsere Gesundheit ruiniert (2017). Die Smartphone-Epidemie: Gefahren für Gesundheit, Bildung und Gesellschaft (2019). Kinder und Jugendliche würden durch alle Formen von Bildschirm-Medien "angefixt", predigt Spitzer. Das betreffe selbst Smartboards in den Schulen. Ein Buchtitel der geistesverwandten Autoren Lembke und Leipner deutet an, wo eine solche Krankheits- und Suchtwelle hinführen muss: Die Lüge der digitalen Bildung: Warum unsere Kinder das Lernen verlernen (2015).
+
+"Angefixt" ist ein Fachausdruck aus der Heroin-Subkultur der 1970er Jahre. Drogenhändler verschenkten zuerst das Heroin, damit Neugierige sich den ersten "Schuss setzen" konnten. Nach kurzer Zeit sollten sie dann vom kurzen Glücksrausch so abhängig werden, dass sie alles taten, um ihn sich wieder zu verschaffen, möglichst jeden Tag. Bei schwerer Sucht ordnet sich dem Wunsch nach der Droge dann alles andere unter. Soziale Beziehungen beschränken sich auf Drogenbeziehungen. Beschaffungskriminalität tritt an die Stelle geregelter Arbeit. Am Ende stehen Verwahrlosung, geistiger und körperlicher Verfall und nicht selten der Suizid. Rettung und Heilung, verspricht allein körperlicher Entzug der suchterzeugenden Substanz unter strenger Aufsicht eines psychiatrischen Über-ichs, bis man die Selbstkontrolle wiedergewinnt und als geheilt entlassen wird.
+
+Rainer Thomasius, der Leiter des Zentrums für Suchtfragen des Kindes- und Jugendalters am Universitätsklinikum Hamburg-Eppendorf, überträgt das ohne weiteres auf das Smartphone: "Wir nehmen ihnen das Wichtigste weg", sagt er. Wer stationär für drei Monate oder auch nur teilstationär für zwei Wochen aufgenommen wird, muss dort sein Smartphone abgeben und erhält dafür ein nicht internetfähiges Handy. Die "Heilungsquote" sei mit 70 bis 80 Prozent sehr hoch.
+
+## Wissenschaft und Lobbyismus
+
+Wenn diese Süchte so schwerwiegend sind, dass man sie mit Heroin vergleichen muss, und wenn sie so verbreitet sind, wie es jedes Jahr von neuem Presse, Rundfunk und Fernsehen melden, dann könnte das die Schulen tatsächlich nicht gleichgültig lassen. Was ist also dran? Es gibt unübersichtlich verschiedene solcher Studien. Niemand prüft sie genau und niemand merkt sich die Zahlen, aber jedenfalls ist die Situation immer eines: alarmierend.
+
+Orientieren wir uns an den Sucht- und Drogenbericht der Drogenbeauftragten der Bundesregierung von 2018: "Nach den Befunden der Drogenaffinitätsstudie der Bundeszentrale für gesundheitliche Aufklärung (BZgA) war schon 2015 bei 5,8 % aller 12- bis 17-jährigen Jugendlichen von einer Computerspiel- oder Internetabhängigkeit auszugehen." Zitiert werden dort außerdem zwei Studien der DAK-Krankenkasse, die jeweils vom oben zitierten Rainer Thomasius ausgewertet wurden. Differenziert wird dort nach "Computerspielsucht" und nach "Social-Media-Sucht" ("So süchtig machen WhatsApp, Instagram und Co."). Demnach wären 3,3% der Altersgruppe "computerspielsüchtig" und über 12% würden zur Computerspiel-Risikogruppe gehören. Bei "Social-Media-Sucht" wären es 2,6% der Altersgruppe. Über die "gefährdete" Risikogruppe wird hier nichts gesagt, aber wenn wir einmal annehmen, dass sie auch hier ungefähr viermal so groß ist, wären das etwa 10%.
+
+Halten wir also ganz grob fest: Gemäß solcher Studien könnten bis zu 6% der 12-17jährigen als "internetsüchtig" gelten, sofern man die zugrunde gelegten Kriterien akzeptiert und annimmt, dass es keine Schnittmenge zwischen beiden "Süchten" gibt. In China sollen es sogar 8,7% sein. Die "suchtgefährdete Risikogruppe" würde dann hochgerechnet bis zu 25% der deutschen Jugendlichen umfassen. Das wäre wirklich eine drohende "Epidemie", wie Spitzer sagt. Kein Wunder, dass die Drogenbeauftragte der Bundesregierung nicht müde wird zu warnen. Kein Wunder, dass die Berufsverbände der Psycho- und Sucht-Therapeuten dringen nach Fördergeldern verlangen. Kein Wunder, dass besorgte Pädagogen in überfüllten Veranstaltungen im ganzen Land ihre mahnende Stimme erheben.
+
+Doch bei näherem Hinsehen wird das alles recht fragwürdig. Schon Spitzers angebliches Krankheitsbild der "Digitalen Demenz", bei dem er sich auf südkoreanische Wissenschaftler berief, erwies sich als Erfindung. Bei der "Internetsucht" gibt es zwar tatsächlich Forscher, die die Anerkennung einer solchen psychischen Krankheit verlangen, aber je genauer man nachfragt, desto diffuser und wissenschaftlich fragwürdiger wird es. Auf allen Ebenen der Argumentationskette gibt es Probleme:
+
+- Die "Studien" sind methodisch sehr uneinheitlich und haben bis jetzt allenfalls heuristischen Wert.
+- "Internetsucht" und "Internetabhängigkeit" sind keine seriösen wissenschaftlichen Begriffe. Der "Sucht"-Begriff ist wissenschaftlich überholt, weil er suggestiv ist und nicht sauber von der Alltagssprache zu trennen ist. Er wird nur noch informell gebraucht, und d.h. vor allem: in den Medien.
+- Statt von Sucht spricht man im seriösen Kontext jetzt von "Abhängigkeiten", die zu "schwerwiegenden Störungen der Impulskontrolle" führen. Eigentlich gibt es im klinischen Sinn aber nur "stoffgebundene Abhängigkeiten". Man kann von Heroin oder Alkohol abhängig sein, aber nicht vom Internet oder vom Smartphone.
+- Es gibt als Ausnahme eine einzige anerkannte Form von "stoffungebundener Abhängigkeit", d.h. also sogenannter "Verhaltenssucht": pathologisches Glücksspiel. Hier gibt es keine Substanz, die körperlich wirkt, sondern nur noch Reize, die möglicherweise das Gehirn dauerhaft so verändern, dass der Effekt mit einer stoffgebundenen Sucht vergleichbar ist. Ob das tatsächlich der Fall ist, ist sehr umstritten. Schädlich ist es jedenfalls nicht körperlich, sondern nur finanziell. Glücksspiel gilt deshalb als pathologisch, weil es zum finanziellen Zusammenbruch führt.
+- Seitdem bemühen sich vor allem Berufsverbände von Psycho- und Sucht-Therapeuten, diesen Durchbruch auszuweiten und auch die Anerkennung auch anderer "Verhaltenssüchte" als Krankheitsbilder zu erreichen. Das hätte konkrete finanzielle Folgen für die Forschungsförderung und die Förderung von Therapieplätzen.
+- Bis jetzt ist man damit bei der "Computerspielabhängigkeit" am weitesten gekommen. Diese Störungen sind zumindest auf eine offizielle Beobachtungsliste aufgenommen worden, aber anerkannte wissenschaftliche Befunde gibt es auch hier nicht. Es handelt sich nicht um eine anerkannte Krankheit.
+- Dennoch wird von da aus laufend der Versuch unternommen, auch andere internetbezogene Störungen zu pathologisieren. Ein Lobby-Papier spricht von "in abhängiger Weise betriebenen Internetaktivitäten wie etwa der Pflege von Onlinebeziehungen, der Nutzung von Onlinepornographie und monetären Glücksspiel- und Shoppingangeboten sowie dem abhängigen Surfen und Recherchieren im Internet". Das würde also bedeuten, dass man Social-Media-Sucht, E-Mail-Sucht, Shoppingsucht und Googlesucht als Krankheiten diagnostizieren und therapieren könnte.
+- Und selbst, wenn man das alles akzeptierte, bliebe noch eins: Wen zählt man zu den "Risikogruppen", um die es ja in der Öffentlichkeit vor allem geht? Wie gefährdet sind sie überhaupt durch die digitalen Netz-Medien? Droht hier wirklich ein Abgleiten in die stoffungebundene Sucht? Hier gibt es endgültig keine seriösen Grundlagen mehr. Zahlreiche Wissenschaftler warnen vielmehr von der Gefahr der Pathologisierung von Verhaltensweisen, die vielleicht unerwünscht sind, aber eben keine Krankheiten.
+- Schließlich: Auch über die Wirksamkeit der Therapien ist bisher nichts Belastbares bekannt. Das gilt noch viel mehr über die richtige Prävention, die gleichwohl ständig gefordert wird. Keiner weiß, was man hier konkret machen könnte und sollte. Und im Alltag suggeriert die Sucht-Sprache von vornherein nur die eine Antwort: Entzug, oder Detox, wie der zeitgenössische Volksmund sagt.
+
+## Medienepidemien
+
+Die DGPPN ist die "Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde". 2016 hat sich der Lobbyverband in einem Positionspapier dafür ausgesprochen, pathologisches Glücksspiel und pathologischen Computer- und Internetgebrauch als "Verhaltenssüchte" zu bewerten. Das fand dann auch Eingang in ein erstaunlich verworrenes Gutachten des wissenschaftlichen Dienstes des Bundestags, in dem saubere Definitionen fehlen und alles, was mit dem Internet zu tun hat, munter durcheinander geworfen wird.
+
+Wesentlich vorsichtiger ist das Memorandum der "Deutschen Gesellschaft für Suchtforschung und Suchttherapie" (DG-Sucht) formuliert. Hier wird offen eingeräumt, dass alle Grundannahmen keineswegs anerkannt sind, dass es an methodisch sauberen Studien mangelt und dass es keine einheitliche Forschungsmeinung gibt. Aber natürlich liest kaum jemand dieses ausführliche Papier. In der Pressemitteilung zum Suchtkongress 2018, die wiederum Thomasius unterzeichnet hat, findet sich dann aber derselbe Tenor wie bei der DGPPN: "Mit dem vermehrten Konsum von Internet, Social Media und Computerspielen steigt auch die Zahl der Kinder und Jugendlichen mit Abhängigkeiten. ... Bei jungen Menschen fehlen ambulante Therapieangebote und stationäre Therapieplätze. Diese benötigen wir dringend für internetbezogene Störungen ..."
+
+Das ist genau die falsche Pathologisierung von nicht-krankhaftem Verhalten, vor der man im Memorandum selbst warnt, um dann genau das Gegenteil zu tun. Es mag ja viele Leute geben, die das Internet (und vieles anderes auch) exzessiv benutzen, um ihr alltägliches Unglück auszuhalten. Pubertäre Jugendliche tun das sicherlich viel öfter als andere. Man kann ihnen Beratung anbieten, wenn sie das wollen, aber mit pathologischen und klinischen Phänomenen hat das noch nichts zu tun. Diese Leute sind unglücklich und neurotisch, mehr oder weniger dauerhaft, wie sehr viele Menschen in der Bevölkerung. Die Ursache ist in den seltensten Fällen das Internet. Und was auch immer ihnen helfen mag - in der Regel wird es nicht der wohlfeile Ratschlag sein, weniger ins Internet zu gehen und mehr Leute im "wirklichen Leben" zu treffen. Genau vor diesem Leben fliehen sie ja, und nicht wenige haben dafür auch gute Gründe.
+
+Die seriöseste klinische Bezeichnung für das, was mit "Internetsucht" gemeint ist, wäre "schwere psychische Störungen der Impulskontrolle im Zusammenhang mit exzessiver Internetnutzung". Das ist natürlich viel zu lang für schmissige Schlagzeilen. Außerdem würde man dann erkennen, dass es hier ganz unklar ist, welche Rolle "das Internet" oder gar "das Smartphone" spielt. Zuerst einmal liegt ja nur eine Korrelation vor. Zweifellos gibt es Menschen, die exzessive Verhaltensweisen zeigen und dringend der Therapie bedürfen, weil sie selbst schweren Leidensdruck haben und/oder weil der gesellschaftliche Totalabsturz droht. Das Buch Internet Junkies des Psychiaters Bert te Wildt gibt hierzu, entgegen dem reißerischen Titel, einen seriösen Überblick.
+
+Solche Verhaltensmuster stehen vor allem in Zusammenhang mit schweren Depressionen. Es ist aber ein entscheidender Unterschied, ob sich schwerdepressive Menschen in das Internet flüchten, um ihre Lage zu ertragen, oder ob die digitale Medien sie "anfixen" und zu Junkies machen, wie Spitzer behauptet. Spitzer ist auch der einzige, der ernsthaft von direkten Hirn-Schädigungen spricht. Es sei sicher, dass exzessiv internetnutzende Jugendliche später an Altersdemenz erkranken. Ein Beweis dafür wird naturgemäß niemals zu erbringen sein.
+
+Wem nützt das? Zuerst einmal all denen, die wie die DGPPN ganz unverhohlen öffentliche Förderung fordern - für Forschung (ohne dafür einen anderen Anlass als den medialen Alarmismus zu haben), für Therapie (ohne harte Zahlen zu den Erfolgen), für nebulöse Beratung und für völlig ungeklärte "Prävention". Nicht nur hier äußert sich ein sozialpädagogisch-therapeutischer Komplex, der sich seit Jahrzehnten selbst erhält und immer weiter aufbläht. Viele Projektstellen und Fördergelder hängen davon ab, ob es gelingt, den Verantwortlichen und Geldgebern Internetsucht als schwerwiegendes Problem einzureden. Mit dem Netz selbst hat das wenig bis gar nichts zu tun. Eine sachliche Erörterung der Risiken, die digitale Netz-Medien möglicherweise tatsächlich mit sich bringen, wird so nicht gefördert, sondern geradezu blockiert.
+
+Warum dann all die dramatischen Medienberichte? Warum "Mediensucht-Tage" in Bremen und Mecklenburg, auf denen dann eben nicht von schweren, krankhaften Störungen gesprochen wird, sondern von irgendwie "exzessivem" Verhalten, das abweicht vom Ideal des ausgeglichenen, positiven Medienkonsums und das in den Augen der Eltern und Pädagogen zur Vernachlässigung des "normalen" Lebens führt? Denn am Ende geht es ja fast nur um Jugendliche - erwachsene "Internetsüchtige" spielen in der Diskussion praktisch keine Rolle. Das wäre dann etwa der Sohn der Freundin der Nachbarin, von dem man hört, dass er in der Schule durchgefallen ist, weil er nächtelang nur noch vor dem Computer sitzt.
+
+Internetsucht ist zuerst ein epidemisches Medienphänomen. Es bringt Einschaltquoten und Auflagen, weil es ein verbreitetes Bauchgefühl aufgreift und verstärkt. Nicht bei den betroffenen Jugendlichen selbst, obwohl auch die dann nachträglich die Zuschreibung von "Sucht" oft selbst übernehmen, sondern bei den Sorgeberechtigten - und vor allem bei den vielen, die sich Sorgen über "das Internet" machen.
+
+## Besorgte Pädagogen
+
+Das gesellschaftliche Selbstgespräch über Internetsucht orientiert sich nicht an wissenschaftlicher Genauigkeit und nicht an der klinischen Praxis. Es ist eine Pädagogik von wohlmeinenden Autoritäten, der es vor allem darum geht, das eigene Bild von "Normalität" zu bewahren. Abweichendes Verhalten wird vorschnell pathologisiert, weil man so verdrängen kann, wie die Wirklichkeit hinter der Fassade der Normalität wirklich ist. Denn da kämpfen nicht nur Jugendliche, sondern die Erwachsenen aller Altersstufen immer von neuem um ihre innere Stabilität. Das ist keine pathologische Ausnahme, das ist der Normalfall. Die Leute nehmen Medikamente und trinken Alkohol. Sie scheitern auch als InternetnutzerInnen und als lebenslange LernerInnen immer neu an den gesellschaftlichen Wunschvorstellungen von Produktivität.
+
+Nicht wenige PraktikerInnnen der Drogenarbeit und Suchtprävention lehnen Zwang und Selbstzwang zum "Entzug" sogar bei Alkohol- und Heroinsüchtigen ab. Sie fordern stattdessen eine akzeptierende Pädagogik, die auf den mündigen Umgang mit dem eigenen Leben auch abzielt, wo wir "Normalen" solche Verhaltensweisen für bedenklich halten. Warum soll das dann nicht erst recht bei Jugendlichen gelten, die "exzessiv" Computerspiele spielen oder auf sozialen Plattformen chatten? Stattdessen baut man immer neu das Bild von unmündigen Opfern auf. Maßstab ist eine sentimental verklärte Norm, die festlegt, was die Eigenheim-besitzende Mittelschicht unter gelungener Kindheit und Bildung versteht.
+
+In Die Lüge der Digitalen Bildung: Warum unsere Kinder das Lernen verlernen (2015) wenden sich Gerald Lembke und Ingo Leipner an diese Zielgruppe und führen die Spitzer-Thesen bruchlos fort. Auch hier ist viel vom Hippocampus die Rede, von Theta-Wellen und von der "gestörten Reifung des Stirnhirns". Dabei sie sind gar keine Hirnforscher. Lembke ist ein Professor für Marketing, der seine Dienste als Redner und "Sparringspartner" anbietet, wenn es bei irgendeiner Konferenz wieder einmal darum gehen soll, ob "das Internet" uns schlauer oder dümmer macht. Das Buch ist ungeniertes Talkshow-Futter mit vielen flotten Anekdoten. Lehrreich ist es deshalb, weil es die besorgte Mainstream-Ideologie von der "wirklichen Welt" griffig auf den Punkt bringt.
+
+Demnach seien Kinder, die mit elektronischen Bildschirm-Medien aufwachsen, in einer "künstlichen Welt" gefangen. Dadurch fehle ihnen Zeit und Gelegenheit, die "wirkliche Welt" mit allen Sinnen zu begreifen. Die Kleinen sollen am Bach Dämme bauen und Frösche fangen, die etwas Älteren sollen Sport machen, Tanzen, Töpfern, Theaterspielen. Für Kinder bis 12 Jahren könne "die Konfrontation mit digitalen Medien mehr schaden als nutzen", weil die Entwicklung von Hirn und Psyche noch nicht so weit sei. Das störe den Reifeprozess. Smartphone, Tablet, Laptop sind demnach verdummende Bildmaschinen, gefüllt mit kommerziellem Unterhaltungsmüll. Je weniger Kinder davon mitbekommen, desto besser. Der gezielte Einsatz von digitalen Netz-Geräten zum Lernen und zum Wissenserwerb sei frühestens ab 13 Jahren sinnvoll. Für "junge Erwachsene" könnte es dann sogar nötig werden, digitale Medien gezielt für "anspruchsvolle Aufgaben in Ausbildung und Studium" einzusetzen. Aber auch da müssten die Pädagogen ständig aufpassen! Überall drohen infantile Oberflächlichkeit, mangelnde Impulskontrolle und fehlender Ernst. Die Schulen sollten deshalb nicht weiter digitalisiert werden, sondern im Gegenteil zu "digitalfreien Zonen" ausgebaut, denn "Kinder erleben in unserer Welt genug Digitalität".
+
+Das Problem mit solchen Thesen besteht nicht darin, dass Erwachsene sichere Räume gestalten wollen, in denen Kinder ohne Risiko ihre eigenen Erfahrungen machen können. Das machen alle verantwortlichen Eltern. Aber es ist falsch, Kinder daran zu hindern, sich mit der Welt auseinanderzusetzen, in der sie wirklich leben. Und diese Wirklichkeit wird heute nicht mehr zuerst von den Fröschen im Bullerbü-Bach bestimmt, sondern vor allem auch von der Sprach- und Bilderwelt der Medien. Das ist anstrengend und mühevoll, aber wirkliches Kindsein ist für die, die es selbst erleben, nicht nur Glück und Geborgenheit, sondern auch voller Verunsicherungen und Herausforderungen. Wenn es gut geht, baut sich gerade auch durch diese Auseinandersetzungen ein gesundes Selbstgefühl auf, das durch das Leben trägt.
+
+Eigentlich geht es hier um die Unsicherheit der Erwachsenen, die sich im digitalen Zeitalter neu finden und abgrenzen müssen. Dahinter steht eine ideologische Idee von "Kindheit", die ihre ideale Realisierung in pädagogischen Sonderräumen findet. Dort sollen Kinder stellvertretend das unentfremdete Leben führen, das sich Erwachsene in sentimentalen Augenblicken wünschen. Eine heile, rundumversorgte Welt mit viel seelenwärmendem Kinderbuchkitsch ist ein Statussymbol, das wirkungsvoll nach unten abgrenzt: Das kann sich nicht jeder leisten. Das Gegenbild sind die internetsüchtigen Unterschichtkinder mit Migrationshintergrund, die sich mit Ballerspielen und Popkultur-Schund die kostbaren Hirnschaltungen ruinieren. Selbst schuld. "Alles, was man pädagogisch erreichen will, erreicht man besser ohne Computer", sagte Hartmut von Hentig, der greise Papst einer deutschen Reformpädagogik, deren schulisches Idealbild das Internat war, fernab in der Natur. Aber dann mussten wir sehen, dass das Internat im Odenwald, das Hentigs Lebensgefährte leitete, ein Ort des Missbrauchs war, der schlimmer war als das meiste, was man im Internet erleben kann.
+
+Im Kampf gegen die "Internetsucht" spiegelt sich auch die Furcht der Bürger vor dem Eigensinn und der Emanzipation der Anderen. Das Grundmuster erinnert an die hysterischen Kampagnen gegen die Lesesucht im 19. Jahrhundert, als Romane zum Massenmedium wurden. Vordergründig bekämpfte man damals "minderwertigen Schmutz und Schund", aber eigentlich fürchtete man die gewonnene Selbständigkeit all derer, denen die männlich dominierte Bürgergesellschaft einen Kind-Status zuwies. Das waren nicht nur die eigenen Kinder, sondern auch junge Frauen, Dienstboten und Arbeiter. Und diese Leute benutzen auf einmal hochentwickelte Medien, die ihnen nicht zustehen, und schaffen sich so ihre eigene Welt. Früher waren das Printmedien: zuerst die Bibliotheksromane, dann Comics und Popzeitschriften. Diese Volks- und Popkulturen machen aber erst abweichende, wildwüchsige Bildungswege möglich. Von den Bildungsschichten wurden sie nicht zuletzt deshalb erkämpft, weil sie damit außer Kontrolle gerieten. Heute ist es die Kombination von Internet und Smartphone, die diesen Reflex auslöst. Wir dürfen ihm nicht nachgeben, wenn wir es ernst meinen mit emanzipatorischer Bildung.
+
+#### Ursprung:
+
+Dieser Text ist eine bearbeitete Fassung eines Kapitels in: Martin Lindner (2018), Die Bildung und das Netz. Wie leben und lernen wir im digitalen Klimawandel? Piding: Wissmuth Press.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Zu den kruden Thesen Manfred Spitzer gibt es viele kritische Stellungnahmen. Eine Auswahl ist auf seiner Wikipedia-Seite verlinkt. Die fachliche Kritik fassen zusammen: Markus Appel / Constanze Schreiber (2014), Digitale Demenz? Mythen und wissenschaftliche Befundlage zur Auswirkung von Internetnutzung. In: Psychologische Rundschau 65 (1/2014), S.1-10.
+- Alternativ zu empfehlen: Markus Appel / Constanze Schreiber (2015): Leben in einer digitalen Welt: Wissenschaftliche Befundlage und problematische Fehlschlüsse: Stellungnahme zur Erwiderung von Spitzer (in diesem Heft). In: Psychologische Rundschau 66 (2/2015), S. 119-123.
+- Die Position des Berufsverbands der Psychiatrie-Ärzte und Therapeuten zu "Verhaltenssüchten" und Internet findet sich in: Verhaltenssüchte und ihre Folgen: Prävention, Diagnostik und Therapie. Positionspapier der Deutschen Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN) vom 16. März 2016. Zugänglich auf der Webseite der DGPPN im Abschnitt "Presse". Eine Zusammenfassung der fachlichen Kritik: Jörg Petry (2014): Eine kritische Betrachtung des Mainstreams zur Erklärung der "Computer-Internet-Sucht". Zugänglich auf der Webseite alternativer-drogenbericht.de
+
+
+---
+
+
+# Die parallelen Diskurse zur digitalen Bildung
+
+*Philippe Wampfler*
+
+## Verschiedene Gespräche über Digitalisierung
+
+> "Ich selber bin kein Digital Native, wie Sie alle wissen - aber zum Glück haben wir heute eine da, die Ihnen allen erklären kann, worin der Mehrwert digitaler Medien im Unterricht besteht. Ich freue mich, Ihnen unsere Referentin, Frau Müller, vorzustellen!"
+
+Mit ähnlichen Grußworten werden Veranstaltung eingeleitet, in denen über die Bedeutung und Auswirkungen der Digitalisierung nachgedacht wird. Die Begriffe "digital native" und "Mehrwert" zeigen an, dass hier jemand die Anwesenden begrüßt, der oder die nicht regelmäßig im Netz über digitale Bildung diskutiert: Sonst wäre klar, dass diese Konzepte unter Pionieren der digitalen Bildungsarbeit als überholt gelten und aufgrund von Kritik an den damit verbundenen Vorstellungen im Netz nicht mehr verwendet werden.
+
+Das Beispiel macht deutlich: Es gibt unterschiedliche Diskurse zur digitalen Bildung, die parallel ablaufen. Eine provisorische Übersicht zeigt eine Auslegeordnung, die deutlich macht, wie viel Ebenen dabei zu unterscheiden sind:
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 22: Grafik von Philippe Wampfler, CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.de*
+
+Eine Leseanleitung: In allen Feldern ist ein Diskurs über Bildung und digitale Kommunikation verortet. Es wird deutlich, dass Bildung breiter gedacht wird als staatliche schulische Bildung. Auch Unternehmen und Zivilgesellschaft debattieren oft ähnliche Themen. Nur: Ein Austausch oder eine Wahrnehmung der anderen Diskurse findet zu selten statt. Die Abbildung soll zeigen, dass wichtige Akteurinnen und Akteure oft aneinander vorbeireden, weil sie den Stand einer Debatte in einem anderen Diskursfeld gar nicht verfolgt haben.
+
+Während Schulen etwa nach Konzepten und Lösungen suchen, sind sie von der Bildungspolitik geleitet und stehen im Austausch mit der fachdidaktischen Forschung, die zumindest über die Ausbildung der Lehrkräfte starken Einfluss nimmt.
+
+Diese Formen des Austausches und der Beeinflussung sind wichtig und ermöglichen zumindest, dass eine Wahrnehmung für die Sichtweisen und Probleme der anderen Ebene entstehen kann. Doch sie fehlen zwischen entscheidenden Bereichen. Besonders die Diskussionen unter den Pionieren wird an Hochschulen wenig rezipiert. (Das gilt auch in anderen Forschungsbereichen.) Ohne zu werten, bedeutet das, dass gewisse Diskussionen - Digitalisierung ist ein gutes Beispiel dafür - parallel zwischen unterschiedlichen Akteuren in unterschiedlichen Formen ablaufen. Auch zeitlich gibt es Verschiebungen.
+
+Besonders gut erkennen kann man das an bestimmten Begrifflichkeiten: "Mehrwert" etwa ist ein Reizwort in Diskussionen über digitale Bildung. Aber nur in den Netzwerken der Pioniere - an Schulen oder Universitäten kann es ohne besondere Aufmerksamkeit weiterhin verwendet werden. Dasselbe gilt für "digital natives" - die empirische Bildungsforschung weist das Konzept zurück, an schulischen Weiterbildungsveranstaltungen wird der Begriff aber weiterhin gern gesagt und gehört.
+
+Auch der Bereich der Zivilgesellschaft zeigt krasse Brüche zwischen den Diskursen auf: Die Bewegungen zu OER<a href="#footnote48" class="footnote">48</a> und Open Government Data<a href="#footnote49" class="footnote">49</a> haben etwa Grundlagen erarbeitet, auf die sich andere Bereiche stützen könnten. Das geschieht aber nur zögerlich: Einige Verwaltungen öffnen ihre Datensammlungen, einige Verlage publizieren OER-Lehrmittel - aber so einleuchtend der Sinn der Bewegung den daran beteiligten Akteurinnen und Akteuren ist, so viel Überzeugungsarbeit müssen sie immer noch leisten.
+
+Das Dagstuhl-Dreieck
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 23: Darstellung von Beat Doebeli, vgl. http://blog.doebe.li/Blog/DagstuhlDreieck*
+
+Es gäbe weitere Beispiele. Insgesamt ergibt sich ein Bild von hoher Komplexität, zumal man das Dagstuhl-Dreieck noch dazu denken kann: Zu den drei in der Abbildung gestellten Fragen müsste noch eine vierte treten: Was hat das für eine Geschichte, wo kommt das her? Alle vier Fragen lassen sich auf jeder der acht Diskursebenen stellen. Dazu kommen diskursspezifische Fragestellungen:
+
+1. Schule: Und wie machen wir damit guten/funktionierenden Unterricht?
+2. Pioniere: Wie entwickeln wir die Schule hin zu innovativen Formen des digitalen Lernens?
+3. Digitalwirtschaft: Wie verdienen wir damit Geld?
+4. Wirtschaft: Wie lernen unsere Mitarbeiterinnen und Mitarbeiter wirksam (damit wir damit Geld verdienen können)?
+5. Bildungsforschung: Was können wir an Effekten messen?
+6. Bildungspolitik: Woher kommen Ressourcen? Müssen Gesetze geändert werden?
+7. Fachdidaktik: Wie kommt damit ein bewusster Lerneffekt zustande?
+8. Zivilgesellschaft: Wie führt das zu mehr Partizipation und Bildungschancen in der ganzen Gesellschaft?
+
+## Verstehen, was man nicht weiß
+
+Die Brüche und Ungleichzeitigkeiten der Diskurse sind einerseits systemtheoretisch erklärbar, andererseits führen sie zu vielen Missverständnissen, Frustrationen und Energieverlust: Pioniere müssen etwa ihre Argumente immer wieder neu formulieren und in unterschiedliche Kontexte übertragen, damit sie aus verschiedenen Perspektiven verständlich werden (dieses Buch kann als ein Versuch gesehen werden, Netzdiskussionen auch für nicht netz-affine Leserinnen und Leser greifbar zu machen). Schulen müssen ihre Erfahrungen beschreiben und sich mit den Erkenntnissen der empirischen und theoretischen Bildungsforschung auseinandersetzen. Die zivilgesellschaftlichen Initiativen müssen immer wieder erklären, weshalb ihre Anliegen relevant sind.
+
+Entscheidend ist letztlich, dass verantwortliche Personen wissen, was sie nicht wissen: Dass aus einer anderen Perspektive andere Fragen und Argumente relevant werden, dass sie zwar über für sie naheliegende Aspekte intensiv nachgedacht haben, aber immer nur aus ihrem Blickwinkel.
+
+#### Quellenangaben:
+
+- Beat Döbeli Honegger (2017): Dagstuhl-Dreieck: "Speak with one voice" reloaded. Online-Quelle: http://blog.doebe.li/Blog/DagstuhlDreieck (01.05.2019)
+
+#### Ursprung:
+
+Die Grundzüge dieses Beitrags wurden in einem Blogbeitrag schon publiziert: https://schulesocialmedia.com/2018/06/26/6-parallele-diskurse-zur-digitalen-bildung
+
+#### Empfehlungen zum Weiterlesen:
+
+- Eine andere wichtige Perspektive auf das Dagstuhl-Dreieck bietet Dejan Mihajlović an: <a href="#p460">Nicht Digitalisierung, sondern Digitale Transformation - Kultureller Wandel als Orientierung für zeitgemäße Bildung</a>..
+- Weshalb man von der Frage nach dem Mehrwert abrücken sollte, hat Axel Krommer in diesem Band begründet: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Weshalb der Begriff "digital natives" problematisch ist, hat Philippe Wampfler in einem anderen Beitrag dieses Bandes festgehalten: <a href="#p879">Es gibt keine "digital natives". Medienkompetenz und Jugendliche</a>.
+
+
+---
+
+
+# Teil IV – Konzepte und Korrekturen
+
+
+---
+
+
+# Digitale Didaktik: ein Konzept
+
+*Philippe Wampfler*
+
+Die Ausgangslage für Weiterbildungsveranstaltungen an Schulen ist in den letzten Jahren meist eine vergleichbare: Die Schule verfügt über mehr Laptops oder Tablets als zuvor und sucht nach Ideen, um diese Geräte im Unterricht sinnvoll einsetzen zu können. Digitale Didaktik besteht oft in einer Anpassung einer bestehenden Schul- und Lernkultur an neue Technik.
+
+Bei diesem Vorgehen wird das Pferd aber am Schwanz aufgezäumt. Die Beschaffung und der Einsatz von Geräten müssten didaktisch reflektiert erfolgen - nicht diese Reflexion erst auslösen. Das folgende Programm verdichtet eine solche Reflexion.
+
+## Der falsche Gedanke vom Mehrwert
+
+Berufliche und gesellschaftliche Aufgaben haben heute und in Zukunft auch eine digitale Seite. Schreiben, lesen, rechnen - aber auch Recherche, Zusammenarbeit und Kreativität erfolgen häufig mit digitalen und vernetzten Werkzeugen. Was Kinder im Unterricht lernen sollen, ist nicht unabhängig von Entwicklungen in der Gesellschaft und in der Berufswelt. Um das an einem Beispiel zu zeigen: Menschen rechnen heute abgesehen von einfachen Alltagsaufgaben nicht mehr im Kopf. Sie benutzen dazu Maschinen, die das effizient und fehlerfrei machen. Zu fragen, welchen Mehrwert digitale Tools beim Erlernen der schriftlichen Division bringen, ist sinnlos: Digitale Tools machen schriftliche Division obsolet. Lernen muss sie nur noch, wer daran besonderen Spaß hat oder dadurch Entwicklungen im abstrakten Denken erwirbt, die auf anderen Wegen anstrengender wären.
+
+## Wissen wird angeeignet, nicht vermittelt
+
+Der erste Grundsatz der digitalen Didaktik ist die Einsicht, dass Wissen für Menschen in bestimmten Situationen einen Sinn ergeben muss. Dann eignen sie es sich an - indem sie anderen zuhören, nachschlagen, etwas ausprobieren. Die Vorstellung, eine Lehrperson würde ihr Wissen an Lernende weitergeben, ist zwar stark verbreitet, aber irrig. Didaktik bedeutet, eine Umgebung zu schaffen, in der Schülerinnen und Schüler individuell Wissen entwickeln können.
+
+Daraus ergibt sich ein Blick auf den Unterricht, der von den Lernenden ausgeht und beobachtet, was sie brauchen, um Kompetenzen aufzubauen und mündig zu werden. Kompetenzen sind dann mehr als ein Schlagwort der Bildungsverwaltung, sondern das konkrete Können der Schülerinnen und Schüler. Was hilft ihnen, morgen mehr zu können als heute; besser imstande zu sein, Verantwortung zu übernehmen?
+
+## Wer lernt, arbeitet zusammen
+
+Die Prüfungskultur, an der sich viele Schulen orientieren, rechnet Leistungen einzelnen Personen zu. Diese Vorstellung ist in allen relevanten gesellschaftlichen Bereichen überholt: Ein Haus bauen, eine Fernsehserie drehen, den Klimawandel bekämpfen, eine neue Idee entwickeln und umsetzen - das machen Menschen gemeinsam mit anderen und mit allen erdenklichen Hilfsmitteln. Kommunikation und Kollaboration sind zentral; auch Diversität ist eine Stärke von Gruppen. Digitale Didaktik ermöglicht vielfältige Begegnungen, bei denen Lernende sich mit anderen austauschen und mit ihnen zusammenarbeiten können.
+
+## Schule wird zum "Makerspace"
+
+"Makerspaces"<a href="#footnote50" class="footnote">50</a> sind offene Räume, in denen Menschen kreativ an Projekten arbeiten und sie umsetzen. Sie finden dort Werkzeuge und Material, um gemeinsam basteln zu können. Sie stellen etwas her, was funktioniert und was man anfassen kann - ohne Anleitung, ohne Aufsicht, aber begleitet von anderen Personen, denen dieser Raum und das Basteln wichtig sind.
+
+Orientiert sich die Schule an diesem Konzept, dann hat das drei Konsequenzen:
+
+1. Sie öffnet sich stärker gegenüber Eltern, dem Quartier und externen Fachleuten. Klassen zeigen ihre Arbeiten genau so, wie sie interessante Personen in ihren Unterricht einladen, um mit ihnen zusammen Projekte zu erarbeiten.
+2. Projektunterricht ist nicht mehr ein Fach oder Gegenstand einer Projektwoche, sondern der Normalfall. Lernende arbeiten konstant an Projekten - und erwerben als eine der ersten Kompetenzen ein Verständnis für Projektabläufe.
+3. Im Unterricht entsteht etwas, was einen Nutzen hat. Dieser Nutzen kann ein persönlicher Sinn sein, einer Gruppe von Menschen helfen oder gar der Gesellschaft - nur ist er nicht künstlich und willkürlich wie ein Notensystem, das sich nur über schulische Tradition und Selektion legitimiert.
+
+## Breite Vernetzung
+
+Lernen ist Vernetzung, also die Möglichkeit, Fragen zu stellen und Fragen zu beantworten; zu wissen, wer sich womit auskennt und was erklären kann. Diese Vernetzung findet an Schulen immer statt: Primär innerhalb der Klassen und im Kollegium. Digitale Kommunikation erleichtert es, Vernetzung breiter zu denken. Soziale Netzwerke können etwa vorführen, wie leicht es ist, einer Professorin oder einem Politiker eine Frage zu stellen und eine Antwort zu bekommen. Dabei geht es nicht primär um prominente Personen: Schon nur im Schulhaus zu wissen, wer an ähnlichen Projekten arbeitet und über Ressourcen verfügt, die beim Lernprozess hilfreich sein können, ist eine wichtige Organisationsform.
+
+## Weg von Fächern und Rollen
+
+Findet Lernen so statt - von den Kindern aus gedacht, vernetzt und in Projekten - dann verschwimmen Rollen und Fächer. Organisiert eine Gruppe eine Tauschbörse für Fussball-Bilder, vermischen sich sprachliche Fertigkeiten, mathematisches Denken und Nachdenken über soziale Fragen automatisch. Lehrpersonen unterstützen beim Lernen - sie unterrichten nicht mehr. Sie eröffnen Möglichkeiten, statt Wissen zu vermitteln. Das braucht Flexibilität und die Bereitschaft, auch in einer neuen Rolle zufrieden zu sein, nicht darauf angewiesen zu sein, dass eine Klasse einem ruhig zuhört und tut, was man sagt - sondern dass Begegnungen mit Lernenden möglich werden, die eine neue Tiefe bekommen, weil es um echte Bedürfnisse und nicht schulisch generierte oder lediglich suggerierte geht.
+
+## Technik im Hintergrund
+
+Die diskutierten Aspekte digitaler Didaktik zeigen, dass technische Fragen nicht im Vordergrund stehen. Informatikanwendungen erleichtern die hier beschriebenen Lernprozesse sehr oft - entscheidend für ihr Verständnis oder ihre Umsetzung sind sie aber selten. Was hier "digitale Didaktik" heißt, ist daran angelehnt, wie Menschen im Netz heute gut lernen können. Selbstverständlich können sie so auch Informatik lernen - müssen das aber nicht vordringlich tun.
+
+Mit welchen Geräten und welchen Apps gearbeitet wird, das ist eine Entscheidung, die von den Lernenden und ihren Projekten ausgeht. Die Schule schafft auch hier einen Rahmen, der primär aus einem funktionierenden WLAN und den nötigen Sicherheitsvorkehrungen besteht. Sie macht es möglich, dass digitale Kanäle für das Wissensmanagement genutzt werden können. Die Schülerinnen und Schüler, welche die Tauschbörse aufziehen, können eine Website erstellen und E-Mails verschicken - wenn sie das für sinnvoll halten. Kommen sie von selbst nicht auf die Idee, zeigt ihnen jemand mit der nötigen Erfahrung Möglichkeiten auf und führt vor, was digitale Abläufe erleichtert.
+
+## Bedenken
+
+Gegen diese Ideen werden auf Schulen und Podien meist zwei Einwände vorgebracht: Die Angst um die schwächeren Schülerinnen und Schüler, welche enge Begleitung und übersichtliche Strukturen brauchen, um überhaupt etwas lernen zu können - und die Erfahrung, dass die Projektmethode entweder eine Überforderung darstellt oder sich schnell erschöpft, was sich daran zeigen soll, dass Schülerinnen und Schüler sich wieder traditionellen Unterricht wünschen.
+
+Diese Bedenken entstehen oft in langjährigen Erfahrungen und sind nicht so einfach von der Hand zu weisen. Gleichwohl sind sie der falsche Orientierungspunkt: Sie zeigen lediglich auf, dass in der vorherrschenden Unterrichts- und Prüfungskultur die Bedingungen noch nicht vorhanden sind, um digitale Didaktik im hier dargestellten Sinne umzusetzen.
+
+Was heißt das? Schon im Kindergarten werden zur Abklärung vor dem Schulübertritt heute oft standardisierte Kompetenzen erhoben. Die leitende Vorstellung besteht darin, dass alle Kinder in der ersten Klasse ungefähr dasselbe können sollten - weil sie dann ja auch in einer Klasse unterrichtet werden. Hier geht man von den Anforderungen des Systems aus und führt dann beim Schuleintritt auch als wesentliche Kompetenz vor, im Klassenverband zuzuhören, Anweisungen zu befolgen, Hausaufgaben korrekt zu erledigen. Eigene Ideen und Umsetzungen sind im sehr eingeschränkten Rahmen gefragt.
+
+Stellen wir uns vor, die Kinder müssten beim Übertritt an die Schule ein Projekt vorstellen, das sie im Kindergarten durchgeführt haben. Sie würden erklären, was sie dabei gelernt und erfahren haben, mit wem sie sich vernetzt haben, wie ihr Feedback ausgesehen hat - und dann eine Idee für ein nächstes Projekt entwickeln. Ihre Schulsozialisation und ihr Selbstvertrauen wären ganz andere. So entstünde auch eine neue Vorstellung davon, was schwächere Schülerinnen und Schüler sind. Selbstverständlich gäbe es Lernende, die bei ihren Projekten enger betreut werden müssten, denen es weniger leicht fiele, Arbeits- und Lernprozesse zu überblicken. Aber alle Kinder sind in der Lage, Ideen zu artikulieren, Interessen vorzubringen und sie dann umzusetzen, wenn sie an einer Schule die dazu nötigen Ressourcen vorfinden. Die Vorstellung, Kinder aus bildungsfernen Elternhäusern könnten nur trainieren oder Instruktionen folgen, ist heute einer der Gründe, weshalb die Bildungskluft im Schulsystem bestehen bleibt.
+
+Klar ist auch, dass digitale Didaktik sehr langsam und behutsam den Weg in Schulen findet. Sie aber ist es, die Lernende im 21. Jahrhundert zur kulturellen Teilhabe befähigt.
+
+#### Ursprung:
+
+Dieser Text ist in einer ähnliche Form bereits im Schulblatt Aargau/Solothurn 09/2018 erschienen, ein Link auf diese Version findet sich hier: https://schulesocialmedia.com/2018/05/26/was-ist-digitale-didaktik
+
+#### Empfehlungen zum Weiterlesen:
+
+- Eine wichtige Ergänzung zum Beitrag ist die Erklärung, weshalb wir lehren und lernen verwechseln: <a href="#p913">Wir verwechseln "Lehren" mit "Lernen". Die digitale Bildungswelt tut nur so, als denke sie lernseits</a>.
+- Die Diskussion der Mehrwert-Frage findet sich im Beitrag von Axel Krommer: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Das hier entwickelte Konzept gehört in den Rahmen dessen, was Dejan Mihajlović als zeitgemäße Bildung bezeichnet: <a href="#p1336">Was ist zeitgemäße Bildung?</a>
+- Wampfler, Philippe (2018): Der tiefe Riss. In: Fabrikzeitung 6/2018. Online-Quelle: https://www.fabrikzeitung.ch/der-tiefe-riss (01.05.2019)
+
+
+---
+
+
+# Sitzsäcke sind das neue Sprachlabor. Digitale Geräte, K.I. und bunte Möbel machen noch keine moderne Schule
+
+*Jöran Muuß-Merholz*
+
+Es gibt zwei verbreitete Bilder, mit denen das Thema "Lernen mit digitalen Medien" in der Schule visualisiert wird. Das erste, schon etwas ältere Bild zeigt Tischreihen mit Computern darauf. Schüler sitzen dahinter in Reih und Glied, alle bedienen ihren PC. Das Setting erinnert an die Sprachlabore der 1970er und 1980er Jahre. Dieses Bild steht für die alte Schule mit uniformen Schülern und instruktionistischer Lehre.
+
+2019 sieht man häufiger ein neues Bild. Darauf liegen Schüler in bunten Sitzsäcken oder sitzen auf würfelartigen Hockern. Auf den Knien bedienen sie ein iPad. Dahinter steckt das Versprechen der Individualisierung durch digitale Medien. Jeder Lernende hat ein für sich maßgeschneidertes Lernangebot, kann sich also auch einen individuellen Lernort aussuchen.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 24: Ausschnitt aus "Sprachkabinett" von Eugen Nosko, Deutsche Fotothek unter CC BY-SA-3.0-de (https://creativecommons.org/licenses/by-sa/3.0/de/deed.de), via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Fotothek_df_n-20_0000004_Sprachkabinett*
+
+Das "alte Bild" vom Sprachlabor mag altmodisch anmuten. Aber schon hinter diesem frühen elektronischen Medium stand das große Versprechen, das wir heute mit den digitalen Medien verbinden: die Binnendifferenzierung mit individueller Begleitung durch die Lehrerin.
+
+Das "neue Bild" mit Sitzsäcken und Tablets suggeriert eine moderne Schule, Freude am Lernen und auch eine gewisse Mühelosigkeit für alle Beteiligten. Was wir im Angesicht dieser Bilder leicht übersehen können: Auch hinter iPads und bunten Möbeln kann sich ein altmodisches Modell von Lehren und Lernen verbergen. Selbst ein Höchstmaß an Individualisierung durch Digitalisierung kann letztlich dem Modell "Sprachlabor" folgen. Zwar müssen nicht mehr alle zur gleichen Zeit den gleichen Inhalt bearbeiten. Aber das Grundmodell bleibt: Die Lernenden folgen je einem Lernpfad mit ausgefeilten Inputs, maßgeschneiderten Übungen und individuellem Feedback. Das Konzept, das in den nächsten Jahren die großen Verheißungen für unsere Schulen sein wird, heißt Adaptive Learning.
+
+## Gute Individualisierung
+
+Um Adaptive Learning zu verstehen, hilft es, sich zunächst das Vorgehen einer guten Lehrerin zu vergegenwärtigen, wenn sie individuelles Lernen in binnendifferenziertem Unterricht ermöglichen will. Was macht eine gute Lehrerin? Sie macht Lernangebote, die nicht losgelöst vom individuellen Stand ihrer Schülerinnen und Schüler, sondern möglichst gut auf deren Bedarfe zugeschnitten sind. Dabei durchläuft sie in ihrer Arbeit mehrere Schritte (mal bewusst, mal unbewusst):
+
+1. <strong>Diagnose</strong>: Sie gleicht die Lernziele mit dem Lernstand ab und leitet daraus die notwendigen Lernschritte für den Lernenden ab.
+2. <strong>Input</strong>: Sie gibt gezielt Input, beispielsweise als Vortrag, Text oder Video.
+3. <strong>Übung</strong>: Sie lässt den Lernenden das neu Gelernte anwenden und üben, am besten in verschiedenen Formen und Kontexten.
+4. <strong>Evaluation und Feedback</strong>: Sie macht sich ein Bild vom aktuellen Lernstand des Lernenden und gibt ihm Rückmeldung zu Stand und nächsten Schritten.
+5. <strong>zurück zu 1.</strong>: Das Ganze geschieht als Spirale. Die Lehrerin prüft also nach einer neuen Diagnose (1), ob es zusätzlichen Input (2) oder weitere Übungen (3) braucht, gibt danach wieder Feedback (4) usw.
+
+Wie fein kann dieses Vorgehen ausdifferenziert werden? Theoretisch kann die Lehrerin ihrem Lernenden ständig über die Schulter schauen, sein Lernen analysieren, kleine Inputs geben, passende Übungen auswählen, schnell Feedback geben etc. In der Praxis hängen Möglichkeiten und Begrenzungen von folgenden Faktoren ab:
+
+<ol type="A">
+  <li><strong>Kompetenz</strong>: Die Lehrerin wurde für diese Aufgaben aus- und fortgebildet.</li>
+  <li><strong>Erfahrung</strong>: Die Lehrerin hat im Laufe ihrer Berufsjahre umfangreiche Erfahrungen und Erkenntnisse gesammelt. Über den Abgleich mit früheren Situationen kann sie aktuelle Situationen besser beurteilen.</li>
+  <li><strong>Verfügbarkeit von Inputs und Übungen</strong>: Für die Schritt (2) und (3) ist entscheidend, wie viele und welche Materialien vorliegen.</li>
+  <li><strong>Aufmerksamkeit pro Lernendem</strong>: Die Lehrerin kann nur an einem Ort gleichzeitig sein. Wenn sie 25 Schüler im Unterricht begleitet, hat sie weniger Aufmerksamkeit pro Kopf als in einer Eins-zu-eins-Nachhilfe-Situation.</li>
+  <li><strong>Ressource Zeit</strong>: Die Lehrerin hat begrenzt Zeit, sowohl für Vor- und Nachbereitung des Unterrichts als auch im Unterricht selbst. Das gilt mit Fokus auf den Lernenden (z.B. Förderpläne schreiben) wie auch für die Materialien (z.B. Inputs und Übungen vorbereiten) wie auch für ihre eigene Fortbildung (z.B. neue Forschungserkenntnisse sichten).</li>
+</ol>
+
+Vor diesem Hintergrund vollzieht sich derzeit in den Schulen ein Wandel hin zu individualisiertem Lernen und binnendifferenziertem Unterricht. Ein typisches Symptom dieses Umbruchs ist die "Zettelwirtschaft" (Budde 2013), bei der Arbeitsblätter als zentrales Arbeitsmittel eingesetzt werden. Wenn man die Limitierungen der Individualisierung oben von A. bis E. mit Blick auf die Arbeitsblatt-Didaktik durchdekliniert, erkennt man, warum sie so beliebt und verbreitet ist.
+
+## Was ist Adaptive Learning?
+
+Der Ansatz des Adaptive Learning ist ein Kind der Diskussionen um Künstliche Intelligenz (K.I.) und lässt sich bis in die 1970er Jahre zurückverfolgen. Im Englischen wird auch der Begriff Intelligent Tutoring Systems genutzt. Bemerkenswerterweise wird in der deutschsprachigen Diskussion noch relativ wenig über das Thema gesprochen, so dass kein deutscher Begriff etabliert ist. (Eigentlich müsste man übrigens von Adaptive Teaching statt von Adaptive Learning sprechen, mehr dazu im Aufsatz "Wir verwechseln 'Lehren' mit 'Lernen'. Die digitale Bildungswelt tut nur so, als denke sie lernseits").
+
+Die Grundidee von Adaptive Learning: Der Computer - gemeint ist ein cloud-basiertes Programm, das z.B. in Form einer App auf dem Tablet - übernimmt weitgehend die oben beschriebenen Aufgaben der Lehrerin. Er bietet deutliche Vorteile:
+
+1. <strong>Diagnose</strong>: Der Computer erfasst den Lernstand, z.B. über einen individuellen Einstufungstest. Er kennt die Lernziele, allgemeine und individuelle, und leitet daraus die notwendigen Lernschritte ab.
+2. <strong>Input</strong>: Der Computer gibt Input, beispielsweise als Vortrag, Video, Text, Simulation oder Video.
+3. <strong>Übung</strong>: Der Computer lässt den Lernenden das neu Gelernte anwenden und üben, am besten in verschiedenen Formen und Kontexten.
+4. <strong>Evaluation und Feedback</strong>: Der Computer macht sich ein Bild vom Status des Lernenden, gibt ihm Rückmeldung zum Stand und zu nächsten Schritten.
+5. <strong>zurück zu 1.</strong>: Das Ganze geschieht als Spirale. Der Computer prüft nach erneuter Diagnose (1), ob es zusätzlichen Input (2), weitere oder andere Übungen (3) braucht, gibt wieder Feedback (4) usw.
+
+Der Computer hat gegenüber der Lehrerin so gut wie keine Begrenzungen für diese Individualisierung:
+
+<ol type="A">
+  <li><strong>Kompetenz</strong>: Der Computer, in Form von Hardware und Software, wurde speziell für diese Aufgabe gestaltet. (Allerdings fehlen ihm möglicherweise einige "weiche" Fähigkeiten, die eine gute Lehrerin hat.)</li>
+  <li><strong>Erfahrung</strong>: Der Computer hat im Laufe seines Einsatzes bereits Hunderttausende von Lernenden beobachten können. Er hat so umfangreiche Erfahrungen und Erkenntnisse über unterschiedlichste Konstellationen gesammelt. Über den Abgleich mit früheren Situationen kann er aktuelle Situationen besser beurteilen.</li>
+  <li><strong>Verfügbarkeit von Inputs und Übungen</strong>: Der Computer hat einen riesigen Fundus an Materialien für Schritt (2) und (3). Ein fortgeschrittenes Angebot könnte nicht nur zwischen Materialien auswählen, sondern ein maßgeschneidertes Angebot für jeden Lernenden einzeln erstellen.</li>
+  <li><strong>Aufmerksamkeit pro Lernenden</strong>: Der Computer ist überall gleichzeitig. Er hat mehr Aufmerksamkeit als in einer menschlichen Eins-zu-eins-Nachhilfe-Situation, zumal er den Lernenden in Mikroschritten (Bewegung der Maus oder sogar der Augen) beobachten kann.</li>
+  <li><strong>Zeit</strong>: Der Computer hat unbegrenzt Zeit, sowohl für die Vor- und Nachbereitung des Unterrichts als auch im Unterricht selbst. Er kann quasi sekündlich Förderpläne anpassen und bei Bedarf sofort neue Materialien für Inputs und Übungen anbieten. Zudem lernt er ständig dazu.</li>
+</ol>
+
+## Sprachlabor 2.0 für das 21. Jahrhundert?
+
+In der idealen digitalen Lernwelt verspricht Adaptive Learning einen extrem individualisierten Lernpfad, indem ein Computer dem Lernenden ununterbrochen über die Schulter schaut, über einen riesigen Fundus an Erfahrungen und Materialien verfügt und den Lernpfad kontinuierlich anpassen kann. Adaptive Learning ist ein Lehrangebot, das die Versprechungen eines Sprachlabors 2.0 umsetzt. Nicht ein identisches Angebot für alle Schülerinnen, nicht eine Differenzierung auf drei oder vier Niveaus, noch nicht einmal ein Lernpfad zur Auswahl, sondern die individuelle Gestaltung eines Lernpfads pro Lernendem.
+
+Eine der großen Fragen ist 2019, ob Adaptive Learning seine Versprechungen tatsächlich halten kann. Aber daneben steht eine Frage, die vielleicht noch wichtiger ist. Es kann passieren, dass uns die Debatten um Digitalisierung und bunte Sitzsäcke von großen Fragen ablenken, die wir mindestens genauso dringend angehen müssen: Welche Bildungsziele und Lerninhalte brauchen wir für die Welt des 21. Jahrhunderts? Reicht es aus, wenn wir Vokabeln digital und in Sitzsäcken pauken, wenn frontale Belehrung durch Videos statt durch Tafelbilder geschieht, wenn das Feedback sofort statt nach 10 Tagen erfolgt?
+
+Erweiterte Bildungsziele umfassen neben der Dimension Wissen zusätzliche Dimensionen wie Skills, Charakter und Meta-Lernen (vgl. Fadel u.a. 2017). Die Bilder von moderner Technik in bunten Umgebungen sind verführerisch, zumal sie tatsächlich Antworten auf eine große Herausforderung, die Binnendifferenzierung und Individualisierung, versprechen. Die Frage ist, ob das für eine moderne Schule ausreicht. Digitale Geräte und Adaptive Learning, selbst wenn sie jetzt in bunten Sitzsäcken daherkommen, sind nur eine Optimierung der alten Schule nach dem Modell Sprachlabor. Neue Bildungsziele, die inzwischen zumindest ein Stück weit schon in aktuellen Leitbildern von Schule vorhanden sind, werden damit nicht angegangen. Adaptive Learning wird nicht Kreativität oder kritisches Denken fördern, wird Schülerinnen und Schüler kein Stück weit neugieriger oder verantwortungsbewusster machen, und auch das Lernen über das Lernen wird nicht gefördert, wenn eine Blackbox in Mikroschritten durch einen vereinfacht gedachten Lernprozess lenkt. Wir können auch mit digitalen Medien altmodische Schule machen.
+
+#### Quellenangaben:
+
+- Budde, Jürgen (2013). Didaktische Regime-Zettelwirtschaft zwischen Differenzstrukturen, Homogenisierung und Individualisierung. In: Ders. (Hrsg.): Unscharfe Einsätze:(Re-) Produktion von Heterogenität im schulischen Feld. Springer VS, Wiesbaden, S. 169-185.
+- Fadel, Charles/Bialik, Maya/Trilling, Bernie (2017): Die vier Dimensionen der Bildung. Was Schülerinnen und Schüler im 21. Jahrhundert lernen müssen. Mit einem Vorwort von Andreas Schleicher. Deutsche Übersetzung von Jöran Muuß-Merholz. Hamburg: Verlag ZLL21.
+- Schratz, Michael (2009). 'Lernseits' von Unterricht. Alte Muster, neue Lebenswelten - was für Schulen? Lernende Schule 12 (46-47), S. 16-21.
+
+#### Ursprung:
+
+Eine frühere Fassung dieses Textes erschien in Schule leiten (Schwerpunktthema: Digitalisierung), Heft 17 (2019), S. 50-51.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer: <a href="#p483">Paradigmen und palliative Didaktik. Oder: Wie Medien Wissen und Lernen prägen</a>.
+- Jöran Muuß-Merholz: <a href="#p290">Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren</a>.
+- Jöran Muuß-Merholz: <a href="#p913">Wir verwechseln "Lehren" mit "Lernen". Die digitale Bildungswelt tut nur so, als denke sie lernseits</a>.
+
+
+---
+
+
+# Was ist zeitgemäße Bildung?
+
+*Dejan Mihajlović*
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 25: Vortrag Bechtle Veranstaltung "Schule in BWgung - Pilotschule und was dann?" in Neckarsulm, Juli 2017*
+
+2017 hielt ich einen Vortrag vor Pilotschulen aus Baden-Württemberg, die mit Tablets ausgestattet waren, um den Beteiligten mögliche Wege, Entwicklungen und sich stellende Fragen aufzuzeigen. Dieser Beitrag erläutert die dort vorgetragenen wesentlichen Gedanken, die mich im Bildungsbereich zunehmend beschäftigen und die ich mir in öffentlichen Debatten breit und vertieft diskutiert wünsche.
+
+## Weshalb das Ganze?
+
+Dass die Technik in Schulen veraltet oder nicht vorhanden ist, gehört mittlerweile zum allgemeinen Konsens. Irgendwie digital, sagt man, sollte man nun unterrichten, weil alles irgendwie digitaler ist und wird. Und so schmückte man zum Beispiel vor einigen Jahren möglichst viele Klassenzimmer mit IWBs (Interaktive Whiteboards, auch als digitale Tafeln oder Smartboards bekannt), und verband damit die Vorstellung, irgendwas getan zu haben, das irgendwie schon zu irgendeinem Ziel führen wird. So schwammig diese Überlegungen waren, so wenig erwiesen sie sich im Hinblick auf die Verbesserung des Qualität des Lernens als erfolgreich. Deshalb sehe ich die Frage nach der pädagogisch-didaktischen Begründung des Einsatzes digitaler Technik als essentiell und leitend an. Nur wenn hier überzeugende Antworten gefunden werden, kann eine vernünftige Vorstellung davon entwickelt werden, was zeitgemäße Bildung sein soll, kann oder muss. Einzelpersonen, Schulen, Kommunen, Länder und der Bund müssen daher die Frage "Weshalb das Ganze?" immer wieder neu stellen, diskutieren und (zeitgemäß) beantworten.
+
+Alles, was automatisiert werden kann, wird automatisiert. Die putzigen Amazon Roboter (ehemals Kiva Systems), die durch QR-Codes gesteuert die Gänge von Lagerhallen entlang flitzen, werden gerne als Beleg für diese Aussage im Bereich Lagerlogistik gezeigt. Die ersten Videos wurden übrigens bereits 2008<a href="#footnote51" class="footnote">51</a> hochgeladen. Im Prinzip stehen sie nur für einen Teil des Transportwesens, das zunehmend automatisiert wird. Das reicht von gigantischen, selbstfahrenden und miteinander vernetzten Lastwagen bis hin zum Transport von Menschen in selbstfahrenden Autos und Bussen (vgl. Becker 2017). Auch das Bauwesen erhält Unterstützung von Bots und riesigen 3D-Druckern, die innerhalb von 24 Stunden ganze Häuser hinstellen (vgl. Waldt 2017). Am meisten beeindrucken aber immer wieder Roboter (wie Atlas<a href="#footnote52" class="footnote">52</a> oder Handle<a href="#footnote53" class="footnote">53</a>) des Robotik-Unternehmens Boston Dynamics, das 2013 von Google gekauft wurde (die Links zu den Youtube-Videos finden sich am Schluss dieses Beitrags). Abschließen möchte ich den Blick auf die Wirtschaft mit dem alltäglichen Leben, um die (nicht selten empfundene) vermeintliche Ferne dieser Technik zu relativieren. Damit meine ich die steigende Zahl an Schnellkassen in Geschäften oder Touch-Displays, auf denen man sich eine Fahrkarte buchen, Essen selbst zusammenstellen oder über Lokales informieren kann, die sich fast unbemerkt in unseren Alltag schleichen. Vergessen wir auch nicht den Onlinehandel, der in vielen Bereichen bereits für radikale Umbrüche gesorgt hat. Angefangen beim Zeitungssterben bis hin zu den vielen, kleinen lokalen Anbietern, die nach Lösungen suchen müssen, um im ungleichen Zweikampf neben Riesen wie Amazon & Co überleben zu können. Es häufen sich die Prognosen, dass Massen von Jobs durch den Einsatz von Robotern und Bots wegfallen werden. Ob und wie viel davon wann eintreten wird, wissen wir heute nicht. Dass sich Arbeit und Anforderungen ändern werden, steht außer Frage und stellt nichts Neues dar. Was neu sein könnte, ist die Geschwindigkeit bzw. die Dynamik und die gesellschaftliche Tragweite. Sich auf etwas Unvorhersehbares vorzubereiten, scheint zumindest eine daraus resultierende Aufgabe zu sein.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 26: Kultureller Wandel | Folie von Dejan Mihajlović unter CC 0*
+
+Die ökonomische Perspektive allein genügt natürlich nicht, wenn man die gesamtgesellschaftlichen Herausforderungen durch den digitalen Wandel erfassen möchte. Die sich verändernden beruflichen Anforderungen und Bedingungen, werfen dabei einige Fragen auf (vgl. Zacharakis 2017): Wie bereite ich junge Leute auf Jobs vor, die es noch nicht gibt? Wie verändern die neuen beruflichen Anforderungen und Bedingungen das Leben einer Person als Individuum und Teil einer Gemeinschaft? Was wären und wie erreicht man für alle günstige Voraussetzungen? Wenn man bedenkt, wie die Erfindung des Buchdrucks das Zusammenleben innerhalb der Gutenberg-Galaxis revolutioniert hat, kann man die Auswirkungen, die durch weltweit miteinander vernetzte Computer verbunden sind, allenfalls erahnen. Auch in der Turing-Galaxis werden bestehende Strukturen aufgelöst und der Zugang zu Informationen wird mehr Menschen in einfacher Weise ermöglicht. Es ist das Internet, das den gesellschaftlichen und kulturellen Wandel mit sich brachte und bringt. Wie wir kommunizieren, konsumieren, arbeiten, lernen, Ideen entwickeln, forschen, die Welt begreifen, wandelt sich. Durch soziale Netzwerke lesen wir nicht nur mehr Texte, sondern können mit denen, die sie verfasst haben, zeit- und ortsunabhängig diskutieren. Über Livestreams erhalten wir Bilder von nahezu jedem Fleck und Geschehen auf diesem Planeten. Die Karten der Deutungshoheit werden neu gemischt. Saßen wir noch gestern vor linearem Fernsehen und Zeitungen, bespielen wir heute selbst unsere Social Media-Kanäle mit Inhalten. Push-Benachrichtigungen im Sekundentakt. Wichtiges und Unwichtiges von allen und jederzeit. Die politischen Entwicklungen auf nationaler und internationaler Ebene erscheinen durch die Kanäle sozialer Netzwerke nicht nur näher und greifbarer, sondern auch verknüpfter und komplexer. Das geografische Umfeld bestimmt nicht mehr allein die kulturelle Prägung und Sozialisation.
+
+## Entwicklungen im Bildungsbereich
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 27: Digitalisierung und die Entwicklungen im Bildungsbereich | Folie von Dejan Mihajlović unter CC 0*
+
+Eine wichtige Beobachtung, die ich in den letzten Jahren gemacht habe und die ich kurz begründen möchte, lautet: "Alles, was digitalisiert werden kann, wird digitalisiert." Wenn man einen Blick auf die Fortbildungsangebote wirft oder sich an Veranstaltungen zum Thema Digitale Bildung die Programme durchliest, scheint die einzige Veränderung das Adjektiv "digital" zu sein. Man preist digitale Lerntheken, digitale Arbeitsblättern oder digitale Lerntagebücher an. Anstatt gedrucktem Papier im BILLY-Regal sammelt man nun Listen mit Apps und Tools in Clouds. Lisa Rosa hat mit den Begriffen "Toolifizierung" und "Quizzifizierung" auf die Probleme aufmerksam gemacht, die hier häufig auftreten: Wenn Medien als einfache Werkzeuge (Tools) verstanden werden, mit denen man den "alten" Unterricht stützt, und wenn (vermeintliches) Wissen, das zuvor durch den Nürnberger Trichter in die Köpfe der Schüler_innen gefüllt wurde, mit Quiz-Apps abgefragt wird, verändert sich Lernen, Lehren und Unterricht nicht wesentlich. Auch das populäre SAMR-Modell, das mit seiner niedrigen Einstiegshürde motivieren und als Brücke zu neuen Lehr- und Lernszenarien führen soll (vgl. Wilke 2016), klang für mich nur anfangs schlüssig. Mittlerweile befürchte ich, dass es ein falscher Ansatz ist, weil er den Fokus auf das Digitale lenkt und Phänomene wie Toolifizierung und Quizzifizierung nicht nur begünstigt, sondern echte Innovation bremst, wenn nicht sogar verhindert. Das gängige Argument klein anzufangen kann zu klein denken verleiten und die mögliche Überforderung der neuen Technik, die das stufenweise Heranführen begründet, wird meiner Meinung nach fälschlicherweise damit gleichgesetzt, etwas tatsächlich Neues zu denken.* Die Bezeichnung Digitale Bildung hat sich zwar in den letzten Jahren als praktische Verkürzung für Ankündigungen von Veranstaltungen, Vorträgen, Fortbildungen und auch als Hashtag durchgesetzt, trägt aber einen Teil dazu bei, dass notwendige Neuerungen in der Bildung gedanklich auf ein digitales Add-on reduziert werden. Deshalb fordern manche gerne ein neues Fach oder eine neue Kompetenz, die zum bisher Bestehenden einfach hinzugefügt werden soll. Ich glaube, dass wir einen anderen Begriff benötigen, der zum Denken im großen Ganzen anregt. Mein Vorschlag lautet: "zeitgemäße Bildung". Ich halte diesen Ausdruck vor allem aus folgenden Gründen für angemessen:
+
+- *zeitgemäße Bildung* beschreibt einen nie endenden Entwicklungsprozess
+- *zeitgemäße Bildung* misst sich an aktuellen Herausforderungen
+- *zeitgemäße Bildung* steht für eine Gesamtbetrachtung
+- *zeitgemäße Bildung* fordert immer wieder eine Reflexion ein
+- (zeitgemäße Bildung erspart uns Ausdrücke wie Bildung 2.0, 4.0 und x.0)
+
+(Seit einem halben Jahr begleitet mich dieser Ausdruck bei allen Gedankengängen und hat bisher jeder erneuten Überprüfung standgehalten.)
+
+## Wofür steht zeitgemäße Bildung?
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 28: Zeitgemäße Bildung | Folie von Dejan Mihajlović unter CC 0*
+
+Zeitgemäße Bildung orientiert und reflektiert sich immer wieder neu an allen Herausforderungen gesellschaftlicher Entwicklung, die aus dem digitalen Wandel resultieren. Sie sucht in einem neuen Lehr- und Lernverständnis nach Antworten auf alle Fragen, die sich aus den oben angerissenen Legitimationen stellen. Lernen als lebenslanger Prozess, der nicht an Zeit und Ort gebunden ist und in einem persönlichen Lernnetzwerk stattfindet. Die 4K-Skills sehe ich momentan als eine Möglichkeit, junge Menschen auf das vorzubereiten, was sie heute und morgen erwartet. Zeitgemäße Bildung unterscheidet beim Lernen nicht zwischen einzelnen Fächern, Klassen, Schularten oder formaler und non-formaler Bildung. Das Web nimmt dabei eine bedeutende Funktion ein. Die Rolle des Lehrenden und Lernenden ist flexibel und kann wechseln.
+
+Zeitgemäße Bildung braucht Räume für Lernprozesse mit Trial and Error. Räume, um neue Konzepte zu entwickeln oder Projekte durchzuführen. Nur neue Prüfungsformate und Bewertungsansätze werden diese Räume ermöglichen.
+
+Zeitgemäße Bildung leitet eine Epoche der zweiten Aufklärung ein und strebt eine Mündigkeit an, die unsere Gesellschaft aus der Beobachterstellung befreit und zur Mitgestaltung des digitalen Wandels befähigt. Beginnen wir damit.
+
+## Hintergrund
+
+- Becker, Joachim (2017): Stadtbusse fahren früher autonom als Autos. Süddeutsche Zeitung. Online-Quelle:https://www.sueddeutsche.de/auto/bus-der-zukunft-stadtbusse-fahren-frueher-autonom-als-autos-1.3460630 (01.05.2019)
+- Waldt, Anton (2017): Bauarbeiter-Bot mauert Häuser im Zeitraffer hoch. Online-Quelle:https://www.engadget.com/de/2017/07/04/bauarbeiter-bot-mauert-hauser-im-zeitraffer-hoch (01.05.2019)
+- Wilke, Adrian (2016): Das SAMR-Modell von Puentedura. Online-Quelle: http://homepages.uni-paderborn.de/wilke/blog/2016/01/06/SAMR-Puentedura-deutsch (01.05.2019)
+- Zacharakis, Zacharia (2017): Unsere Arbeit wird immer digitaler. Ver.di-Chef Frank Bsirske und der Digitalberater Christoph Bornschein diskutieren: Wie lässt sich der Mensch dabei besser schützen? Online-Quelle:https://www.zeit.de/amp/wirtschaft/2017-08/digitalisierung-frank-bsirske-verdi-christoph-bornschein-tlgg (01.05.2019)
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 08.09.2017 auf https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung
+
+#### Empfehlungen zum Weiterlesen:
+
+- Zum Missverständnis, dass Quiz-Apps lernwirksam wären, hat Philippe Wampfler in diesem Band geschrieben: <a href="#p946">Quizifizierung - eine Kritik am Kahoot-Hype</a>.
+- Eine entscheidende Ergänzung zu diesem Text ist das Verständnis der 4Ks: <a href="#p1023">Kommunikation, Kollaboration, Kreativität und kritisches Denken - mehr als Buzzwords</a>.
+- Wesentliche Einsichten zum kulturellen Wandel der Digitalisierung finden sich im Text von Axel Krommer: <a href="#p483">Paradigmen und palliative Didaktik. Oder: Wie Medien Wissen und Lernen prägen</a>.
+- Lisa Rosa: <a href="#p621">Lernen im digitalen Zeitalter</a>.
+
+
+---
+
+
+# PowerPoint Tohuwabohu. Die drei unvereinbaren Funktionen von Vortragsfolien
+
+*Jöran Muuß-Merholz*
+
+Warum gibt es so viele schlechte Präsentationsfolien? Eine Erklärung lautet: PowerPoint, Prezi und Co. werden zu zwei Drittel missbräuchlich genutzt. Denn Vortragende und Publikum verfolgen je eine eigene, geheime Agenda. Der folgende Text deckt die zwei hinderlichen (und oft unbewusst genutzten) Funktionen von PowerPoint-Folien auf, stellt alle drei Funktionen vergleichend nebeneinander und endet mit einem einfachen schwierigen Grundsatz für wirklich gute Folien.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 29: Folien abfotografieren (Symbolbild) | Foto von Jöran Muuß-Merholz unter CC BY 4.0*
+
+# Wozu überhaupt Folien?
+
+Fragt man Vortragende und Publikum nach der Funktion von Folien, antworten sie wahrscheinlich: "Folien dienen der Visualisierung des Gesagten. Sie unterstützen das, was der Vortragende mündlich vorträgt." Theoretisch stimmt das. Praktisch wird diese Funktion der Visualisierung konterkariert, weil Vortragende wie auch Publikum jeweils eine geheime Agenda verfolgen. In Wirklichkeit sollen Vortragsfolien nämlich drei Funktionen erfüllen, die sich gegenseitig im Wege stehen:
+
+<ol type="A">
+  <li>Visualisierung des Gesprochenen</li>
+  <li>Dokumentation des Vortrags</li>
+  <li>Skript des Vortragenden</li>
+</ol>
+
+Werfen wir einen Blick auf jede der drei Funktionen:
+
+## A. Folien zur Visualisierung
+
+Das ist die Funktion von Folien, an die alle glauben. Folien unterstützen das Gesagte. Sie zeigen zentrale Inhalte als Text, geben Orientierung im Verlauf des Vortrags und illustrieren Aussagen durch Bilder, Grafiken oder Tabellen. (Außerdem wurden in den letzten Jahren Videos in oder statt Folien immer beliebter. Diese sind entweder witzig für das Publikum, entlastend für den Referenten oder tatsächlich inhaltlich unterstützend.)
+
+Damit man Folien entsprechend gestalten kann, gibt es ungezählte Bücher, einige Fortbildungen und jede Menge Tipps im Web. Typische Grundsätzen lauten beispielsweise:
+
+- Form follows Vortrag!
+- Nie mehr als 4 / 5 / 6 / 7 Zeilen Text pro Folie!
+- Bilder sind besser als Text!
+- Vorsicht bei Aufzählungslisten!
+- Vorsicht bei Formatierungen, Animationen, Übergängen, Ton und Farben!
+
+Soweit, so einfach. (Naja, so ganz einfach scheint es nicht zu sein, wenn man sich die Mehrzahl der Folien anschaut.) Aber da gibt es noch die beiden versteckten Funktionen von Folien, die entsprechende Bemühungen unterlaufen …
+
+## B. Folien zur Dokumentation
+
+Die wichtigste erste Frage des Publikums vor / während / nach jedem Vortrag lautet: "Können wir nach dem Vortrag die Folien bekommen?" Dank Websites, E-Mail-Verteiler etc. dürfte es heute eher als Standard denn als Ausnahme gelten, dass der Vortragende seine Folien hinterlässt. Die Argumente dafür, sofern sie überhaupt notwendig erscheinen, lauten vornehmlich:
+
+- "Dann müssen wir nicht alles mitschreiben." Inzwischen häufig mit der Konkretisierung: "Dann müssen wir die Links nicht abschreiben."
+- "Dann kann man sich das danach nochmal in Ruhe anschauen." Sehr beliebt in der Variante: "Dann können die Kollegen, die heute nicht hier sind, das auch noch durchlesen."
+
+Das sind nachvollziehbare Punkte. Nur: Eine Präsentation, die den oben aufgezählten Grundsätzen für gute Folien folgt, kann genau diese Ansprüche nicht erfüllen. Illustrierende Grafiken sind meist nicht selbsterklärend. Wenig Text pro Folie bedeutet niedriges Nachlese-Potential. Und warum sollte man ausgeschriebene Links während eines Vortrag auf eine Leinwand projizieren?
+
+Kurz: Je mehr ein Vortragender sich bei seinen Folien auf die Unterstützung des Vortrags konzentriert, desto weniger sind seine Folien zur Dokumentation geeignet - und umgekehrt: Je mehr man bei den Folien schon an die nachträgliche Nutzung denkt, desto abträglicher ist das für die Präsentation vor Ort.
+
+## C. Folien als Skript
+
+Als wäre der Widerspruch der beiden ersten Funktionen nicht schon problematisch genug, gibt es noch eine dritte Funktion von Folien. Sie wird häufig übersehen und selten thematisiert. Wahrscheinlich ist vielen Vortragenden nicht einmal bewusst, dass sie groben Missbrauch mit ihren Folien betreiben: Sie nutzen sie nämlich als ihr eigenes Skript. Anders lässt sich nicht erklären, wie ausführliche Texte und ellenlange Listen auf Folien kommen, die bisweilen vom Vortragenden einfach nur vorgelesen werden.
+
+Ich wette, dass die meisten Referenten 10 Minuten lang gar nicht merken würden, wenn die Leinwand hinter ihnen abgeschaltet wird, solange sie nur selbst die Folien auf dem eigenen Monitor sehen können. Oder umgekehrt: Nimmt man diesen Vortragenden ihre Folien weg, wissen sie nicht mehr, was sie sagen wollen.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 30: Folie als Skript | Folien von Jöran Muuß-Merholz unter CC 0*
+
+## Kann man Skript und Dokumentation nicht fusionieren?
+
+Nun könnte man glauben, dass das Skript doch gut als Dokumentation dienen könnte, dass man also zumindest die beschriebenen Funktionen B. und C. fusionieren könnte. Das stimmt, solange das Skript eher einem Vortragstext ähnelt - was in der Regel aber mit einem langweiligen Vortragsstil verbunden sein wird. Bei einem lebendigen Vortragsstil enthält das Skript neben dem Inhalt vor allem Regieanweisungen an den Referenten selbst. Das können zum Beispiel Fragen an das Publikum, Notizen zu Murmelpausen oder Anleitungen für sonstige Interaktion sein, die man im Vortrag einbauen will. Oder man fügt ergänzende Daten oder Quellenangaben ein, die einem im Vortrag eine gewisse Flexibilität erlaubt, wenn das Publikum nachfragt. Ganz zu schweigen von Folien, die man "auf Vorrat" einbaut, um im Falle eine entsprechenden Diskussion gezielt auf bestimmte Aspekte eingehen zu können.
+
+Auf jeden Fall handelt es sich beim Skript um Inhalte, die sich an den Vortragenden selbst richten - also an den einzigen im Raum, der an der Dokumentation nicht interessiert sein wird.
+
+## Die drei unvereinbaren Funktionen von Vortragsfolien
+
+Hier eine Übersicht über die drei Funktionen, die Powerpoint & Co. niemals gleichzeitig erfüllen können.
+
+<table>
+  <tr>
+    <th></th>
+    <th>Visualisierung</th>
+    <th>Dokumentation</th>
+    <th>Skript</th>
+  </tr>
+  <tr>
+    <th>Was?<br/>Inhalte</th>
+    <td>Metapher-Bilder, Kernaussagen etc.</td>
+    <td>Zusammenfassung, Verweise</td>
+    <td>Inhalte, Notizen zum Vorgehen</td>
+  </tr>
+  <tr>
+    <th>Wer?<br/>Zielgruppe</th>
+    <td>Publikum</td>
+    <td>nicht Anwesende, Publikum nach dem Vortrag</td>
+    <td>Vortragender</td>
+  </tr>
+  <tr>
+    <th>Wann?<br/>Timing</th>
+    <td>live</td>
+    <td>nachträglich</td>
+    <td>vorträglich</td>
+  </tr>
+  <tr>
+    <th>Wozu?<br/>Funktion</th>
+    <td>Gesagtes unterstützen</td>
+    <td>Vortrag ersetzen / ergänzen</td>
+    <td>Erinnerung stützen</td>
+  </tr>
+  <tr>
+    <th>Wie?<br/>Medienformen</th>
+    <td>viel Bild</td>
+    <td>viel Text</td>
+    <td>viel Text</td>
+  </tr>
+  <tr>
+    <th>Wo?<br/>Darstellung</th>
+    <td>große Leinwand</td>
+    <td>Papier / PDF</td>
+    <td>Laptop / Monitor</td>
+  </tr>
+</table>
+
+# Gute Folien machen Arbeit
+
+Ein wichtiger Grundsatz für gute Vortragsfolien lautet also schlicht: Folien dienen ausschließlich der Visualisierung des Vortrags. Die Dokumentation des Vortrags und das Skript des Vortragenden haben auf der Leinwand nichts verloren!
+
+Das klingt so banal, wie es im Alltag schwierig ist. Wobei "schwierig" das falsche Wort ist. Es macht halt Arbeit, gesondert eine Dokumentation zu erstellen und das Skript von den Folien zu trennen.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 31: Merksatz für gute Folien | Abbildung von Jöran Muuß-Merholz unter CC 0*
+
+#### Ursprung:
+
+Dieser Text in seiner Blog-Version erschien am 02.04.2017 auf https://joeran.de/powerpoint-tohuwabohu
+
+
+---
+
+
+# Neue Lernräume - Barcamps bieten Räume für eine Kultur der Digitalität
+
+*Dejan Mihajlović*
+
+In einer sich wandelnden Gesellschaft gilt es auch die Lernräume zu untersuchen, die veränderte, neue und notwendige Lernprozesse in einer Kultur der Digitalität ermöglichen. Ein Barcamp kann zwar keine starren und festgelegten Schulstrukturen ersetzen oder reformieren, es kann darin aber zeitgemäße Lernräume bieten und die Schulkultur verändern - also neue Rollen für das Selbstverständnis von Lehrenden und Lernenden anbieten. Die Umsetzung an Schulen ist als eine schulinterne Fortbildung, als Schultag mit unterschiedlichen Gruppierungen oder auch als offener Raum für einen interdisziplinären Austausch möglich.
+
+## Was ist ein Barcamp?
+
+Ein Barcamp wird zu den Open Space-Methoden gezählt und ist ein offenes, flexibles, partizipatives, weder hierarchisches noch geplantes und größtenteils freies Veranstaltungsformat. Bezeichnend ist dabei, dass das Programm zu Beginn des Tages nur aus einer Übersicht mit einem zeitlichen und räumlichen Rahmen besteht, die von den Teilnehmenden vor Ort durch ihre Angebote, den sogenannten Sessions, gefüllt wird. Deshalb wird bei Barcamps auch häufiger von Teilgeber_innen gesprochen - wer teilnimmt, beteiligt sich auch inhaltlich.
+
+Das erste Barcamp wurde 2005 in Kalifornien durchgeführt. Programmierer hatten sich dabei über mehrere Tage bei einem Camp frei organisiert. (Das Bar steht für einen Platzhalter in der Informatik.) Die Idee dazu resultierte aus der Beobachtung, dass bei klassischen Konferenzen die Kaffeepausen die produktivsten Phasen der Veranstaltung darstellen. Das Barcamp versucht einen Rahmen zu bieten, der diese Phase über einen ganzen Tag verteilt ermöglicht. Die Barcamp-Regeln, die Programmerstellung und Rahmenbedingungen bilden dabei drei tragende Säulen.
+
+## Barcamp Regeln
+
+### 1.) Du
+
+Es wird geduzt. Auf einem Barcamp sollen Hierarchien abgelegt werden, Begegnungen auf Augenhöhe stattfinden und der Fokus bei der Sache liegen. Gerade bei interdisziplinären Barcamps kann das ein wesentlicher Faktor für den Erfolg oder Misserfolg eines Barcamps sein. (Tipp: Der Hinweis, dass es sich um ein temporäres Du handelt, erhöht die Bereitschaft bei skeptischen Haltungen.)
+
+### 2.) Sprich darüber
+
+Es wird meist ein gemeinsamer Hashtag vereinbart, mit dem Ideen und Informationen des Barcamps (meist zeitgleich) auch über soziale Netzwerke geteilt werden sollen. Hier wird zum ersten Mal deutlich, dass ein Barcamp nicht nur eine Methode, sondern eine Haltung und ein verändertes Selbstverständnis im Kontext von Bildung in der Kultur der Digitalität ist, das die rein physischen Lernräume überwindet.
+
+### 3.) Teilgeber_innen
+
+Bei einem Barcamp ist das Mitdenken, Mitreden und Mitarbeiten aller Beteiligten nicht nur ein Wunsch, sondern ein zentrales Merkmal. Ob das gelingt, hängt von der Haltung der Anwesenden als auch von der Moderation der Sessions und des Barcamps ab.
+
+### 4.) Sessions
+
+Eine Session dauert 45 Minuten und kann ein Impulsvortrag, ein Workshop oder eine Diskussion über eine offene Fragestellung sein. Ein Impulsvortrag sollte maximal 20 Minuten dauern, damit mindestens 25 Minuten, der größere Teil der Session, für den Austausch genutzt werden. Häufig ist es erlaubt und sogar gewünscht, zu unterbrechen und Fragen zu stellen.
+
+### 5.) Gesetz der zwei Beine
+
+Es kann vorkommen, dass sich eine Session in eine Richtung entwickelt, die sich nicht mit den eigenen Vorstellungen und Erwartungen deckt. Dann hat man jederzeit das Recht, das Gesetz der zwei Beine in Anspruch zu nehmen und den Raum zu verlassen. Deshalb stehen bei Barcamps auch meist die Türen offen. Auch wenn es von außen betrachtet als Abwertung des Sessionangebots verstanden werden kann, ist es das nicht - im Gegenteil. Einer Person, die eine Session anbietet, wird mit Menschen, die intrinsisch motiviert sind und nicht aus falsch verstandener Höflichkeit sitzenbleiben, mehr Respekt gezollt. Sie bieten die Grundlage für einen ergiebigen Austausch.
+
+### 6.) Dokumentation
+
+Bevor eine Session beginnt, müssen die Personen, die sie anbieten, zuerst jemanden finden, der protokolliert. Das Protokoll sollte die wesentlichen Fragen, Ideen, Lösungsansätze und weitere Hinweise enthalten, bzw. skizzieren. Das ist u.a. deshalb notwendig, weil bei einem Barcamp verschiedene Sessions zeitgleich ablaufen und so nachträglich die verpassten Angebote nachgelesen oder im Netz anderen Interessierten zur Verfügung gestellt werden können.
+
+## Ein Programm wird gemeinsam erstellt
+
+Nachdem am Anfang eines Barcamps die Regeln besprochen wurden, stellen Anwesende der Reihe nach dem Plenum ihre Themen vor. Das kann ein Impulsvortrag oder Workshop sein, den sie bereits vorbereitet haben oder eine Frage, die sie schon länger umtreibt oder die sich ihnen spontan stellt. Ein gut gewählter Titel und eine kurze, knackige Erklärung, worum es gehen soll, sind bei der Vorstellungsrunde die halbe Miete. Danach wird per Handzeichen das allgemeine Interesse abgefragt. Wenn Hände hochgehen, findet das Angebot statt und wird im Programm einem Raum und einer Zeit zugewiesen. Wenn nicht, findet es nicht statt. Handzeichen sind dabei nur eine Interessenbekundung, keine verbindliche Zusage. So entsteht am Ende ein Tagesprogramm, das von allen gemeinsam ausgehandelt wird, orientiert an Bedürfnissen und Bedarfen.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 32: Neue Lernräume - Barcamps | CC 0*
+
+## Rahmenbedingungen
+
+Damit die anfangs beschriebene Kaffeeatmosphäre erreicht werden kann, ist der Rahmen eines Barcamps elementar. Die Räume sollten möglichst attraktiv gestaltet sein. Dafür die Schule zu verlassen, wenn es möglich ist, hat sich als förderlich erwiesen. Weitere begünstigende Faktoren sind die Versorgung und die mediale Ausstattung. Deshalb sollte Essen und Trinken für die Sessions und kleinen und großen Pausen vorhanden sein. (Gerade in der Mittagspause wird das gemeinsame Essen für den Austausch und Reflexionen der ersten Sessions genutzt.) Eine gute technische Infrastruktur und vielfältiges Material für die Arbeitsprozesse sollte allen Räumen bereitgestellt werden. Das fängt bei Flipcharts an und geht bis zu mobilen Endgeräten mit WLAN-Zugang.
+
+Je nach Ziel eines Barcamps müssen die Regeln und Rahmenbedingung punktuell angepasst werden. Bei einer schulinterne Fortbildung, die im Rahmen von Schulentwicklung stattfindet, sollten beispielsweise die Protokolle verbindlicher und konkreter sein. Bei einem Barcamp mit Schüler_innen müssen diese bei der Moderation von Session manchmal unterstützt werden. Wenn es um einen interdisziplinären Austausch geht, sollte zu Beginn eines Barcamps das gegenseitige Kennenlernen stärker in den Fokus genommen werden.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 33: Essen an einem Barcamp | Foto Dejan Mihajlović unter CC 0*
+
+## Wofür ein Barcamp?
+
+In den letzten Jahren habe ich viele unterschiedliche Barcamps geplant und umgesetzt. An Schulen, im Rahmen eines pädagogischen Tages, mit Schülervertretungen als Fortbildung oder mit diversen Gruppen, wie beim jährlich stattfindenden Barcamp Lernräume in Freiburg. Bei allen stand eine zentrale Idee im Mittelpunkt: Freiräume zu schaffen, in denen gemeinsam mit- und voneinander gelernt werden kann, in denen die Rollen des Lernenden und Lehrenden wechseln können. Offen, flexibel und selbstbestimmt. Freiräume, die (oft unbekannte) Potenziale der Beteiligten transparent machen, sie sich entfalten und wertschätzen lassen. Dieses Loslösen von bekannten und vorgegeben Strukturen und Hierarchien, der gewagte Kontrollverlust, lässt erfahrungsgemäß auch kognitive Freiräume entstehen. Spätestens jetzt wird deutlich, dass ein Barcamp mehr als eine Methode ist. Es ist eine Haltung. Menschen mit dieser Haltung fühlen sich in der Kultur der Digitalität wohl, sie kommunizieren gern im Netz.
+
+Die neuen Lernräume eines Barcamp können genutzt werden, um Schüler_innen sich auf einen Abschluss vorbereiten zu lassen. So können sie ihre Fragen und ihr Wissen einbringen. Barcamps können im Schulentwicklungsprozess genutzt werden, um alle Beteiligten zu ermöglichen, sich mit ihren Anliegen und Ansätzen zu beteiligen. Sie können aber auch ein Begegnungsraum für außerschulischen Kooperationspartnern sein, um sich neue Impulse zu holen und sich zu vernetzen.
+
+Was aber alle Barcamps gemeinsam haben, ist das Gefühl, das kein Text einfangen kann, das sich nur erleben lässt. Bei den "richtigen" Rahmenbedingung und Beteiligten stellt sich eine Form der Euphorie ein, ein Spirit, der einen durch den Tag trägt. Und weil sich das nur erfahren lässt, gibt es nur eine Lösung, um ein Barcamp zu verstehen: Selbst zu einem Barcamp zu gehen.<a href="#footnote54" class="footnote">54</a>
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 34: Sessionplanung Barcamp | Foto Dejan Mihajlović unter CC 0*
+
+#### Ursprung:
+
+Dieser Text erschien in seiner Blog-Version am 27.05.2017 auf https://mihajlovicfreiburg.com/2017/05/27/barcamp-macht-schule
+
+#### Empfehlungen zum Weiterlesen:
+
+- Axel Krommer hat ausführlich darüber geschrieben, was die Kultur der Digitalität bedeutet: <a href="#p483">Paradigmen und palliative Didaktik</a>.
+- Weshalb Reformpädagogik in die neuen Lernräume gehört, erklärt Jöran Muuß-Merholz in diesem Beitrag: <a href="#p290">Aufforderung zum Tanz! Damit neue Medien nicht alte Pädagogiken optimieren</a>.
+- Weshalb das Erkunden neuer Lernräume nicht nach dem "Einfach mal machen"- Prinzip geschehen sollte, erklärt hier Axel Krommer: <a href="#p991">Die Nike-Didaktik Oder: Warum man auf den pädagogischen Grundsatz "Einfach machen!" verzichten kann</a>.
+
+
+---
+
+
+# Von der "Schulcloud" zur lebenslangen "Bildungsakte": Wohin bewegt sich das digitale Bildungssystem?
+
+*Martin Lindner*
+
+Immer neu verhandeln wir "Digitalisierung" so, als ob Mensch und Technik sich entgegenstünden. Das tun diejenigen, die Internet und Smartphone als sehr begrenztes Werkzeug mit mehr oder weniger didaktischem "Mehrwert" verstehen und ansonsten so weit wie möglich aus den Schulen verbannen wollen. Aber eigentlich tun wir das auch, wenn wir die gute, menschliche Graswurzel-Digitalität (human-centered) gegen die allumfassende Kontroll- und Vorhersagemacht der gefährlichen, natürlich ausländischen Big Data-Konzerne ausspielen.
+
+Ganz falsch ist das alles nicht, aber es verdeckt den Blick auf die Eigendynamik im großen digitalen Umbruch, in dem wir stehen. Die Bildungsvisionäre aus dem Silicon Valley haben einen großen Vorteil: Sie denken in viel größeren und längerfristigen Zusammenhängen. Aus dieser Perspektive ist es dann gar nicht mehr die Frage, ob alle Bildungsdaten einmal miteinander vernetzt sein werden. Früher oder später wird das auf jeden Fall passieren, und zwar ganz ohne bösen Masterplan. Letztlich wirkt hier die innere Logik des technosozialen Fortschritts selbst. Was digitalisiert werden kann, wird auch digitalisiert werden. Was vernetzt werden kann, wird auch vernetzt werden.
+
+Auf allen Ebenen zielen die großen Entwicklungstendenzen auf diesen einen Fluchtpunkt: die Logik der Technik, die Logik der staatlichen Bürokratien, die Logik der Wirtschaft, die Logik der sich selbst immer genauer reflektierenden Gesellschaft. Selbst wenn wir es wollten, wir haben dem nichts entgegenzusetzen. Vielmehr können und müssen die, die ein emanzipatorisches Menschenbild pflegen, die innere Logik dieser großen Entwicklung so gut wie möglich verstehen, um sie dann konstruktiv zu benutzen und mit politischen und zivilgesellschaftlichen Eingriffen in eine bessere Bahn zu lenken.
+
+Das alles wird im Umgang mit der "Schulcloud" besonders deutlich. Eigentlich bedeutet sie ja nichts anderes als: Alles, was mit Schule zu tun hat, wird digital ins Netz gespiegelt. Das hat weitreichende Konsequenzen, und die Weichen werden jetzt gestellt. Doch niemand debattiert derzeit die Möglichkeiten und Gefahren, die sich hier tatsächlich ergeben. Es gibt noch nicht einmal den Versuch, die vielen Teilbedeutungen von "Cloud" im Zusammenhang mit der Schule zu präzisieren und so gegeneinander abzugrenzen, dass man weiß, worüber man gerade redet. Die einen befassen sich mit Moodle, Filesharing und digitalen Schulbüchern, während sich im Hintergrund grundsätzlich neue Strukturen ausformen.
+
+## Die digitale Bildungsakte
+
+Wie können wir uns am besten einen Begriff davon machen, was hier geschieht? Ich empfehle, einen Blick auf das Gesundheitssystem zu werfen. Wie in allem, was mit dem Netz zu tun hat, ist Deutschland auch hier sehr langsam, aber die Diskussion ist doch schon weiter fortgeschritten, und in Dänemark und Estland zeichnet sich bereits ab, wohin die Reise geht. Faustregel: Alles, was mit Gesundheitsdaten geschieht, wird früher oder später auch mit Bildungsdaten geschehen. Die "Schulcloud" wird Teil einer umfassenden "Bildungscloud" sein, und für alle lebenslangen LernerInnen wird es so etwas Ähnliches geben wie eine digitale "Gesundheitskarte", eine "Patientenakte" und eine "Gesundheitsakte". In den nächsten Absätzen habe ich einen guten Überblicksartikel zur bisher fortgeschrittensten eHealth-Infrastruktur, Dänemarks Gesundheitsportal www.sundhed.dk, genommen und alle Schlüsselbegriffe durch solche aus dem Bildungssystem ersetzt. In ein paar Jahren werden wir also ungefähr das Folgende lesen:
+
+> "Beeindruckende Erfolgsbilanz für die nationale Bildungsplattform www.bildung.de! Ein Viertel der Deutschen besucht sie jeden Monat. Das ist viel mehr als nur eine Info-Website. bildung.de soll für alle BürgerInnen Anlaufstelle Nummer eins in allen Bereichen ihrer Bildung sein. Über Smartphone oder mobil hat jede/r hat jeder Zugriff auf die eigenen Daten und kann sie gezielt anderen zur Verfügung stellen.
+
+> Das ist keine altmodische Bildungskarte mehr, die nur Basisdaten enthält wie Schule/Hochschule, Klasse/Jahr und erreichte Abschlüsse. Aber es ist auch viel mehr als nur eine zusammengefasste digitale Bildungsakte, die in digitaler Form alles zusammenfasst, was die Schulen, Hochschulen oder andere Bildungs-Dienstleister wie etwa Bildungstherapeuten, Bildungs-Reha-Einrichtungen oder staatliche Bildungs-Betreuungsdienste in ihren einzelnen Klientenakten speichern. bildung.de ist eine moderne Informations- und Kommunikationsinfrastruktur entlang des Bildungspfads. Drei wichtige Erfolgsfaktoren gibt es: die Entwicklung von einheitlichen Standards für den Datenaustausch; die bruchlose Kommunikation zwischen allen Akteuren im Bildungswesen; der Aufbau von Vertrauen in das System bei denen, die alle ihre Bildungsdaten dort einspeisen, bis hinunter zu einzelnen Logfiles und Klickpfaden.
+
+> Wie funktioniert das? Mit der persönlichen Identifikationsnummer kann sich jede/r Deutsche in den Bereich 'Mein Bildungsstand' bei bildung.de einloggen. Dort erhält man einen Überblick über die komplette Bildungsgeschichte: Diagnosen, Lerngeschichten, Prüfungen, empfohlene App-Lernpläne, Testbefunde, Durchleuchtungen und Scans, Datenübersichten und Datenkurven, Bildungs-Laborwerte, Referenzen und Überweisungen an Fach-Lehrer an anderen Institutionen. Sämtliche Informationen aus elektronischen Bildungsakten kann der Bildungsklient über das Portal zentral abrufen und lokal für sich speichern.
+
+> Und nicht nur das: Über bildung.de können die BildungsklientInnen auch Stunden und Kurse vereinbaren, Bildungsgutscheine beantragen, sich mit anderen Betroffenen austauschen oder sich ganz allgemein und fundiert über Bildung, Lernziele, Fachgebiete, Curricula und mögliche Lernpfade informieren - in der Regel via Smartphone-App. Mit der Zustimmung der sich Bildenden können Lehrpersonen, Institutionen oder Bildungs-Apps auf die dort gespeicherten Bildungsdaten zugreifen. Auch die Bildungsversorger und Bildungsdienstleister können sich im Portal untereinander austauschen und aktuelle Fachinformationen einholen. Zudem nutzen sie das Portal für die Berechnung bzw. Abrechnung von Bildungsdienstleistungen.
+
+> Umfragen zufolge geben 24 % der Deutschen an, dass sich der Bildungsverlauf durch die Nutzung des Portals verbessert habe. 41 % sagen, sie hätten ein besseres Verständnis ihres Bildungsprozesses gewonnen. Nationale Evaluierungen zeigen ebenfalls positive Ergebnisse: Die Bildungsausgaben sind unter Kontrolle, die Schul- und Studienabbrüche sind gesunken. ..."
+
+## Die HPI Schul-Cloud
+
+Von einer solchen Plattform scheinen wir aus heutiger Sicht noch sehr weit entfernt. Zwar gibt es zahlreiche Projekte, die als Schulcloud bezeichnet werden, aber es ist nicht absehbar, dass sie zu einem großen Ganzen zusammenwachsen. Erst einmal geht es dabei um digitale Dienste, die nach den Maßstäben des wildwüchsigen Internet recht unspektakulär sind: So etwas wie elektronische Notenbücher, Filesharing nach dem Dropbox-Modell, Kursmanagement-Systeme (LMS) oder auch elektronische Notenbücher, die von allen Endgeräten und Plattformen aus zugänglich sind. Manche Projekte entstehen gerade (Dibis), andere sind gerade gescheitert (Ella, Logineo). Dazu steuern private Unternehmen Bausteine zum großen Cloud-Kuckucksheim bei: LMS-Plattformen wie itslearning, mehr oder weniger "künstlich intelligente" Mathe-Drillumgebungen wie bettermarks, zahlreiche Nachhilfe-Videoplattformen mit "Erklärvideos" und die Schulbuchverlage mit "digitalen Büchern". Ein recht bunter Zoo, und solange es keine standardisierten Datenschnittstellen gibt, muss man sich darüber keinegroße Gedanken machen. Das alles ist Schulcloud, es spielt sich in "der Cloud" ab, aber es verstellt eher den Blick darauf, was das eigentlich bedeutet.
+
+Die Ausnahme könnte die ausdrücklich so getaufte "Schul-Cloud" sein, die das Hasso Plattner-Institut (HPI) seit 2017 entwickelt. Sie soll nämlich "die technische Grundlage schaffen, dass Lehrer und Schüler in jedem Unterrichtsfach auch moderne digitale Lehr- und Lerninhalte nutzen können". Das umfasst ehrgeizige Ziele wie ein "virtuelles Lehrerzimmer" und eine eigene Umgebung für Teams- und Gruppenarbeit außerhalb der eigentlichen Kurse und Klassen.*
+
+Erst einmal sieht das so aus, als sei das schon wieder ein LMS, wenn auch diesmal eines, das zumindest oberflächlich in Sachen Technik und Methoden modern daherkommt. Aber das HPI hat eine Filiale im Silicon Valley und dadurch eine weitere Perspektive als die anderen deutschen Mitspieler auf diesem Feld. Hasso Plattner, einer der SAP-Gründer, hat seinem Institut anscheinend die kalifornische Think big!-Devise mitgegeben. Der Direktor Christoph Meinel scheint das zu beherzigen. Als er die Schul-Cloud angekündigte, führte er den Hintergrund aus: Beim IT-Gipfel 2016 sei nämlich aus einer Arbeitsgruppe aus Firmenkontexten, aus Bildungseinrichtungen, aus Ministerien heraus die Vision einer "Bildungscloud" entstanden:
+
+> "Wir glauben nämlich dass diese Bildungscloud einen Markt schafft, den wir noch nicht haben, für digitale Bildungsangebote. Man kann einen Wettbewerb entstehen lassen. Denken Sie an sowas wie Amazon. Wir nennen das einen Bildungsatlas: Wer XXX gemacht oder gelernt hat, hat sich dann für YYY interessiert. Wenn man mal solche Daten hat, kann man das analysieren, im Bereich der Bildung, und über [amazonartige] Effekte nachdenken. In der Cloud ist es so, dass ich ganz viele Bildungsbiografien vergleichen kann. Abbruchraten und so etwas ..."
+
+Diese "Bildungscloud" kommt der Plattform recht nahe, die Ende 2018 von einer CDU-Arbeitspruppe unter dem Projektnamen MILLA für die Weiterbildung vorgeschlagen worden ist. MILLA steht für "Modulares Interaktives Lebensbegleitendes Lernen für Alle". Vorbild für die Gestaltung sollen nutzerzentrierte kommerzielle Plattformen wie Netflix sein. Für MILLA soll eine Art digitales Verzeichnis von Kursen sein, aber auch KI-gesteuerte Inhalte sind vorgesehen: wie ein "begehbares Multimedia-Lehrbuch, dynamisch und personalisiert". Die Einzelheiten sind undeutlich, aber jedenfalls soll vieles über Punkte organisiert werden: Lernende bekommen Zertifikatpunkte, Prämienpunkte, Lernpunkte ... Irgendwie würde das wohl auch mit Bildungsguthaben und der Bezahlung von Bildungsanbietern zusammenhängen.
+
+## Weichen stellen
+
+Man bekommt ein ungefähres Bild von der Richtung, in die es geht, wenn man die HPI-Bildungscloud nimmt, dann die Brücke zu MILLA schlägt und schließlich die anderen schulischen Entwicklungslinien hinzufügt, die zu einer umfassenden Cloud weisen. So ist es absehbar, dass es eine schulische Content-Cloud geben wird. Im Frühjahr 2019 startete VIDIS ("Vermittlungsinstitut digitale Schule"), ein Projekt "auf KMK-Ebene, um allen Ländern ein System für digitales Rechtemanagement auf datenschutzrechtlich sicherer Basis zur Verfügung zu stellen". Offiziell ist noch nichts bekannt, aber es scheint darum zu gehen, eine Cloud-Brücke zwischen den Schulen und den Inhalten von Schulbuchverlagen und anderen Anbietern herzustellen. Auf einer ganz anderen Ebene folgenreich werden in den nächsten Jahren die Bestrebungen von Microsoft sein, das die neue Cloud-Plattform Office 365, die künftig draußen in der Berufswelt der Standard sein wird, jetzt auch als enorm leistungsfähige Edu-Version in die Schulen bringen will.
+
+Man darf sich das alles nicht als einen Masterplan vorstellen, der in irgendwelchen Hinterzimmern ausgearbeitet wird. Es handelt sich eher um parallele Wirkungen der großen Digitalen Transformation, in der wir stehen. Die Digitalisierung von unordentlichen menschlichen Aktivitätsfeldern äußert sich immer darin, dass man möglichst Vieles durch möglichst granulare Daten modelliert, die man dann aus dem Kontext nehmen und auf verschiedenste Arten weiterverarbeiten kann. Welche Architekturen und welche Lösungen sich dabei am Ende durchsetzen werden, ist nicht abzusehen.
+
+Es ist durchaus glaubhaft und respektabel, wenn das HPI versichert, dass seine Schul-Cloud sich am Prinzip der Datensparsamkeit ausrichtet. Trotzdem ist die Intransparenz und Unklarheit dieser Entwicklungen ein großes Problem. Es gibt bisher keine Verständigung darüber, was schulisches Lernen und Lehren in der Cloud eigentlich sein soll und sein kann. Wir wissen nicht, was man sich etwa beim BMBF oder bei der Kultusministerkonferenz darunter genau vorstellt. Welche verschiedenen Konzepte von "Schulcloud" werden dort unterschieden und gegeneinander abgewogen, und aufgrund welcher Kriterien
+
+De facto tut man bisher so, als handele es sich nur um Erweiterungen des herkömmlichen Systems, aber das ist nicht wahr. Wie der Vergleich mit eHealth zeigt, werden daraus langfristig ganz neue Strukturen entstehen. Sobald die Schulen "in der Cloud" sind, verändert sich nicht nur das Verhältnis zwischen den Lernenden, den Lehrenden und dem staatlichem Bildungsmanagement, sondern auch zwischen den Bildungsanstalten und ihrer Umwelt - das Verhältnis zum Bildungsmarkt, aber auch zum offenen Raum der permanent lernenden Zivilgesellschaft.
+
+Die Entwicklung hin zu einer Bildungscloud wird noch viele Jahre dauern, aber die Weichen werden jetzt schon gestellt. Die Frage ist nicht mehr, ob wir eine Cloud brauchen, sondern welche. Wird es eine "Cloud von unten" oder eine "Cloud von oben" sein? Für welche Software-Architektur entscheidet man sich? Für welches Rollen- und Rechte-System und vor allem für welchen Umgang mit den Bildungsdaten? Welche Perspektiven und Interessen werden ins Zentrum gestellt - die der Lernenden, die der Lehrenden oder die der Bildungsmanager?
+
+Die Frage nach der Architektur und den damit verbundenen Weichenstellungen muss auf jeder Ebene gestellt werden. Provisorisch könnte man etwa unterscheiden zwischen (1) der lernerzentrierten Cloud als Umgebung für konkrete Lernerfahrungen; (2) der lehrerzentrierten Klassen-Cloud; (3) der schulischen Cloud; (4) der Landes-Schulcloud; (5) einer bundesweiten Bildungscloud. Auf jeder Ebene entstehen andere Datenprofile, andere Machtverhältnisse, andere Rollen, andere Grade von Ermächtigung und Emanzipation. Man kann die einzelnen Ebenen bewusst voneinander trennen oder in einer großen Big Data-Apparat aufgehen lassen. Solche Entscheidungen mit langfristigen Folgen dürfen nicht Software-Architekten und Bildungsbürokraten überlassen bleiben. Sie müssen transparent gemacht und öffentlich ausdiskutiert werden. Technologieskeptische Verweigerung ist keine Option. Wenn wir darauf verzichten, als Anwälte der Lernenden einen positiven und proaktiven Entwurf für die Schul- und Bildungscloud zu formulieren, wird das Ergebnis nicht etwa "Freiheit von der Herrschaft der Algorithmen" sein. Im Gegenteil: Dann werden vermeintliche Sachzwänge entscheiden und diejenigen Varianten sich durchsetzen, die aus der Perspektive der großen Systeme logisch erscheinen.
+
+#### Ursprung:
+
+Dieser Text ist ein Originalbeitrag, der zuvor noch nicht erschienen ist.
+
+#### Empfehlungen zum Weiterlesen:
+
+- Dräger, Jörg/Müller-Eiselt, Ralph (2015): Die digitale Bildungsrevolution: Der radikale Wandel des Lernens und wie wir ihn gestalten können. München: Deutsche Verlags Anstalt.
+- Zur Ausgestaltung einer dezentralen "Content-Cloud": Heinen, Richard/Muuß-Merholz, Jöran (2017): Wolkige Aussichten - (k)eine Bildungscloud für OER. In: C+U COMPUTER + UNTERRICHT 106 (2017). S. 40-41.
+- Interessanter Bericht zum ersten MILLA-Expertenaustausch im Bundestag: Brandt, Peter (2019): Milla will vor allem eines: schnell da sein. Online-Quelle: https://wb-web.de/aktuelles/milla-will-vor-allem-eines-schnell-da-sein.html (01.05.2019)
+- Kostera, Thomas/Briseño, Cinthia (2018): Von Dänemark lernen: Vertrauenswürdigkeit, Standards und eine Strategie für ein nationales Gesundheitsportal. Zugänglich auf der Webseite der-digitale-patient.de der Bertelsmann Stiftung.
+- Krommer, Axel: <a href="#p776">Wider den Mehrwert! Argumente gegen einen überflüssigen Begriff</a>.
+- Kucklick, Christoph (2014): Die granulare Gesellschaft: Wie das Digitale unsere Wirklichkeit auflöst. Berlin: Ullstein.
+- Lindner, Martin (2018), Die Bildung und das Netz. Wie leben und lernen wir im digitalen Klimawandel? Piding: Wissmuth Press.
+
+
+---
+
+
+# Erklärung der digitalen Lernerrechte
+
+*Martin Lindner u.a.*
+
+Damit Kinder und Jugendliche im Netz lernen können, brauchen sie entsprechende Rechte. Eine entsprechende Erklärung hat eine Gruppe rund um Sebastian Thrun und Philipp Schmidt 2012 in Kalifornien formuliert. Martin Lindner hat zusammen mit Interessierten eine deutsche Übersetzung angelegt (vgl. Lindner et al. 2013), aus der der folgende Ausschnitt entnommen wurde.
+
+## Präambel
+
+Wir glauben, dass für das Überleben und Gedeihen unserer Kultur das Lernen, Verlernen und Umlernen künftig so wichtig und selbstverständlich sein werden wie das Atmen. Und wir fordern daher, für alle Lernenden unveräußerliche Rechte, die auf die neu entstehenden digitalen Umgebungen zu übertragen sind. Dazu gehören:
+
+## Das Recht auf Zugang
+
+Alle sollten das Recht haben zu lernen: Schülerinnen und Schüler, Studierende und viele andere, ob sie an einer Bildungseinrichtung lernen oder nicht; Erwachsene, Kinder und Lehrende; unabhängig von Alter, Geschlecht, Ethnie, sozialem oder wirtschaftlichem Status, sexueller Orientierung, nationaler Herkunft, körperlicher Befähigung; unabhängig von ihrer Lebensumwelt und überall auf der Welt. Um dieses "Recht auf Zugang" zu gewährleisten, sollen Lernangebote erschwinglich und in vielfältigen Formaten, vor Ort und für entfernt wohnende Lernende verfügbar sein. Sie müssen immer wieder anpasst werden, an unterschiedliche Lebensstile und Lebensumstände, Mobilitätsbedürfnisse und Zeitrahmen. Online-Lernen kann sicherstellen, dass dieses "Recht auf Zugang" für einen größeren Anteil der Weltbevölkerung Realität wird, als es jemals zuvor der Fall war.
+
+## Das Recht auf Privatsphäre
+
+Die Privatsphäre der Lernenden ist ein unveräußerliches Recht, unabhängig davon, ob das Lernen vor Ort stattfindet oder online. Die Studierenden haben ein Recht darauf zu wissen, wie die Daten über ihre Teilnahme von anbietenden Organisationen genutzt und anderen zugänglich gemacht werden. Anbieter sollen eindeutig klarstellen, ob und wie die einzelnen Aktivitäten der Lernenden gespeichert und ausgewertet werden.
+
+## Das Recht auf öffentliche Wissensproduktion
+
+Lernende agieren heute und in Zukunft in einem globalen digitalen Wissensraum. Sie haben daher das Recht zusammenzuarbeiten, Netzwerke zu bilden und öffentlich Wissen zu produzieren. Sie sollen ihre Ideen und ihre Lernergebnisse öffentlich sichtbar austauschen können, wenn sie dies wünschen. Online-Kurse sollen offene Teilnahme ermöglichen und auch Außenstehende sinnvoll mit einbeziehen, wo immer es möglich ist - Peers ebenso wie die breitere Öffentlichkeit.
+
+## Das Recht auf informationelle Selbstbestimmung und geistiges Eigentum
+
+Studierende haben das Recht auf ihr geistiges Eigentum. Das schließt auch die Daten ein, die mit ihrer Teilnahme an Online-Kursen in Verbindung stehen. Online-Studienprogramme sollen zu offenem Teilen und Austauschen ermutigen. Zugleich sollen Lehrende die Lernenden immer darüber aufklären, wie sie ihre eigenen Daten und die Resultate ihrer eigenen kreativen Arbeit schützen und lizenzieren können. Alle Änderungen der rechtlichen Vereinbarungen für die Teilnahme sollen vom Anbieter eines Online-Studienprogramms klar mitgeteilt werden. Nie sollen dabei die ursprünglichen Vereinbarungen über den Schutz der Privatsphäre oder das Recht auf geistiges Eigentum nachträglich abgeschwächt werden.
+
+## Das Recht auf finanzielle Transparenz
+
+Teilnehmende an einem Online-Studienprogramm haben ein Recht zu wissen, welche Folgen ihre Beteiligung auf eine etwaige Finanzierung der Anbieter von dritter Seite hat. Sie haben ein Recht auf Fairness, Ehrlichkeit und transparente Bilanzen. Dies gilt auch für Kurse, für die man nichts bezahlen muss. Anbieter sollen klar und eindeutig auch über indirekte finanzielle Auswirkungen aufklären, die sich aus der Auswertung der Lernaktivitäten und der Daten der Lernenden ergeben.
+
+## Das Recht auf pädagogische Transparenz
+
+Die Lernenden haben das Recht, die angestrebten Resultate eines Online-Studienprogramms oder einer Online-Lernen-Initiative im Voraus zu kennen - gleich ob es um pädagogische Ziele, Berufsbildung oder auch um grundsätzliche wissenschaftliche Erkenntnisse geht. Wenn der Anbieter irgendeine Beglaubigung der Lernergebnisse verspricht, gleich ob es sich um eine bloße Bescheinigung handelt, um eine Anerkennung ("badge" - "Abzeichen") oder um ein Zertifikat mit Bewertung, dann soll genau beschrieben und erklärt werden, welche Aussagekraft und Überprüfbarkeit diese Beglaubigungen besitzen. Das schließt auch Informationen darüber ein, wie solche Beglaubigungen im bisherigen Verlauf des Programms von anderer Seite, z.B. von Arbeitgebern oder Bildungsinstitutionen, bewertet wurden.
+
+## Das Recht auf Qualität und Sorgfalt
+
+Die Lernenden haben ein Recht auf Sorgfalt, Gewissenhaftigkeit, Engagement, Aufrichtigkeit und Innovation. Weder wird ihnen ein "Produkt" verkauft, noch sind sie selbst das "Produkt", das verkauft wird. Sie sind keine Konsumenten. Bildung ist auch Vertrauenssache. Lernen - nicht Unternehmensgewinn - ist das erste Ziel von Bildung.
+
+## Das Recht auf exzellente Lehrerinnen und Lehrer
+
+Alle Studierenden brauchen umsichtige Lehrerinnen und Lehrer, Moderatorinnen und Moderatoren, Mentorinnen und Mentoren sowie Lern-Partnerinnen und -partner. Sie brauchen Lernumgebungen, die ihre spezifischen Lernziele und Bedürfnisse berücksichtigen. Auch wenn einige von uns "Peer Learning"-Gemeinschaften bevorzugen - in formalen Bildungsszenarien halten wir alle es für fundamental, dass die Personen, die das Online-Lernen planen, betreuen und begleiten, angemessen geschätzt und in ihrer Arbeit unterstützt werden - und zwar finanziell, intellektuell und pädagogisch. Die Arbeitsbedingungen und die Kenntnisse der Lehrenden entscheiden hier über die Qualität der Erfahrungen der Lernenden.
+
+## Das Recht, selbst Lehrende zu sein
+
+In einer Online-Umgebung brauchen LehrerInnen nicht mehr exponierte Autoritäten zu sein. Sie sollen vielmehr die Verantwortung mit den Lernenden teilen. Lernende sollten jede Phase des Prozesses aktiv mitgestalten: durch Austausch mit den "Peers", durch neue Inhalte, durch Verbesserung der Lern-Materialien und durch die Bildung virtueller und realer Netzwerke. Die Lernenden haben das Recht, aktiv an der Gestaltung des eigenen Lernprozesses mitzuwirken. Die Lernenden sind Entscheidungsträger, Macher, Denker sowie Beiträger und nicht nur passive Empfänger von Vorlesungsunterlagen oder Objekte von Didaktiken. Sie wirken selbst substanziell mit - zunächst in ihren Disziplinen und auf ihren Arbeitsfeldern, aber auch beim umfassenden Projekt, Bildung in ihrer Gesamtheit weiterzuentwickeln.
+
+#### Ursprung:
+
+- Lindner, Martin und andere (ab 2013): Bill of Rights - Erklärung der Lernerrechte. Online-Quelle: https://drive.google.com/open?id=12sUZFaLEhBsSGDKDJXH3QKHBSfspNTTovNGJXDHwCVk (01.05.2019)
+- Der hier abgedruckte Text ist deckungsgleich mit dem gleichnamigen Abschnitt in: Lindner, Martin (2018): Die Bildung und das Netz. Wie leben und lernen wir im digitalen Klimwandel? Wissmuth Press: Piding
+
+#### Empfehlungen zum Weiterlesen:
+
+- Die Rechte sind auch deshalb wichtig, weil sie Partizipation ermöglichen - vgl. dazu den Text von Dejan Mihajlović: <a href="#p1140">Partizipation im digitalen Wandel - Neue Möglichkeiten und Notwendigkeiten der Beteiligung junger Menschen</a>.
+- Philippe Wampfler hat über die Kompetenz jugendlicher Lernender geschrieben - und weshalb sie nicht als "digital natives" bezeichnet werden sollten: <a href="#p879">Es gibt keine "digital natives". Medienkompetenz und Jugendliche</a>.
+- Die Bedeutung der Plattformen ist stark mit der Frage nach den Rechten von Lernenden verbunden: <a href="#p1462">Von der "Schulcloud" zur lebenslangen "Bildungsakte": Wohin bewegt sich das digitale Bildungssystem?</a>.
+
+
+---
+
+
+# Anhang
+
+
+---
+
+
+# Remixen Sie dieses Buch! <br/>Exkurs zu Open Educational Resources
+
+*Jöran Muuß-Merholz*
+
+Die Texte in diesem Buch stehen unter einer freien Lizenz, die das Kopieren, Weitergeben, Verändern und Nutzen erleichtert. Sie können also das ganze Buch oder einzelne Texte weitergeben, sowohl an einzelne Personen wie auch an Gruppen (z.B. ein Kollegium) als auch öffentlich (z.B. auf einer Website).
+
+Im folgenden Absatz finden Sie die formale Darstellung dieser Lizenz. Anschließend beschreiben wir die dahinter liegende Idee von freien und offenen Materialien, sogenannten Open Educational Resources.
+
+## Formal gesprochen
+
+Die Texte in diesem Buch stehen unter der Lizenz CC BY 4.0. Das ist die Abkürzung für Creative Commons Namensnennung 4.0 International. Einen Überblick über diese Lizenz finden Sie auf der folgenden Abbildung. Der volle Lizenztext ist auf https://creativecommons.org/licenses/by/4.0/legalcode.de zu finden.
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 35: Die CC BY 4.0 Lizenz | Screenshot von https://creativecommons.org/licenses/by/4.0/deed.de (abgerufen am 01.05.2019)*
+
+Einzelne Bausteine, z.B. Textabschnitte, Bilder, Grafiken und Arbeitsblätter, sind Übernahmen von Materialien Dritter. Auch diese stehen unter einer offenen Lizenz, deren Abkürzung dort jeweils angegeben ist. Die vollständigen Lizenzen finden Sie unter folgenden Links:
+
+- CC0 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+- CC BY 2.0 https://creativecommons.org/licenses/by/2.0/legalcode
+- CC BY 3.0 https://creativecommons.org/licenses/by/3.0/legalcode
+- CC BY 4.0 https://creativecommons.org/licenses/by/4.0/legalcode
+- CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/legalcode
+- CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Einige Abbildungen im Buch zeigen Screenshots von Websites. Die dort abgebildeten Inhalte sind unter Umständen urheberrechtlich geschützt, und die freie Lizenz erstreckt sich nicht auf sie. Auch die einzelne Darstellung von Logos und andere Darstellungen von Marken sind nicht durch freie Lizenzen abgedeckt.
+
+## Open Educational Resources (OER) - Lernmaterialien in der digitalen Welt
+
+Dieser Artikel "Open Educational Resources (OER) - Lernmaterialien in der digitalen Welt" steht unter der Lizenz CC BY 4.0. Als Autor soll "Jöran Muuß-Merholz / PÄDAGOGIK" genannt werden. Er erschien (in einer längeren Fassung) erstmals in der Ausgabe 4/2019 der PÄDAGOGIK.
+
+Lehrkräfte sind Remix-Künstler. Immer wieder verändern sie Lernmaterialien, damit sie auf die Bedürfnisse von Klassen, Lerngruppen oder individuellen Lernenden passen, aktuell bleiben, in den thematischen Kontext passen. Was früher an Anpassungen und Neu-Zusammenstellungen mit Stift, Schere, Klebestift und Kopierer passierte, ist heute auf digitalem Wege noch einfacher möglich - zumindest theoretisch.
+
+In der Praxis erschweren viele digitale Formate die Veränderung und Anpassung von Materialien erheblich. PDF-Dateien erlauben keine Bearbeitungen, Apps können nicht verändert werden und die urheberrechtlichen Rahmenbedingungen sind auch keine Erleichterung. Das Konzept von Open Educational Resources (OER) verspricht Abhilfe.
+
+## Freie Materialien
+
+Hinter OER steht ein urheberrechtlicher Kniff: Rechteinhaber, in der Regel also Urheber und Autoren, versehen die von ihnen erstellten Materialien mit einer freien Lizenz. Verbreitet sind die Lizenzmodelle, die die gemeinnützige Organisation Creative Commons (CC) rechtssicher entwickelt hat. Mit einer solchen Lizenz verzichten die Urheber nicht auf ihre Ansprüche, können aber allen Menschen pauschale Erlaubnisse geben. Dazu gehören im OER-Konzept die Erlaubnisse, dass jedermann die Materialien frei nutzen und kopieren, bearbeiten und verändern, sowie auch überarbeitete Materialien weitergeben darf. (Die Wikipedia wäre beispielsweise ohne eine solche Lizenz nicht denkbar.) Wenn die Materialien dann auch noch in einem bearbeitbaren Format bereitgestellt werden, dann wird aus einem traditionellen Lernmaterial ein freies Lernmaterial, eben eine Open Educational Resource (OER).
+
+## Politik und Graswurzel
+
+Das Thema OER hat in den letzten Jahren in Deutschland in der Bildungspolitik und in Graswurzel-Initiativen schnell an Bedeutung gewonnen. Sowohl die KMK-Strategie "Bildung in der digitalen Welt" als auch die Bundesregierung haben sich sich dem Thema verpflichtet, während gleichzeitig viele Lehrkräfte über das Internet ihre Materialien freigeben und sich bei Veranstaltungen wie den OERcamps treffen und vernetzen. Der Infokasten unten listet eine Reihe von Anlaufstellen auf.
+
+## Anlaufstellen für OER im Netz
+
+1. Das Projekt edulabs hat eine umfangreiche Sammlung "Bildung in der digitalen Welt" zusammengestellt. Die Unterrichtsideen sind nach den Kompetenzbereichen der KMK-Strategie sortierbar. https://edulabs.de/oer/
+2. 30 Hamburger Lehrkräfte entwickeln "Digitale Unterrichtsbausteine" als OER. Sie werden nach und nach auf https://digitallearninglab.de veröffentlicht.
+3. Das OERhörnchen bietet u.a. eine Suchmaschine speziell für Open Educational Resources. https://oerhoernchen.de/suche
+4. Das ZUM-Wiki ist eine offene Plattform für Lehrinhalte und Lernprozesse der Zentrale für Unterrichtsmedien im Internet e. V. mit Werkzeugen und praxisorientierten Sammlungen für verschiedene Fächer. https://wiki.zum.de
+5. Das SpieleWiki sammelt mehr 750 Spielen für jede Gelegenheit. Eine Sortierung ist nach Spieltypen, Spieleranzahl, Material, Ort und Thema möglich. http://www.spielewiki.org/
+6. tutory.de ist ein Webdienst zur Gestaltung von Arbeitsblättern mit automatisierter Verwaltung der Lizenzangaben und Leitfäden zur Nutzung von OER. https://www.tutory.de
+7. Serlo ist Lernplattform und Community für Mathematik (und Biologie) mit Materialien, Erklärungen, Kursen, Lernvideos und Übungsaufgaben. https://de.serlo.org
+8. Das Buch "Freie Unterrichtsmaterialien finden, rechtssicher einsetzen, selbst machen und teilen von Jöran Muuß-Merholz ist 2018 im Beltz-Verlag erschienen. Es ist selbst OER, so dass es auf der Website zum Buch heruntergeladen werden kann: www.was-ist-oer.de
+9. OERinfo - Informationstelle OER ist eine BMBF-finanzierte Plattform, die über grundsätzliche und aktuelle Entwicklungen zu OER in Deutschland informiert. Es gibt ein Dossier "Schule", einen Blog, einen Podcast und anderes mehr. www.open-educational-resources.de
+10. Die OERcamps sind Veranstaltungen, auf denen Lehrende aus allen Bildungsbereichen sich treffen, um miteinander und voneinander zum Thema OER zu lernen. www.oercamps.de
+11. Social Media: Zum Thema OER gibt es eine Facebook-Gruppe mit gut 1.500 Mitgliedern: facebook.com/groups/oerde. Bei Twitter gibt es einen Austausch unter dem Hashtag #OERde.
+
+
+---
+
+
+# Hinter dem Vorhang - <br/>wie dieses Buch entstanden ist
+
+*Axel Krommer, Martin Lindner, Dejan Mihajlović, Jöran Muuß-Merholz, Philippe Wampfler*
+
+Es ist ein Beispiel für Arbeiten und Zusammenarbeiten im digitalen Wandel. Es ist kein Hochglanz-Beispiel, es ist nicht spektakulär. Für uns ist es Alltag. Für diejenigen, die solche Arbeits- und Kommunikationsprozesse noch nicht aus eigener Erfahrung kennen, ist ein Blick hinter die Buch-Kulisse jedoch möglicherweise interessant.
+
+Im ersten Teil geben wir die Entstehungsgeschichte des Buchs wieder. Wir möchten zeigen, wie unsere sozialen Kontakte und unsere Arbeiten durch digitale Medien durchzogen sind. Nicht (nur) als Werkzeug, sondern als Welt, in der wir leben und arbeiten. Im zweiten Teil geht es um Google Docs, unser zentrales Schreib- und Kollaborationsmedium. Google Docs funktioniert wie Microsoft Word, nur mit weniger Funktionen und mit einem großen Unterschied: Die Dokumente sind im Browser zu Hause und sind damit gleichzeitig in derselben Version einem Team (oder der Öffentlichkeit) zugänglich. Dadurch verschwimmen traditionell getrennte Arbeitsschritte und Zuständigkeiten.
+
+## Die Entstehungsgeschichte
+
+Kennengelernt haben wir uns im Netz. Seit ca. 2008 benutzen wir Twitter, schreiben Blog-Artikel und sind auf verschiedenen Plattformen verbunden. So haben wir einander wahrgenommen: In Netzgesprächen, bei der kritischen Diskussion von Texten. Bei verschiedenen Bildungsanlässen wie z.B. EduCamps haben wir uns auch "in real life" getroffen, aber nie als ganze Gruppe. Seit 2017 unterhalten wir uns in einem nicht-öffentlichen Chat auf Twitter, in dem wir fast täglich kurze Nachrichten austauschen. Wir zeigen einander Entwürfe von Arbeiten, geben Feedback und unterstützen einander bei Kritik.
+
+2018 entsteht in dieser Twittergruppe die Idee zum Buch - aus dem Gefühl, mit unseren Netztexten an einem Teil unseres Publikums vorbeizureden: An dem Teil, der sich seine Informationen nicht im Netz, sondern in gedruckten Büchern holt. Wir beschließen also, geeignete Blogtexte in eine Buchform zu bringen.
+
+Das Konzept ist schnell gefunden, wir teilen die Begeisterung. In einer Tabelle schlagen wir Texte vor, gruppieren sie in vier Kategorien und tragen uns so für Reviews ein, dass jeder Text von zwei Herausgebern kritisch gelesen wird.
+
+Glücklicherweise können wir noch zwei Texte ergänzen: Weil uns die Gedanken von Lisa Rosa sehr wichtig sind, sie aber als Teil der Chat-Gruppe nicht beim Buch mitmachen wollte, fragen wir sie, ob wir einen Text von ihr übernehmen dürfen. Da ihre Texte unter einer freien Lizenz publiziert worden sind, ist das leicht möglich und wir können den Essay der Struktur der Buchbeiträge anpassen. Auch Kathrin Passig überlässt uns einen Text, der bislang erst im Netz erschienen ist. Beide Anfragen laufen wie die Absprachen zu den wichtigsten Fragen des Buches über Twitter. (Die Gruppen-Funktion von Twitter kann man sich ähnlich einer WhatsApp-Gruppe vorstellen).
+
+Bei der Ausarbeitung sind alle engagiert dabei, aber arbeiten nicht zur gleichen Zeit gleich intensiv, was dazu führt, dass wir eine erste Deadline nicht einhalten konnten und die Abgabe um vier Monate verschieben mussten. Die Stimmung ist eine Weile getrübt.
+
+Unsere Arbeit koordinieren wir in verschiedenen kollaborativen Dokumenten, alle paar Wochen besprechen wir entscheidende Punkte in einer Videokonferenz. Im April 2019 geht das Manuskript an den Verlag, wir konzipieren in den bewährten Arbeitsformen derweil eine Website.
+
+## Kollaboration und Koordination mit Google Docs
+
+Die Arbeit mit Google Docs kann man sich zunächst als Textverarbeitungsdokumente vorstellen, die von allen Beteiligten gelesen und verändert werden können. Alle Manuskripte zu den Aufsätzen konnten also immer auf dem aktuellsten Stand eingesehen werden. Neben der Möglichkeit der Veränderung bietet Google Docs auch eine Kommentarfunktion sowie einen Vorschlagmodus an: Es ist also denkbar, Rückfragen zu stellen, einen Formulierungsvorschlag anzubringen oder Kritik zu äußern, ohne direkt in einen fremden Text einzugreifen. Das war für den Review-Prozess entscheidend: Die Reviewer sahen auch direkt, was andere schon angemerkt oder korrigiert hatten und sparten sich so doppelte Arbeit.
+
+Damit klar war, welche Dokumente alle zum Buchprojekt gehören, gab es eine Übersichtstabelle. Formale Absprachen und administrative Aspekte haben wir in einem gemeinsamen Organisationsdokument festgehalten.
+
+In den Kommentarspalten wichtiger Dokumente fanden auch kleine Gespräche statt. So waren wir uns nicht einig, ob es für die Leserinnen und Leser interessant sein könnte, die Entstehungsgeschichte dieses Buches zu erfahren. Nach einem kurzen Austausch von Argumenten entstand ein Formulierungsvorschlag, der sich durchgesetzt hat.
+
+Allgemein führt die Arbeit mit Google Docs zu einem Denken in Versionen. Texte wachsen, verändern sich. Es ist leicht, etwas auszuprobieren und es anderen zu zeigen - auch weil die Überarbeitungsschritte alle einsehbar sind. Mit zwei Klicks holt man frühere Versionen von Texten zurück.
+
+So ist es auch möglich, einige Texte gemeinsam zu schreiben. Das ist für dieses Buch eingeschränkt passiert. Das beste Beispiel ist die ""
+
+(S. 220) Die dafür notwendige Übersetzungarbeit haben viele Menschen gemeinsam gemacht.
+
+Google Docs ist eine Umgebung, die zur Kollaboration einlädt, sie leichter macht. Für uns Herausgeber ist es unvorstellbar geworden, Anhänge zu E-Mails zu verschicken und Versionen abzugleichen. Google Docs ist für uns die wichtigste Schreibumgebung. Aber sie organisiert Schreibprozesse nicht: Entscheidungen müssen gefällt werden, Verantwortung verteilt werden.
+
+## Nicht "nur ein Werkzeug"
+
+Man könnte meinen, dass Google Docs einfach nur die Fortführung von Microsoft Office in einer anderen Umgebung wäre. Aber dem ist nicht so. Weil alle Dokumente vom ganzen Team bearbeitet werden können, wandelt sich das Verhältnis des "Eigentums" von Dokumenten ("Ownership"). Bei Texten, die genau einen Autor haben, ist dieses Eigentum relativ klar geregelt, auch wenn mehrere andere Personen Feedback und Vorschläge in den Text schreiben. Schwieriger ist es bei den gemeinsamen Dokumenten, zum Beispiel bei Dokumenten, in denen wir Standards für unsere Arbeit festhalten oder in denen wir gemeinsame Texte schreiben. Üblicherweise ist für diese übergreifenden Dinge eine Person zuständig. Es geht auch kaum anders, weil nur eine Person die "führende Version" dieser Dateien hat. Bei Google Docs fällt das weg. Alle können jederzeit diese Texte und damit die Koordinationsarbeit aktualisieren.
+
+Diese Zusammenarbeit war einerseits vergleichsweise angenehm und einfach für uns, weil wir alle mit den kollaborativen Möglichkeiten vertraut sind, die wir häufig in anderen Kontexten erst erklären müssten oder auch gar nicht nutzen könnten. Andererseits war der kollaborative Prozess anstrengend, weil sich zeitweise niemand als "Kümmerer" oder "Owner" für den Prozess engagiert hat. Dann fehlte Struktur, roter Faden, Orientierung.
+
+Der kollaborative Prozess läuft dann reibungslos, wenn alle mit der gleichen Intensität an klaren Aufgaben arbeiten. Sobald das aber nicht der Fall ist, kann der Wunsch nach einem "Kümmerer" oder "Owner" des Prozesses auftauchen. Es braucht Aushandlung. In einzelnen Arbeitsphasen haben Autoren diese Rollen probehalber übernommen, um den Prozess voranzubringen. Kollaboration ohne solche Mini-Hierarchien funktioniert auch, bedeutet dann aber, dass der Prozess entweder nur so schnell laufen kann, wie die langsamsten Mitglieder arbeiten - oder dass eine Art Selektion stattfinden muss.
+
+Diese Arbeit hat eine andere Qualität als die traditionelle Art und Weise, bei der es eine Person gibt, die alle Fäden überblicken und in der Hand halten muss. Google Docs ist nicht "nur ein Werkzeug", sondern lädt zu Arbeitsprozessen ein, in denen die Zusammenarbeit, nicht die Hierarchie im Vordergrund steht.
+
+## Outro als Intro ins Netz
+
+Kollaboration muss nicht immer zu einem dicken Buch führen. Ein Tweet reicht aus, um Dinge anzustoßen. Für Gespräche stehen die Autoren gerne zur Verfügung! Im Vorwort Warum wir das Internet ausdrucken finden Sie konkrete Vorschläge zur Kontaktaufnahme.
+
+
+---
+
+
+# Die Autoren
+
+## Axel Krommer
+
+Axel Krommer ist Akademischer Oberrat am Lehrstuhl für Didaktik der deutschen Sprache und Literatur an der Universität Erlangen-Nürnberg. Zu seinen Schwerpunkten im Bereich von Forschung und Lehre zählt Bildung unter den Bedingungen der Digitalität. Er ist Autor zahlreicher Fachpublikationen, hält Vorträge im In- und Ausland und bietet Fortbildungen im Bereich der Literatur-, Sprach- und Mediendidaktik an.
+
+Web: www.axelkrommer.com | Twitter: @mediendidaktik_
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 36: Axel Krommer | Foto von Gottlob Wittgenstein CC BY 4.0*
+
+## Martin Lindner
+
+Martin Lindner berät Organisationen und Unternehmen dabei, wie sie die Mittel des Web und des Internet einsetzen können, um Lern- und Wissensprozesse neu zu gestalten (Digital Workplace, Enterprise Collaboration; E-Learning und Hybrid Learning). Dazu forscht, schreibt und spricht er über die Folgen des Digitalen Klimawandels für Bildung und Lernen.
+
+LinkedIn: Profil Martin Lindner | Twitter: @martinlindner
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 37: Martin Lindner | Foto: privat*
+
+## Dejan Mihajlović
+
+Dejan Mihajlović ist Lehrer an einer Realschule in Freiburg und arbeitet zusätzlich für das Staatliche Schulamt, Regierungspräsidium und Kultusministerium Baden-Württemberg. Über zeitgemäße Bildung im digitalen Wandel hält er Vorträge, schreibt als Kolumnist für das change-Magazin und das Deutsche Schulportal und berät Politik und Verwaltung.
+
+Web: www.mihajlovicfreiburg.com | Twitter: @DejanFreiburg
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 38: Dejan Mihajlović | Foto von Fionn Große CC BY 4.0*
+
+## Jöran Muuß-Merholz
+
+Jöran Muuß-Merholz ist Diplom-Pädagoge. Er denkt, schreibt und spricht über den Wandel von Bildung und Lernen, v.a. im deutschsprachigen Raum, aber auch in Boston und Brno, Cape Town und London, Stockholm und Tokio. Seine Agentur J&K - Jöran und Konsorten ist spezialisiert auf Konferenzen und Unkonferenzen, Online-Fortbildungen und Bücher.
+
+Web: www.joeran.de | Twitter: @joeranDE
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 39: Jöran Muuß-Merholz | Foto von Hannah Birr /Agentur J&K unter CC BY 4.0*
+
+## Philippe Wampfler
+
+Philippe Wampfler ist Deutschlehrer an einem Gymnasium in Zürich und Dozent für Fachdidaktik Deutsch an der Universität Zürich. Er ist Berater und Experte für den Einsatz digitaler Medien im Unterricht, dazu bietet er verschiedene Weiterbildungsformate an und publiziert Fachaufsätze und Bücher.
+
+Web: www.phwa.ch | Twitter: @phwampfler
+
+<span class="removed image">[Bild]</span>
+
+*Abbildung 40 Philippe Wampfler | Foto von Miguel Tupak Kratzer / Watson unter CC BY 4.0*
+
+
+---
+
+
+## <span id="footnote">Anmerkungen</span>
+
+<span id="footnote1" class="sup">1</span> Vgl. https://www.zeit.de/2018/24/digitale-schule-bildung-digitalisierung-zukunft-gymnasium
+
+<span id="footnote2" class="sup">2</span> Vgl. https://www.faz.net/aktuell/feuilleton/medien/hart-aber-fair-ein-handyverbot-ist-auch-keine-loesung-15781782.html
+
+<span id="footnote3" class="sup">3</span> Vgl. https://twitter.com/mbukowski/status/167746171442429953
+
+<span id="footnote4" class="sup">4</span> Vgl. www.faz.net/aktuell/feuilleton/debatten/google-mitarbeiter-stellen-glass-vor-duemmer-mit-aussicht-12595495.html?printPagedArticle=true
+
+<span id="footnote5" class="sup">5</span> Vgl. https://de.wikipedia.org/wiki/David_Wark_Griffith
+
+<span id="footnote6" class="sup">6</span> Vgl. https://gizmodo.com/penguins-allowed-to-enjoy-obsolete-ipad-5990952
+
+<span id="footnote7" class="sup">7</span> Zur Frage, was digitale Texte sind, vgl. Wampfler (2018).
+
+<span id="footnote8" class="sup">8</span> Vgl. https://de.wikipedia.org/wiki/Angebotscharakter
+
+<span id="footnote9" class="sup">9</span> Eine gute Übersicht mit vielen hilfreichen Links findet sich bei Martin (2017).
+
+<span id="footnote10" class="sup">10</span> blaues Medium: aus dem Video "Penguins under ice in Antarctic 2015 Weddle Sea" von bilbao30 via YouTube https://www.youtube.com/watch?v=Zr2NoWbk9KQ (CC BY 3.0 https://creativecommons.org/licenses/by/3.0) | Grünes Medium: aus dem Video "Penguin very Funny Moments" von Ultimatecine Buzz via YouTube https://www.youtube.com/watch?v=sQ1PP3ko4Kg (CC BY 3.0 https://creativecommons.org/licenses/by/3.0)
+
+<span id="footnote11" class="sup">11</span> Für einige gute Beispiele vgl. Muuß-Merholz (2019).
+
+<span id="footnote12" class="sup">12</span> Die Arbeit von Lisa Rosa zeigt zudem, wie sich das praktisch umsetzen lässt. Vgl. hierzu Muuß-Merholz (2016).
+
+<span id="footnote13" class="sup">13</span> Die Website ist nicht mehr online. Eine Kopie des Textes vom 25.03.2010 findet sich auf https://www.joeran.de/re-learn-programm.
+
+<span id="footnote14" class="sup">14</span>Vgl. https://axelkrommer.com/2015/06/20/der-ohp-und-seine-ungeahnte-funktionsvielfalt-xxi/
+
+<span id="footnote15" class="sup">15</span> Vgl. https://axelkrommer.com/2017/07/26/ostensiver-statt-reflexiver-einsatz-von-technik/
+
+<span id="footnote16" class="sup">16</span> Vgl. https://beat.doebe.li/bibliothek/w02886.html
+
+<span id="footnote17" class="sup">17</span> Vgl. https://medienkompetenzrahmen.nrw.de
+
+<span id="footnote18" class="sup">18</span> Vgl. https://youtu.be/jIGBhSAec7E Zur Einführung in die Medientheorie McLuhans vgl. Frederking/Krommer/Maiwald (2018), Kapitel 2.
+
+<span id="footnote19" class="sup">19</span> Vgl. https://de.wikipedia.org/wiki/Schnelles_Denken,_langsames_Denken
+
+<span id="footnote20" class="sup">20</span> Vgl. https://blogs.epb.uni-hamburg.de/johannes/?p=334
+
+<span id="footnote21" class="sup">21</span> Vgl. https://de.wikipedia.org/wiki/Netzwerkgesellschaft
+
+<span id="footnote22" class="sup">22</span> Vgl. https://jarche.com
+
+<span id="footnote23" class="sup">23</span> Vgl. https://de.wikipedia.org/wiki/Effektivität
+
+<span id="footnote24" class="sup">24</span> Vgl. https://www.theguardian.com/technology/2018/jul/25/ai-artificial-intelligence-social-media-bots-wrong
+
+<span id="footnote25" class="sup">25</span> Vgl. https://www.oecd.org/education/Global-competency-for-an-inclusive-world.pdf
+
+<span id="footnote26" class="sup">26</span> Vgl. https://www.cnvc.org/Training/needs-inventory
+
+<span id="footnote27" class="sup">27</span> Vgl. https://www.cbc.ca/radio/ideas/artificial-intelligence-robots-and-the-future-of-work-1.4286200
+
+<span id="footnote28" class="sup">28</span> Vgl. https://blog.medienzentrum-coe.de/samr
+
+<span id="footnote29" class="sup">29</span> Vgl. https://youtu.be/ZxD3o-9H1lY
+
+<span id="footnote30" class="sup">30</span> Vgl. https://en.m.wikipedia.org/wiki/David_Hogg_(activist)
+
+<span id="footnote31" class="sup">31</span> Vgl. https://kahoot.com
+
+<span id="footnote32" class="sup">32</span> Vgl. https://schulesocialmedia.com/2017/05/19/der-kahoot-sog-und-die-gefahr-der-quizifizierung-der-digitalen-bildung
+
+<span id="footnote33" class="sup">33</span> Vgl. https://axelkrommer.com/2013/09/17/von-skinners-teaching-machines-1954-zu-den-learning-apps
+
+<span id="footnote34" class="sup">34</span> Vgl. https://prezi.com/2_a0meyxl9yc/welche-digitale-bildungsrevolution-wollen-wir
+
+<span id="footnote35" class="sup">35</span> Vgl. https://unterricht.phwa.ch/die-zugbrucke
+
+<span id="footnote36" class="sup">36</span> Vgl. https://medium.com/@Noelte030/quizze-als-bestandteil-zeitgem%C3%A4%C3%9Fer-bildung-9a41b8e970d7
+
+<span id="footnote37" class="sup">37</span> Vgl. https://medium.com/@Noelte030/quizze-als-bestandteil-zeitgem%C3%A4%C3%9Fer-bildung-9a41b8e970d7
+
+<span id="footnote38" class="sup">38</span> Vgl. https://files.getkahoot.com/academy/Kahoot_Academy_Guide_1st_Ed_-_March_2016_-_WOA.pdf
+
+<span id="footnote39" class="sup">39</span> Vgl. https://www.researchgate.net/publication/265557299_Zombification_Gamification_motivation_and_the_user
+
+<span id="footnote40" class="sup">40</span> Vgl. https://hochschulforumdigitalisierung.de/de/blog/blockchain-lernen-neu-erfinden-hochschule-shermin-voshmgir
+
+<span id="footnote41" class="sup">41</span> Vgl. https://en.wikipedia.org/wiki/Just_Do_It
+
+<span id="footnote42" class="sup">42</span> Vgl. https://www.youtube.com/watch?v=7Pq-S557XQU
+
+<span id="#footnote43" class="sup">43</span> Vgl. https://www.youtube.com/watch?v=Ibb5KE6Cl_w
+
+<span id="#footnote44" class="sup">44</span> Vgl. https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
+
+<span id="footnote45" class="sup">45</span> Die AGBs schreiben mittlerweile eine Mindestalter von 16 Jahren für die Nutzung von WhatsApp vor. Das heißt konkret, dass jüngere Nutzerinnen und Nutzer gegen die Geschäftsbedingungen verstoßen und Facebook die Accounts löschen dürfte. Illegal ist Nutzung deswegen aber nicht zwingend.
+
+<span id="footnote46" class="sup">46</span> Vgl. https://youtu.be/RZz26AW7pEs?t=17s
+
+<span id="footnote47" class="sup">47</span> Vgl. http://blog.hrsummit.at/2017/05/30/flipped-classroom-die-revolution-im-bildungssystem-und-wie-unternehmen-davon-profitieren-koennen/
+
+<span id="footnote48" class="sup">48</span> Vgl. https://de.wikipedia.org/wiki/Open_Educational_Resources
+
+<span id="footnote49" class="sup">49</span> Vgl. https://de.wikipedia.org/wiki/Open_Government_Data
+
+<span id="footnote50" class="sup">50</span> Vgl. https://de.wikipedia.org/wiki/FabLab
+
+<span id="footnote51" class="sup">51</span> Vgl. https://www.youtube.com/watch?v=lWsMdN7HMuA
+
+<span id="footnote52" class="sup">52</span> Vgl. https://www.youtube.com/watch?v=rVlhMGQgDkY
+
+<span id="footnote53" class="sup">53</span> Vgl. https://www.youtube.com/watch?v=-7xvqQeoA8c
+
+<span id="footnote54" class="sup">54</span> Gute Beispiele finden sich hier: https://www.obnf.de, https://www.barcamp-freiburg.de, https://www.freiburg-gestalten.de
+
+
+---
+
+
+Die Texte in diesem Buch stehen unter der Lizenz CC BY 4.0. Der volle Lizenztext ist auf https://creativecommons.org/licenses/by/4.0/legalcode.de zu finden.
+
+ISBN Print: 9789463865333  
+ISBN eBook: 9789463865388
+
+© 2019 Verlag ZLL21 e.V.  
+Schmilinskystraße 45  
+20099 Hamburg
+
+Einige Rechte vorbehalten
+
+Produktionsleitung: Gabi Fahrenkrog, Agentur J&K - Jöran und Konsorten  
+Hintergrundgrafik für den Umschlag und Einzelgrafiken vor jedem Abschnitt: Hannah Birr, Agentur J&K - Jöran und Konsorten  
+Satz: Jula Henke, Agentur J&K - Jöran und Konsorten  
+Umschlaggestaltung: Patrick Giese, Agentur J&K - Jöran und Konsorten
